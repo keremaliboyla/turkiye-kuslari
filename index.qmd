@@ -1,0 +1,16 @@
+# Kitap Hakkında {.unnumbered}
+
+Türkiye'nin kuşlarına dair en geniş kapsamlı kitap olan "The Birds of Turkey," 2008'de İngilizce olarak yayımlandı [@birds-turkey]. Yazarlarından biri olarak Kitabın yayımlanmasının ardından Türkçe versiyonunu hazırlamak için girişimde bulundum. Kitabın telif hakları alındı ve 2013'te İngilizce'ye hakim kuş gözlemcilerinden oluşan bir ekip ile metinler tercüme edildi. Ancak çeşitli sebeplerle kitabın basımından vazgeçildi.
+
+Diğer yandan metinleri inceleyince, kitabın metninin ciddi bir revizyona ihtiyaç duyduğu ortaya çıktı. Sonuç olarak kitap, yazarların da rızasıyla bir çeviri projesinden yeni bir kitap projesine dönüştü. Uzun bir duraklama döneminden sonra tekrar harekete geçtim ve prestijli bir yayınevi ile sözleşme imzaladım. Beraber çalıştığım editör çok doğru nedenlerle metinlerde ilave bir revizyon istedi. Zaman geçtikçe yayıncı, sözleşmeyi iptal etme kararı aldı.
+
+Böylelikle:
+
+-   Biliminsanları ve araştırmacılar güncel ve eksik yayınları ekleyebilecek.
+-   En güncel kuş gözlem kayıtları eklenerek metinler iyileştirilebilecek.
+-   Yüksek kitap maliyetlerinden kurtulunca metinde kısıtlamalar olmayacak.
+-   Harita ve tablolar sürekli güncellenebilecek.
+
+Kitabın internet formatındaki versiyonu [Quarto publishing system](https://quarto.org/) ile hazırlandı. Genel telif hakları kapsamında, bu web sitesinin içeriği yazılı bir izin olmadan kopyalanamaz veya çoğaltılamaz.
+
+Keyifli incelemeler!
