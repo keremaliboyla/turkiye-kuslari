@@ -102,7 +102,7 @@ Monotipik bir türdür. Cabo Verde adalarında üreyen *edwardsii* ve Azorlar, M
 
 ***Bütün kıyılarda ve açık denizde yaygın ve çok sayıda bulunan bir yerli türdür. Kışın gelen göçmenlerle sayıları artar.***
 
-Karadeniz, Ege ve Akdeniz kıyılarında yıl boyu görülse de sayıları mevsimsel değişiklik gösterir. Kış sonu ve ilkbahar başında Karadeniz ve İstanbul Boğazı'nda on binlercesi bir arada bulunur. İstanbul Boğazı'ndan her gün kalabalık sürülerin geçmesi eskiden beri bir araştırma konusu olmuştur. 18-22 Nisan 1966'da İstanbul Boğazı'nda saatte 6800, Çanakkale Boğazı'nda saatte 8200 kuşun her iki yöne uçtuğu kaydedilmiştir. [\[CO2\]](#_msocom_2) 3 Şubat 2011'de İstanbul Boğazı'nda 4 saatte toplam 55.683 birey , aynı yazarlarca Şubat 2012'te dört saatte toplam 75.000 kuş, ve Şubat 2014'te 90.000 kuş sayılmıştır. Ege'de kışın daha az sayıda olduğu düşünülür [@eken1997d]. Akdeniz'de nispeten seyrek aralıklarla rastlanır,[\[CO3\]](#_msocom_3)  daha çok mart ve ekim arasında görülür.
+Karadeniz, Ege ve Akdeniz kıyılarında yıl boyu görülse de sayıları mevsimsel değişiklik gösterir. Kış sonu ve ilkbahar başında Karadeniz ve İstanbul Boğazı'nda on binlercesi bir arada bulunur. İstanbul Boğazı'ndan her gün kalabalık sürülerin geçmesi eskiden beri bir araştırma konusu olmuştur. 18-22 Nisan 1966'da İstanbul Boğazı'nda saatte 6800, Çanakkale Boğazı'nda saatte 8200 kuşun her iki yöne uçtuğu kaydedilmiştir. [\[CO2\]](#_msocom_2) 3 Şubat 2011'de İstanbul Boğazı'nda 4 saatte toplam 55.683 birey, aynı yazarlarca Şubat 2012'te dört saatte toplam 75.000 kuş, ve Şubat 2014'te 90.000 kuş sayılmıştır. Ege'de kışın daha az sayıda olduğu düşünülür [@eken1997d]. Akdeniz'de nispeten seyrek aralıklarla rastlanır,[\[CO3\]](#_msocom_3)  daha çok mart ve ekim arasında görülür.
 
 ![](images/harita_Page_049.png)
 
@@ -564,7 +564,7 @@ Squacco Heron
 
 Lokal ve nispeten çok sayıda bulunan bir yaz konuğu, yaygın ve çok sayıda bulunan bir geçit türüdür.
 
-Bataklık sulakalanlarda yuvalar. Bilinen önemli üreme alanlarında; 300 çift Meriç Deltası'da 110 çift Uluabat Gölü'nde , 100 çift Manyas Gölü'nde, 200 çift Marmara Gölü'nde, 70 çift Akşehir ve Eber göllerinde, 70 çift Sultansazlığı'nda ve 70 çift Göksu Deltası'nda üremiştir. Bu kolonilerin çoğu ağaçlarda, bir kısmı da sazlıklarda bulunur. Görünüşe göre ülkemizde sazlıkta üreyenlerin ağaçlarda üreyenlere oranı, özellikle neredeyse ağaçsız İç ve Doğu Anadolu'daki sulakalanlarda, dünya ortalamasının üstündedir. Uygun birçok alanda gözlenmektedir, dolayısıyla henüz ortaya çıkmamış birçok koloni olabilir.
+Bataklık sulakalanlarda yuvalar. Bilinen önemli üreme alanlarında; 300 çift Meriç Deltası'da 110 çift Uluabat Gölü'nde, 100 çift Manyas Gölü'nde, 200 çift Marmara Gölü'nde, 70 çift Akşehir ve Eber göllerinde, 70 çift Sultansazlığı'nda ve 70 çift Göksu Deltası'nda üremiştir. Bu kolonilerin çoğu ağaçlarda, bir kısmı da sazlıklarda bulunur. Görünüşe göre ülkemizde sazlıkta üreyenlerin ağaçlarda üreyenlere oranı, özellikle neredeyse ağaçsız İç ve Doğu Anadolu'daki sulakalanlarda, dünya ortalamasının üstündedir. Uygun birçok alanda gözlenmektedir, dolayısıyla henüz ortaya çıkmamış birçok koloni olabilir.
 
 İlkbaharda kuşlar mart ortasında gelmeye başlar, yoğun geçişleri nisan sonu ve mayıs ortası arasında gerçekleşir. İç Anadolu'ya varışı genellikle nisan ortasına, daha kuzeyde varışı nisan sonuna denk gelir. Başıboş kuşların geçişi mayıs sonu hatta haziran ortasına kadar devam eder. Üreme alanlarından ayrılışı temmuz sonu ve ağustos başı başlar, eylül sonu ve ekim başına kadar devam eder. Bu mevsimde 150 bireylik gruplar görülebilir. Karadeniz kıyısındaki sulakalanlarda rastlanan sürüler kuzeyden göç aldığını gösterir. Kasım ortasına kadar gecikenlere rastlanabilir.
 
@@ -742,7 +742,7 @@ Rastlantısal konuktur.
 
 2016 yılına kadar tek kaydı olmuştur. İki genç birey 11 Mayıs 2011'te Göksu Deltası'nda bir leylek sürüsünün içinde fotoğraflanmıştır. Bu tür İsrail'de 1939 ile 1989 arasında 5 kere kaydedilmiştir. Mısır Sudan sınırında Nasır Gölü'nde düzenli olarak görülür.
 
-![](images/harita_Page_074.png)
+![](images/harita_Pelecanus_rufescens.png)
 
 **Üreme**
 

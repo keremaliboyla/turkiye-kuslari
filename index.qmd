@@ -1,6 +1,6 @@
 ## Kitap Hakkında {.unnumbered}
 
-Türkiye kıtalar arasındaki konumu, zengin coğrafyası ve göç yolları üzerindeki konumu nedeniyle çok çeşitli bir kuş faunası barındırır. Bu kitap, Türkiye'de görülen kuşlar hakkındaki en güncel, kapsamlı ve güvenilir referans kaynağı olmayı hedefler. Ülke listesinde bulunan bütün türlerin mevcut durumu, coğrafi yayılışı, göç hareketleri, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitapta en güncel gözlemler, ornitolojik yayınlar ve raporlardan faydalanılmıştır. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
+Türkiye farklı kıtalara yakınlığı, zengin coğrafyası ve ana göç yolları üzerindeki konumu nedeniyle zengin bir kuş faunası barındırır. Bu kitap Türkiye'de görülen kuşlar hakkındaki en güncel, kapsamlı ve güvenilir referans kaynağı olmayı hedefler. Ülke listesindeki bütün türlerin mevcut durumu, coğrafi yayılışı, göç hareketleri, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitapta en güncel gözlemler, ornitolojik yayınlar ve raporlardan faydalanılmıştır. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
 
 Kuşları doğada gözlemek ve tanımlamak bu kitabın kapsamı dışındadır. Saha rehberi olarak aşağıdaki kaynaklardan faydalanılabilir: Trakus – Türkiye’nin Kuşları (2021), Türkiye ve Ortadoğu'nun Kuşları (2009), Kuş Gözlemcisinin Cep Kitabı (2005) ve Türkiye ve Avrupa'nın Kuşları (2001).
 
@@ -8,38 +8,38 @@ Kuşları doğada gözlemek ve tanımlamak bu kitabın kapsamı dışındadır. 
 
 Kitabın içeriği hazırlandığı sürece yayına verilecektir. Kitabın tamamı 31 Aralık 2024 tarihine kadar tamamlanacaktır. Kitabın bölümleri:
 
--   Ördekgiller (15 Ocak)
--   Tavukgiller (15 Ocak)
--   Balıkçıllar ve diğerleri (15 Ocak)
+-   Ördekgiller (15 Ocak - güncelleniyor)
+-   Tavukgiller (15 Ocak - güncelleniyor)
+-   Balıkçıllar ve diğerleri (15 Ocak - güncelleniyor)
 -   Yırtıcılar
 -   Bataklık ve Kır Kuşları
 -   Cılıbıtgiller
 -   Çullukgiller
 -   Martılar
 -   Kara Kuşları
--   Papağanlar, Ağaçkakanlar ve Doğanlar
--   Kargamsılar Ötücüler
--   Ötleğenimsi Ötücüler: Toygarlar
--   Ötleğenimsi Ötücüler: Çıvgınler
--   Ötleğenimsi Ötücüler: Ötleğenler
--   Tırmaşığımsı Ötücüler
--   Sinekkapanımsı Ötücüler
--   Serçemsi Ötücüler: İncirkuşugiller, Dağbülbülleri ve Serçeler
--   Serçemsi Ötücüler: İspinozlar ve Çinteler
+-   Ötücü Öncesi Grup: Papağanlar, Ağaçkakanlar ve Doğanlar
+-   Ötücüler - Kargamsılar
+-   Ötücüler - Ötleğenimsiler: Toygarlar
+-   Ötücüler - Ötleğenimsiler: Çıvgınler
+-   Ötücüler - Ötleğenimsiler: Ötleğenler
+-   Ötücüler - Tırmaşığımsılar
+-   Ötücüler - Sinekkapanımsılar
+-   Ötücüler - Serçemsiler: İncirkuşugiller, Dağbülbülleri ve Serçeler
+-   Ötücüler - Serçemsiler: İspinozlar ve Çinteler
 
 ## **Neden Dijital Bir Kitap?**
 
 Bu kitap, 2008 yılında yayımlanan "The Birds of Turkey" kitabının Türkçe'ye çevrilmesi düşüncesinden doğmuştur. İlk çeviri taslakları oluşunca, dünyanın en zengin ornitoloji külliyatına sahip olan İngilizce dilindeki metnin anlaşılır bir şekilde Türkçeye çevirmenin zor olacağı tespit edildi. Dahası, metnin mevcut halinin okuyucu tarafından kolayca anlaşılamayacağı ve hatta aşırı akademik bulunabileceği fark edildi.
 
-Bunun üzerine metnin tamamen gözden geçirilmesi zorunlu hale geldi. Türkiye sınırları dışındaki bilimsel içerik kapsam dışı bırakıldı. "The Birds of Turkey" kitabının yayımlanmasından bu yana geçen 15 yıl boyunca, Türkiye'deki kuş faunasındaki gelişmeler ve kuş gözlemciliğinin yaygınlaşması sayesinde artan bilgilerle metin ve haritalar güncellendi. Kitabın okunabilirliğini artırmak için mevcut durum paragrafı ve vinyetler gibi okuyucu dostu unsurlar eklendi, haritalar renklendirildi ve iyileştirildi, kaynakça için numaralandırılmış bir sistem getirldi. Sonuç olarak, başlangıçta bir çeviri projesi olarak başlayan bu çalışma, özgün içeriğe sahip yeni bir kitaba dönüştü.
+Bunun üzerine metnin tamamen gözden geçirilmesi zorunlu hale geldi. Türkiye sınırları dışındaki bilimsel içerik kapsam dışı bırakıldı. "The Birds of Turkey" kitabının yayımlanmasından bu yana geçen 15 yıl boyunca, Türkiye'deki kuş faunasındaki gelişmeler ve kuş gözlemciliğinin yaygınlaşması sayesinde artan bilgilerle metin ve haritalar güncellendi. Kitabın okunabilirliğini artırmak için mevcut durum paragrafı ve vinyetler gibi okuyucu dostu unsurlar eklendi, haritalar renklendirildi ve iyileştirildi, kaynakça için numaralandırılmış bir sistem getirildi. Başlangıçta bir çeviri projesi olarak başlayan bu çalışma, özgün içeriğe sahip yeni bir kitaba dönüştü.
 
-Hatta bu yeni kitabın basılı bir yayın olarak değil, açık kaynak dijital bir kitap formatında yayınlanmasına karar verildi. Bunun nedenlerini şu şekilde sıralayabilirim:
+Peki, neden dijital bir kitap? Bu yeni kitabın basılı bir yayın olarak değil, açık kaynak dijital bir kitap formatında yayınlanmasının nedenlerini şu şekilde sıralayabilirim:
 
 -   Kuşlar gibi dinamik bir konu hakkında yazılan her kitap, basıldığı gün güncelliğini kaybeder. Dijital bir kitabın sık sık güncellenmesi ise mümkün ve kolaydır.
 
 -   Bu teknik kitabın içeriği, bir yazar ve bir editör arasında gidip gelen metinlerle sınırlı kalmamalıdır. Dijital formatta içerik hakkında bilgi sahibi olan geniş bir kitlenin katkısı alınabilir.
 
--   Açık kaynak olan dijital müsvedde (manuskript) herkesin erişimine ücretsiz olarak açıktır ve bu sayede kuş bilimi (ornitoloji), kuşların tanınması ve doğa koruma ile ilgilenen herkes faydalanabilir.
+-   Açık kaynak olan dijital müsvedde (manuskript) herkesin erişimine ücretsiz olarak açıktır ve bu sayede kuş bilimi (ornitoloji), kuşların tanınması ve doğa koruma ile ilgilenen herkes faydalanabilir. Üstelik uzmanlar ve akademisyenler GitHUb üzerinden metni doğrudan düzenleyebilirler.
 
 -   Kitaptaki kuş türleri veya kuşların yayılış haritaları, eBird gibi açık kaynak veri tabanlarından gelen verilerle hızlı, hatta anlık olarak güncellenebilir.
 
@@ -50,6 +50,12 @@ Hatta bu yeni kitabın basılı bir yayın olarak değil, açık kaynak dijital 
 -   İçeriğini tamamının hazır olmadığı durumda, dijital kitabı fasiküller halinde yayımlamak mümkündür.
 
 Kitabın internet formatındaki versiyonu [Quarto publishing system](https://quarto.org/) ile hazıranmıştır.
+
+## Düzeltme Önerileri
+
+Metinde bulduğunuz yazım hatalarını, eksik bilgileri, kaynakları ve diğer düzeltme önerilinizi bana gönderebilirsiniz: kerem.boyla\@gmail.com
+
+Ayrıca uzman ve akademisyenler GitHub üzerinden metinlere erişebilirler ve düzeltmelerini gönderebilirler.
 
 ## Telif Hakkı
 

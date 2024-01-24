@@ -6,41 +6,42 @@ title: "Ördekgiller"
 
 *Anser anser*, Greylag Goose
 
-***Az sayıda lokal olarak üreyen yerlidir. Kışın göç alan yaygın bir kış konuğudur.***
+***Lokal olarak az sayıda ürer. Kışın kuzeyden göç alır ve yaygınlaşır.***
 
-Üreme döneminde genellikle az sayıda bulunur, İç Anadolu'daki bazı alanlarda daha yüksek sayıda bulunabilir. Türkiye Kuş Raporlarındaki kayıtlar üreme popülasyonunda azalma olduğuna işaret eder. Eskiden ürediği sulakalanların çoğu drene edilerek kurutulmuştur. Ereğli Sazlığında Nisan 1970'de 120 yuva ve 300 birey bulunmuştur, 1996 Temmuz sonunda 160 birey sayılmıştır. Bugün bu alanda artık yuvalamamaktadır.
+Üreme döneminde az sayılarda Göller Bölgesi, İç Anadolu ve Doğu Anadolu'da bataklık sulakalanlarda bulunur. Sultansazlığı gibi bazı alanlarda yüksek sayıda üremiştir. Türkiye Kuş Raporları [@ost1969; @ost1972; @ost1975; @ost1978; @beaman1986; @kirwan2003; @kirwan2006apress; @kirwan2014; @kirwanmartins1994; @kirwanmartins2000; @martins1989] üreyen popülasyonda son 50 yılda çok ciddi bir azalma olduğunu gösterir. Eskiden ürediği sulakalanların çoğu kurutulmuştur. Ereğli Sazlığında Nisan 1970'de 120 yuva ve 300 birey bulunmuş, 1996 Temmuz'da 160 birey sayılmış, günümüzde ise hiçbir çift yuvalamamaktadır.
 
-Üreme sonrasındaki kalabalık sürüler bazı sulakalanlarda toplanır; 800 birey Temmuz 1984'te Kulu Gölü'nde kaydedilmiştir. 12.000 birey Sultansazlığı'nda, 10.000 birey Eylül 2004'de Kuyucuk Gölü'nde kaydedilmiştir.
+Üreme sonrasındaki kalabalık sürüler tüy dökümü sırasında bazı sulakalanlarda toplanır; Temmuz 1984'te Kulu Gölü'nde 800 birey, bilinmeyen bir tarihte Sultansazlığı'nda 12.000 birey ve Eylül 2004'de Kuyucuk Gölü'nde 10.000 birey kaydedilmiştir.
 
-Tüm bölgelerde geçiş sırasında da görülen, ekimden itibaren mart sonuna kadar kalan bir kış göçmenidir. Genellikle kıyısal bölgelerde yoğunlaşır. Sürü boyu özellikle son yıllarda genellikle 300'den azdır. Eski yıllarda kışlayan nüfus ortalama 5000 bireydir, en yüksek sayılarda, 5000 birey Kızılırmak Deltası'nda , 4500 birey Meriç Deltası'nda ve 1500 birey Hotamış Sazlığı'nda sayılmıştır. En yüksek kışlama nüfusu 1967'de kaydedilmiş, toplam 11.200 birey sayılmıştır.
+Geçiş sırasında tüm bölgelerde da görülen, ekimden itibaren mart sonuna kadar kalan bir kış göçmenidir. Kışlayan sürüler genellikle kıyısal bölgelerde yoğunlaşır. Son yıllarda görülen sürüler 300 bireyden azdır. KOSKS verilerine göre eskiden daha bol bulunurdu, genellikle ortalama 5000 birey, en yüksek 1967'de 11.200 birey tespit edilmiştir. Alanlarda yapılan sayımlarda Kızılırmak Deltası'nda 5000 birey, Meriç Deltası'nda 4500 birey ve Hotamış Sazlığı'nda 1500 birey tespit edilmiştir.
 
 ![](images/harita_Page_002.png)
 
 **Üreme**
 
-**Yuvalama alanı:** Genellikle küçük gruplar halinde göller üzerindeki adalarda ürerler. Kulu Gölü'nde yuvası, kuru toprağa kazılmış sığ bir çukurdur ve çevredeki bitki örtüsü ve küçük tüylerle astarlanmıştır. Sulakalanlarda, örneğin (eski) Ereğli Sazlığı'nda, yuvayı topladığı sazlar ve diğer su bitkilerini kullanarak su seviyesinin üstüne çıkan yapıya kurmuştur.\
-**Yumurta sayısı:** Türkiye'de yumurta sayısına ilişkin güvenilir gözlem yoktur, ancak yuvadan ayrılan beş kaz yavrusu sayılmıştır. Diğer ülkelerde genellikle 4-6 yumurta koyar.\
-**Üreme dönemi:** Yumurtlama mevsimi mart sonudur. En erken yavrular Kulu Gölü'nde 23 Nisan 1988'de, Sultansazlığı'nda 27 Nisan 1988'de, Mogan Gölü'nde 30 Nisan 1968'de ve Ereğli Sazlıkları'nda 30 Nisan 1973'de kaydedilmiştir. Bu nedenle türün yumurta bırakma zamanı genellikle mart sonudur. 20 Nisan 1996'da Marmara Bölgesi'nde, 14 Mayıs 1969'ta Karadeniz Bölgesi'nde, 16 Mayıs 1970'da ve 24 Haziran 1983 tarihinde Doğu Anadolu'da kaydedilen yavrular geç gerçekleşen bir üremeyi göstermektedir.
+**Yuvalama alanı:** Genellikle küçük gruplar halinde göller üzerindeki adalarda ürerler.\
+**Yuvası**: Kulu Gölü'nde gözlenen yuvası kuru toprağa kazılmış sığ bir çukurdur ve çevredeki bitki örtüsü ve küçük tüylerle astarlanmıştır. Ereğli Sazlığı'ndaki yuvası saz ve diğer sucul bitkilerden oluşan ve su seviyesinin üstüne çıkan bir yapının üzerine kurmuştur.\
+**Yumurta sayısı:** Türkiye'de yumurta sayısına ilişkin güvenilir gözlem yoktur. Bir yuvadan ayrılan beş kaz yavrusu sayılmıştır. Diğer ülkelerde genellikle 4-6 yumurta koyar.\
+**Üreme dönemi:** Mart sonunda yumurta koyar. En erken yavrular 23 Nisan 1988'de Kulu Gölü'nde, 27 Nisan 1988'de Sultansazlığı'nda , 30 Nisan 1968'de Mogan Gölü'nde ve 30 Nisan 1973'de Ereğli Sazlıkları'nda kaydedilmiştir. 20 Nisan 1996'da Marmara Bölgesi'nde bir alanda, 14 Mayıs 1969'ta Karadeniz'de, 16 Mayıs 1970'da ve 24 Haziran 1983'te Doğu Anadolu'da kaydedilen yavrular gecikmiş üremeyi gösterir.
 
 **Alttürler ve Sınıflandırma**
 
-Ülkemizde *rubrirostris* alttürü bulunur.
+Ülkemizde *rubrirostris* alttürü bulunur. Bu alttür turuncu gagasıyla Batı ve Orta Avrupa'da bulunan pembe gagalı *anser* alttüründen ayrılır.
 
 ## Sakarca
 
 *Anser albifrons*, Greater White-fronted Goose
 
-***Yaygın olarak görülen ve eskiden yüksek sayılarda kaydedilen bir kış konuğudur.***
+***Lokal olarak bulunan ve zaman zaman kalabalık sürüler oluşturan bir kış konuğudur.***
 
-Ekim sonu itibariyle kışlama alanına ulaşırlar, nisan başına kadar bu alanlarda kalırlar. Nadiren yaz aylarında küçük sürüler ülke sulakalanlarında kalabilir.
+Ekim sonu ile nisan başı arasında lokal olarak görülen bir kış konuğudur. Genellikle ocak ve şubat ayında daha yaygın ve yüksek sayıda olur. Soğuk geçen kışlar Türkiye'de kışlayan nüfusu artar. En kalabalık sürüler Meriç Nehri boyunda, Tuz Gölü çevresinde ve Konya Ovasında yoğunlaşır. Büyük Menderes Deltası ve Doğu Akdeniz sulakalanlarında önemli sayılarda toplanabilir. Son zamanlarda Güneydoğu Anadolu'daki baraj göllerinde küçük sürüler halinde görülmeye başlamıştır. Nadiren yazın sulakalanlarda az sayıda kalabilir.
 
-Kışlayan kuşlar genellikle Tuz Gölü ve Konya Ovası çevresinde yoğunlaşırlar. Büyük Menderes Deltası ve Akdeniz Bölgesi'nde yer alan sulakalanlarda önemli sayılarda toplanırlar. Güneydoğu Anadolu'daki baraj göllerinde küçük sürüler geçit sırasında ve kışlamak amacıyla konaklarlar. Kış ortası su kuşu sayımları sırasında en yüksek sayıda 1968-69 döneminde 98.600 birey sayılmıştır. 1987 kışında toplam 84.000 birey sayılmıştır. Daha sonra kışlayan sayılar ciddi bir düşüş yaşamıştır. 1990'lı yıllarda 20.000-30.000, Ocak/Şubat 1993'de 11.822 [@dogalhayati1993], 1999 kışında 3956 [@dogalhayati1999] ve 2005 kışında 3891 birey [@caglayan2005] sayılmıştır. Çok soğuk geçen kışlarda sayıları artar, 11 Şubat 2006 tarihinde Büyükçekmece'de yaklaşık 15.000 birey sayılmıştır. Kışlayan nüfus 1970'lerde 100.000 seviyesinden 2010'larda 5000 seviyesine inmiştir.
+Kış ortası su kuşu sayımlarında (KOSKS) ülke genelinde en yüksek sayıda 1968-69 kışında 98.600 birey sayılmıştır. 1987'de toplam 84.000 birey kaydedilmiştir. Daha sonra kışlayan sayılar ciddi bir düşüş yaşamıştır. 1990'lı yıllarda genellikle 20.000-30.000, 1993'de 11.822 [@dogalhayati1993], 1999'da 3956 [@dogalhayati1999] ve 2005'te 3891 birey [@caglayan2005] tespit edilmiştir. Kışın soğuk geçtiği 11 Şubat 2006'de Büyükçekmece'de sayılan 15.000 birey son yıllardaki en yükse sayımdır. Dolayısıyla, Türkiy'de kışlayan nüfusun 1970'lerde 100.000'ler seviyesinden 2010'larda 5000 seviyesine indiği tespit edilmiştir.
 
 ![](images/harita_Page_003.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra bölgelerinde yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -50,21 +51,19 @@ Türkiye'de nominat alttürü bulunur.
 
 *Anser erythropus*, Lesser White-fronted Goose
 
-***Az sayıda kış konuğudur.***
+***Az sayıda gelen düzenli kış konuğudur.***
 
-Son kez 4-21 Şubat 2015 yılında iki tane Kızılırmak Deltası'nda gözlenmiştir. Uydudan izlenen bir diğer birey, Türkiye-İran sınırı çevresinden Kuzeydoğu Suriye'ye, Al-Hassakh'a 30 Kasım ve 3 Aralık 2006 tarihleri arasında gitmiştir (Kirwan vd. baskıda). Ardından bir birey 19 Ocak 2006'da Terkos Gölü'nde fotoğraflanmıştır.
+Her yıl çok az sayıda kaydedilen bir kış konuğudur. Hiçbir alanda düzenli olarak bulunmadığı düşünülür. Sayıları genellikle 10'dan azdır. Çoğunlukla diğer kaz türleri ile karışık olarak bulunur. Bugüne kadar, Türkiye'ye gelen bireylerin İskandinavya'da üreyen ve Balkan ülkelerinde kışlayan göçyolu (flyway) nüfusuna ait olduğu düşünüldü. Yunanistan'da bir alanda kışlayan ve koruma çalışmaları nedeniyle sayıları artan sürünün kış ortasında oradan kaybolması, Marmara ve Ege bölgelerinde bir kışlama alanının ihtimalini doğurdu. Ancak yapılan aramalara rağmen burada düzenli ziyaret edilen bir kışlama alanı bulunamadı.
 
-20 Kasım 2004 tarihinde uydudan izlenen bir birey Haçlı Gölü'nde bulunmuştur [@morozov2004]. Daha sonra Van Gölü kıyılarında kışlayan kalabalık sürüler tespit edilmiştir. Bunlardan en yüksek sayıda 340 birey sayılmıştır. Sayımlar ertesi yıllar tekrarlanmış, aslında Doğu Anadolu'da önemli bir nüfusun kışladığı ortaya çıkmıştır.
+Ülkenin diğer ucunda, 20 Kasım 2004'te Haçlı Gölünde uydudan izlenen bir birey sinyal verince, doğuda bir kışlama alanın ihtimali doğdu [@morozov2004]. Nitekim Van Gölü ve Erçek Gölü kıyılarında sayıları 340'ı bulan kalabalık sürüler düzenli olarak tespit edildi. Bugün ülkede kışlayan ana nüfusun Doğu Anadolu'da bulunduğu söylenebilir.
 
-29 Aralık 1997'de Göksü Deltası'nda bir bireybir birey [@kirwan2003], 23 Ocak 1993'te Göksü Deltası'nda bir birey [@dogalhayati1993], 6 Nisan 1990'da Seyfe Gölü'nde 12 birey [@kirwanmartins1994], 24 Aralık 1986'da Bafa Gölü'nde bir ergin iki genç [@kasparek1988a] ve 16 Şubat 1967'da Kocabaş Çayı'nın (Çanakkale) ağzında iki birey [@ost1969] kaydedilmiştir.
+2000 öncesindeki kayıtlara bakıldığında; 29 Aralık 1997'de Göksü Deltası'nda bir birey [@kirwan2003], 23 Ocak 1993'te Göksu Deltası'nda bir birey [@dogalhayati1993], 6 Nisan 1990'da Seyfe Gölü'nde 12 birey [@kirwanmartins1994], 24 Aralık 1986'da Bafa Gölü'nde bir erişkin iki genç [@kasparek1988a] ve 16 Şubat 1967'da Kocabaş Çayının ağzında (Çanakkale) iki birey [@ost1969] kaydedilmiştir. 1945 ile 1965 ve ekim ile ocak arasında büyük çoğunluğu Büyükçekmece ve Küçükçekmece göllerinden gelen 12 kaydı vardır. Ancak bu kayıtlar tür tanımını destekleyecek belgeden yoksundur [@kumerloeve1970a].
 
-1945 ile 1965 arasında büyük kısmı Büyükçekmece ve Küçükçekmece göllerinden olmak üzere İstanbul Boğazı ve Trakya'da ekim ve ocak aylarında 12 kez görülmüş , ancak kayıtların hiçbirinde tür tanımı belgelenmemiştir [@kumerloeve1970a].
-
-![](images/harita_Page_004.png)
+![](images/harita_Anser_erythropus.png){width="600"}
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kuzey İskandinavya'dan Doğu Sibirya'ya uzanan tundra kuşağında ürer.
 
 **Alttürler ve Sınıflandırma**
 
@@ -74,21 +73,23 @@ Monotipik bir türdür.
 
 *Anser serrirostris*, Tundra Bean Goose
 
-***Nadir kış konuğudur.***
+***Nadiren gelen düzensiz kış konuğudur.***
 
-2000 yılından sonra üç kere kaydedilmiştir. Birer birey 26 Şubat 2013'te Yedikır Barajı'nda, 4-21 Şubat 2015'te Kızılırmak Deltası'nda ve 2 birey Manyas Gölü'nde görülmüştür. Tür kış aylarında sakarca sürüleri arasında bulunabilir.
+2000 yılından sonra üç kere kaydedilmiştir. Birer birey 26 Şubat 2013'te Yedikır Barajı'nda, 4-21 Şubat 2015'te Kızılırmak Deltası'nda ve Manyas Gölü'nde 2 birey görülmüştür. Tür kış aylarında sakarca sürüleri arasında bulunabilir.
 
-Önceleri, Ege, Akdeniz ve İç Anadolu'daki sulakalanlarda ara sıra yüksek sayılarda kaydedilmiştir. Muhtemelen Türkiye'deki kışlayan kaz nüfusundaki düşüş Tundra Kazı için de geçerlidir. 1870'ler ile 1880'ler de Mersin'de toplanan bireyler [@schrader1891] ilk kayıtlarıdır. 1966 yılından sonra çoğunlukla ocak ile mart arasında 15 kez kaydedilmiştir. 90 birey 2 Mart 1965'te Ereğli ve Karapınar arasında [@kumerloeve1970a]13 birey 15-16 Ekim 1969'da Karamık Sazlıklarında [@ost1972], 30 Nisan 1988'de Seyfe Gölü'nde, 61 birey 30 Ocak 1992'de Marmara Gölü'nde [@dogalhayati1992], 376 birey 9 Ocak 1993'te Büyükçekmece Gölü'nde [@dogalhayati1993] ve 24 Ocak 1993'te Göksu Deltası'nda [@dogalhayati1993] kaydedilmiştir.
+Tundra Kazı, önceleri Tayga Kazı ile beraber Tarla Kazı olarak bilinirdi, bkz. Alttürler ve Sınıflandırma. Bu taksonomik revizyonun öncesinden gelen kayıtlarda Tarla Kazı olarak tanımlanmıştır. 2000 yılından itibaren gelen fotoğrafları kayıtlarıda gaga renklenmesinin incelendiği ve görülenlerin hepsinin Tundra Kazı olduğu tespit edilmiştir. Ancak fotoğraf kaydı olmayan daha eski kayıtların gerçekten hangi türe ait olduğu belirsizdir.
 
-![](images/harita_Page_001.png)
+Bu şekilde Tarla Kazı olarak tanımlanmış kuşların, Ege, Akdeniz ve İç Anadolu'daki sulakalanlarda ara sıra yüksek sayılarda kayıtları vardır. Türkiye'deki kışlayan Sakarca nüfusundaki düşüş muhtemelen Tundra Kazı için de geçerlidir. 1870'ler ve 1880'lerde Mersin'de toplanan bireyler [@schrader1891] ilk kayıtlarıdır. 1966-2000 arasında çoğunlukla ocak ile mart arasında 15 kez kaydedilmiştir. 2 Mart 1965'te Ereğli ve Karapınar arasında 90 birey[@kumerloeve1970a], 15-16 Ekim 1969'da Karamık Sazlıklarında 13 birey[@ost1972], 30 Nisan 1988'de Seyfe Gölü'nde, 30 Ocak 1992'de Marmara Gölü'nde 61 birey, 9 Ocak 1993'te Büyükçekmece Gölü'nde 64 birey [@dogalhayati1993] ve 24 Ocak 1993'te Göksu Deltası'nda bir birey [@dogalhayati1993] kaydedilmiştir.
+
+![](images/harita_Anser_serrirostris.png){width="600"}
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Üreme alanı Kuzey İskandinavya'dan Doğu Sibirya'ya uzanan tundra kuşağındadır.
 
 **Alttürler ve Sınıflandırma**
 
-2010 yılı öncesi görülen kuşlar bugün geçerli olmayan bir takson olan Tarla Kazı olarak tanımlanmıştır. Tarla Kazı (*Anser fabalis*) ikiye ayrılınca *fabalis*, *johanseni* ve *middendorffii* alttürleri Tayga Tarla Kazı (*Anser fabalis*) altında, *serrirostris* ve *rossicus* alttürlerini Tundra Tarla Kazı (*Anser serrirostris*) altında sınıflandırılmıştır. Eskiden kaydedilen kuşların hangi türe ve alttüre ait olduğu çoğunlukla belirsizdir.
+Tayga Kazı yeni bir türdür ve yakın zamana kadar Tarla Kazı olaran bilinen bir türden ayrılmıştır. 5 alttürden oluşan Tarla Kazı (*Anser fabalis*) ikiye ayrılınca *fabalis*, *johanseni* ve *middendorffii* alttürleri Tayga Kazı (*Anser fabalis*), *serrirostris* ve *rossicus* alttürleri Tundra Kazı (*Anser serrirostris*) altında sınıflandırılmıştır.
 
 ## Yosun Kazı
 
@@ -96,19 +97,17 @@ Türkiye'de yuvalamaz.
 
 ***Rastlantısal konuktur.***
 
-En güncel, iki birey 6 Nisan 1981 tarihinde Küçük Menderes Deltası'nda gözlenmiştir [@beaman1986]. Koyu karınlı *bernicla* alttürüne ait iki birey 3-4 Eylül 1973'te Rize, Ardeşen açıklarında kaydedilmiştir [@ost1975]. 1969 yılında Acıgöl'den yayınlanmış bir kayıt kabul edilmemiştir [@dijksen1988]. Prenses Zeyneb Halim 7 Şubat 1945'de Büyükçekmece'de bir bireyi vurmuş, vurulan kuşun gövdesi korunmamıştır [@kumerloeve1970a].
-
-Düzenli olarak kışın soğuk geçtiği Ocak 1889'da İstanbul Maltepe'de ve büyük sürüler halinde Şubat 1891'de Kadıköy'de görülmüştür [@matheydupraz1920].
+Batı Avrupa'da Atlantik kıyılarında kışlayan bir tür olarak Türkiye ve yakın coğrafyasında rastlantısal konuktur. 6 Nisan 1981'de Küçük Menderes Deltası'nda iki birey[@beaman1986], 3-4 Eylül 1973'te Ardeşen açıklarında koyu karınlı *bernicla* alttürüne ait iki birey kaydedilmiştir [@ost1975]. 1969 yılında Acıgöl'den gelen bir iddia kabul edilmemiştir [@dijksen1988]. 7 Şubat 1945'de Büyükçekmece'de bir bireyi Prenses Zeyneb Halim vurmuştur, maalesef bu kuşun gövdesi korunamamıştır [@kumerloeve1970a]. Kışın soğuk geçtiği Ocak 1889'da düzenli olarak İstanbul Maltepe'de ve Şubat 1891'de büyük sürüler halinde İstanbul Kadıköy'de görülmüştür [@matheydupraz1920].
 
 ![](images/harita_Page_005.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Orta ve Kuzey Sibirya'da Kuzey Kutup Denizi kıyı şeridinde yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
-Türkiye'de Kuzeybatı Avrupa'da kışlayan *bernicla* alttürü beklenebilir. Sadece tek bir kayıtta alttürü tanımı yapılmış, bu alttürün olduğu kaydedilmiştir. Yunanistan'da kaydedilen birey de bu alttüre aittir [@handrinos1997].
+Bir kayıtta *bernicla* alttürü tanımlanmıştır. Kuzeybatı Avrupa'da kışlayan *bernicla* alttürünün Türkiye'de görülmesi makuldür. Yunanistan'daki bir kaydı da bu alttüre aittir[@handrinos1997].
 
 ## Ak Yanaklı Kaz
 
@@ -116,15 +115,13 @@ Türkiye'de Kuzeybatı Avrupa'da kışlayan *bernicla* alttürü beklenebilir. S
 
 ***Rastlantısal konuktur.***
 
-Bir birey 5 Ocak 2003'te Büyükçekmece Gölü'nde gözlenmiş ve detaylı belgelenmiştir. Daha eski tarihlerden iki kaydın dökümantasyonu yetersiz olabilir [@kumerloeve1970a]. Bir birey 1946/47 kışında Sakarya Deltası'nda vurulmuştur. Diğer bir birey 1961 sonbahar/kışında aynı alanda vurulmuş, bu kuşun tahniti Eylül 1964'de Ankara'ya kaydedilmiş ancak sonradan yok olmuştur [@kumerloeve1966d].
+5 Ocak 2003'te Büyükçekmece Gölü'nde bir birey gözlenmiş ve detaylı olarak belgelenmiştir. 1946/47 kışında Sakarya Deltası'nda bir birey, 1961 sonbahar/kışında diğer bir birey vurulmuş, ikinci kuşun tahniti Eylül 1964'de Ankara'ya bulunmuş, ancak sahibi satmayı reddetmiştir [@kumerloeve1966d]. Bu iki kaydın dökümantasyonu yetersizdir [@kumerloeve1970a].
 
 ![](images/harita_Page_006.png)
 
-Bulgaristan'da bir birey Şubat-Mart 1997 tarihleri Karadeniz kıyısında gözlenmiş [@nankinov2003] ve Kasım 2005'te fotoğraflanmıştır [@nikolov2006]. Bir birey Ocak 2007'de İran'da fotoğraflanmıştır [@winkel2007barnacle].
-
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Grönland, İzlanda, Kuzey Batı Rusya ve Baltık Denizi kıyılarında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -134,23 +131,23 @@ Monotipik bir türdür.
 
 *Branta ruficollis*, Red-breasted Goose
 
-***Nadir kış konuğudur.***
+***Az sayıda gelen düzensiz kış konuğudur.***
 
-Sibirya Kazının dünya popülasyonu Romanya ve Bulgaristan'ın Karadeniz kıyısındaki tarlalarda kışlamaktadır. Özellikle soğuk kışlarda bazı bireyler veya gruplar Türkiye'ye inerler ve düzenli olarak görülürler. Ancak Türkiye'de düzenli kışladığı bir alan yoktur.
+Özellikle soğuk kışlarda bazı bireyler veya gruplar Türkiye'ye inerler ve düzensiz olarak görülürler. Türkiye'de düzenli kışladığı bir alan yoktur. Ana kışlama alanı Romanya ve Bulgaristan'ın Karadeniz kıyı şerididir. 1964 ila 2008 arasında 64 kaydı bilinir. Bu kayıtların Marmarada 15 kayıt, İç Anadolu'da 12 kayıt, Karadeniz'de 8 kayıt, Akdeniz'de 6 kayıt ve Ege'de 4 kayıt alınmıştır. Kayıtların çoğu aralık sonu ile şubat başı arasından gelir. Bu kayıtların çoğunda bir veya birkaç kuş sayılmışi ancak 5 tanesinde 40 ila 100 bireylik kalabalık sürüler de gözlenmiştir. 2001/2002 kışında ülke toplamında 192 birey sayılmıştır.
 
-1964 ila 2008 yılının başları arasında Türkiye'de toplamda 64 kayıt yapılmıştır. Bu kayıtların 15'i Marmara, sekizi Karadeniz, dördü Ege, altısı Akdeniz ve 12'si İç Anadolu Bölgesi'nden gelmektedir. Özellikle kayıtların çoğu aralık sonu ile şubat aylarına denk gelmektedir. Birçok kayıt bir birey veya küçük gruplardan oluşmakta, ancak 40-100 bireylik beş büyük sürüyü de gözlenmiştir. Türün en çok kaydının geldiği 2001/2002 kışında en az 192 kuş kaydedilmiştir.
+Ülke genelinde yaygın olarak av mağazaları ve avcılık kulüplerinde tahnitlerine rastlanması ve avcıların gözlem beyanları [@dijksen1985] kayıtların işaret ettiğinden çok yaygın olduğunu gösterir. İç Anadolu'dan gelen eski kayıtlar, Kış Ortası Su Kuş Sayımlarında kalabalık kaz sürülerinin sistematik incelenmesi ile ortaya çıkmıştır. Sakarca sürülerinin içinde olabilecek bireylerin farkedilmeme ihtimali yüksektir.
 
-Büyükçekmece'deki kayıtların görüş sıklığı, orada düzenli kışladığından dolayı değil, muhtemelen İstanbul yakınlarındaki kuş gözlemcilerinin bölgeyi sık ziyaret etmesi ile ilgilidir. Keza ülke genelinde yaygın olarak avcılık mağazalarında ve kulüplerinde tahnitleri görülmüş ve avcılar vurduklarını sıkça beyan etmişlerdir [@dijksen1985]. Dolayısıyla kuş gözlemcilerinin kayıtlarında belirtildiğinden çok daha yaygındır. İç Anadolu kayıtları, bu bölgedeki kaz sürülerinin sistematik sayımları sırasında yapılmıştıri buna göre Sakarca sürülerinin içinde en az bir bireyin bulunma ihtimali yüksektir.
+1946/47 kışında Küçükçekme'de Kosswig tarafından gözlenmiştir[@kumerloeve1966d]. 1947 veya 1954 yılında kış boyunca (27 Kasım - 6 Mart) Büyükçekmece ve Meriç Nehri (?) arasında düzenli olarak 9 birey ve Beylik Mandra'da 2 birey kaydedilmiştir [@kumerloeve1970a]. 1959 yılında belirtilmemiş bir alanda sekiz İshakoğlu tarafından birey gözlenmiş ve bir birey vurulmuştur [@makatsch1950]. 12 Kasım 1964'de Kuyucuk Gölü'nde 2 erişkin ve bir genç birey 400 boz kazın arasında kaydedilmiştir [@kumerloeve1964a]. 17 Ocak 1965 tarihinde Çekmece'de E. Hirzel tarafından üç birey görülmüştür.
 
-1950 öncesinde, Kosswig bu türü 1946/47 yılları kış mevsiminde kaydetmiştir [@kumerloeve1966d]. 27 Kasım ila 6 Mart arasında 1947/54 döneminde Büyükçekmece ve Meriç Vadisi arasında dokuz bireylik bir grup ile iki birey Beylik Mandra'da kaydedilmiştir [@kumerloeve1970a]. İshakoğlu belirtilmemiş bir lokalitede 1959 yılında sekiz bireylik bir gruptan bir bireyi vurmuştur [@makatsch1950]. Kuyucuk Gölü'nde 12 Kasım 1964'de 2 erişkin ve bir genç birey 400 boz kazın arasında kaydedilmiştir [@kumerloeve1964a]. Üç birey E. Hirzel tarafından 17 Ocak 1965 tarihinde Çekmece'de görülmüştür.
-
-Türkiye'den türe ilişkin açıklaması olmayan şaşırtıcı bir kayıt vardır. Erçek Gölü'nde 5 Ağustos 1982 tarihinde 14 ergin ve sekiz yavru kaydedilmiştir [@kasparek1983]. Herhangi bir tanımlama yayınlanmamış, ek ayrıntılar da ortaya konulmamıştır. Bu kayıt en doğrusu hatalı olarak kabul edilmeli ve gözardı edilmelidir.
+Türkiye'den açıklamaya ihtiyaç duyulan bir yaz veya üreme kaydı vardır. 5 Ağustos 1982'de Erçek Gölü'nde 14 erişkin ve sekiz yavru kaydedilmiştir [@kasparek1983]. Bu kayıt ya hatalı bir kayıt olarak unutulmalı, ya da avcılar tarafından yakalanmış ve evcilleştirilmiş kuşların üretilmesinin bir sonucu olarak yorumlanmalıdır.
 
 ![](images/harita_Page_007.png)
 
+![](images/harita_Branta_ruficollis.png){width="600"}
+
 **Üreme**
 
-Doğu Sibirya'da tundra kuşağında yuvalar. Türkiye'de yuvalama yayılış bölgesi dışındadır.
+Türkiye'de yuvalamaz. Doğu Sibirya'da tundra kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -160,21 +157,22 @@ Monotipik bir türdür.
 
 *Cygnus olor*, Mute Swan
 
-***Lokal olarak az sayıda yuvalar. Kış konuğu olarak yaygın ve yüksek sayılarda bulunur.***
+***Lokal olarak az sayıda yuvalar. Yaygın olarak ve nispeten çok sayıda bulunan bir kış konuğudur.***
 
-Gala Gölü, Gediz Deltası ve Kızılırmak Deltası'nda son yıllarda üremektedir. Üreme popülasyonu muhtemelen 20 çiftten daha azdır. Tür 1968 yılında muhtemelen Kızılırmak Deltası'nda üremiştir [@dijksen1985].
+Son yıllarda düzenli olarak sadece 3 alanda ürediği düşünülür: Gala Gölü, Gediz Deltası ve Kızılırmak Deltası. Ulusal üreme popülasyonu muhtemelen 20 çiftten daha azdır.
 
-Eskiden oldukça fazla sayıda üremiştir: Marmara Gölü ile Akşehir Gölü'nde sırasıyla 50 ve 100 çift üremiştir [@kumerloeve1961]. Üreme kayıtlarının çoğu Ereğli Sazlığı'ndan gelmiştir, burada üreyen nüfusun zaman içindeki yok oluşu belgelenmiştir [@kilic1990]. Ereğli Sazlıkları ve diğer eski üreme alanları büyük ölçüde ya da tamamen drene edilmiştir.
+Geçmişte birçok alanda toplam yüzlerce çiftten oluşan bir üreme popülasyonu yaşardı. Marmara Gölü'nde 50 çift, Akşehir Gölü'nde 100 çiftlik bir popülasyon tespit edilmiştir [@kumerloeve1961]. Ereğli Sazlığı en çok gözlem kaydının alındığı alandır, dolayısıyla buradaki nüfusun zaman içindeki yok oluşu belgelenmiştir [@kilic1990]. Lenz tarafından 1968'de 11 yuva, 1969'da bir yuva ve 1970'de üç yuva bulmuştur. Eski üreme alanlarından yok olmasının ana nedeni, bu alanların büyük ölçüde ya da tamamen kurutulmasıdır. Kızılırmak Deltası'ndan ilk muhtemel üreme kaydı 1968 yılında alınmştır[@dijksen1985].
 
-Kışın daha yaygındır ve Karadeniz kıyıları ve Marmara Bölgesinde yüksek sayılarda bulunur. Toplam kışlama popülasyonu 1000-10000 birey civarındadır. En yoğun kışlama nüfusu Meriç Deltası ve Gala Gölü'nde bulunur. 1993 kışında 1244 birey [@dogalhayati1993] 1999 kışında alanda 8900 birey ve ülke toplamında 9088 birey [@dogalhayati1999] sayılmıştır. Gala Gölünde Ocak 2003'te 2000 birey kaydedilmiştir. Sert kış koşullarında çok daha yaygındırlar.
+Kışın Karadeniz ve Marmara Bölgesinde yaygın olarak en yüksek sayılarda gözlenir. Toplam kışlama popülasyonu 1000-10000 birey arasındadır. Meriç Deltası ve Gala Gölü ülke nüfusunun çoğunun toplandığı alandır, burada 1993'de 1244 birey [@dogalhayati1993] 1999'da 8900 birey [@dogalhayati1999] ve 2003'te 2000 birey sayılmıştır. Kışın sert geçtiği yıllarda sayısı artar, 1999'da ülke genelinde 9088 birey kaydedilmiştir.
 
 ![](images/harita_Page_008.png)
 
 **Üreme**
 
-**Yuvalama alanı:** Büyük göller ile geniş sazlıklara sahip bataklıklar ve açık su alanlarına sahip sulakalanlarda ürerler. Yuva alanı Türkiye'de tanımlanmamıştır. Diğer yerlerde, yuvalar su kenarında zemin üzerinde ya da küçük adacıklar üzerinde ya da sığ sularda sazlıkların arasında konumlanmıştır. Yuva, sazlar ya da sucul vejetasyonun büyük bir yığın halinde kullanılması ile merkezi bir oyuğa sahiptir.\
-**Yumurta sayısı:** Türkiye dışında 5-7 yumurta koyduğu bilinir.\
-**Üreme dönemi:** Nisan başında yumurta koyar. 13 Mayıs 1899 tarihinde İzmir'de saz yatağında yuvalan bir çift kaydedilmiştir [@selous1900]. Lenz, Ereğli Sazlıklarında, 1968'de 11, 1969'da bir ve 1970'de üç kullanılan yuva bulmuştur. Bir çift ve 4-5 genç yavru 6 Temmuz 1976 tarihinde gözlenmiştir. Bir çift ve dört genç 17 Temmuz 1982 tarihinde ve yumurtadan yeni çıkmış gençler 16 Mayıs 1987'de gözlenmiştir.
+**Yuvalama alanı:** Geniş sazlık alanlar ve göl açıklığı bulunan büyük göller ve bataklıklardır.\
+**Yuvası:** Türkiye'deki bir yuvanın tarifi yapılmamıştır. Diğer yerlerde yuva su kenarında zemin üzerinde, küçük bir adacıkta veya sığ sudaki sazların üstüne kurulur. Yuva saz ve diğer sucul bitkilerden oluşan büyük bir yığının ortasındaki çukura kurulur.\
+**Yumurta sayısı:** Türkiye'de yumurta gözlemi yoktur. Türkiye dışında 5-7 yumurta koyduğu bilinir.\
+**Üreme dönemi:** Nisan başında yumurta koyar, mayıs ve temmuz arasında yavrular gözükür. 13 Mayıs 1899'da İzmir'de saz yatağında yuvalan bir çift kaydedilmiştir [@selous1900]. 6 Temmuz 1976'da Ereğli Sazlığında bir çift ve 4-5 genç yavru, 17 Temmuz 1982'de bir çift ve dört genç ve 16 Mayıs 1987'de yumurtadan yeni çıkmış yavrular gözlenmiştir.
 
 **Alttürler ve Sınıflandırma**
 
@@ -186,33 +184,31 @@ Monotipik bir türdür.
 
 ***Lokal olarak ve az sayıda bulunan bir kış konuğudur.***
 
-1993 yılına kadar düzensiz sayılarla gelen nadir bir kış ziyaretçisi olduğu düşünülmüştür. Meriç Deltası ve Enez Gölü'nde kalabalık kuğu sürüleri içinde bulunur, sayıları toplam 1000 bireye ulaşabilir. Bunun dışında küçük gruplar İç Anadolu, Göller Bölgesi ve yakın çevresinde kasım ve nisan arasında görülebilir.
+1993 yılına kadar nadir bir kış konuğu olduğu düşünülmüştür. Daha sonra ilk önce Burdur Gölü ve Göller bölgesinde, ardından Meriç Deltası düzenl bulunduğu tespit edilmiştir. Meriç Deltası'nda karışık ve kalabalık kuğu sürüleri içinde sayıları 1000'e ulaşabilir. İç Anadolu, Göller Bölgesi'nda küçük gruplar halinde bulunur. Ekseriyetle kasım ve nisan arasında bulunur.
 
 ![](images/harita_Page_009.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Türkiye'de kışlayan kuşların üreleme alanının ve göç koridorları tespit edilmiştir[@article]. GPS ve GMS vericileri ile 2015-2017 yılında yapılan çalışmada yuvalama alanlarının Yamalo-Nenets özrek bölgesindeki Yamal olduğu, göçleri sırasında Ob Koyu, Turgay Ovaları, Kuzey Hazar Kıyıları, Azov Denizi gibi durak alanlar üzerinden göç ettikleri ortaya çıkmıştır.
 
 **Alttürler ve Sınıflandırma**
 
-Ülkemizde Avrupa ile Asya'da yaşayan *bewickii* alttürü bulunur. Amerika'da yaşayan *columbianus* alttürü (Tundra Kuğusu) siyah gaga ve siyah yüz derisi ile *bewickii* alttüründen kolayca ayırt edilebilir.
+Ülkemizde Eski Dünya'da yaşayan *bewickii* alttürü bulunur ve gaga kökü ve yüz derisi sarıdır. Amerika'da yaşayan *columbianus* alttürü siyah gaga ve siyah yüz derisi ile kolaylıkla ayırt edilebilir.
 
 ## Ötücü Kuğu
 
 *Cygnus cygnus*, Whooper Swan
 
-***Yaygın olarak ve nispeten az sayıda görülen bir kış konuğudur.***
+***Yaygın olarak ve az sayıda görülen bir kış konuğudur.***
 
-Ekim sonu ile birlikte nisan ayının ilk haftası arasında görülür. Göçleri sırasında Ukrayna'dan yola çıkarlar Karadeniz' ortasından geçerek Batı Karadeniz kıyıları ulaşırlar [@brazil2003]. Trakya'da, kuşlar özellikle Meriç Deltası, İğneada ve Büyükçekmece'de Ocak-Şubat aylarında kaydedilir. En yüksek sayıda, 1200 birey 25 Ocak 1998'de Meriç Deltası ve Gala Gölü'nde kaydedilmiştir [@boyla1998a]. Bu bölge türün Balkanlar'daki en önemli kışlama alanlarındandır.
-
-Van Gölü havzasında Sodalı Gölü'nde 30 Ekim 1995 tarihinde 164 birey kaydedilmiştir [@adizel1998]. Güneydoğu Anadolu'dan Diyarbakır Kabaklı Barajı'nda 1992 yılı başında 133 birey kaydedilmiştir [@dogalhayati1992].
+Ekim sonu ve nisan başı arasında yaygın olarak az sayıda görülen bir kış konuğudur. Ocak ve şubat aylarında en yüksek sayıya ulaşır. Trakya'da Meriç Deltası, İğneada ve Büyükçekmece'de toplanır. Meriç Deltası türün Balkanlar'daki en önemli kışlama alanıdır. 25 Ocak 1998'de bulunan 1200 birey Türkiye'deki en yüksek sayıdır. [@boyla1998a] Türkiye'ye gelen kuşlar Ukrayna ve Kırım ile Batı Karadeniz Bölgesi arasındaki deniz üzeri göç rotasını kullanır [@brazil2003]. Doğuda 30 Ekim 1995'de Sodalı Gölü'nde 164 birey [@adizel1998], 1992'de Diyarbakır Kabaklı Barajı'nda 133 birey [@dogalhayati1992] kaydedilmiştir.
 
 ![](images/harita_Page_010.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz. Kuzey Avrupa'da yuvalar.
+Türkiye'de yuvalamaz. Avrasya'nın kuzeyinde yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -222,19 +218,19 @@ Monotipik bir türdür.
 
 *Alopochen aegyptiaca*, Egyptian Goose
 
-***Durumu belirsizdir, bazı kayıtlarının rastlantısal konuklara ait olduğu düşünülmektedir.***
+***Esarette sık tutulan bir tür olduğu için belirsizdir, bazı eski kayıtların rastlantısal konuklara ait olduğu düşünülmektedir.***
 
-11 Nisan 1911'de Urfa'nın güneyinde iki birey kaydedilmiştir, ancak gözlemci kesin bir kayıt olduğunu iddia etmekte isteksiz kalmıştır. Weigold'un (1912-13) bahsettiği kayıt şüphelidir [@kasparek1992a]. 28 Nisan 1986'da Kulu Gölü'nde gözlenen bireyin rastlantısal konuk olduğu düşünülmüştür.
+11 Nisan 1911'de Urfa'nın güneyinde iki bireyin gözlendiği Weigold (1912-13) tarafından kayıt altına alınmıştır ancak gözlemcinin emin olmaması nedeniyle bu kayıt şüphelidir [@kasparek1992a]. 28 Nisan 1986'da Kulu Gölü'nde bir birey gözlenmiş, kuşun doğal ve rastlantısal konuk olduğu düşünülmüştür.
 
-Dİğer kayıtların esaret kaçkınlarına ait olduğu düşünülür. Bir çift 6-13 Temmuz 2002'de Ankara'daki bir parkta fotoğraflanmıştır. Bİr çift 31 Mart 2012'de İstanbul Riva'da gözlenmiş, birer birey 13 Mart 2012'de Hacettepe Kampüsü'nde , 5-24 Kasım 2013'de Etimesgut'ta ve 25 Mayıs-13 Haziran 2014 arasında Eymir Gölü'nde gözlenmiştir.
+Bundan sonraki İstanbul ve Ankara'da gözlenen kuşların esaretten kaçtığı düşünülür. 6-13 Temmuz 2002'de Ankara'daki bir parkta bir çift fotoğraflanmş, 31 Mart 2012'de İstanbul Riva'da bir çift, 13 Mart 2012'de Ankara Hacettepe Kampüsü'nde, 5-24 Kasım 2013'de Etimesgut'ta ve 25 Mayıs-13 Haziran 2014'da Eymir Gölü'nde birer birey gözlenmiştir.
 
-Hem Suriye'de hem de Filistin'de ürediğini düşünülmüştür [@vaurie1965], buna rağmen Suriye için kabul edilebilir bir kayıt bulunamamıştır[@kumerloeve1967a; @baumgart1995]. Kıbrıs'ta nadirdir; 1906 ve 1928 yılları arasında nadir bir kış göçmeni olarak değerlendirilmiştir. 1958, 1962 ve 1989 yıllarında da üç kaydı vardır.
+1906 ve 1928 arasında Kıbrıs'ta nadir rastlanan bir kış göçmeni olarak değerlendirilmiştir. 1958, 1962 ve 1989 yıllarında ise gözlenmiştir. Hem Suriye'de hem de Filistin'de ürediğini düşünülmüş [@vaurie1965], sonrasında Suriye'de güvenilir bir kaydı bulunamamıştır[@kumerloeve1967a; @baumgart1995].
 
 ![](images/harita_Page_011.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Afrika'da çoğunlukla Sahra Altında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -244,19 +240,22 @@ Monotipik bir türdür.
 
 *Tadorna tadorna*, Common Shelduck
 
-***Lokal olarak az sayıda üreyen yaz konuğu ve yaygın olarak çok sayıda bulunan kış konuğudur.***
+***Lokal olarak az sayıda ürer ve yaygın olarak çok sayıda bulunan bir kış konuğudur.***
 
-Yerli bireyler lokal olarak az sayıda İç ve Doğu Anadolu'da yuvalar. Geniş ve tuzlu sulakalanlarda ve yüksek kesimlerdeki daha küçük gölcüklerde ürer. Başlıca üreme alanları Bolluk, Kulu ve Tuz Gölleri (İç Anadolu), Gediz Deltası (Ege) ve Van Gölü çevresidir (Doğu Anadolu). Gediz Deltası'nda 1996 yılında üreyen popülasyonun 8 çift olduğu tahmin edilmiş [@eken1997a]. 24 Haziran 1992'de Bolluk Gölü'ndeki bir adada 12 yuva bulunmuştur. Üreme sonrası tüy değiştiren kuşlar ağustos-ekim arasında toplanırlar, 2500 birey Erçek Gölü'nde 700 birey Kulu Gölü'nde sayılmıştır.
+Yerli kuşlar lokal olarak İç ve Doğu Anadolu'da yuvalar. Geniş ve tuzlu sulakalanlarda ürer. Başlıca üreme alanları Gediz Deltası (Ege), Bolluk, Kulu ve Tuz Gölleri (İç Anadolu) ve Van Gölü çevresidir. Gediz Deltası'nda 1996 yılında üreyen popülasyonun 8 çift olduğu tahmin edilmiş [@eken1997a]. 24 Haziran 1992'de Bolluk Gölü'ndeki bir adada 12 yuva bulunmuştur.
 
-Kışlayan toplam nüfus 1000-5000 bireydir, ana kışlama alanı Yumurtalık Lagünü'nde 16 Şubat 2006'da 5390 birey sayılmıştır. Acıgöl'de 2005'te 2928 birey ve 2004'te 1802 birey, 1968-69'da 4900 birey ve 1969-70'de 3450 birey sayılmıştır. Dİğer alanlarda genellikle küçük sürüler halinde dolaşır.
+Üreme sonrası tüy değiştiren kuşlar ağustos-ekim arasında toplanırlar, Erçek Gölü'nde 2500 birey, Kulu Gölü'nde 700 birey sayılmıştır.
+
+Kışlayan toplam nüfus 1000-5000 bireydir, ana kışlama alanı Yumurtalık Lagünü'nde 16 Şubat 2006'da 5390 birey sayılmıştır. 1969-70'de Acıgöl'de 3450 birey, 1968-69'da 4900 birey, 2004'te 1802 birey ve 2005'te 2928 birey sayılmıştır. Dİğer alanlarda küçük sürüler halinde dolaşır.
 
 ![](images/harita_Page_012.png)
 
 **Üreme**
 
-**Yuvalama alanı:** Avrupa'nın büyük bölümünde tavşan yuvalarının 1-2 m içinde yuva yapar. Ancak, Türkiye'deki yuvalar yerdedir. Bolluk Gölü'ndeki yuvaların bazıları tamamen açıkta, bazıları kısmen ya da tamamen çalıların altında ve sadece bir tanesi doğal bir oyuğun biraz içindedir.\
-**Yumurta sayısı:** 6-9 yumurta koyduğu görülmüştür. Bolluk gölünde yuvalarda kaydedilen 10-18 sayısındaki yumurtaların birden çok dişi tarafından konulmuş olmalıdır.\
-**Üreme dönemi:** Ege'de haziran başında yavrular görülmüştür [@eken1997a]. İç Anadolu'da nisan sonu ile haziran başında yuvalar. Doğu Anadolu'da haziran ortasında yumurtladığı düşünülmüştür.
+**Yuvalama alanı:** Geniş, sığ ve tuzlu sulakalanların yakınında adalar, sedde durvarları ve çalı alatlarında yuvalar.\
+**Yuvası**: Avrupa'nın büyük bölümünde tavşan yuvalarının 1-2 m içinde yuva yapar. Ancak, Türkiye'deki yuvalar yerdedir. Bolluk Gölü'ndeki yuvaların bazıları tamamen açıkta, bazıları kısmen ya da tamamen çalıların altında ve sadece bir tanesi doğal bir oyuğun biraz içindedir.\
+**Yumurta sayısı:** 6-9 yumurta koyduğu görülmüştür. Bolluk Gölündeki yuvalarda gözlenen 10-18 yumurta birden çok dişi tarafından konulmuş olmalıdır.\
+**Üreme dönemi:** Gediz Deltasında haziran başında yavrular görülmüştür [@eken1997a]. İç Anadolu'da nisan sonu ile haziran başında yuvalar. Doğu Anadolu'da haziran ortasında yumurtladığı düşünülmüştür.
 
 **Alttürler ve Sınıflandırma**
 
@@ -266,11 +265,11 @@ Monotipik bir türdür.
 
 *Tadorna ferruginea*, Ruddy Shelduck
 
-***Yaygın ve çok sayıda bulunan yerli türdür. Kışın göç alır.***
+***Yaygın ve çok sayıda bulunan yerli türdür. Kışın göç alır, sayıları artar.***
 
-Diğer ördek ve kazların aksine sulakalanlarda üremez. Üremek için genellikle yüksek kesimlerdeki daha küçük gölcükleri, baraj göllerini, ıslak çayırları ve dereleri tercih eder. Büyük sulakalanlarda görünüşe göre üremeden orta sayılarda yazı geçirir. İlk tahminde üreyen popülasyonun 4000 ile 8000 çift arasında olduğunu öne sürmüştür [@tucker1994]. Sonrasında kış ortası su kuşu sayımlarına dayanarak azaldığı düşünülmüştür. Üreyen popülasyonun 1200-5100 çift olduğunu tahmin etmiştir [@emirogullari_inprep].
+Üremek için genellikle yüksek kesimlerdeki küçük gölcükler, baraj gölleri, ıslak çayırlar ve dereleri tercih eder. Birçok ördek ve kaz türünün aksine büyük sulakalanlarda üremez. İlk tahminde üreyen popülasyonun 4000 ile 8000 çift arasında olduğunu öne sürmüştür [@tucker1994]. Sonrasında kış ortası su kuşu sayımlarına dayanarak azaldığı düşünülmüştür. Üreyen popülasyonun 1200-5100 çift olduğunu tahmin etmiştir [@emirogullari_inprep].
 
-Temmuz eylül arasında tüy değişimi için bazı sulakalanlarda büyük sürüler halinde toplanır. 20.000 birey Erçek Gölü'nde 11.000 birey Sultan Sazlığı'nda, 10.000 birey Kulu Gölü'nde, 10.000-15.000 birey Eylül 1936'da bugün kurutulmuş olan Emir Gölü'nde 8.000 birey Kasım 2004'de Sarıyar Barajı'nda ve 6.000 birey Kuyucuk Gölü'nde kaydedilmiştir.
+Temmuz eylül arasında tüy değişimi için bazı sulakalanlarda büyük sürüler halinde toplanır. Erçek Gölü'nde 20.000 birey, Sultan Sazlığı'nda 11.000 birey, Kulu Gölü'nde 10.000 birey, Eylül 1936'da bugün kurutulmuş olan Emir Gölü'nde 10.000-15.000 birey sayılmıştır. Kış öncesinde Kasım 2004'de Sarıyar Barajı'nda 8.000 birey ve Kuyucuk Gölü'nde 6.000 birey kaydedilmiştir.
 
 En yüksek kış sayımının sadece 10.155 birey olması [@caglayan2005] ve genellikle 4000-4500 birey sayılması (Ocak-Şubat 1993'te sadece 711 birey, ama 18 Ocak 2004'te sadece Sarıyar Barajı'nda 5636 birey ve 18 Şubat 2006'da aynı yerde 7641 birey) nedeniyle kışın ülkeden göç ettiği bilinmesine rağmen özellikle ülkenin batısında olmak üzere kışın daha yaygındır ve bazen yüksek sayılarda kaydedilir. Kışlayan popülasyonun 2600 ile 28.500 birey arasında olduğu düşünülür [@emirogullari_inprep]. Dağınık biçimde kışladığını düşünülür. Bir yandan İç Anadolu'da üreme sonrası toplanan sürülerde bir azalma görülmüştür, diğer yandan baraj göllerinin sayısındaki artış nedeniyle türün üremesine uygun habitatlar hâlâ çoktur.
 
@@ -744,11 +743,9 @@ Monotipik bir türdür.
 
 ## Dikkuyruk
 
-Oxyura leucocephala
+*Oxyura leucocephala,* White-headed Duck
 
-White-headed Duck
-
-Lokal ve az sayıda üreyen yaz konuğu, nispeten yaygın ve yer yer çok sayıda bulunan geçit türü ve kış konuğudur.
+***Lokal ve az sayıda üreyen yaz konuğu, nispeten yaygın ve yer yer çok sayıda bulunan geçit türü ve kış konuğudur.***
 
 İç Anadolu'da ve belki de Akdeniz ve Doğu Anadolu'nun bu bölgeye bitişik alanlarındaki yoğun sazlık sulakalanlarda (genellikle tatlı ya da nadiren sodalı olan sığ, ötrofik göllerde) az ile orta sayılarda bulunan lokal olarak yerli ya da genellikle daha çok yarı göçmen bir türdür. Son zamanlarda üreme sezonunda birkaç defa kaydedildiği Karadeniz'deki uygun alanlarda da yuva yapabilir. Güney kıyıları ve hemen bitişiğinde iç kesimlerdeki yaz kayıtları neredeyse kesinlikle üremeyen bireylere aittir. Üremek için Niğde Akkaya Barajı'nı kullanabildiği son zamanlarda görülmüştür [@kirwan1994b]. Birçok potansiyel alanda yeteri kadar gözlem yapılmadığı ve hatta bazıları uzun yıllardır ziyaret edilmediği için Doğu Anadolu'daki üreme statüsü belirsizdir. Özellikle Van Gölü çevresinde ve Kars'taki küçük bir sulakalanda olmak üzere birkaç alanda ürediği teyit edilmiştir ancak iyice doğuda başka alanlarda de üremesi olasıdır (bunların çoğu küçük ölçekli haritalarda gösterilmemektedir).
 
