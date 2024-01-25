@@ -267,19 +267,20 @@ Monotipik bir türdür.
 
 ***Yaygın ve çok sayıda bulunan yerli türdür. Kışın göç alır, sayıları artar.***
 
-Üremek için genellikle yüksek kesimlerdeki küçük gölcükler, baraj gölleri, ıslak çayırlar ve dereleri tercih eder. Birçok ördek ve kaz türünün aksine büyük sulakalanlarda üremez. İlk tahminde üreyen popülasyonun 4000 ile 8000 çift arasında olduğunu öne sürmüştür [@tucker1994]. Sonrasında kış ortası su kuşu sayımlarına dayanarak azaldığı düşünülmüştür. Üreyen popülasyonun 1200-5100 çift olduğunu tahmin etmiştir [@emirogullari_inprep].
+Üremek için Genellikle yüksek kesimlerdeki küçük gölcükler, baraj gölleri, ıslak çayırlar ve dereleri seçer, birçok ördek ve kaz türünün aksine büyük sulakalanlarda bulunmaz. İlk tahminde üreyen popülasyonun 4000 ile 8000 çift arasında olduğu öne sürmüştür [@tucker1994]. Sonrasında kış ortası su kuşu sayımlarına dayanarak azaldığı düşünülmüştür. Üreyen popülasyonun 1200-5100 çift olduğunu tahmin etmiştir [@emirogullari_inprep].
 
 Temmuz eylül arasında tüy değişimi için bazı sulakalanlarda büyük sürüler halinde toplanır. Erçek Gölü'nde 20.000 birey, Sultan Sazlığı'nda 11.000 birey, Kulu Gölü'nde 10.000 birey, Eylül 1936'da bugün kurutulmuş olan Emir Gölü'nde 10.000-15.000 birey sayılmıştır. Kış öncesinde Kasım 2004'de Sarıyar Barajı'nda 8.000 birey ve Kuyucuk Gölü'nde 6.000 birey kaydedilmiştir.
 
-En yüksek kış sayımının sadece 10.155 birey olması [@caglayan2005] ve genellikle 4000-4500 birey sayılması (Ocak-Şubat 1993'te sadece 711 birey, ama 18 Ocak 2004'te sadece Sarıyar Barajı'nda 5636 birey ve 18 Şubat 2006'da aynı yerde 7641 birey) nedeniyle kışın ülkeden göç ettiği bilinmesine rağmen özellikle ülkenin batısında olmak üzere kışın daha yaygındır ve bazen yüksek sayılarda kaydedilir. Kışlayan popülasyonun 2600 ile 28.500 birey arasında olduğu düşünülür [@emirogullari_inprep]. Dağınık biçimde kışladığını düşünülür. Bir yandan İç Anadolu'da üreme sonrası toplanan sürülerde bir azalma görülmüştür, diğer yandan baraj göllerinin sayısındaki artış nedeniyle türün üremesine uygun habitatlar hâlâ çoktur.
+Kış aylarında daha yaygın olarak görülür. En yüksek kış sayımında ülke toplamında 10.115 birey[@caglayan2005], genellikle 4000-4500 birey sayılmıştır. Ocak-Şubat 1993'te sadece 711 birey, sadece Sarıyar Barajı'nda 18 Ocak 2004'te 5636 birey ve 18 Şubat 2006'da 7641 birey kaydedilmiştir. Bir yandan İç Anadolu'da üreme sonrası toplanan sürülerde bir azalma görülmüş, diğer yandan baraj göllerinin sayısındaki artış gözlenmiştir. Kış sayımı toplamlarının yaz sonu toplamlarından az olması, dağınık şekilde kışladığına veya kış ayında güneye göç vermesine bağlanabilir. Toplam kışlayan nüfusun 2600 ile 28.500 birey arasında değiştiği düşünülmüştür [@emirogullari_inprep].
 
 ![](images/harita_Page_013.png)
 
 **Üreme**
 
-**Yuvalama alanı:** Genellikle göl kenarlarındaki sarp kayalıklarda ve tepelerde, yamaçlardaki çukur ve çatlaklarda olmak üzere açık alanlarda ürer. Kayalıklar üzerindeki eski bir yuvada ve Beyşehir Gölü'ndeki bir adada kayaların ve harabelerin arasında ürediği kaydedilmiştir. 22-24 Mayıs 1998'de Ereğli yakınlarındaki bir kayalıkta muhtemelen eski bir Kızıl Şahin Buteo rufinus yuvasında kuluçkaya yatmış bir dişi gözlenmiştir. Yuvası Türkiye'de tanımlanmamıştır, genellikle bitki artıkları, hav tüyleri ve bazı diğer tüylerle kaplanmış bir oyuktur. 30 Nisan 2003'te Akköy yakınlarındaki dik bir yamaçtaki oyuğa (muhtemelen tavşan yuvası) giren bir dişi gözlenmiştir ancak yuva derin olduğu için incelenememiştir.\
+**Yuvalama alanı:** Genellikle göl kenarlarındaki sarp kayalıklarda ve tepelerde, yamaçlardaki çukur ve çatlaklarda olmak üzere açık alanlarda ürer. Sıkça kayalıklarda yuvalar. Beyşehir Gölü'ndeki bir adada kayaların ve harabelerin taşları arasında ürediği kaydedilmiştir. 22-24 Mayıs 1998'de Ereğli yakınlarındaki bir kayalıkta muhtemelen eski bir Kızıl Şahin yuvasında kuluçkaya yatmış bir dişi gözlenmiştir.\
+**Yuvası**: Yuvası Türkiye'de tanımlanmamıştır, genellikle bitki artıkları, hav tüyleri ve bazı diğer tüylerle kaplanmış bir oyuktur. 30 Nisan 2003'te Akköy yakınındaki dik bir yamaçtaki muhtemelen bir tavşan yuvası olan oyuğa giren bir dişi gözlenmiş, ancak oyuğun derin olması nedeniyle yuva incelenememiştir.\
 **Yumurta sayısı:** 8-12 yumurta koyduğu görülmüştür.\
-**Üreme dönemi:** Akdeniz ve Ege'de mart sonu yumurta koyabilir, diğe bölgelerde nisan ve mayıs arasında kuluçkaya başlar.
+**Üreme dönemi:** Akdeniz ve Ege'de mart sonu yumurta koyar. Kuluçka diğer bölgelerde nisan ve mayıs arasında başlar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -287,51 +288,52 @@ Monotipik bir türdür.
 
 ## Boz Ördek
 
-Anas strepera
+*Mareca strepera*, Gadwall
 
-Gadwall
+**Lokal olarak birkaç alanda yuvalar. Yaygın olarak orta sayılarda bulunan bir kış konuğudur.**
 
-Lokal ancak nispeten çok sayıda bulunan yaz konuğu ve yerli, yaygın ve çok sayıda bulunan kış konuğudur.
+En önemli üreme alanı Kızılırmak Deltası'nda 200 çift ürer. Türkiye'de toplam üreyen popülasyonun 500 ile 5000 çift arasında olduğu düşünmüştür[@tucker1994]. Bugüne gelindiğinde sayılarının azaldığı ortadadır.
 
-Kızılırmak Deltası üreyen 200 çift ile en önemli üreme alanıdır. Türkiye'de üreyen popülasyonu 500 ile 5000 çift arasında dengede olduğunu düşünmüştür [@tucker1994] ancak o günden sonra bir düşüş olduğu ortadadır.
-
-İç Anadolu'daki ilkbahar geçişi marttan nisan başına kadar belirgindir. Akdeniz'deki kıyısal sulakalanlarda nadiren 1000'den yüksek sayılarda gözlenir. Eskiden kış ortası sayımlarda daha boldur; Ocak 1967'de Manyas Gölü'nde 5000 birey, Ocak 1969'da Akşehir Gölü'nde 7500 birey ve Ocak 1971'de Hotamış Sazlığı'nda 2490 birey tek bir alanda yapılan sayımlardır. 1967-73 arasında ülke genelinde çoğunlukla 3000'den fazla kaydedilmiştir. Oysa son yıllarda (1986-2005) toplamda 1500'den az ve hatta 1000'den az kaydedilmiştir.
+İç Anadolu'daki ilkbahar geçişi marttan nisan başına kadar belirgindir. Akdeniz'deki kıyısal sulakalanlarda nadiren 1000'den yüksek sayılarda gözlenir. Kış ortası sayımlarda 1967'de Manyas Gölü'nde 5000 birey, 1969'da Akşehir Gölü'nde 7500 birey ve 1971'de Hotamış Sazlığı'nda 2490 birey sayılmıştır. 1967-73 arasında ülke genelinde çoğunlukla 3000'den fazla kaydedilmiştir. 1986-2005 arasında toplam sayı 1000-1500 seviyesine düşmüş, son yıllarda tekrar artmış, 2020 kışında Kızılırmak Deltası'nda 10.000 bireyden fazla sayılmıştır.
 
 ![](images/harita_Page_014.png)
 
 **Üreme**
 
-Göl kıyılarında ve adalarındaki yoğun vejetasyon içinde; sazlıklarda ve sık bitkilerle kaplı taşkın alanlarında ürer. Yerde bir çukurda yuva yapar, yuvayı bitkisel malzeme ve dişinin kendi tüyleriyle kaplar. Türkiye'de gözlenen yumurta sayısı 6-15 (13 yuvada), İç Anadolu'da çeşitli yerlerdeki yedi yuvada 7-15'er yumurta tespit edilmiş, ancak yuvalardaki 1-6 yumurtanın diğer ördek türlerine ait olduğu saptanmıştır. Diğer kayıtlar şöyledir 6 (1 yuvada), 7 (2 yuvada), 8 (1 yuvada), 10 (1 yuvada), 11 (1 yuvada), yumurtaların tamamlanmadığı düşünülen üç yumurtalı bir yuva kaydı da vardır. Yavru sayısı: 4 (1 yuvada), 5 (2 yuvada), 12 (1 yuvada). **KAR.** Kızılırmak Deltası'nda, 5 Mayıs 1992'de yedi yumurtalı bir yuva, 4 Haziran 1992'de altı yumurtalı bir yuva ve 11 Mayıs 1992'de 2-3 günlük 12 yavrusu ile bir dişi gözlenmiştir [@hustings1994]; ikinci kayıt yumurtlamanın nisan başında başladığını göstermektedir. **AKD.** 18 Temmuz 1972'de Karamık Gölü'nde beş yavrulu bir erişkin kaydedilmiştir. **İÇA.** Kulu Gölü'nde, 6 Mayıs 1972'de üç yuvada 3, 10 ve 11 yumurta ve 14 Temmuz 1971'de bir yuvada 7 yumurta gözlenmiş [@kasparek1987a]; ikinci kayıt telafi yumurtlaması olarak değerlendirilmiştir; Bolluk Gölü'nde 17 Mayıs 2004'te 8 yumurtalı bir yuva bulunmuştur ; Mogan Gölü'nde 1969 yılında nisan sonundan temmuza kadar yavrular gözlenmiştir. **DOA.** 26 Haziran 1991'de Ahlat'ta dört yavru, 22 Temmuz 1992'de Haçlı Gölü'nde yavrularıyla iki aile ve 6 Eylül 1973'te Van Gölü'nde beş yavru gözlenmiştir.
+**Yuvalama alanı:** Göl kıyılarında ve adalarındaki yoğun vejetasyon içinde; sazlıklarda ve sık bitkilerle kaplı taşkın alanlarında ürer. Kızılırmak Deltası, Karamık Gölü, Kulu Gölü, Bolluk Gölü, Mogan Gölü, Ahlat Sazlıkları, Haçlı Gölü ve Van Gölü'nde yuvalamıştır.\
+**Yuvası:** Yuva yerde bir çukura kurulur, bitkisel malzeme ve dişinin tüyleriyle kaplanır. **\
+Yumurta sayısı:** Türkiye'de gözlenen yumurta sayısı 6-15 arasında değişir. İç Anadolu'da 7-15 yumurtalı yuvalar görülmüş, yumurtaların içinden 1 ila 6 adedinin başka ördeklere ait olduğu tespit edilmiştir. Kulu Gölü'ndeki yuvalarda 6 Mayıs 1972'de 3-11 yumurta ve 14 Temmuz 1971'de 7 yumurta gözlenmiştir[@kasparek1987a]. 17 Mayıs 2004'te Bolluk Gölü'ndeki bir yuvada 8 yumurta sayılmıştır.\
+**Üreme dönemi:** Kızılırmak Deltası'nda nisan başında yumurta koyar [@hustings1994]. İç Anadolu'da nisan sonu ile temmuz arasında, Doğu Anadolu'da haziran ile eylül arasında yavrulara rastlanabilir.
 
 **Alttürler ve Sınıflandırma**
 
-Türkiye'de nominat alttürü bulunur.
+Türkiye'de nominat alttürü bulunur. Eskiden *Anas* cinsi altında sınıflandırılırdı.
 
 ## Fiyu
 
 *Mareca penelope*, Eurasian Wigeon
 
-***Yaygın ve çok sayıda bulunan kış konuğu ve geçit türüdür.***
+***Yaygın olarak çok sayıda bulunan kış konuğu ve geçit türüdür.***
 
-Kışın en yoğun olarak toplandığı Ege, Akdeniz ve İç Anadolu bölgelerindeki birçok sulakalanda birkaç binlik gruplar düzenli olarak sayılır. Düzenli olarak 150.000'den yüksek sayılarda kışladığı 1960 sonları ve 1970 başlarından bugüne kadar (istisna olarak 1968 başında 208.600 ve 1968-69 kış ortası sayımlarında 458.800 birey sayılmıştır) büyük bir azalış olduğu görülmektedir. 1986 ile 2005 yılları arasında 40.000'i aşan sadece dört sayım olmuştur. Çoğunluğu eylül ile ekimde (en erken 29 Ağustos) gelir, çok az sayıda nisan sonuna hatta mayısa (en geç 23 Mayıs) kalır.
+Ege, Akdeniz ve İç Anadolu'nun sulakalanlarında kalabalık sürüler halinde kışlar. 1960'lı ve 70'li yıllarda düzenli olarak ortalama 150.000 birey sayılmıştır. En yüksek sayıda 1968'de 208.600 birey, 1969'da 458.800 birey kaydedilmiştir. Bugünlere gelindiğinde ciddi bir düşüş yaşamıştır. 1986 ile 2005 arasındaki düzenli sayımlarda sadece dört yıl 40.000'dan fazla birey kaydedilmiştir. Çoğunlukla eylül sonunda gelir, nisan sonuna kadar kalır.
 
-Doğuda sadece geçiş yaparken gözlenir. İç Anadolu'dan geçişi mart sonu ve nisan baçında en belirgindir. Nadir olarak, Doğu Anadolu'da (son zamanlarda mayıs sonlarında birkaç defa kaydedilmiştir) ve muhtemelen İç Anadolu'da üremeden yazı geçirir. Her ikisi de mayıs sonunda olmak üzere iki defa Karadeniz'de ve Marmara'da, bir defa haziran sonunda Trakya'da ve bir defa da ağustos başında İç Anadolu'da kaydedilmiştir.
+İç Anadolu'da mart sonu ve nisan başı arasında yüksek sayıda geçer. Bazı göçmenler mayıs sonuna kadar kalır. Nadiren Doğu Anadolu'da ve muhtemelen İç Anadolu'da üremeden yazı geçirebilir.
 
 ![](images/harita_Page_015.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kuzey Avrupa'da yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
-Monotipik bir türdür. Eskiden *Anas penelope* olarak bilinir.
+Monotipik bir türdür. Eskiden *Anas* cinsi altında sınıflandırılırdı.
 
 ## Yeşilbaş
 
 *Anas platyrhynchos*, Mallard
 
-***Yaygın ancak nispeten seyrek yerli, yaygın ve çok sayıda bulunan kış konuğudur.***
+***Yaygın olarak üreyen bir türdür. Kışın göç alır, yüksek sayılara ulaşır.***
 
 Genellikle orta sayılarda bulunur. İç Anadolu'daki her türden sulakalanda yaygın olan yerlidir. Ülkenin geri kalanında çok yaygın olmayabilir. 1992'de Kızılırmak Deltası'nda 400-600 çift üremiştir.
 
