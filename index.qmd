@@ -27,7 +27,7 @@ Kitabın içeriği hazırlandığı sürece yayına verilecektir. Kitabın tamam
 -   Ötücüler - Serçemsiler: İncirkuşugiller, Dağbülbülleri ve Serçeler
 -   Ötücüler - Serçemsiler: İspinozlar ve Çinteler
 
-## **Neden Dijital Bir Kitap?**
+## Neden Dijital Bir Kitap?
 
 Bu kitap, 2008 yılında yayımlanan "The Birds of Turkey" kitabının Türkçe'ye çevrilmesi düşüncesinden doğmuştur. İlk çeviri taslakları oluşunca, dünyanın en zengin ornitoloji külliyatına sahip olan İngilizce dilindeki metnin anlaşılır bir şekilde Türkçeye çevirmenin zor olacağı tespit edildi. Dahası, metnin mevcut halinin okuyucu tarafından kolayca anlaşılamayacağı ve hatta aşırı akademik bulunabileceği fark edildi.
 
