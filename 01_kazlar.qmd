@@ -16,7 +16,7 @@ Geçiş sırasında tüm bölgelerde da görülen, ekimden itibaren mart sonuna 
 
 ![](images/harita_Page_002.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı:** Göllerdeki adalarda genellikle küçük gruplar halinde ürer.\
 **Yuvası**: Kulu Gölü'nde gözlenen yuvası kuru toprağa kazılmış sığ bir çukurdur ve çevredeki bitki örtüsü ve küçük tüylerle astarlanmıştır. Ereğli Sazlığı'ndaki yuvası saz ve diğer sucul bitkilerden oluşan ve su seviyesinin üstünde kalan bir yapının üzerine kurmuştur.\
@@ -39,7 +39,7 @@ Kış ortası su kuşu sayımlarında (KOSKS) ülke genelinde en yüksek sayıda
 
 ![](images/harita_Page_003.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra bölgelerinde yuvalar.
 
@@ -61,7 +61,7 @@ Her yıl çok az sayıda kaydedilen bir kış konuğudur. Hiçbir alanda düzenl
 
 ![](images/harita_Anser_erythropus.png){width="600"}
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Kuzey İskandinavya'dan Doğu Sibirya'ya uzanan tundra kuşağında ürer.
 
@@ -83,7 +83,7 @@ Tarla Kazı olarak tanımlanmış kuşlar Ege, Akdeniz ve İç Anadolu'daki sula
 
 ![](images/harita_Anser_serrirostris.png){width="600"}
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Üreme alanı Kuzey İskandinavya'dan Doğu Sibirya'ya uzanan tundra kuşağındadır.
 
@@ -101,7 +101,7 @@ Batı Avrupa'da Atlantik kıyılarında kışlayan bir türdür. Türkiye ve yak
 
 ![](images/harita_Page_005.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Orta ve Kuzey Sibirya'da Kuzey Kutup Denizi kıyı şeridinde yuvalar.
 
@@ -119,7 +119,7 @@ Bir kayıtta *bernicla* alttürü tanımlanmıştır. Kuzeybatı Avrupa'da kış
 
 ![](images/harita_Page_006.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Grönland, İzlanda, Kuzey Batı Rusya ve Baltık Denizi kıyılarında yuvalar.
 
@@ -145,7 +145,7 @@ Türkiye'den açıklamaya ihtiyaç duyulan bir yaz veya üreme kaydı vardır. 5
 
 ![](images/harita_Branta_ruficollis.png){width="600"}
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Doğu Sibirya'da tundra kuşağında yuvalar.
 
@@ -167,7 +167,7 @@ Kışın Karadeniz ve Marmara ve Ege Bölgesinde yaygın olarak en yüksek sayı
 
 ![](images/harita_Page_008.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı:** Geniş sazlık alanlar ve göl açıklığı bulunan büyük göller ve bataklıklardır.\
 **Yuvası:** Türkiye'deki bir yuvanın tarifi yapılmamıştır. Diğer yerlerde yuva su kenarında zemin üzerinde, küçük bir adacıkta veya sığ sudaki sazların üstüne kurulur. Yuva saz ve diğer sucul bitkilerden oluşan büyük bir yığının ortasındaki çukura kurulur.\
@@ -188,7 +188,7 @@ Monotipik bir türdür.
 
 ![](images/harita_Page_009.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Türkiye'de kışlayan kuşların üreleme alanının ve göç koridorları tespit edilmiştir [@article]. GPS ve GMS vericileri ile 2015-2017 yılında yapılan çalışmada yuvalama alanlarının Yamalo-Nenets özrek bölgesindeki Yamal olduğu, göçleri sırasında Ob Koyu, Turgay Ovaları, Kuzey Hazar Kıyıları, Azov Denizi gibi durak alanlar üzerinden göç ettikleri ortaya çıkmıştır.
 
@@ -206,7 +206,7 @@ Ekim sonu ve nisan başı arasında yaygın olarak az sayıda görülen bir kı�
 
 ![](images/harita_Page_010.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Avrasya'nın kuzeyinde yuvalar.
 
@@ -228,7 +228,7 @@ Monotipik bir türdür.
 
 ![](images/harita_Page_011.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Afrika'da çoğunlukla Sahra Altında yuvalar.
 
@@ -250,7 +250,7 @@ Kışlayan toplam nüfus genellikle 1000-5000 bireydir, ana kışlama alanı Yum
 
 ![](images/harita_Page_012.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı:** Geniş, sığ ve tuzlu sulakalanlarda adalar, sedde duvarları ve çalı altlarında yuvalar.\
 **Yuvası**: Avrupa'da yuvaların çoğu tavşan oyuklarında, tünelin 1-2 m içinde bulunur. Buna karşın Türkiye'deki yuvalar yerdedir. Bolluk Gölü'ndeki yuvaların bazıları tamamen açıkta, bazıları kısmen ya da tamamen çalı altında ve bir tanesi doğal bir oyuğun içinde bulunmuştur.\
@@ -275,7 +275,7 @@ Kış aylarında daha yaygın olarak görülür. En yüksek kış sayımında ü
 
 ![](images/harita_Page_013.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı:** Genellikle göl kenarlarındaki sarp kayalıklarda ve tepelerde, yamaçlardaki çukur ve çatlaklarda olmak üzere açık alanlarda ürer. Sıkça kayalıklarda yuvalar. Beyşehir Gölü'ndeki bir adada kayaların ve harabelerin taşları arasında ürediği kaydedilmiştir. 22-24 Mayıs 1998'de Ereğli yakınlarındaki bir kayalıkta muhtemelen eski bir Kızıl Şahin yuvasında kuluçkaya yatmış bir dişi gözlenmiştir.\
 **Yuvası**: Yuvası Türkiye'de tanımlanmamıştır, genellikle bitki artıkları, hav tüyleri ve bazı diğer tüylerle kaplanmış bir oyuktur. 30 Nisan 2003'te Akköy yakınındaki dik bir yamaçtaki muhtemelen bir tavşan yuvası olan oyuğa giren bir dişi gözlenmiş, ancak oyuğun derin olması nedeniyle yuva incelenememiştir.\
@@ -298,7 +298,7 @@ En önemli üreme alanı Kızılırmak Deltası'nda 200 çift ürer. Türkiye'de
 
 ![](images/harita_Page_014.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı:** Göl kıyılarında ve adalarındaki yoğun vejetasyon içinde; sazlıklarda ve sık bitkilerle kaplı taşkın alanlarında ürer. Kızılırmak Deltası, Karamık Gölü, Kulu Gölü, Bolluk Gölü, Mogan Gölü, Ahlat Sazlıkları, Haçlı Gölü ve Van Gölü'nde yuvalamıştır.\
 **Yuvası:** Yuva yerde bir çukura kurulur, bitkisel malzeme ve dişinin tüyleriyle kaplanır. **\
@@ -321,7 +321,7 @@ Ege, Akdeniz ve İç Anadolu'nun sulakalanlarında kalabalık sürüler halinde 
 
 ![](images/harita_Page_015.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Kuzey Avrupa'da yuvalar.
 
@@ -343,7 +343,7 @@ Sonbaharda göç alır ves sayıları artar. Kışlayan gruplar nisan başına k
 
 ![](images/harita_Page_016.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Göl ve nehirlerdeki adacıklarda, sazlıklarda, veya göl, sazlık veya subasar çayırların kıyılarındaki sık bitkilerin içinde ürer.\
 **Yuvası**: Yuvasını genellikle bitki örtüsünün altına, topraktaki bir oyuğa kurar. Başka bölgelerde ağaç kovuğuna yuvaladığı veya ağaçtaki, örneğin karga gibi, bir kuş yuvasını kullandığı bilinir. Bu tip yuvalara Türkiye'de henüz rastlanmamıştır.\
@@ -368,7 +368,7 @@ Tüm bölgelerde yaygın ve bol olarak kaydedilen bir geçit türüdür. Göçme
 
 ![](images/harita_Page_017.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Büyük sulakalanlarda yuvalar.\
 **Yuvası**: Kulu Gölünde bir adadaki cılız vejetasyonun içinde yuvalamıştır. Çıplak zeminde sığ bir oyuğun içindeki yuva ot ve bitki gövdeleri ile karışık olarak hav tüyleri ile kaplıdır.\
@@ -393,7 +393,7 @@ Genellikle eylül ortasından nisan başına kadar batı ve orta bölgelerinde g
 
 ![](images/harita_Page_018.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Büyük göllerde ve sulakalanlarda yuvalar.\
 **Yuvası**: Kulu Gölü'ndeki büyük adanın kenarlarındaki vejetasyonun içinde yuvalamıştır. Yerdeki bir delikte yaptığı yuvasını bitkisel malzeme, hav tüyü ve biraz tüyle kaplar.\
@@ -418,7 +418,7 @@ Nadiren Marmara, Ege ve Akdeniz'de az sayıda kışlar. Olağandışı yumuşak 
 
 ![](images/harita_Page_019.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Sazlık sulakalanlarda yuvalar.\
 **Yuvası**: Göl kenarlarındaki ıslak çayırlar, bataklıklar ve sazlıklarda, ikisinin bir arada olduğu alanlarda ve göl kenarındaki vejetasyonun içinde ürer.\
@@ -443,7 +443,7 @@ Kışın hem iç bölgelerde hem de kıyısal sulakalanlarda yüksek sayıda bul
 
 ![](images/harita_Page_020.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Göllerde ve sazlıklarda ürer.\
 **Yuvası**: Yuva ve yumurta sayısı Türkiye'de tanımlanmamıştır. Diğer yerlerde yerdeki bir oyuğa yaptığı yuvasını genellikle yapraklar, bitkisel malzemeler, hav ve kontur tüyleriyle kaplar. Sulakalanlarda yüksek otların üzerine yuvalar. Nadiren sudan uzağa yuva yapabilir.\
@@ -470,7 +470,7 @@ Amik Gölü'nün kurutulmasında önce muhtemelen önemli sayılarda bulunuyordu
 
 ![](images/harita_Page_021.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Çukurova ve Göksu Deltası'nda sığ ve ötrofik göllerde bulunmuştur. Genellikle sazlık adaların, bitişik havuzlar ve sazlıkların bulunduğu yoğun sualtı vejetasyonuna sahip sığ göllerin çevresinde ürer ve geniş sulakalanları tercih eder. Sanılanın aksine acı veya tuzlu sularda değil, tatlı suları tercih eder.\
 **Yuvası**: 9 Haziran 1993'te Göksu'da, kofanın (*Juncus*) baskın olduğu ve yakınlarda sazların (*Phragmites*) da bulunduğu bataklık bölgede sığ gölcüklerin olduğu bir alanda, yaklaşık 1 m. çapındaki bir *Juncus* kümesinin içinde, sudan yaklaşık 0,7 m yüksekte iyice gizlenmiş bir şekilde yumurtaların henüz tamamlanmadığı iki yumurtalı bir yuva bulunmuştur. Çok daha fazla yumurta için yapıldığı açıkça belli olan, sazlardan ve bitki gövdelerinden yapılmış dayanıklı ve derin bir kâse şeklindeki yuva daha ince bitkisel malzemeyle kaplanmış, hiç hav tüyü kullanılmamıştır.\
@@ -495,7 +495,7 @@ Netta rufina, Red-crested Pochard
 
 ![](images/harita_Page_022.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Yoğun sazlıkların ve su kenarı bitkilerinin bulunduğu tatlı ya da sodalı göllerde ve su aynalarına sahip sazlıklarda ürer.\
 **Yuvası**: Yerdeki bir oyuğa yaptığı yuvasını bitkisel malzeme, hav tüyleri ve tüylerle kaplar. Çoğunlukla yoğun vejetasyonun içine, nadiren açıkta (örneğin adalarda) ya da nemli alanlarda su seviyesinin üzerindeki saz öbeklerinin ya da diğer sucul bitkilerin içine genellikle iyice gizlenmiş bir yuva yapar.\
@@ -518,7 +518,7 @@ Kışın ve geçiş sırasında ülke genelinde yaygın ve boldur. Son yıllarda
 
 ![](images/harita_Page_023.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Sazlıkların olduğu göllerde ve su aynalarının bulunduğu geniş sazlıklarda ürer.\
 **Yuvası**: 19 Haziran 1984'te Erçek Gölü yakınlarındaki küçük bir gölde sık bir örtü içindeki sazların dibine tutturulmuş sakarmeke yuvasına benzer şekilde sudan yükseğe yapılmış bir yuva bulunmuştur; ölü saz gövdeleri ve diğer bitkisel malzemelerin derin, düzgün bir kâse şeklinde iç içe örülmesi ile oluşmuş dayanıklı bir yapı olan yuva bol miktarda hav tüyü ve biraz da diğer tüylerle kaplanmıştır. Diğer yerlerde, yuvalar genellikle benzer alanlardadır, nadiren su kıyısındaki yoğun bitki örtüsünün içinde kuru zeminde de olabilir.\
@@ -545,7 +545,7 @@ Geçiş sırasında az ve orta sayılarda bulunur ve ülke genelinde biraz daha 
 
 ![](images/harita_Page_024.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Çevresinde sazlıkların ve yoğun su üstü vejetasyonunun ve çoğunlukla daha geniş sazlıkların ve bataklığın bulunduğu tatlı su göllerinde ürer.\
 **Yuvası**: Su kenarındaki yoğun vejetasyonun içine yuva yapar: Kulu Gölü'ndeki bir adada, alçak çalıların arasında çıplak zeminde hafif bir çukurun içine yapılan yuvanın ot ve hav tüyleriyle kaplandığı gözlenmiştir ( [@pforr1982]; A. Limbrunner, kişisel görüşme).\
@@ -568,7 +568,7 @@ Monotipik bir türdür.
 
 ![](images/harita_Page_025.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Su üstü vejetasyonuna sahip olan tatlı su göllerinde ürer.\
 **Yuvası**: Yuvasını bir bitki öbeğinin altına kurar.\
@@ -593,7 +593,7 @@ Türün ilk yaz kaydı 30 Mayıs 1992'de Sodalı Gölü'nde kaydedilen iki erkek
 
 ![](images/harita_Page_026.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
@@ -615,7 +615,7 @@ Türkiye'de üremez, en yakın üreme kolonisi Ukrayna kıyılarındadır. Güve
 
 ![](images/harita_Page_027.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Ukrayna'daki koloni insan eli ile geliştirilmiş ve bugün doğallaşmıştır. Doğal yuvalama alanı Kuzey Atlantik, Kuzey Buz Denizi ve Bering Boğazı'dır.
 
@@ -639,7 +639,7 @@ Gürcistan'da yuvalamaya devam eden bireyler, Karadeniz kıyılarına az sayıda
 
 ![](images/harita_Page_028.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Doğu Anadolu'daki iki ya da üç yüksek irtifa gölünde üremiştir. Tüm çabalara rağmen Türkiye'de yuvası bulunamamıştır. Şu anda Kafkasya popülasyonu sadece Gürcistan'da bir gölde yuvalamaktadır.\
 **Yuvası**: Türkiye'de yuva bulunmamıştır ancak diğer yerlerde yoğun bitki örtüsünün içine gizlenmiş şekilde yerde ve genellikle göllerdeki adalarda yuva yapar.\
@@ -662,7 +662,7 @@ Karadeniz'de çoğunlukla eylül ve mart arasında çok az sayıda kaydedilen k�
 
 ![](images/harita_Page_029.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Avrasya'nın kuzeyinde yuvalar.
 
@@ -682,7 +682,7 @@ Monotipik bir türdür.
 
 ![](images/harita_Page_030.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Kuzey İskandinavya dağlarında ve Rusya ve Kuzey Amerika'nın tundra kuşağında yuvalar.
 
@@ -702,7 +702,7 @@ Karadeniz, Marmara ve Ege'nin kıyı bölgelerinde ve daha nadir olarak iç böl
 
 ![](images/harita_Page_031.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
@@ -726,7 +726,7 @@ Ancak ne tuhaftır ki, türün ilk keşfi Strickland tarafından İzmir'den alı
 
 ![](images/harita_Page_032.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Avrasya'nın kuzeyinde yuvalar.
 
@@ -746,7 +746,7 @@ Doğu Anadolu'da şubat ve martta iki defa, yazın üç kere gözlenmiştir; 11 
 
 ![](images/harita_Page_033.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
@@ -766,7 +766,7 @@ Kıyısal alanlarda ekim sonu ve nisan sonu arasında kaydedilen kış göçmeni
 
 ![](images/harita_Page_034.png)
 
-### **Üreme**
+**Üreme**
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
@@ -790,7 +790,7 @@ Kışın Akdeniz'deki birkaç sulakalanda yüksek sayıda, İç Anadolu'da genel
 
 ![](images/harita_Page_035.png)
 
-### **Üreme**
+**Üreme**
 
 **Yuvalama alanı**: Çoğunlukla büyük sulakalanların yakınlarında genellikle 10 hektardan küçük ve 2 metreden sığ, sualtı vejetasyonu bol ve su aynalarının bulunduğu geniş sazlıklara sahip olan tatlı su göllerinde ya da sodalı göllerde ürer [@anstey1989]. Aynı alanda birkaç çift üreyebilir.\
 **Yuvası**: Yuva, ölü saz gövdeleri ile diğer sucul bitkilerin düzgün bir kâse oluşturacak şekilde örülmesi ile oluşturulmuş, birkaç tutam açık gri tüyü ile astarlanmış dayanıklı bir yapıdır.\
