@@ -1,0 +1,50 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  repo-url: https://github.com/keremaliboyla/turkiye-kuslari
+  repo-actions: [edit, issue]
+  title: "Türkiye Kuşları"
+  author: "Kerem Ali Boyla"
+  date: "2024-01-18"
+  chapters:
+    - index.qmd
+    - 01_kazlar.qmd
+    - 02_tavuklar.qmd
+    - 03_balikcillar.qmd
+    # - 04_yirticilar.qmd
+    # - 05_bataklik-kuslari.qmd
+    # - 06_cilibitlar.qmd
+    # - 07_cullukgiller.qmd
+    # - 08_martilar.qmd
+    # - 09_karakuslari.qmd
+    # - 10_otucu-oncesi.qmd
+    # - 11_kargamsilar.qmd
+    # - 12_toygarlar.qmd
+    # - 13_civginlar.qmd
+    # - 14_otlegenler.qmd
+    # - 16_tirmasiklar.qmd
+    # - 17_sinekkapanlar.qmd
+    # - 19_serceler.qmd
+    # - 20_ispinozlar.qmd
+    # - ekler.qmd
+    - references.qmd
+
+bibliography: references.bib
+csl: nature.csl
+
+format:
+  html:
+    grid:
+      sidebar-width: 180px
+      margin-width: 180px
+      # gutter-width: 1.5rem
+    theme: cosmo 
+    number-depth: 1
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: cover.png
+
+editor: visual
