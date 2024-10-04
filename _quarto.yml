@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 book:
-  repo-url: https://github.com/keremaliboyla/turkiye-kuslari
-  repo-actions: [edit, issue]
+  # repo-url: https://github.com/keremaliboyla/turkiye-kuslari
+  # repo-actions: [edit, issue]
   title: "Türkiye Kuşları"
-  author: "Kerem Ali Boyla"
-  date: "2024-01-18"
+  author: "Kerem Ali Boyla, Guy Kirwan, Barbaros Demirci, Hilary Welch, Metehan Özen, Peter Castell, Tim Marlow"
+  date: "2024-10-04"
   chapters:
     - index.qmd
     - 01_kazlar.qmd
@@ -32,7 +32,7 @@ book:
     - references.qmd
 
 bibliography: references.bib
-csl: nature.csl
+csl: acta-ornithologica.csl
 
 format:
   html:
@@ -42,9 +42,12 @@ format:
       # gutter-width: 1.5rem
     theme: cosmo 
     number-depth: 1
-  pdf:
-    documentclass: scrreprt
-  epub:
-    cover-image: cover.png
+    reference-links: false  # Disable clickable reference links
+    footnotes-hover: true  # Enable mouseover pop-ups for references
+  # pdf:
+  #   documentclass: scrreprt
+  # epub:
+  #   toc: true
+  #   lang: tr-TR
 
 editor: visual
