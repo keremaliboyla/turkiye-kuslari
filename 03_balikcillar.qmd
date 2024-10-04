@@ -49,10 +49,6 @@ Monotipik bir türdür.
 
 ***Rastlantısal konuktur.***
 
-```{html}
-<iframe src="https://macaulaylibrary.org/asset/26284111/embed" height="452" width="640" frameborder="0" allowfullscreen></iframe>
-```
-
 10-16 Nisan 2006'da Ereğli Sazlığı'nda bir flamingo grubunun içinde tespit edilen kuş ilk kaydı oluşturmaktadır. Benzer tarihlerde İsrail'de de kaydedilmesi, bu kuşun yabani olduğu iddiasını desteklemiştir. Bunun ardından 30 Ocak - 30 Nisan 2009'da Gediz Deltası'nda, 3 Haziran 2009'da Kulu Gölü'nde, 22 Nisan 2011'de Kulu Gölü'nde, 21 Ocak 2012'de Enez Lagünleri'nde, 15 Nisan ve 18 Haziran ve sonrasında 24 Ekim - 2 Kasım 2012 arasında Kulu Gölü'nde ve 26 Nisan ve 11 Mayıs 2014'de ve ardından 2015'te gene Kulu Gölü'nde görülmüştür.
 
 İspanya ve Fransa'da yabani olduğu düşünülen kuşlar defalarca gözlenmiş, Güneybatı Moritanya'da en az bir kez üremiştir. Avrupa'daki kayıtların bazılarını doğal yaşam parklarından kaçan kuşlar oluşturur.
