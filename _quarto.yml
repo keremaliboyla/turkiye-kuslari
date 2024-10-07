@@ -10,9 +10,9 @@ book:
   date: "2024-10-04"
   chapters:
     - index.qmd
-    - 01_kazlar.qmd
-    - 02_tavuklar.qmd
-    - 03_balikcillar.qmd
+    - 01_ordekgiller.qmd
+    - 02_tavukgiller.qmd
+    - 03_deniz_ve_gol_kuslari.qmd
     # - 04_yirticilar.qmd
     # - 05_bataklik-kuslari.qmd
     # - 06_cilibitlar.qmd

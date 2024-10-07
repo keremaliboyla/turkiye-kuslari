@@ -1,5 +1,5 @@
 ---
-title: "Tavuksular"
+title: "Tavukgiller"
 ---
 
 ## Orman Horozu
@@ -7,6 +7,11 @@ title: "Tavuksular"
 *Lyrurus tetrix*, Black Grouse
 
 ***Türkiye'de soyu tükenmiştir. Eskiden lokal olarak az sayıda bulunan yerli türdü.***
+
+``` {=html}
+<iframe src="https://macaulaylibrary.org/asset/220309141/embed" height="519" width="640" frameborder="0" allowfullscreen>
+</iframe>
+```
 
 Relikt bir popülasyon, 19. yüzyılın sonuna kadar İstanbul çevresinde devam etmiştir [@kasparek1990a], ancak anlaşıldığı kadarıyla avlanma sonucunda soyu tükenmiştir. Türkiye'de yaşadığı ilk iki bilim insanı tarafından tespit edilmiştir [@rigler1852; @tchihatchef1864]. Son olarak İstanbul Alemdağ çevresinde bulunduğu düşünülmüş [@reiser1904] ve şehirde satılan, nereden geldiği bilinmeyen ölü erkek bireyler tespit edilmiştir [@matheydupraz1920]. Aynı dönemde Bulgaristan popülasyonunun da ciddi oranda azaldığı kaydedilmiştir [@elwes1870]; bu durum muhtemelen avcılığa bağlanmaktadır. Tür burada da uzun süreden beri tükenmiş durumdadır. Genel olarak türün küresel yayılış alanı kuzey ve batıya doğru daralmıştır [@hagemeijer1997; @madge2002; @handrinos1997]. Yunanistan'da 1935 yılından bu yana Selanik ve Rodop Dağları çevresinden dört kayıt bulunmaktadır.
 
@@ -23,6 +28,10 @@ Türkiye'de yaşamış popülasyon muhtemelen nominat *tetrix* alttürüne aitti
 *Lyrurus mlokosiewiczi*, Caucasian Grouse
 
 ***Lokal olarak az sayıda bulunan yerli bir türdür.***
+
+``` {=html}
+<iframe src="https://macaulaylibrary.org/asset/185174111/embed" height="300" width="640" frameborder="0" allowfullscreen></iframe>
+```
 
 Doğu Karadeniz Dağları'nın kuzey yamaçlarında bulunur. Ağaç sınırının üstündeki 1800-3000 metre arasındaki ormangülü (*Rhododendron*) örtüsünde yaşar. 3000 metre üzerinden gelen üreme kayıtları [@baskaya2003] doğrulama gerektirir; ancak, neredeyse yerleşim yerlerine yakın (muhtemelen 15 kilometreye kadar) ve sonbahar ile kış mevsimlerinde düşük yüksekliklerde, ağaç sınırının altında ve muhtemelen özellikle şiddetli soğuklarda daha da düşük yüksekliklerde bulunurlar. Yayılış, bodur ormangülü *Rhododendron* ile alpin çayır kuşağının altındaki huş (*Betula*) içeren yamaçlar üzerine yoğunlaşmıştır [@atkinson1995].
 
@@ -53,6 +62,12 @@ Monotipik bir türdür. Rusca literatürde çoğunlukla *Lyrurus* cinsi altında
 
 ***Lokal olarak az sayıda bulunan bir yerli türdür.***
 
+``` {=html}
+<iframe src="https://macaulaylibrary.org/asset/45286921/embed" height="452" width="640" frameborder="0" allowfullscreen>
+</iframe>
+```
+
+
 Özellikle ovalardaki tarım alanlarında, uzun boylu ot topluluklarının kenarlarında ve 2250 metreye kadar birincil yarı step alanlarda ürer. Özellikle İç Anadolu ve Doğu Anadolu'nun kuzey kısımlarında ve Karadeniz Bölgesi'nin iç kısımlarında yuvalar. Güney Anadolu'daki yayılış alanının çoğunda ise çok nadir ve lokaldir.
 
 Geçtiğimiz 20 yıl içerisinde tarımın yoğunlaşması, aşırı otlatma ve avlanma nedeniyle popülasyonu önemli derecede azalmıştır. Trakya'da yabani nesli tükenmiş olup, çeşitli kurum ve kuruluşlar tarafından nüfusu takviye amaçlı genetik yapısı farklı olan yetiştirilmiş kuşlar salınmış, ancak bu kuşlar yeni bir nüfus oluşturamamıştır. Belki de Bulgaristan'daki yabani kuşların Türkiye'ye kendiliğinden gelmesi beklenmelidir.
@@ -76,6 +91,11 @@ Trakya'da nominat *perdix* alttürü, Anadolu'da ise *canescens* alttürü bulun
 
 ***Lokal olarak az sayıda bulunan yerli türdür.***
 
+``` {=html}
+<iframe src="https://macaulaylibrary.org/asset/408807941/embed" height="452" width="640" frameborder="0" allowfullscreen>
+</iframe>
+```
+
 Türkiye'deki yerli popülasyonun yayılış alanı büyük ihtimalle Batı ve Orta Karadeniz kıyısındaki kıyısal ormanlar, "psödomaki" olarak bilinen Akdeniz bitki örtüsü ve fundalıklarla sınırlıydı. Tüm bilinen tarihi ve güncel lokaliteler haritalanmıştır [@kasparek1988c], bu yayılış noktalarının çoğu Güney Marmara ve Orta Karadeniz'de yoğunlaşmış olup, en batıda Trabzon'a kadar doğuya ulaşır. Türkiye'deki yerli bir popülasyonun varlığı bir dönem şüpheyle karşılanmışsa da [@madge2002], İstanbul bölgesinden 1792'den sonra gelen kayıtlar yerli popülasyonun varlığını desteklemiştir [@kasparek1988c].
 
 Doğal nüfusu neredeyse tamamen kaybolmuştur; yabani kuşların çoğunun soyu av için salınan kuşlara dayanır. Toplam stoktaki yerli kuşların varlığı çok sınırlıdır ve saf yerli kan, devamlı olarak av için salınan yabancı ve karışık kuşların içinde eriyip gitmiştir. Bugün doğal popülasyondan geriye kalanların Sinop bölgesinde ve yakın zamana kadar Kızılırmak Deltası ve çevresinde bulunması olasıdır. İç Anadolu, Ege ve Akdeniz'de görülen sülünler, şüphesiz doğaya salınan kuşlardan türemiştir.
@@ -98,6 +118,11 @@ Yerli popülasyon, nominat *colchicus* alttürü altında sınıflandırılmış
 *Francolinus francolinus*, Black Francolin
 
 ***Güneydoğu Anadolu ve Doğu Akdeniz'de yaygın olarak çok sayıda bulunan yerli türdür.***
+
+``` {=html}
+<iframe src="https://macaulaylibrary.org/asset/283870991/embed" height="452" width="640" frameborder="0" allowfullscreen>
+</iframe>
+```
 
 Çukurova ve Göksu Deltaları çevresinde, ayrıca Suriye sınırında Fırat ve Dicle nehirleri boyunca ürer. Doğu Akdeniz popülasyonu en iyi izlenendir. Çukurova popülasyonunun 75 çiftinin Akyatan Gölü çevresinde yoğunlaştığı, toplamda 85 çifte ulaştığı kaydedilmiştir [@magninyarar1997]. Göksu Deltası'nda, çoğu kumullarda olmak üzere 50 üreme çifti kaydedilmiştir [@magninyarar1997]. En yaygın bulunduğu bölge olan Güneydoğu Anadolu'da yaklaşık 15 lokaliteden kaydı vardır [@welch2004gap].
 
@@ -124,6 +149,11 @@ Türkiye'de nominat alttürü bulunur. Meinertzhagen tarafından Amik Gölü bö
 
 ***Yüksek dağlarda lokal olarak az sayıda bulunan yerli türdür.***
 
+``` {=html}
+<iframe src="https://macaulaylibrary.org/asset/488870631/embed" height="452" width="640" frameborder="0" allowfullscreen>
+</iframe>
+```
+
 Yüksek dağların yerlisidir. Üç önemli popülasyon Doğu Karadeniz Bölgesi, Yüksekova ile Hakkari'ye ve İran sınırına kadar uzanan Doğu Anadolu'nun dağlık kısımları ve en batı sınırını oluşturan Toroslar olarak belirtilebilir. En batıda Toros silsilesinde Bolkar ve Melendiz dağlarında kaydedilmiştir. Yaz aylarında genellikle 2400 metrenin üzerinde kaydedilir. Ancak yazın Mersin'in kuzeyindeki dağlarda 2000 metrenin altında da görülmüştür. Ara sıra sonbahar döneminde 60 bireye kadar büyük gruplar oluştururlar; bu grupların bazıları kış ortasında alçak bölgelere inenler olabilir.
 
 Eski kayıtlarda, en batıda Geyik Dağı, Alanya'nın kuzeyi ve Antalya'nın dağlık alanlarında gözlenmiştir [@kumerloeve1961]. Daha batıda Akdağlar ve Beydağları'ndaki sürekli kar örtüsüne sahip zirveler de uygun yüksekliğe sahip alanlardır.
@@ -149,6 +179,11 @@ Monotipik bir türdür. Eskiden Hakkari ve Zagros Dağları'ndaki kuşların *se
 
 ***Güneydoğu Anadolu'da yaygın olarak çok sayıda bulunan yerli türdür.***
 
+``` {=html}
+<iframe src="https://macaulaylibrary.org/asset/477954251/embed" height="452" width="640" frameborder="0" allowfullscreen>
+</iframe>
+```
+
 İlk zamanlarda çoğunlukla Suriye sınırına 50 km mesafedeki 15 lokaliteden bilinirdi. Ancak, Güneydoğu Anadolu'da yürütülen kapsamlı bir biyoçeşitlilik araştırması, uygun habitatların bulunduğu alanlarla birlikte türün hemen hemen 50 coğrafi yerde bulunduğunu göstermiştir [@zeydanli2005gap]. Çoğunlukla az sayıda gözlenir, ancak sonbaharda 40 bireylik gruplar kaydedilmiştir.
 
 ![](images/harita_Page_040.png)
@@ -169,6 +204,11 @@ Monotipik bir türdür.
 *Coturnix coturnix*, Common Quail
 
 ***Yaygın olarak çok sayıda bulunan bir yaz konuğu ve geçit türüdür. Nadiren az sayıda kışlar.***
+
+``` {=html}
+<iframe src="https://macaulaylibrary.org/asset/621228223/embed" height="549" width="640" frameborder="0" allowfullscreen>
+</iframe>
+```
 
 Çoğunlukla tahıl ekilen kurak tarlalar, bozkırlar, çayırlar ve yüksek otların bulunduğu dağlık bölgelerin yanında yoğun vejetasyonlu kumullar gibi alanlarda bulunur. Özellikle İç Anadolu'da oldukça yaygın olarak ürer, ancak hububat tarımının nispeten az olduğu kıyısal bölgelerde oldukça azdır. Doğu kesimlerinden en azından 2300 metreye kadar üreyebilir. Üreme ve geçit sırasında özellikle tahıl ekilen arazilerde bulunur.
 
@@ -194,6 +234,11 @@ Türkiye'de nominat alttürü bulunur.
 *Alectoris chukar*, Chukar Partridge
 
 ***Yaygın olarak çok sayıda bulunabilen bir yerli türdür.***
+
+``` {=html}
+<iframe src="https://macaulaylibrary.org/asset/613684169/embed" height="452" width="640" frameborder="0" allowfullscreen>
+</iframe>
+```
 
 Yaygın, Trakya ve Batı Karadeniz kıyı şeridinde nadir, Türkiye genelinde ise oldukça bol bulunan yerli bir kuş türüdür. İç bölgelerde genellikle 700-2000 metre arasında görülür ve genellikle kurak, kayalık tepe ve dağlık alanlarda, en az 2800 metreye kadar kaydedilmiştir. Hemen hemen 40 bireye kadar çıkabilen ve gençleri de içeren oldukça büyük sürüler gözlenmiştir.
 
