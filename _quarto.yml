@@ -12,7 +12,7 @@ book:
     - index.qmd
     - 01_ordekgiller.qmd
     - 02_tavukgiller.qmd
-    - 03_deniz_ve_gol_kuslari.qmd
+    - 03_deniz-ve-gol-kuslari.qmd
     # - 04_yirticilar.qmd
     # - 05_bataklik-kuslari.qmd
     # - 06_cilibitlar.qmd
@@ -24,10 +24,10 @@ book:
     # - 12_toygarlar.qmd
     # - 13_civginlar.qmd
     # - 14_otlegenler.qmd
-    # - 16_tirmasiklar.qmd
-    # - 17_sinekkapanlar.qmd
-    # - 19_serceler.qmd
-    # - 20_ispinozlar.qmd
+    # - 15_tirmasiklar.qmd
+    # - 16_sinekkapanlar.qmd
+    # - 17_serceler.qmd
+    # - 18_ispinozlar.qmd
     # - ekler.qmd
     - references.qmd
 
@@ -42,8 +42,6 @@ format:
       # gutter-width: 1.5rem
     theme: cosmo 
     number-depth: 1
-    reference-links: false  # Disable clickable reference links
-    footnotes-hover: true  # Enable mouseover pop-ups for references
   # pdf:
   #   documentclass: scrreprt
   # epub:

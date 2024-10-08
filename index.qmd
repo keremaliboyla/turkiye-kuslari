@@ -1,59 +1,76 @@
 ## Kitap Hakkında {.unnumbered}
 
-Bu kitap 2008 yılında yayımlanan “The Birds of Turkey” kitabının geliştirilmiş bir sürümüdür. Metinler Türkçeye çevrilmiş ve uyarlanmış, en güncel gözlemler ve makalelerle zenginleştirilmiştir. Ülke listesindeki bütün türlerin mevcut durumu, coğrafi yayılışı, göç hareketleri, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır ancak kitap bir saha rehberi değildir.
+Bu kitap 2008 yılında yayımlanan “The Birds of Turkey” kitabının geliştirilmiş bir sürümüdür. Metinler Türkçeye çevrilmiş ve uyarlanmış, en güncel gözlemler ve makalelerle zenginleştirilmiştir. Ülke listesindeki bütün türlerin mevcut durumu, coğrafi yayılışı, göç hareketleri, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
 
 ## Kitabın İçeriği
 
 Kitap 18 fasikülden oluşmaktadır. Fasiküller tamamlandıkça peyderpey kitaba eklenecektir.
 
 1.  Ördekgiller
+
 2.  Tavukgiller
-3.  Balıkçıllar ve diğerleri
+
+3.  Deniz ve Göl Kuşları
+
 4.  Yırtıcılar
+
 5.  Bataklık ve Kır Kuşları
+
 6.  Cılıbıtgiller
+
 7.  Çullukgiller
+
 8.  Martılar
+
 9.  Kara Kuşları
-10. Ötücü Öncesi: Papağanlar, Ağaçkakanlar ve Doğanlar
-11. Ötücüler - Kargamsılar
-12. Ötücüler - Ötleğenimsiler: Toygarlar
-13. Ötücüler - Ötleğenimsiler: Çıvgınler
-14. Ötücüler - Ötleğenimsiler: Ötleğenler
-15. Ötücüler - Tırmaşığımsılar
-16. Ötücüler - Sinekkapanımsılar
-17. Ötücüler - Serçemsiler: İncirkuşugiller, Dağbülbülleri ve Serçeler
-18. Ötücüler - Serçemsiler: İspinozlar ve Çinteler
+
+10. Papağanlar, Ağaçkakanlar ve Doğanlar
+
+    **Ötücüler**
+
+11. Kargamsılar
+
+12. Ötleğenimsiler: Toygarlar
+
+13. Ötleğenimsiler: Çıvgınler
+
+14. Ötleğenimsiler: Ötleğenler
+
+15. Tırmaşığımsılar
+
+16. Sinekkapanımsılar
+
+17. Serçemsiler: İncirkuşugiller, Dağbülbülleri ve Serçeler
+
+18. Serçemsiler: İspinozlar ve Çinteler
+
+## Kitabın Tarihçesi
+
+Bu kitap, 2008 yılında yayımlanan "The Birds of Turkey" kitabının Türkçeye çevrilmesi düşüncesiyle yola çıktı. İngilizce ornitoloji alanında en çok yayının üretildiği, teknik terimlerin oturduğu ve geliştiği bir dil. Çeviri taslakları hazırlanırken, İngilizcedeki yerleşmiş birçok kalıbın Türkçede tam karşılığının olmadığı ve çevirinin son derece zor olduğu ortaya çıktı. Ayrıca, ülkemizde kuş gözlemciliğinin yeni yaygınlaştığı göz önüne alındığında, metinlerin hedef kitle için fazla akademik bulunabileceği fark edildi. Bu nedenle, metnin tamamen gözden geçirilmesi zorunlu hale geldi.
+
+Kitabın okunabilirliğini artırmak için mevcut durum paragrafları ve vinyetler gibi okuyucu dostu unsurlar eklendi, haritalar renklendirildi ve geliştirildi. Kitabının yayımlanmasından bu yana geçen 15 yılda, kuş faunasında gözlenen değişimler ve kuş gözlemciliğinin artışıyla gelen yeni gözlemlerle metin ve haritalar güncellendi. Türkiye dışındaki bilimsel içerik çıkarıldı. Ve nihayet, her tür için bir fotoğraf eklenmesine karar verildi. Başlangıçta bir çeviri projesi olan bu çalışma, özgün içeriğe sahip yeni bir kitaba dönüştü.
+
+Ancak, bu revizyon süreci beklenenden çok daha uzun sürdü. Yazar, yayınevi ve editörle belirlenen takvimlere uyamadı, kişisel nedenlerle maratonu andıran bu yoğun çalışmaya yeterince zaman ayıramadı. Son yıllarda kağıt masraflarının artması ve kitabın 500 sayfaya ulaşması, basım kararından vazgeçilmesine yol açtı.
 
 ## Neden Dijital Bir Kitap?
 
-Bu kitap 2008 yılında yayımlanan "The Birds of Turkey" kitabının Türkçeye çevrilmesi düşüncesinden doğdu. İlk çeviri taslakları oluşunca dünyanın en zengin ornitoloji külliyatına sahip olan İngilizce dilindeki metni anlaşılır bir şekilde Türkçeye çevirmenin çok zor olacağı ortaya çıktı. Dahası metnin mevcut halinin okuyucu tarafından kolayca anlaşılamayacağı ve hatta aşırı akademik bulunabileceği fark edildi.
+Diğer yandan, yazarın internet dünyasında açık kaynak dijital yayıncılıkla tanışması, kitabın yayımlanması için yeni bir umut oldu. Kitabın, R programlama dili ve Quarto dijital yayıncılık sistemi ile yayımlanmasına karar verildi. Bu yeni kitabın basılı bir yayın yerine açık kaynak dijital formatta yayımlanmasının nedenleri şu şekilde sıralanabilir:
 
-Bunun üzerine metnin tamamen gözden geçirilmesi zorunlu hale geldi. Türkiye sınırları dışındaki bilimsel içerik kapsam dışı bırakıldı. "The Birds of Turkey" kitabının yayımlanmasından bu yana geçen 15 yıl boyunca Türkiye'deki kuş faunasındaki gelişmeler ve kuş gözlemciliğinin yaygınlaşması sayesinde artan bilgilerle metin ve haritalar güncellendi. Kitabın okunabilirliğini artırmak için mevcut durum paragrafı ve vinyetler gibi okuyucu dostu unsurlar eklendi, haritalar renklendirildi ve iyileştirildi. Başlangıçta bir çeviri projesi olarak başlayan bu çalışma özgün içeriğe sahip yeni bir kitaba dönüştü.
+-   Açık kaynak dijital kitap, hem ücretsiz hem de kuşlarla ilgilenen herkesin erişimine açıktır. Tablet, bilgisayar veya cep telefonundan rahatça okunabilir.
 
-Bu yeni kitabın basılı bir yayın olarak değil, açık kaynak dijital bir kitap formatında yayınlanmasının nedenlerini şu şekilde sıralayabilirim:
+-   Ornitoloji gibi dinamik bir alanda basılan kitaplar daha yayımlanmadan güncelliğini kaybedebilir. Kuş gözlemcilerinin eBird’e eklediği kayıtlar ve fotoğraflar sayesinde tür listesi, yayılış haritaları ve mevcut durum bilgileri hızla güncellenebilir.
 
--   Kuşlar gibi dinamik bir konu hakkında yazılan her kitap basıldığı gün güncelliğini kaybeder. Dijital bir kitabın sık sık güncellenmesi ise mümkün ve kolaydır.
+-   Kuşlar konusunda araştırma yapan akademisyenler, uzmanlar ve amatörler GitHub üzerinden metni doğrudan düzenleyebilir. Kitabın yazılışı bir kitle çalışmasına dönüşebilir.
 
--   Bu kitabın içeriği sadece yazar ve editör arasındaki metin trafiği ile gelişmemelidir. Dijital formatta içerik hakkında bilgi sahibi olan okurun katkısı her an alınabilir. Uzmanlar ve akademisyenler GitHub üzerinden metni doğrudan düzenleyebilirler.
+-   Basılı kitaplar sayfa sınırıyla kısıtlanırken, dijital kitaplarda böyle bir sınırlama yoktur.
 
--   Açık kaynak olan dijital müsvedde (manuskript) herkesin erişimine ücretsiz olarak açıktır ve bu sayede kuş bilimi (ornitoloji) kuşların tanınması ve doğa koruma ile ilgilenen herkes faydalanabilir.
+-   Dijital kitap, içerik tamamlanmadan da fasiküller halinde yayımlanabilir.
 
--   Kitaptaki kuş türleri veya kuşların yayılış haritaları eBird gibi açık kaynak veri tabanlarından gelen verilerle hızlı, hatta anlık olarak güncellenebilir.
-
--   Bir kitaptaki sayfa sayısını ekonomik nedenler ve kullanımı zorlaştırmamak için yaklaşık 500 sayfa ile sınırlamak gerekebilir. Dijital bir kitapta ise teknik bir sınırlama yoktur.
-
--   İçeriğin tamamının hazır olmadığı durumda dijital kitabı fasiküller halinde yayımlamak mümkündür.
-
-Elbette bu çalışmanın kalıcı olması için bir kitap olarak basılması her yazarın hayalidir. Dijital format sayesinde yüzlerce hatta binlerce okuyucu tarafından revize edilmiş ve içeriği iyileştirilmiş bir metnin yayına kabulü daha kolaydır.
-
-Kitabın internet formatındaki versiyonu [Quarto publishing system](https://quarto.org/) ile hazıranmıştır.
+Kitap [Quarto publishing system](https://quarto.org/) ile hazıranmıştır.
 
 ## Düzeltme Önerileri
 
-Metinde bulduğunuz yazım hatalarını, eksik bilgileri, kaynakları ve diğer düzeltme önerilinizi bana gönderebilirsiniz: kerem.boyla\@gmail.com
-
-Ayrıca uzman ve akademisyenler GitHub üzerinden metinlere erişebilirler ve düzeltmelerini gönderebilirler.
+Metindeki yazım hataları, eksik bilgiler veya düzeltme önerilerinizi yazarın e-posta adresine (kerem.boyla\@gmail.com) gönderebilirsiniz. Ayrıca, uzmanlar ve akademisyenler GitHub üzerinden metinlere erişebilir ve düzeltmelerini doğrudan paylaşabilirler.
 
 ## Telif Hakkı
 

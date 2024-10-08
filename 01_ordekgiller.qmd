@@ -37,6 +37,10 @@ Geçiş sırasında tüm bölgelerde görülen ve ekimden itibaren mart sonuna k
 
 ***Lokal olarak bulunan ve zaman zaman kalabalık sürüler oluşturan bir kış konuğudur.***
 
+<iframe src="https://macaulaylibrary.org/asset/388462091/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Ekim sonu ile nisan başı arasında lokal olarak görülen bir kış konuğudur. Genellikle ocak ve şubat aylarında daha yaygın ve yüksek sayıda olur. Soğuk geçen kışlarda Türkiye'de kışlayan birey sayısı artar. En kalabalık sürüler Meriç Nehri boyunca, Tuz Gölü çevresinde ve Konya Ovası'nda yoğunlaşır. Büyük Menderes Deltası ve Doğu Akdeniz'deki sulakalanlarda da önemli sayılarda toplanabilir. Son zamanlarda Güneydoğu Anadolu'daki baraj göllerinde küçük sürüler halinde görülmeye başlanmıştır. Nadiren yaz aylarında sulakalanlarda az sayıda birey kalabilir.
 
 Kış ortası su kuşu sayımlarında (KOSKS) ülke genelinde en yüksek sayı 1968-69 kışında 98.600 birey olarak kaydedilmiştir. 1987'de ise toplam 84.000 birey sayılmıştır. Ancak daha sonra kışlayan birey sayısında ciddi bir düşüş yaşanmıştır. 1990'lı yıllarda genellikle 20.000-30.000 arasında değişen sayılar kaydedilmiş 1993'te 11.822 [@dogalhayati1993], 1999'da 3956 [@dogalhayati1999] ve 2005'te 3891 birey [@caglayan2005] tespit edilmiştir. Kışın soğuk geçtiği 11 Şubat 2006'da Büyükçekmece'de 15.000 birey sayılmıştır, bu da son yıllardaki en yüksek sayıdır. Dolayısıyla Türkiye'de kışlayan nüfusun 1970'lerde 100.000'ler seviyesinden 2010'larda 5000 civarına indiği söylenebilir.
@@ -56,6 +60,10 @@ Türkiye'de nominat alttürü bulunur.
 *Anser erythropus*, Lesser White-fronted Goose
 
 ***Az sayıda gelen düzenli kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/499613371/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Her yıl çok az sayıda kaydedilen bir kış konuğudur. Sayıları genellikle 10'dan azdır ve diğer kaz türleriyle karışık olarak görülebilir. Bugüne kadar Türkiye'ye gelen bireylerin İskandinavya'da üreyen ve Balkan ülkelerinde kışlayan göç yoluna ait olduğu düşünülmüştür. Yunanistan'da bir alanda kışlayan ve koruma çalışmaları sayesinde sayıları artan bir sürünün kış ortasında oradan kaybolması, Marmara ve Ege bölgelerinde bir kışlama alanı olabileceği ihtimalini doğurmuştur. Ancak yapılan aramalara rağmen burada düzenli kullanılan bir kışlama alanı bulunamamıştır.
 
@@ -79,6 +87,10 @@ Monotipik bir türdür.
 
 ***Nadiren gelen kış konuğudur.***
 
+<iframe src="https://macaulaylibrary.org/asset/133735581/embed" height="538" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 2000 yılından sonra 5 kez kaydedilmiştir. 26 Şubat 2013'te Yedikır Barajı'nda, 4-21 Şubat 2015'te Kızılırmak Deltası'nda birer birey görülmüştür. 31 Ocak 2016'da Manyas Kuş Gölü'nde 3 birey kaydedilmiş, aynı alanda 2-24 Ocak 2019'da yine 3 birey gözlenmiştir. Acıgöl'de 24 Aralık 2023 ile 3 Şubat 2024 arasında bir birey gözlenmiştir.
 
 *Tundra Kazı*, önceleri *Tayga Kazı* ile beraber tek bir tür altında *Tarla Kazı* olarak sınıflandırılıyordu. Dolayısıyla, taksonomik revizyonun yapıldığı tarihten önceki kayıtlarda *Tarla Kazı* olarak tanımlanmıştır. 2000 yılından sonra çekilen fotoğraflarda özellikle gaga renklenmesi incelenmiş ve bu kuşların tamamı *Tundra Kazı* olarak tanımlanmıştır. Fotoğrafı veya betimlemesi olmayan eski kayıtların hangi türe ait olduğu ise belirsiz kalacaktır.
@@ -101,6 +113,10 @@ Tayga Kazı, yakın zamana kadar Tarla Kazı olarak bilinen bir türden ayrılan
 
 ***Rastlantısal konuktur.***
 
+<iframe src="https://macaulaylibrary.org/asset/610554075/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Batı Avrupa'nın Atlantik kıyılarında kışlayan bir türdür. Türkiye ile yakın coğrafyasında rastlantısal bir konuktur. 6 Nisan 1981'de Küçük Menderes Deltası'nda iki birey gözlenmiştir [@beaman1986]. 3-4 Eylül 1973'te Ardeşen açıklarında koyu karınlı *bernicla* alttürüne ait iki birey kaydedilmiştir [@ost1975]. 1969 yılında Acıgöl'den gelen bir iddia ise kabul edilmemiştir [@dijksen1988]. 7 Şubat 1945'te Büyükçekmece'de bir birey Prenses Zeyneb Halim tarafından vurulmuştur, ancak kuşun gövdesi korunamamıştır [@kumerloeve1970a]. Ocak 1889'da kışın soğuk geçtiği bir yılda İstanbul Maltepe'de düzenli olarak, Şubat 1891'de ise büyük sürüler halinde İstanbul Kadıköy'de görülmüştür [@matheydupraz1920].
 
 ![](images/harita_Page_005.png)
@@ -119,6 +135,10 @@ Bir kayıtta kuşun alttürü *bernicla* olarak tanımlanmıştır. Keza, Kuzeyb
 
 ***Rastlantısal konuktur.***
 
+<iframe src="https://macaulaylibrary.org/asset/524005531/embed" height="300" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 5 Ocak 2003'te Büyükçekmece Gölü'nde bir birey gözlenmiş ve detaylı olarak belgelenmiştir. 1946/47 kışında Sakarya Deltası'nda bir birey, 1961 sonbahar/kışında ise başka bir birey vurulmuştur. İkinci kuşun tahniti Eylül 1964'te Ankara'da bulunmuş, ancak sahibi tahniti satmaya yanaşmamıştır [@kumerloeve1966d]. Bu iki kaydın belgeleri yetersizdir [@kumerloeve1970a].
 
 ![](images/harita_Page_006.png)
@@ -136,6 +156,10 @@ Monotipik bir türdür.
 *Branta ruficollis*, Red-breasted Goose
 
 ***Az sayıda gelen düzensiz kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/505982161/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Türkiye'de düzenli kışladığı bilinen bir alan yoktur; ana kışlama alanı Romanya ve Bulgaristan'ın Karadeniz kıyısıdır. Özellikle soğuk kışlarda, bireyler veya gruplar halinde Türkiye'ye inerler. 1964 ile 2008 yılları arasında 64 kayda rastlanmıştır. Bu kayıtların 15'i Marmara'da, 12'si İç Anadolu'da, 8'i Karadeniz'de, 6'sı Akdeniz'de ve 4'ü Ege'de alınmıştır. Kayıtların çoğu aralık sonu ile şubat başı arasındadır. Çoğunlukla bir veya birkaç kuş sayılmış, ancak 5 kayıtta 40 ila 100 bireyden oluşan nispeten kalabalık sürüler de gözlenmiştir. 2001/2002 kışında Türkiye genelinde 192 birey sayılmıştır.
 
@@ -160,6 +184,10 @@ Monotipik bir türdür.
 *Cygnus olor*, Mute Swan
 
 ***Lokal olarak az sayıda yuvalar. Yaygın olarak ve nispeten çok sayıda bulunan bir kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/364413681/embed" height="437" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Üreme kayıtlarının çoğu üç alandan gelir: Gala Gölü, Gediz Deltası ve Kızılırmak Deltası. Ulusal üreme popülasyonu muhtemelen 20 çiftten daha azdır. Kızılırmak Deltası'ndan alınan ilk muhtemel üreme kaydı 1968 yılına aittir [@dijksen1985].
 
@@ -186,6 +214,10 @@ Monotipik bir türdür.
 
 ***Lokal olarak ve az sayıda bulunan bir kış konuğudur.***
 
+<iframe src="https://macaulaylibrary.org/asset/129297271/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 1993 yılına kadar nadir bir kış konuğu olduğu düşünülmüştür. Ancak daha sonra, önce Burdur Gölü ve Göller Bölgesi'nde, ardından Meriç Deltası'nda düzenli olarak bulunduğu tespit edilmiştir. Meriç Deltası'nda, karışık ve kalabalık kuğu sürüleri içinde sayıları 1000'e kadar ulaşabilir. İç Anadolu ve Göller Bölgesi'nde ise küçük gruplar halinde bulunur. Genellikle kasım ve nisan ayları arasında gözlenir.
 
 Türkiye'de kışlayan kuşların üreme alanları ve göç koridorları tespit edilmiştir [@article]. 2015-2017 yıllarında GPS ve GMS vericileriyle yapılan çalışmada, yuvalama alanlarının Yamalo-Nenets Özerk Bölgesi'ndeki Yamal olduğu belirlenmiştir. Göç sırasında Ob Koyu, Turgay Ovaları, Kuzey Hazar Kıyıları ve Azov Denizi gibi durak alanları üzerinden göç ettikleri ortaya çıkmıştır.
@@ -206,6 +238,10 @@ Türkiye'de Eski Dünya'da yaşayan *bewickii* alttürü bulunur; bu alttür, ga
 
 ***Yaygın olarak ve az sayıda görülen bir kış konuğudur.***
 
+<iframe src="https://macaulaylibrary.org/asset/205206641/embed" height="453" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Ekim sonu ile nisan başı arasında yaygın olarak az sayıda görülen bir kış konuğudur. Ocak ve şubat aylarında en yüksek sayıya ulaşır. Trakya'da Meriç Deltası hem Türkiye'deki ana toplama bölgesidir, üstelik türün Balkanlar'daki en önemli kışlama alanıdır. 25 Ocak 1998'de Meriç Deltası'nda 1200 birey kaydedilmiş, bu Türkiye'deki en yüksek sayıdır [@boyla1998a]. Türkiye'ye gelen kuşlar, Ukrayna ve Kırım ile Batı Karadeniz Bölgesi arasındaki deniz üzeri göç rotasını kullanır [@brazil2003]. Doğuda, 30 Ekim 1995'te Sodalı Gölü'nde 164 birey [@adizel1998], 1992'de Diyarbakır Kabaklı Barajı'nda 133 birey kaydedilmiştir [@dogalhayati1992].
 
 ![](images/harita_Page_010.png)
@@ -223,6 +259,10 @@ Monotipik bir türdür.
 *Alopochen aegyptiaca*, Egyptian Goose
 
 ***Durumu belirsizdir. Çoğunlukla egzotik tür kategorisinde değerlendirilir.***
+
+<iframe src="https://macaulaylibrary.org/asset/197858161/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 28 Nisan 1986'da Kulu Gölü'nde gözlenen bireyin doğal ve rastlantısal bir konuk olduğu düşünülmüştür. 11 Nisan 1911'de Urfa'nın güneyinde iki birey gördüğünü söyleyen Weigold'un (1912-13) kaydı kabul edilmemiştir [@kasparek1992a].
 
@@ -245,6 +285,10 @@ Monotipik bir türdür.
 *Tadorna tadorna*, Common Shelduck
 
 ***Lokal olarak az sayıda ürer. Aynı zamanda lokal olarak çok sayıda bulunabilen bir kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/617661588/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Ege Bölgesi, Göller Bölgesi, İç ve Doğu Anadolu'da geniş ve tuzlu sulakalanlarda ürer. Başlıca üreme alanları Gediz Deltası, Bolluk Gölü, Kulu Gölü, Tuz Gölü ve Van Gölü çevresidir. Gediz Deltası'nda 1996 yılında üreyen popülasyonun 8 çift olduğu tahmin edilmiştir [@eken1997a]. 24 Haziran 1992'de Bolluk Gölü'ndeki bir adada 12 yuva tespit edilmiştir.
 
@@ -274,6 +318,10 @@ Monotipik bir türdür.
 
 ***Yaygın ve çok sayıda bulunan yerli türdür. Kışın göç alır, sayıları artar.***
 
+<iframe src="https://macaulaylibrary.org/asset/612738872/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Üremek için genellikle yüksek kesimlerdeki küçük gölcükler, baraj gölleri, ıslak çayırlar ve dereleri tercih eder; birçok ördek ve kaz türünün aksine büyük sulakalanlarda yuvalamaz. İlk tahminlere göre üreyen popülasyonun 4000 ile 8000 çift arasında olduğu öne sürülmüştür [@tucker1994]. Ancak, kış ortası su kuşu sayımlarına dayanarak popülasyonun azaldığı düşünülmüş ve üreyen popülasyonun 1200-5100 çift olduğu tahmin edilmiştir [@emirogullari_inprep].
 
 Temmuz ve eylül ayları arasında tüy değişimi için bazı sulakalanlarda büyük sürüler halinde toplanır. Erçek Gölü'nde 20.000, Sultan Sazlığı'nda 11.000, Kulu Gölü'nde 10.000 ve Eylül 1936'da, bugün kurutulmuş olan Emir Gölü'nde 10.000-15.000 birey sayılmıştır. Kış öncesinde Kasım 2004'te Sarıyar Barajı'nda 8.000 birey ve Kuyucuk Gölü'nde 6.000 birey kaydedilmiştir.
@@ -299,6 +347,10 @@ Monotipik bir türdür.
 
 **Lokal olarak birkaç alanda yuvalar. Yaygın olarak nispeten az sayılarda görülen bir kış konuğudur.**
 
+<iframe src="https://macaulaylibrary.org/asset/612738872/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Kızılırmak Deltası, bu türün Türkiye'deki en önemli üreme alanıdır ve yaklaşık 200 çift burada ürer. Türkiye'de toplam üreyen popülasyonun 500 ile 5000 çift arasında olduğu düşünülmüştür [@tucker1994]. Ancak, günümüzde bu sayının azaldığı açıktır.
 
 İç Anadolu'daki ilkbahar göçü marttan nisan başına kadar belirgin bir şekilde gözlenir. Akdeniz'deki kıyısal sulakalanlarda ise nadiren 1000'den fazla birey kaydedilir. Kış ortası sayımlarda 1967'de Manyas Gölü'nde 5000, 1969'da Akşehir Gölü'nde 7500 ve 1971'de Hotamış Sazlığı'nda 2490 birey sayılmıştır. 1967-1973 yılları arasında ülke genelinde çoğunlukla 3000'den fazla birey kaydedilirken, 1986-2005 yılları arasında bu sayı 1000-1500 seviyelerine düşmüştür. Son yıllarda ise yeniden artış göstermiş ve 2020 kışında Kızılırmak Deltası'nda 10.000'den fazla birey sayılmıştır.
@@ -322,6 +374,10 @@ Türkiye'de nominat alttür görülür. Tür eskiden *Anas* cinsi altında sın�
 
 ***Yaygın olarak çok sayıda bulunan kış konuğu ve geçit türüdür.***
 
+<iframe src="https://macaulaylibrary.org/asset/415460881/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Ege, Akdeniz ve İç Anadolu'nun sulakalanlarında kalabalık sürüler halinde kışlar. 1960'lı ve 1970'li yıllarda düzenli olarak ortalama 150.000 birey sayılmıştır. En yüksek sayılar 1968'de 208.600, 1969'da ise 458.800 birey olarak kaydedilmiştir. Ancak günümüze gelindiğinde ciddi bir düşüş yaşanmış, 1986 ile 2005 yılları arasındaki düzenli sayımlarda yalnızca dört yıl 40.000’den fazla birey kaydedilebilmiştir. Genellikle eylül sonunda gelir ve nisan sonuna kadar kalır.
 
 İç Anadolu’da mart sonu ve nisan başı arasında yüksek sayılarda göç eder. Bazı göçmen bireyler mayıs sonuna kadar bölgede kalır. Nadiren de olsa, İç ve Doğu Anadolu’da üremeden yazı geçiren bireyler gözlenebilir.
@@ -341,6 +397,10 @@ Monotipik bir türdür. Eskiden *Anas* cinsi altında sınıflandırılırdı.
 *Anas platyrhynchos*, Mallard
 
 ***Yaygın olarak üreyen yerli bir türdür. Kışın göç alır, yüksek sayılara ulaşabilir.***
+
+<iframe src="https://macaulaylibrary.org/asset/46341421/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Uygun yaşam alanlarının bulunduğu bölgelerde az sayıda yuvalar. En yaygın olarak İç Anadolu Bölgesi'ndeki sulakalanlarda görülür, diğer bölgelerde ise oldukça lokal bir dağılım gösterir. En yüksek yuvalama sayısı, 400-600 çiftin kaydedildiği Kızılırmak Deltası'nda olmuştur [@hustings1994].
 
@@ -366,6 +426,10 @@ Türkiye'de nominat alttürü bulunur.
 *Spatula clypeata*, Northern Shoveler
 
 ***Lokal olarak az sayıda yuvalar. Aynı zamanda yaygın olarak çok sayıda bulunan bir geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/95213841/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 İç Anadolu ve Doğu Anadolu'daki birkaç büyük sulakalan ile Kızılırmak Deltası'nda yuvalar [@boyla2018]. 1970'lerde Kulu Gölü ve Kızılırmak Deltası bilinen üreme alanlarıdır.
 
@@ -395,6 +459,10 @@ Monotipik bir türdür.
 
 **Nispeten yaygın olarak bulunan bir geçit türü ve kış konuğudur. Nadiren yuvalar.**
 
+<iframe src="https://macaulaylibrary.org/asset/130260081/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Son yıllarda 1998 ve 1999'da, tek bir alanda, Girdev Gölü'nde üremiştir. İlkbaharda ve yazın İç Anadolu'da birçok erişkin kaydı olsa da, kanıtlanmış üreme kayıtları az sayıdadır. Üreyen popülasyonun 500 ile 1000 çift olması iddiası tamamen geçersizdir [@tucker1994].
 
 Genellikle eylül ortasından nisan başına kadar batı ve orta bölgelerde görülür.
@@ -419,6 +487,10 @@ Türkiye'de nominat alttürü bulunur.
 *Spatula querquedula*, Garganey
 
 **Yaygın olarak az sayıda üreyen bir yaz göçmenidir. Bunun yanında göç döneminde daha yaygın ve çok sayıdadır. Nadiren kışlar.**
+
+<iframe src="https://macaulaylibrary.org/asset/220079741/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Ördeklerin arasında esasen yaz göçmen olan tek türdür. Şubat ortasından itibaren görülmeye başlar, ekim sonuna kadar kalır. Leylekle beraber en erken gelen göçmen kuşlardandır. Sazlık sulakalanları tercih eder, en yoğun ürediği alanlar İç ve Doğu Anadolu'dadır. Güneydoğu Anadolu'da iki alanda üremesi olasıdır.
 
@@ -445,6 +517,10 @@ Monotipik bir türdür.
 
 ***Lokal olarak az sayıda ürer. Bunun yanında yaygın olarak ve çok sayıda bulunan kış konuğudur.***
 
+<iframe src="https://macaulaylibrary.org/asset/537642961/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 İç Anadolu, Doğu Anadolu ve Kızılırmak Deltası'nda yuvalar. Kızılırmak Deltası'nda 1992'de 15-20 çift üremiştir [@hustings1994], Doğu Anadolu'dan teyit edilmiş üreme kaydı ise çok azdır.
 
 Geçiş sırasında eylül başından nisan başına kadar ülkenin batı ve orta bölgelerinde yaygın olarak çok sayıda görülebilir. Marmara ve Karadeniz bölgelerinde ara sıra yüksek sayılarda kaydedilebilir.
@@ -469,6 +545,10 @@ Türkiye'de nominat alttürü bulunur.
 *Marmaronetta angustirostris*, Marbled Duck
 
 ***Türkiye'de üreyen nüfus yok olmuştur.***
+
+<iframe src="https://macaulaylibrary.org/asset/608306121/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Göksu Deltası'nda üreyen popülasyonun 2013 yılından sonra yok olmasıyla, üreyen tür olarak Türkiye'deki soyunun tükendiği söylenebilir. Tek tük Doğu Akdeniz, Güneydoğu ve Doğu Anadolu'da görülebilir. Marmara, Ege ve Karadeniz bölgelerinde eski tarihli kayıtları vardır. En yakın üreme alanı Irak'taki Mezopotamya Bataklıkları'dır.
 
@@ -497,6 +577,10 @@ Monotipik bir türdür.
 
 ***Lokal olarak nispeten çok sayıda ürer. Kışın daha yaygındır ve bazı alanlarda yüksek sayılarda toplanır.***
 
+<iframe src="https://macaulaylibrary.org/asset/616668773/embed" height="492" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 İç Anadolu'daki geniş sodalı ya da tatlı sazlık sulakalanlarda çok sayıda ürer. Sultansazlığı'nda yüksek sayılarda bulunur. 1990'larda Ereğli Sazlığı'nda 500 çift üremişken 1998'de sadece 20 çift üremiş, alanın kurutulmasıyla buradan tamamen yok olmuştur. Kızılırmak Deltası'nda 1992'de 50-75 çift üremiştir [@hustings1994]. Diğer alanlarda nispeten yüksek sayılarda yuvalayanlar yerli veya yarı göçmendir. Çukurova sulakalanları ve Göksu Deltası'nda üreyen nüfus 1990'dan sonra azalmıştır. Türkiye'de üreyen popülasyon 1000-5000 çift olarak tahmin edilmiştir [@tucker1994]. Son yıllarda İç Anadolu'da üreyen kuşların sayılarında yaşanan azalma, güncel ulusal nüfusun çok daha az olduğuna işaret etmektedir.
 
 Ülke genelinde geçiş sırasında doğu bölgeleri dışında daha yaygındır. Çoğu zaman yüzeyi donmaya daha az eğilimli olan baraj göllerini tercih eder. Ocak 1967'de 12.000 birey sayılmış, bunun 7000'i bugün kurutulmuş olan Amik Gölü'ndendir. Türkiye genelinde 1992'de 5249, 1996'da 6522 ve 1999'da 6228 birey sayılmıştır. 2000'li yıllarda toplam sayıda artış görülmüş, sadece Beyşehir Gölü'nde Şubat 2003'te 10.000 birey ve Ocak 2005'te 20.000 birey sayılmış, son sayımda hem toplam hem de alan rekoru kırılmıştır.
@@ -523,6 +607,10 @@ Monotipik bir türdür.
 
 **Nispeten yaygın ve çok sayıda bulunan yerli ve yarı göçmen, yaygın ve çok sayıda bulunan kış konuğudur.**
 
+<iframe src="https://macaulaylibrary.org/asset/205208751/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 İç ve Doğu Anadolu'daki sulakalanlarda orta sayılarda üreyen yerli ve yarı göçmendir. 1992'de Kızılırmak Deltası'nda 300-350 çiftin ürediği tahmin edilmiştir [@hustings1994]. Uygun habitatların azlığı nedeniyle Karadeniz, Güneydoğu Anadolu ve diğer bölgelerde lokal olarak bulunur. Muhtemelen gerçek üreme durumunu çarpıtacak şekilde, hatırı sayılır sayıda üremeyen birey özellikle İç ve Doğu Anadolu'da yazı geçirir.
 
 Kışın ve geçiş dönemlerinde ülke genelinde yaygın ve boldur. Son yıllarda ortalama 67.000 bireyden fazla sayılmaktadır. 1996 yılında Beyşehir Gölü'nde 47.000, Uluabat Gölü'nde 42.000 ve ülke genelinde toplamda 250.000 birey sayılmıştır, bu en yüksek kayıtlardandır. 1999'da Eğirdir Gölü'nde 40.000, ülke genelinde ise 137.000 kuş sayılmıştır. 18 yıllık Kış Ortası Su kuşu sayımlarının ortalaması 93.000 kuştur. İstisna olarak 1968-69 kışında 355.000 bireyin kışladığı tahmin edilmiştir. Ekim ortasından itibaren yüksek sayılar gözlemlenir; Göksu Deltası'nda Ekim 1978'de 40.000, Ekim 2002'de Sodalıgöl'de 100-130.000, Kulu Gölü'nde Kasım 1970'de 45.000 ve Kasım 1971'de 28.000 birey kaydedilmiştir.
@@ -545,6 +633,10 @@ Monotipik bir türdür.
 *Aythya nyroca*, Ferruginous Duck
 
 **Lokal olarak az sayıda üreyen yaz konuğu, yaygın ve nispeten çok sayıda bulunan geçit türü, yaygın ancak az sayıda kış konuğudur.**
+
+<iframe src="https://macaulaylibrary.org/asset/205215611/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Tüm bölgelerdeki sulakalanlarda oldukça lokal bir yaz konuğudur. En yüksek sayılarda İç ve Doğu Anadolu bölgelerinde bulunur. Kızılırmak Deltası (1992'de tahminen 150-200 çift [@hustings1994]), Kocaçay Deltası (1993'te tahminen 70 çift [@ertan1996]), Uluabat Gölü (1988'de tahminen 32 çift [@welch1998b]) ve Göksu Deltası (yaklaşık 30 çift) önemli sayılarda ürediği alanlardır. Son yıllarda gerçekleştirilen çalışmalarda Güneydoğu Anadolu'da üç yeni üreme alanı belirlenmiştir. Yaz göçmenleri mart ortasından eylül sonuna kadar gözlenir.
 
@@ -574,6 +666,10 @@ Monotipik bir türdür.
 
 ***Lokal ve az sayıda üreyen yaz konuğu, nispeten yaygın ve çok sayıda bulunan kış konuğudur.***
 
+<iframe src="https://macaulaylibrary.org/asset/615174378/embed" height="492" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Çok nadir ve lokal olarak üremiştir. Kızılırmak Deltası'nda ve 1967 ile 1981'de Çalı Gölü'nde (Kars) ürediği kanıtlanmış, son alanda 20 çiftlik bir popülasyon tespit edilmiştir. Başka bölgelerde düzenli olarak yazı geçirir. Uluabat Gölü ve Uyuz Gölü gibi bazı alanlardaki uygun habitatlarda çiftler gözlenmiştir. Üreme sonrasında, Temmuz 1982'de Kulu Gölü'nde tüy değişimi için toplandıkları düşünülen 700 birey [@kasparek1987a], Eylül 1967'de ise Sodalı Gölü'nde çoğu erkek olan 1200 birey sayılmıştır.
 
 Ülkenin batı ve orta bölgelerinde eylül başından nisan başına kadar kaydedilen yaygın ve bol bulunan bir geçiş türü ve kış konuğudur. Karadeniz'de denizde kışlar. Kış ortası sayımlarında; 1968-69 kışında 20.800 birey, 1996'da en yüksek sayı olan 58.271 birey, 1992'de yaklaşık 13.000 birey, 1993'te 16.965 birey (sadece Eğirdir Gölü'nde 10.478 birey) ve 1999'da 18.512 birey kaydedilmiştir. Son yıllarda ise ülke toplamı genellikle 5000-10.000 birey arasındadır. En önemli kışlama alanları Sapanca Gölü ve Eğirdir Gölü'dür.
@@ -597,6 +693,10 @@ Monotipik bir türdür.
 
 ***Özellikle Karadeniz kıyılarında az sayıda ve düzenli olarak görülen kış konuğudur.***
 
+<iframe src="https://macaulaylibrary.org/asset/284407991/embed" height="552" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Karadeniz ve Marmara Bölgesi'nde hemen hemen her yıl az sayıda görülmektedir. Modern kuş tayininin başlaması sonrasında gelen kayıtlar şöyledir [@ost1969; @ost1972; @ost1975; @ost1978]: Ocak-Şubat 1969'da Sakarya Deltası'nda yedi birey, Manyas ya da Uluabat Gölü'nde dört birey görülmüştür. Kızılırmak Deltası'ndaki Liman Gölü'nde 1990'ların başlarında kışlayan 38 birey, 1970'lerde aynı alandan bildirilen şüpheli kayıtların [@dijksen1985] geçerli olabileceğini düşündürür.
 
 Çoğu İstanbul civarından olan geçmiş veriler şöyledir: Şubat 1893'te Çekmece'de daha çok dişi ve gençlerden oluşan bir grup gözlenmiş ve şu anda Sofya Doğa Tarihi Müzesi'nde bulunan erkek örnek toplanmıştır [@alleon1880]. İstanbul Robert Kolej'de bulunan dişi örnek [@matheydupraz1920], 1998'deki bir ziyarette bulunamamıştır [@kirwan1997a]. 1946-47 ve 1947-48 kışlarında Çatalağzı açıklarında (Zonguldak) belirsiz sayıda gözlenmiş [@ogilvie1954], 15 Ocak 1950'de bilinmeyen bir yerden altı örnek alınmıştır [@kumerloeve1970a]. Büyükçekmece'de Ocak 1963'te bir erkek ve Şubat 1964'te bir dişi kaydedilmiştir [@kumerloeve1970a].
@@ -619,6 +719,10 @@ Türkiye'de nominat alttürü bulunur.
 
 ***Karadeniz kıyılarında nadiren az sayıda görülür.***
 
+<iframe src="https://macaulaylibrary.org/asset/214129151/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 İlk üç kayıt şu şekildedir: 20 Eylül 1983'te Çernek Gölü'nde (Kızılırmak Deltası) bir erkek [@dijksen1985], 3 Ocak 1984'te Göksu Deltası'nda ölü bir dişi [@kasparek1990a], 1 Şubat 1997'de Sakarya Nehri deltasının batısında, Kefken açıklarında iyi tanımlanmış ilk kışında bir erkek ve iki dişi [@welch1998a] bulunmuştur. Bundan sonra Riva, Terkos Gölü kıyıları, İğneada, Kızılırmak Deltası, İzmit Körfezi ve Sakarya Karasu'da 20'den fazla kayıtta 1-3 birey tespit edilmiştir.
 
 Türkiye'de üremez, en yakın üreme kolonisi Ukrayna kıyılarındadır. Güvenilir kayıtların tümü, 1975 yılında Ukrayna'nın Karadeniz kıyısında bir üreme alanının keşfedilmesinden sonra olmuştur. Bu popülasyon 1990'ların ortasına kadar 1000 çifte ulaşmış ve günümüze kadar artmaya devam etmektedir.
@@ -640,6 +744,10 @@ Türkiye'de yuvalamaz. Ukrayna'daki koloni insan eliyle oluşturulmuş, kolonide
 *Melanitta fusca*, Velvet Scoter
 
 ***Türkiye'de üreyen nüfus yok olmuştur. Karadeniz kıyılarına az sayıda kışlar.***
+
+<iframe src="https://macaulaylibrary.org/asset/617351157/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Doğu Anadolu'da az sayılarda kaydedilen çok lokal bir yaz konuğu idi. Az sayıda yüksek irtifa göllerinde 3000 m'nin üstünde üremiş olduğu düşünülür. Aktaş Gölü (Ardahan) kesin olarak ürediği tek alandır. 3 Ekim 1980'de 100 birey [@vanderven1980birds] ve 14-15 Temmuz 1994'te aralarında gençlerin de bulunduğu 725 birey [@yarar1995aktas] kaydedilmiştir.
 
@@ -668,6 +776,10 @@ Monotipik bir türdür. Eskiden Amerika ve Doğu Sibirya'da yaşayan Ak Kanatlı
 
 ***Nadir kış konuğudur.***
 
+<iframe src="https://macaulaylibrary.org/asset/312103501/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Karadeniz'de çoğunlukla eylül ve mart arasında çok az sayıda kaydedilen kış göçmenidir. Düzenli olarak sadece Kızılırmak ve Yeşilırmak deltalarının açıklarında 20 birey kışlamaktadır. Karadeniz kıyısında toplam 20'den fazla kaydı vardır. Marmara ve Ege'de çok nadirdir, Akdeniz'de sadece bir kere kaydedilmiştir.
 
 9 Nisan 1967'de Kocaçay Deltası'nda kaydedilen bir birey ülke için kabul edilebilir ilk kayıttır [@ost1969]. Öncesinde Ege'de nadir bir kış göçmeni olduğundan [@kruper1875] ve İstanbul Boğazı ile Ceyhan Deltası'ndaki şüpheli kayıtlardan [@kumerloeve1961] bahsedilmiştir.
@@ -687,6 +799,10 @@ Monotipik bir türdür.
 *Clangula hyemalis*, Long-tailed Duck
 
 ***Nadir kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/52256011/embed" height="487" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Şubat 1893'te İstanbul (Büyük?) Çekmece'de, Alléon tarafından toplanan genç bir dişi ülke için ilk kayıttır ve bu örnek Sofya Doğa Tarihi Müzesi'nde görülebilir. Ardından, 13 Kasım 1968'de İzmit'te genç bir birey kaydedilmiştir [@ost1975]. Göksu Deltası Paradeniz Gölü'nde 1-2 Ocak 1986'da bir birey ve 5 Ocak 1989'da bir dişi [@kasparek1990a] görülmüştür. Sakarya Nehri ağzında 18 Şubat 2004'te [@balmer2004b]; 26 Şubat 2006'da Fırtına Nehri'nin ağzında birer birey fotoğraflanmıştır. En güncel kayıtlara göre; 7-19 Ocak 2008'de İğneada'da erişkin bir dişi, 13 Şubat 2008'de Kıyıköy'de bir erkek, 10 Aralık 2008'de İğneada'da bir birey (on üçüncü kaydı) ve 28 Mart 2009'da Enez'de bir birey (on dördüncü kaydı) görülmüştür [@kirwan2014].
 
@@ -708,6 +824,10 @@ Monotipik bir türdür.
 
 ***Nispeten yaygın ve az sayıda kış konuğudur.***
 
+<iframe src="https://macaulaylibrary.org/asset/400750741/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Karadeniz, Marmara ve Ege'nin kıyı bölgelerinde ve daha nadir olarak iç bölgelerdeki sulakalanlarda ekim sonu ve nisan sonu arasında nadir bir kış konuğudur. En düzenli olarak Marmara ve Karadeniz bölgelerinde görülür. Kışın ülke çapında görülen kuş sayısı nadiren 100 bireyi geçer. 3 Şubat 1992'de Kızılırmak Deltası'nın açıklarında gözlenen 200 birey, kaydedilen en yüksek sayıdır. 2005-06 kışında Gediz Deltası'nda 72 birey, 3 Şubat 2002'de Gala Gölü'nde 60 birey sayılmıştır [@demirci2002]. Son yıllarda ilkbahar sonunda Doğu Karadeniz'de kaydedilmiştir.
 
 1977 ile 1993 yılları arasında Doğu Anadolu'da, çoğunluğu Van Gölü'nde olmak üzere, bir dizi yaz kaydı vardır ve bu kayıtlarda bazen birden fazla birey gözlenmiştir. Bu kayıtlar, yakınlarda üreyen bir popülasyonun ihtimalini düşündürmüştür [@kasparek1992a].
@@ -727,6 +847,10 @@ Türkiye'de nominat alttürü bulunur.
 *Mergellus albellus,* Smew
 
 ***Kuzey bölgelerine az sayıda gelen bir kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/400750741/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Kasımdan nisan ortasına kadar ülkenin batı ve orta bölgelerindeki sulakalanlarda ve kıyılarda tipik olarak nadir ve muhtemelen düzensiz bir kış konuğudur. En çok Marmara, Karadeniz ve İç Anadolu'da kaydedilir. Her kış genellikle 100 bireyden daha azdır. Uluabat Gölü'nde 1967'de 300, 1969-70'de 1300, 1973'te 555, 1989'da 111 ve 1995'te 248 birey kaydedilmiştir. 1992'de Manyas Gölü'nde 102 ve 1993'te Büyükçekmece'de 79 birey kışlamıştır.
 
@@ -752,6 +876,10 @@ Monotipik bir türdür. Türkiye'de tanımlanmıştır.
 
 ***Nadir kış konuğudur.***
 
+<iframe src="https://macaulaylibrary.org/asset/523641431/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Özellikle Marmara ve Karadeniz bölgelerinde az sayıda kaydedilen nadir bir kış konuğudur. 1997-2007 arasında artan gözlemci aktivitesine karşın sadece 10 kere kaydedilmiştir [@kirwan2003]. Genellikle kıyısal sulakalanlarda görülür ve en düzenli olarak Kızılırmak ve Yeşilırmak deltalarında kaydedilir. Kızılırmak Deltası'nda görüldüğü en geç tarih 20 Mayıs'tır.
 
 Doğu Anadolu'da şubat ve martta iki defa, yazın ise üç kere gözlenmiştir; 11 Haziran 1970'de Pasinler ile Horasan arasında Aras Nehri üzerinde bir çift, 7 Haziran 1986'da Van Gölü'nde bir birey ve 29 Haziran 1988'de Bendimahi Deltası'nda bir dişi ya da genç birey kaydedilmiştir. Kurutulmadan önce Sevan Gölü (Ermenistan) havzasında üreyen bir tür olduğu düşünülmüş, ancak ürediğine dair bir kanıt elde edilmemiştir [@adamian1999].
@@ -772,6 +900,10 @@ Türkiye'de nominat alttürü bulunur.
 
 ***Nispeten lokal olarak ve orta sayılarda görülen bir kış konuğudur.***
 
+<iframe src="https://macaulaylibrary.org/asset/308099861/embed" height="453" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Kıyısal alanlarda ekim sonu ve nisan sonu arasında kaydedilen kış göçmenidir. En çok sayıda Doğu Karadeniz, Marmara ve Ege'de kaydedilir. Gediz Deltası'nda düzenli olarak yaklaşık 100 birey konaklar; Şubat 1996'da 397 birey sayılmıştır. Büyük Menderes Deltası'nda Şubat 1993'te 67 birey ve Yumurtalık'ta 44 birey kaydedilmiştir. Ege ve Doğu Akdeniz'deki alanlarda düzenli olarak önemli sayılarda kışlar [@eken1997d]. Akdeniz kıyılarında seyrek olsa da Kıbrıs'ta oldukça düzenli bir türdür.
 
 20-21 Mayıs 1994'te Göksu Deltası'nda geç kalmış bir birey kaydedilmiştir (Birdquest Newsletter 23: 59). Tek yaz kaydı 11 Haziran 1964'te Amik Gölü'nde (Antakya) kaydedilen yedi veya sekiz bireydir [@kumerloeve1966-67].
@@ -791,6 +923,10 @@ Monotipik bir türdür.
 *Oxyura leucocephala,* White-headed Duck
 
 ***Lokal olarak az sayıda üreyen yaz konuğu, nispeten yaygın ve yüksek sayıda bulunabilen geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/79940631/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 İç Anadolu ve Doğu Anadolu'da tatlı veya acı (sodalı), sığ ve ötrofik göllerdeki yoğun sazlık sulakalanlarda az ila orta sayıda yuvalar. Van Gölü çevresinde ve Kars'taki küçük sulakalanlarda ürediği teyit edilmiştir. Doğu Anadolu'daki diğer alanlardaki üreme durumu belirsizdir. Niğde Akkaya Barajı'nda üremiştir [@kirwan1994b]. Üreme döneminde kaydedildiği Karadeniz Bölgesi'ndeki bazı alanlarda yuvalayabilir. Doğu Akdeniz sulakalanlarında yaz kayıtları, üremeyen bireylere aittir.
 
