@@ -824,7 +824,7 @@ Monotipik bir türdür.
 
 ***Nispeten yaygın ve az sayıda kış konuğudur.***
 
-<iframe src="https://macaulaylibrary.org/asset/400750741/embed" height="519" width="640" frameborder="0" allowfullscreen>
+<iframe src="https://macaulaylibrary.org/asset/302724391/embed" height="300" width="640" frameborder="0" allowfullscreen>
 
 </iframe>
 
