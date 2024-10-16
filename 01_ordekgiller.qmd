@@ -202,7 +202,7 @@ Kış aylarında Karadeniz, Marmara ve Ege Bölgelerinde yaygın olarak en yüks
 **Yuvalama Alanı:** Geniş sazlık alanlar, su aynası bulunan büyük göller ve bataklıklarda yuvalar.\
 **Yuvası:** Türkiye'de henüz bir yuva tarifi yapılmamıştır. Diğer bölgelerde yuva su kıyısındaki zemin üzerinde, küçük bir adacıkta ya da sığ sudaki sazların üstüne kurulur. Yuva, saz ve diğer sucul bitkilerden oluşan büyük bir yığının ortasında çukur şekilli bir yapıdır.\
 **Yumurta Sayısı:** Türkiye'deki yumurta sayısı bilinmez. Ancak Türkiye dışındaki yuvalarda genellikle 5-7 yumurta bıraktığı bilinmektedir.\
-**Üreme Dönemi:** Nisan başında yumurtlamaya başlar, yavrular ise mayıs ve temmuz ayları arasında görülür. 13 Mayıs 1899'da İzmir'de bir sazlıkta yuvalayan bir çift kaydedilmiştir [@selous1900]. 6 Temmuz 1976'da Ereğli Sazlığı'nda bir çift ve 4-5 genç yavru, 17 Temmuz 1982'de bir çift ve dört genç, 16 Mayıs 1987'de ise yumurtadan yeni çıkmış yavrular gözlenmiştir.
+**Üreme Dönemi:** Nisan başında yumurtlamaya başlar, yavrular ise mayıs ve temmuz ayları arasında görülür. **EGE.** 13 Mayıs 1899'da İzmir'de bir sazlıkta yuvalayan bir çift kaydedilmiştir [@selous1900]. **İÇA.** 6 Temmuz 1976'da Ereğli Sazlığı'nda bir çift ve 4-5 genç yavru, 17 Temmuz 1982'de bir çift ve dört genç, 16 Mayıs 1987'de ise yumurtadan yeni çıkmış yavrular gözlenmiştir.
 
 **Alttürler ve Sınıflandırma**
 
@@ -300,12 +300,9 @@ Kışlayan toplam nüfus genellikle 1000-5000 birey arasında değişir. Ana kı
 
 **Üreme**
 
-**Yuvalama Alanı:** Geniş, sığ ve tuzlu sulakalanlarda, adalar, sedde duvarları ve çalı altlarında yuvalar.
-
-**Yuvası:** Avrupa'da yuvaların çoğu tavşan oyuklarında, tünelin 1-2 metre içinde bulunur. Ancak Türkiye'deki yuvalar genellikle yerdedir. Bolluk Gölü'ndeki yuvaların bazıları tamamen açıkta, bazıları ise kısmen ya da tamamen çalı altında, bir tanesi ise doğal bir oyuğun içinde bulunmuştur.
-
-**Yumurta Sayısı:** Genellikle 6-9 yumurta bıraktığı gözlenmiştir. Bolluk Gölü'ndeki yuvalarda gözlenen 10-18 yumurtanın, birden fazla dişi tarafından bırakılmış olması muhtemeldir.
-
+**Yuvalama Alanı:** Geniş, sığ ve tuzlu sulakalanlarda, adalar, sedde duvarları ve çalı altlarında yuvalar.\
+**Yuvası:** Avrupa'da yuvaların çoğu tavşan oyuklarında, tünelin 1-2 metre içinde bulunur. Ancak Türkiye'deki yuvalar genellikle yerdedir. Bolluk Gölü'ndeki yuvaların bazıları tamamen açıkta, bazıları ise kısmen ya da tamamen çalı altında, bir tanesi ise doğal bir oyuğun içinde bulunmuştur.\
+**Yumurta Sayısı:** Genellikle 6-9 yumurta bıraktığı gözlenmiştir. Bolluk Gölü'ndeki yuvalarda gözlenen 10-18 yumurtanın, birden fazla dişi tarafından bırakılmış olması muhtemeldir.\
 **Üreme Dönemi:** Gediz Deltası'nda haziran başında yavrular gözlenmiştir [@eken1997a]. İç Anadolu'da nisan sonu ile haziran başında, Doğu Anadolu'da ise haziran ortasında yumurtladığı düşünülmektedir.
 
 **Alttürler ve Sınıflandırma**
@@ -648,12 +645,9 @@ Geçiş sırasında az ve orta sayılarda bulunur ve ülke genelinde biraz daha 
 
 **Üreme**
 
-**Yuvalama Alanı:** Çevresinde sazlıkların, yoğun su üstü vejetasyonunun ve çoğunlukla daha geniş sazlıkların ve bataklıkların bulunduğu tatlı su göllerinde ürer.
-
-**Yuvası:** Su kenarındaki yoğun vejetasyonun içine yuva yapar. Kulu Gölü'ndeki bir adada, alçak çalıların arasında çıplak zeminde hafif bir çukurun içine yapılan yuvanın ot ve hav tüyleriyle kaplandığı gözlenmiştir ([@pforr1982]; A. Limbrunner, kişisel görüşme).
-
-**Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı 6-8 arasındadır.
-
+**Yuvalama Alanı:** Çevresinde sazlıkların, yoğun su üstü vejetasyonunun ve çoğunlukla daha geniş sazlıkların ve bataklıkların bulunduğu tatlı su göllerinde ürer.\
+**Yuvası:** Su kenarındaki yoğun vejetasyonun içine yuva yapar. Kulu Gölü'ndeki bir adada, alçak çalıların arasında çıplak zeminde hafif bir çukurun içine yapılan yuvanın ot ve hav tüyleriyle kaplandığı gözlenmiştir ([@pforr1982]; A. Limbrunner, kişisel görüşme).\
+**Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı 6-8 arasındadır.\
 **Üreme Dönemi:** Nisan ile haziran başı arasında yumurta bırakır. Yavrular ağustos ayına kadar gözlenebilir. **MAR.** 19 Haziran 1999'da Uluabat Gölü'nde bazıları küçük yavrulardan oluşan birkaç yavru grubu gözlenmiş, 1966'da Manyas Gölü'nde de yavrular kaydedilmiştir. **KAR.** Kızılırmak Deltası'nda çiftlerin çoğu sazlık alanlarda gözlenmiştir. 5 Mayıs 1992'de altı yumurtalı bir yuva bulunmuş ve 1 Haziran 1992'de yumurtlamanın nisan sonlarından daha geç olmadığını gösteren üç ve dört yavrulu iki grup kaydedilmiştir [@hustings1994]. 6 Ağustos 1971'de yedi yavrulu bir grup gözlenmiştir. **AKD.** 15 Mayıs 1962'de Çukurova'da sekiz yumurtalı bir yuva [@kirwan1997b], 8 Mayıs 1953'te Amik Gölü'nde yumurtalı bir yuva [@kirwan1997b], ve 27 Mayıs 1933'te yumurta kanalında yumurta bulunan bir dişi vurulmuştur [@meinertzhagen1935]. Göksu Deltası'nda en erken 17 Haziran'da olmak üzere yedi yuva alanında yavrular gözlenmiştir. **İÇA.** 28 Nisan 1982'de Sultansazlığı'nda yumurtalı bir yuva bulunmuştur [@kirwan1997b]. Mayıs 1973'te Kulu Gölü'nde altı yumurtalı bir yuva bulunmuştur. En erken 20 Haziran'da Eber Gölü'nde olmak üzere Çöl Gölü, Gönenç Gölü, Sultansazlığı, Mogan Gölü ve Kulu Gölü'nde yavrular gözlenmiştir. **DOA.** Yumurtlamanın mayıs sonunda olduğunu gösteren gözlemler 1985 ve 1987 yıllarında haziran sonunda Van Gölü'nde ve 29 Haziran 1987'de Edremit Sazlığı'nda yapılmıştır [@kirwan1997b].
 
 **Alttürler ve Sınıflandırma**
@@ -942,8 +936,7 @@ Kışın Akdeniz'deki birkaç sulak alanda yüksek sayıda, İç Anadolu'da gene
 
 **Yuvalama alanı:** Çoğunlukla büyük sulak alanların yakınlarında genellikle 10 hektardan küçük ve 2 metreden sığ, sualtı vejetasyonu bol ve su aynalarının bulunduğu geniş sazlıklara sahip tatlı su göllerinde ya da sodalı göllerde ürer [@anstey1989]. Aynı alanda birkaç çift üreyebilir.\
 **Yuvası:** Yuva, ölü saz gövdeleri ile diğer sucul bitkilerin düzgün bir kâse oluşturacak şekilde örülmesi ile oluşturulmuş, birkaç tutam açık gri tüy ile astarlanmış dayanıklı bir yapıdır.\
-**Yumurta sayısı:** Bir yuvada en fazla 10 yumurta kaydedilmiştir. 19 Haziran 2004'te aynı gölde diz boyu derinliğindeki suda yoğun bir sazlığın içinde iyice gizlenmiş bir şekilde suyun üzerinde dikey sazların dibine tutturularak yapılmış bir yuvada on yumurtalı tamamlanmış bir kuluçka bulunmuştur. Diğer yerlerde olağan yumurta sayısı 5-12'dir. Dikkuyruk, vücut ölçülerine göre son derece büyük ve ağır yumurtalar koyar; yuva bu ağırlık nedeniyle suya batabilir.
-
+**Yumurta sayısı:** Bir yuvada en fazla 10 yumurta kaydedilmiştir. 19 Haziran 2004'te aynı gölde diz boyu derinliğindeki suda yoğun bir sazlığın içinde iyice gizlenmiş bir şekilde suyun üzerinde dikey sazların dibine tutturularak yapılmış bir yuvada on yumurtalı tamamlanmış bir kuluçka bulunmuştur. Diğer yerlerde olağan yumurta sayısı 5-12'dir. Dikkuyruk, vücut ölçülerine göre son derece büyük ve ağır yumurtalar koyar; yuva bu ağırlık nedeniyle suya batabilir.\
 **Üreme dönemi:** Mayıs başı ve temmuz başı arasında yumurta koyar. Eylül sonuna kadar yavrular görülebilir. **İÇA.** 13 Temmuz 1987'de Kulu Gölü'ndeki sazlıkların içindeki yuvada yedi yumurta gözlenmiştir; muhtemelen dişinin kuluçkaya ara vermesi nedeniyle yuva ve yumurtalar kısmen su altında kalmıştır [@anstey1989]. Üreme kayıtlarının çoğu 3-10 yavrudan oluşan gruplardır: İç Anadolu'daki en erken kayıt, 5 Haziran 1975'te Kulu Gölü'nde gözlenen üç büyük ve üç hav tüylü yavrudur; bu durum yumurtlamanın mayıs başında olduğunu gösterir. 6 Ağustos 1972'de (kurutulmuş) Gönenç Gölü'nde 20 günlük beşer yavrularıyla iki dişi ve dört günlük altı yavrulu bir dişi gözlenmiştir; bu kayıtlar yumurtlamanın haziran ortası ile temmuz başında olduğunu göstermektedir. İç Anadolu'da, temmuz ve ağustosta birçok yavrulu aile kaydedilmiştir. **DOA.** Haziran-eylül ayları arasında Van Gölü'nde 9 Haziran 1987 ve 14 Haziran 1990'da gözlenen genç bireyler, yumurtlamanın mayıs ortasında olduğunu göstermektedir. Temmuz-ağustos arasındaki diğer kayıtlar, yumurtlamanın haziran ortasında başladığını düşündürmektedir. Erçek Gölü yakınlarındaki küçük bir gölün ortasında dikey sazlardan oluşan bir adada bir yuva bulunmuştur; sucul bitkiler kullanılarak sazların dibine yapılmış olan yuvada 11 Haziran 2001'de iki yumurta olduğu, kuluçkanın henüz tamamlanmadığı gözlenmiştir; alanda sekiz erkek ve yedi dişi birey kaydedilmiştir. Ancak oldukça kapsamlı bir araştırma yapılmasına rağmen başka bir yuva bulunmaması, üremenin henüz tam anlamıyla başlamadığını göstermektedir.
 
 **Alttürler ve Sınıflandırma**

@@ -13,7 +13,7 @@ book:
     - 01_ordekgiller.qmd
     - 02_tavukgiller.qmd
     - 03_deniz-ve-gol-kuslari.qmd
-    # - 04_yirticilar.qmd
+    - 04_yirticilar.qmd
     # - 05_bataklik-kuslari.qmd
     # - 06_cilibitlar.qmd
     # - 07_cullukgiller.qmd

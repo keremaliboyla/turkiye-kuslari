@@ -289,7 +289,7 @@ Monotipik bir türdür.
 
 </iframe>
 
-Yakın zamana kadar yalnızca birkaç kaydı bulunan nadir bir konuk olduğu düşünülmekteydi. Ancak, 6 Ağustos 2010'da Didim açıklarında iki kuş fotoğraflanmış [@balmer2001], bunu takiben ağustos ve ekim ayları arasında bu sularda düzenli olarak ve Bozcaada ile Kaş arasında az sayıda kaydedilmiştir.
+Yakın zamana kadar yalnızca birkaç kaydı bulunan nadir bir konuk olduğu düşünülmekteydi. Ancak, 6 Ağustos 2010'da Didim açıklarında iki kuş fotoğraflanmış [@balmer2001] ve üremeyen bir popülasyonun varlığı tespit edilmiştir [@Onmus2022]. Bunu takiben ağustos ve ekim ayları arasında bu sularda düzenli olarak ve Bozcaada ile Kaş arasında az sayıda kaydedilmiştir.
 
 2010 yılı öncesi kayıtlar şu şekildedir: 15 Mart 1972'de İzmir Karaada açıklarında 6 birey, 3 Mart 1972'de Kaş açıklarında 1 birey, 29 Nisan 1988'de Kaş'ın 10 km batısında 3 birey [@haass1990], ve 17 Mart 1992'de aynı bölgede 7 birey tespit edilmiştir [@eken1997c]. Karadeniz’den de kayıtlarının bulunduğuna değinilmiştir [@hollom1988].
 
@@ -1028,6 +1028,8 @@ Türkiye'de nominat alttürü bulunur.
 </iframe>
 
 Geniş bataklık sulakalanlarda genellikle küçük koloniler halinde ürer. Çoğu kolonide 50 çiftten az sayıda üreme kaydedilirken, Meriç Deltası'nda yaklaşık 100 çiftin ürediği tespit edilmiştir. 1968'de Marmara Gölü'nde 200-300 kuşun ürediği bilinmektedir. İç Anadolu'daki popülasyonu ciddi bir düşüş yaşamıştır. 20. yüzyılın başlarında Antakya'daki Amik Gölü ve 1800'lerde Büyük Menderes Deltası'nda ürediği kaydedilmiştir. Uzun süren ilkbahar göçleri, bu türün üreme durumunun anlaşılmasını zorlaştırır. Özellikle Karadeniz Bölgesi'nde küçük gruplar yazı üremeden geçirebilmektedir.
+
+1950'ler ve 1960'larda 16-24 farklı alanda yaklaşık 2.500-2.795 çiftin ürediği tahmin edilir. Bu dönemde Meriç Deltası, Manyas Gölü ve Amik Gölü en büyük üreme popülasyonlarını barındırıyordu ve sadece bu üç bölgede bilinen toplam üreme popülasyonu 2.000 çifte kadar ulaşmıştı. 2000'lerde Türkiye üreme popülasyonunun sadece 500 ile 1.000 çift arasında tahmin edildi. 2010'lı yıllarda düzenli olarak sekiz alanda üremektedir. Mevcut üreme popülasyonu 282-421 çift arasında tahmin edilmektedir [@Onmus2019].
 
 Göç sırasında bazı bölgelerde yüksek sayılarda gözlenir. 26 Temmuz 2004'te Meriç Deltası'nda 1200, 27 Nisan 1992'de Kızılırmak Deltası'nda 590 birey sayılmıştır. İlkbahar göçü mart ortasından haziran başına kadar sürer ve nisanın ikinci yarısında zirve yapar. Sonbahar göçü ise ağustos başından ekim başına kadar devam eder ve çoğu birey eylül ortasında ülkeyi terk eder. Kış aylarında ise nadiren az sayıda görülebilir.
 
