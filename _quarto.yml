@@ -32,7 +32,7 @@ book:
     - references.qmd
 
 bibliography: references.bib
-csl: acta-ornithologica.csl
+csl: mammal-review.csl
 
 format:
   html:
