@@ -289,7 +289,7 @@ Monotipik bir türdür.
 
 </iframe>
 
-Yakın zamana kadar yalnızca birkaç kaydı bulunan nadir bir konuk olduğu düşünülmekteydi. Ancak, 6 Ağustos 2010'da Didim açıklarında iki kuş fotoğraflanmış [@balmer2001] ve üremeyen bir popülasyonun varlığı tespit edilmiştir [@Onmus2022]. Bunu takiben ağustos ve ekim ayları arasında bu sularda düzenli olarak ve Bozcaada ile Kaş arasında az sayıda kaydedilmiştir.
+Yakın zamana kadar yalnızca birkaç kaydı bulunan nadir bir konuk olduğu düşünülmekteydi. Ancak, 6 Ağustos 2010'da Didim açıklarında iki kuş fotoğraflanmış [@balmer2011] ve üremeyen bir popülasyonun varlığı tespit edilmiştir [@Onmus2022]. Bunu takiben ağustos ve ekim ayları arasında bu sularda düzenli olarak ve Bozcaada ile Kaş arasında az sayıda kaydedilmiştir.
 
 2010 yılı öncesi kayıtlar şu şekildedir: 15 Mart 1972'de İzmir Karaada açıklarında 6 birey, 3 Mart 1972'de Kaş açıklarında 1 birey, 29 Nisan 1988'de Kaş'ın 10 km batısında 3 birey [@haass1990], ve 17 Mart 1992'de aynı bölgede 7 birey tespit edilmiştir [@eken1997c]. Karadeniz’den de kayıtlarının bulunduğuna değinilmiştir [@hollom1988].
 
@@ -1064,7 +1064,7 @@ Birecik kolonisi, ilk kez Haziran 1839'da Ainsworth tarafından bahsedilmiş, bu
 
 1972-1973 yıllarında WWF (Doğal Hayatı Koruma Vakfı), koloniyi koruma altına almak için bir program başlatmıştır. Bu programın amacı, koloninin yaşadığı alanı avcılıktan korumak, bölgeyi temizlemek ve kuşların uzman gözetiminde üremelerini sağlamaktı. 1982'de koloni kuzeye taşınmış ve esarette beslenip üretilen kuşlar doğaya salınmaya başlanmıştır. Ancak, Kelaynak Üretme İstasyonu'ndaki yetersiz bilgi ve uzman eksikliği nedeniyle üretme çalışmaları beklenen başarıyı sağlayamamış, hatta yabani kuşların üreme oranı esaretteki kuşlardan daha yüksek kalmıştır.
 
-1977-1983 yılları arasında esarette üretilen 23-34 sağlıklı yavru doğaya bırakılmış, fakat çoğu, vahşi kuşlarla göç edememiş ve dağılmış, büyük olasılıkla soğuk kış koşullarında ölmüştür. Sonuç olarak, 1982'de üreyen çift sayısı 6'ya düşmüş, 1989'da koloniye yalnızca 3 birey geri dönmüştür. Bunlardan ikisi ya öldürülmüş ya da fırtına sırasında kaybolmuştur. Böylece, Türkiye'deki yabani popülasyonun 1989'da tükenmiş olduğu kabul edilmiştir [@peter1990].
+1977-1983 yılları arasında esarette üretilen 23-34 sağlıklı yavru doğaya bırakılmış, fakat çoğu, vahşi kuşlarla göç edememiş ve dağılmış, büyük olasılıkla soğuk kış koşullarında ölmüştür. Sonuç olarak, 1982'de üreyen çift sayısı 6'ya düşmüş, 1989'da koloniye yalnızca 3 birey geri dönmüştür. Bunlardan ikisi ya öldürülmüş ya da fırtına sırasında kaybolmuştur. Böylece, Türkiye'deki yabani popülasyonun 1989'da tükenmiş olduğu kabul edilmiştir [@akcakaya1992; @peter1990].
 
 1996-2000 yılları arasında Biyolog Okan Arıhan'ın Bakanlık bünyesindeki çalışmaları sonucunda, yarı yabani kolonide hala göç eden bir bireyin olabileceği ihtimali ortaya çıktı. 1990-2000 yılları arasında koloni, tüm olumsuz koşullara rağmen yılda ortalama 25 yavru üretti; ancak bu yavruların çoğu zamanında kafese alınmadığı için koloniden ayrılarak muhtemelen kayboldu. 2000 yılında popülasyon 42 kuşa düşmesine rağmen, koloniyi izleme ve üreme başarılarını artırmaya yönelik çalışmalar başarılı olmuş ve 2002'de 17 genç kuşun başarıyla palazlandığı kaydedilmiştir.
 

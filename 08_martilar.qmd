@@ -2,6 +2,104 @@
 title: "Martılar"
 ---
 
+## Uzun Kuyruklu Korsanmartı
+
+*Stercorarius longicaudus*, Long-tailed Jaeger
+
+***Rastlantısal konuktur.***
+
+Toplam dokuz güncel kaydı vardır: 23 Eylül 1979'da Boğaziçi'nde iki erişkin ya da ergen [@martins1989], 3 Haziran 1991'de Kulu Gölü'nde bir erişkin fotoğraflanmıştır, 11 Haziran 1991'de Taşucu açıklarında iki genç [@kirwanmartins1994], 17 Eylül 1991'de İstanbul yakınlarında Karaburun açıklarında bir birey [@robel1992], 24 Mayıs 1992'de Finike'nin batısında Kale açıklarında bir erişkin, 10 Haziran 1994'te Sultansazlığı'nda açık fazda bir erişkin [@kirwan1995a] ve 8 Mayıs 1999'da Yumurtalık açıklarında (Çukurova, Akdeniz) ikinci yazında bir birey [@kirwan2003] kaydedilmiştir. Bu kayıtların hiçbirinde tanımlama yoktur. Son olarak bir genç birey Mersin Limanı'nda 21 Aralık 2009'da beş korsanmartı ile beraber ve 29 Nisan 2011'de Sarıyer Keskin Viraj'da (S Bilgin) kaydedilmiştir. Mersin kaydı türün ilk kışlama kaydıdır.
+
+Eylül 1888 sonlarında Terkos Gölü'nde kaydedilen ve tarafından tanımlanan birey açıkça bu türdür [@matheydupraz1920]. Ermenistan'da bir defa kaydedilmiş [@adamian1999] ancak Yunanistan [@handrinos1997] ya da Lübnan'da hiç kaydedilmemiştir [@ramadan2008].
+
+![](images/harita_Page_213.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Muhtemelen nominat alttür görülmektedir; ancak ülkedeki kayıtların hiçbiri alttür düzeyinde tanımlanmamıştır.
+
+## Korsanmartı
+
+*Stercorarius parasiticus*, Parasitic Jaeger
+
+***Yaygın ve az sayıda geçit türüdür.***
+
+Karadeniz kıyısı boyunca ve Boğaziçi ile Marmara Denizi'nde seyrek ancak neredeyse kesinlikle düzenli bir geçit türüdür. Görünüşe göre Ege ve Akdeniz kıyılarında düzenlidir ve aynı zamanda diğer tüm korsanmartılar gibi ara sıra kara üzerinde de göç eder. Burdur Gölü'nde, üç defa Kulu Gölü'nde ve bir defa Ereğli Sazlığı'nda ve Doğu Anadolu'da Bendimahi, Van Gölü ve Van yakınlarında olmak üzere iç bölgelerde de kaydedilmiştir. İlkbaharda, mart ortasından haziran sonuna kadar ve sonbaharda temmuz ortasından ekim başına kadar ve yoğun olarak eylülde geçiş yapar. Karadeniz kıyısı boyunca düzenli olarak kışlar. Welch ve Welch 1998a, Ocak 1997'de altı lokalitede toplam yedi birey kaydetmiştir. Aralık 1997'de İskenderun Körfezi'nde en az dört ve Fethiye açıklarında 13 birey kaydedilmiştir. Ocak 2004'te Kulu Gölü'nde olası bir kaydı vardır. [@kasparek1992a] 50'ye yakın mevcut kaydı rapor etmiş, belirlenmemiş korsanmartı kayıtlarını dâhil etmeden, bazıları 15 bireyden oluşan toplam 114 kayıt derlemiştir. Ayrıca hepsi Alléon tarafından Marmara'da toplanmış dört tahnit vardır.
+
+![](images/harita_Page_212.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür.
+
+## Küt Kuyruklu Korsanmartı
+
+*Stercorarius pomarinus*, Pomarine Skua
+
+***Seyrek geçit türüdür.***
+
+2008 yılına kadar en az 25 yayınlanmış ve dört tane önceden yayınlanmamış kaydı vardır. İlkbahar geçişinde mart sonundan mayıs sonuna, sonbahar geçişinde temmuz ortasından ekim ortasına kadar görülür. En kalabalık olarak 13 Ekim 2002'de İstanbul Ormanlı açıklarında altı birey gözlenmiştir. İçsu kayıtları nadirdir. 26 Temmuz 1989'da Bendimahi'de genç bir birey [@kasparek1990a] görülmüştür. Yukarıda listelenen kayıtların çoğu için tanımlayıcı detaylar eksiktir. Buna karşın, makul olan Türkiye'de küt kuyruklu korsanmartının kayıtların gösterdiğinden daha bile düzenli olduğudur.
+
+türün kasım-aralık aylarında Boğaziçi'nde düzenli olduğunu kabul eder [@alleon1880] ve ilkbahar 1888 ve Mayıs 1892 tarihli ve "Marmara" olarak etiketlenmiş iki örneği Sofya Ulusal Doğa Tarihi Müzesi'ndedir. Öte yandan, Boğaziçi, Kadıköy açıkları ve Üsküdar'la Haydarpaşa arasında olmak üzere türü altı defa kaydetmiştir (30 Ekim 1888, 17 Kasım ve 15 Aralık 1890, Ocak 1891 sonu, 3 Aralık 1892 ve 15 Aralık 1893) [@matheydupraz1920]. Geriye bakıldığında o dönemde korsanmartı tanımlaması ile ilgili yeterli bilgi olup olmadığı dikkate alınmalıdır.
+
+![](images/harita_Page_211.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür.
+
+## Büyük Korsanmartı
+
+*Stercorarius skua*, Great Skua
+
+***Rastlantısal konuktur.***
+
+Altı alan kaydı vardır (hepsi ancak görünüşe göre en yeni iki tanesi tanımlanmamış ya da tanımsız olarak yayınlanmıştır): 15 Eylül 1967'de Ahtamar adası yakınlarında, Van Gölü genç bir birey [@vielliard1968resultats], 30 Aralık 1983'te Tuzla Gölü'nde, Çukurova ve 7-8 Ocak 1986'da İskenderun Körfezi'nde birer birey, 9 Ocak 1990'da Ceyhan Deltası açıklarında (Çukurova) [@kasparek1990a], 15 Nisan 1996'da Göksu Deltası açıklarında [@kirwanmartins2000] ve 5 Nisan 2003'te Marmara Denizi'nde bir feribottan kaydedilmiştir. Dördüncü kayıt, 25 Nisan 2011'de Karataş'ta Katalan bir ekip görülen kuştur.
+
+Doğu Akdeniz'deki diğer yerlerde de nadirdir. 1958 ile 1993 arasında Yunanistan'da beş defa kaydedilmiş [@handrinos1997], Kıbrıs [@flint1992] ya da Lübnan'da [@ramadan2008]hiç kaydedilmemiş, bir tanesi iç kesimlerde olmak üzere İsrail'de dört defa kaydedilmiştir [@shirihai1996]. Mısır'da en az beş tane kesin olmayan büyük korsanmartı kaydı vardır [@goodman1989].
+
+![](images/harita_Page_210.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Genellikle modern otoritelerin çoğu tarafından monotipik olduğu düşünülür. Bazı kaynaklarda Catharacta cinsi altında değerlendirir.
+
+## Küçük Martı
+
+*Hydrocoloeus minutus*, Little Gull
+
+***Yaygın ve az sayıda geçit kuşu ve kış konuğudur.***
+
+Bütün kıyılarda sıkça yüksek sayılarda rastlanan yaygın ve bol geçit türüdür. Karadeniz Bölgesi'nde en sık ve en yüksek sayılarda Kızılırmak Deltası'nda kaydedilmiş olup 1992 ilkbaharının başında 41.000 tane sayılmıştır [@hustings1994]. Marmara Bölgesi'nde bütün kıyılarda yaygın ve genellikle fazla olmayan sayılarda olup en yüksek sayıda ile İstanbul'da eylülde Eminönü ve Sarıyer arasında 410 tane, Meriç Deltası'nda 2000'e kadar sayılarda ve Büyükçekmece Gölü'nde 1730 tane sayılmıştır. Doğu bölgelerinde nadirdir. Ege Bölgesi'nde genellikle ağustos ortası ile nisan ortası arasında bulunur, ara sıra yazın da kaydedilir. Akdeniz Bölgesi'nde genellikle ağustos sonu ve mayıs başı arasında, ara sıra da yazın, orta sayılarda görülür, ancak bazı alanlarda ilkbaharda yüksek sayılar kaydedilmiştir.
+
+Kıyı bölgelerinde yaygın, ancak iç bölgelerde seyrektir. Karadeniz kıyılarında yaygın ve genellikle fazla olmayan sayılarda bulunur, ağustos ve eylülde Trabzon'da 530 tane, ekimde Samsun ve Trabzon arasında 400'den fazla, Şubat 1997'de bütün Karadeniz kıyısında 1138 tane sayılmıştır [@welch1998a]. Kışın az sayıda bulunur, nüfusu genellikle 1500-2500 bireydir, ancak ara sıra kalabalık sürüler de rastlanır. Sayıları genellikle az olsa da yüksek sayılarda bulunabilir ve en yüksek Büyük Menderes Deltası'nda 320 tane kaydedilmiştir.
+
+![](images/harita_Page_187.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür.
+
 ## Kara Ayaklı Martı
 
 *Rissa tridactyla*, Black-legged Kittiwake
@@ -23,6 +121,14 @@ Türkiye'de yuvalamaz.
 **Alttürler ve Sınıflandırma**
 
 Türkiye'de nominat alttürü bulunur.
+
+## Çatal Kuyruklu Martı
+
+*Xema sabini*, Sabine's Gull
+
+**Rastlantısal konuktur.**
+
+Bir birey 30 Aralık 2021'de *M. Bozdoğan* tarafından Milleyha sahilinde bulunmuştur. Hikayesi...
 
 ## İnce Gagalı Martı
 
@@ -70,17 +176,15 @@ En yüksek sayıların gözlendiği dönemler geçit dönemidir, 24 Eylül 2004'
 
 Monotipik bir türdür.
 
-## Küçük Martı
+## Büyük Karabaş Martı
 
-*Hydrocoloeus minutus*, Little Gull
+*Ichthyaetus ichthyaetus*, Pallas's Gull
 
-***Yaygın ve az sayıda geçit kuşu ve kış konuğudur.***
+***Lokal ve az sayıda kış konuğudur.***
 
-Bütün kıyılarda sıkça yüksek sayılarda rastlanan yaygın ve bol geçit türüdür. Karadeniz Bölgesi'nde en sık ve en yüksek sayılarda Kızılırmak Deltası'nda kaydedilmiş olup 1992 ilkbaharının başında 41.000 tane sayılmıştır [@hustings1994]. Marmara Bölgesi'nde bütün kıyılarda yaygın ve genellikle fazla olmayan sayılarda olup en yüksek sayıda ile İstanbul'da eylülde Eminönü ve Sarıyer arasında 410 tane, Meriç Deltası'nda 2000'e kadar sayılarda ve Büyükçekmece Gölü'nde 1730 tane sayılmıştır. Doğu bölgelerinde nadirdir. Ege Bölgesi'nde genellikle ağustos ortası ile nisan ortası arasında bulunur, ara sıra yazın da kaydedilir. Akdeniz Bölgesi'nde genellikle ağustos sonu ve mayıs başı arasında, ara sıra da yazın, orta sayılarda görülür, ancak bazı alanlarda ilkbaharda yüksek sayılar kaydedilmiştir.
+Özellikle doğu bölgelerinde seyrek bir kış göçmeni ve anlaşıldığı kadarıyla geçit türüdür. Kışlayanların ortalama popülasyonları 200-400 birey arasındadır. Eskiden çok nadir olduğu düşünülmüş, ancak son yıllardaki kış kayıtlarında gerçek bir artış gözlenmiştir. Kayıtların çoğu Karadeniz Bölgesi, İç Anadolu ve Akdeniz Bölgesi'ndeki çeşitli alanlardan gelirken, İç Anadolu'da düzenli olarak küçük barajları, Akdeniz Bölgesi'nde de en düzenli olarak kıyısal delta alanlarında bulunur. Geçmiş dönemlerde çok düşük olarak kaydedilmiş, son yıllarda sayıları daha yüksek çıkmıştır. Yukarıda bahsedilen alanlarda normalde 5-20 birey olarak görülürken Amasya Yedikır Barajında 71 (Ocak 1996), 168 (Aralık 1995), 219 (Ocak 1997) ve 273 (Ocak 1999) tane sayılmıştır. Bu artış sadece gözlem sıklığındaki artışı göstermenin ötesinde türün kışlama durumundaki gerçek bir değişimin de göstergesi olabilir. Trakya gibi en batı ve en doğu bölgelerde son derece nadirdir. Kışlayan kuşlar genellikle aralık başı ile nisan arasında, en erken 26 Kasım, en geç 13 Mayıs'ta, görülür. İki aşırı erken kayıt bulunur. 25 Eylül 1995'de İstanbul Boğazı'nda bir ergen (Escedi 1996) ve 15 Eylül 2005'de Trabzon Araklı'da bir kuş emsalsiz kayıtlardır. 25 Mayıs 1993'de Göksu Deltası'ndaki bir gözlem (Kirwan ve Martins 2000) ya çok geç bir kış göçmeni ya da bir geçit türüdür.
 
-Kıyı bölgelerinde yaygın, ancak iç bölgelerde seyrektir. Karadeniz kıyılarında yaygın ve genellikle fazla olmayan sayılarda bulunur, ağustos ve eylülde Trabzon'da 530 tane, ekimde Samsun ve Trabzon arasında 400'den fazla, Şubat 1997'de bütün Karadeniz kıyısında 1138 tane sayılmıştır [@welch1998a]. Kışın az sayıda bulunur, nüfusu genellikle 1500-2500 bireydir, ancak ara sıra kalabalık sürüler de rastlanır. Sayıları genellikle az olsa da yüksek sayılarda bulunabilir ve en yüksek Büyük Menderes Deltası'nda 320 tane kaydedilmiştir.
-
-![](images/harita_Page_187.png)
+![](images/harita_Page_190.png)
 
 **Üreme**
 
@@ -134,24 +238,6 @@ Koloniler halinde ürer, üreme popülasyonu 400-2250 çifttir [@magninyarar1997
 
 Monotipik bir türdür.
 
-## Büyük Karabaş Martı
-
-*Ichthyaetus ichthyaetus*, Pallas's Gull
-
-***Lokal ve az sayıda kış konuğudur.***
-
-Özellikle doğu bölgelerinde seyrek bir kış göçmeni ve anlaşıldığı kadarıyla geçit türüdür. Kışlayanların ortalama popülasyonları 200-400 birey arasındadır. Eskiden çok nadir olduğu düşünülmüş, ancak son yıllardaki kış kayıtlarında gerçek bir artış gözlenmiştir. Kayıtların çoğu Karadeniz Bölgesi, İç Anadolu ve Akdeniz Bölgesi'ndeki çeşitli alanlardan gelirken, İç Anadolu'da düzenli olarak küçük barajları, Akdeniz Bölgesi'nde de en düzenli olarak kıyısal delta alanlarında bulunur. Geçmiş dönemlerde çok düşük olarak kaydedilmiş, son yıllarda sayıları daha yüksek çıkmıştır. Yukarıda bahsedilen alanlarda normalde 5-20 birey olarak görülürken Amasya Yedikır Barajında 71 (Ocak 1996), 168 (Aralık 1995), 219 (Ocak 1997) ve 273 (Ocak 1999) tane sayılmıştır. Bu artış sadece gözlem sıklığındaki artışı göstermenin ötesinde türün kışlama durumundaki gerçek bir değişimin de göstergesi olabilir. Trakya gibi en batı ve en doğu bölgelerde son derece nadirdir. Kışlayan kuşlar genellikle aralık başı ile nisan arasında, en erken 26 Kasım, en geç 13 Mayıs'ta, görülür. İki aşırı erken kayıt bulunur. 25 Eylül 1995'de İstanbul Boğazı'nda bir ergen (Escedi 1996) ve 15 Eylül 2005'de Trabzon Araklı'da bir kuş emsalsiz kayıtlardır. 25 Mayıs 1993'de Göksu Deltası'ndaki bir gözlem (Kirwan ve Martins 2000) ya çok geç bir kış göçmeni ya da bir geçit türüdür.
-
-![](images/harita_Page_190.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Monotipik bir türdür.
-
 ## Kızıldeniz Martısı
 
 *Ichthyaetus leucophthalmus*, White-eyed Gull
@@ -188,17 +274,15 @@ Türkiye'de yuvalamaz.
 
 Hem nominat canus, hem de heinei alttürünün bulunduğu düşünülür ve bu iki alttürün geçiş formları yaygındır [@olsen2003].
 
-## Büyük Kara Sırtlı Martı
+## Hazar Martısı
 
-*Larus marinus*, Great Black-backed Gull
+*Larus cachinnans*, Caspian Gull
 
-***Rastlantısal konuktur.***
+***Karadeniz kıyısında yaygın ve bol, diğer bölgelerde lokal ve seyrek kış konuğudur.***
 
-Sık görülen bir türdür. Kayıtları büyük çoğunluğu İstanbul, Kızılırmak Deltası ve Göksu Deltası'ndan gelir. İlk kez 10 Eylül 2005'te İstanbul'da görülen bir birey, 8 Kasım 2011'e kadar defalarca görülmüş, hatta 13 Ekim 2010'da iki erişkin ve bir genç gözlenmiştir. İç sularda 1979'da Eylül sonunda bir tane Keban Barajında [@vanderven1980birds]ve bir tane 14 Mayıs 1997'de Hirfanlı Barajı'nda [@kirwan2003] görülmüştür .
+Kışlayanların bir kısmının farklı coğrafi bölgelerden gelen, dolayısıyla farklı fenotip özellikleri gösteren bireyler olduğu düşünülmektedir. özellikle bilhassa Arabistan Yarımadası'nda kışladığını [@olsen2003]. Geçit sırasında her iki form da özellikle batı ve orta bölgelerde yaygın olarak bulunur, ancak doğu bölgelerinde az sayıda rastlanır. İlkbahar geçişi mayıs sonuna kadar devam eder, sonbaharda ağustosta başlar.
 
-Kıyılarda rastlanır. ilk kez Gonzelbach tarafından İzmir'de ve Schrader de Mersin'de 23 Nisan'da 1880'lerin başında kaydedilmiş olup bu tarih ve yer, modern kayıtlarla uyumludur [@kumerloeve1961]. 19. yüzyılın sonu veya 20 Yüzyılın başında erişkin bir erkek İstanbul Boğazı'nda toplanmış [@matheydupraz1920], aynı yazara göre bu bölgeden 1888 ile 1894 arasında bazıları birçok birey ve biri Temmuz'da üç bireylik bir gruptan olan toplam 10 kayıt bulunmaktadır. Bir ergenin 23 Temmuz 1966'da Bursa Gemlik'te görüldüğü bahsedilmiş ancak detaylar verilmemiştir [@ganso1962].
-
-![](images/harita_Page_193.png)
+![](images/harita_Page_196.png)
 
 **Üreme**
 
@@ -206,25 +290,7 @@ Türkiye'de yuvalamaz.
 
 **Alttürler ve Sınıflandırma**
 
-Monotipik bir türdür.
-
-## Kutup Martısı
-
-*Larus hyperboreus*, Glaucous Gull
-
-***Rastlantısal konuktur.***
-
-Güncel tek kaydı, 12 Aralık 2014'de Rize'de ilk kışındaki genç bir kuş bulunmuş ve ayrıntılı olarak belgelenmiştir. Bundan önceki tek kayıt bir tahnit örneği olup, genç bir dişi 23 Şubat 1874'de İstanbul Boğazı'nda toplanmıştır [@matheydupraz1920]. Aynı kaynakta Alléon'un İstanbul Boğazı'nda iki erişkin gördüğünü iddia ettiğinden de bahsedilir. Yakın çevrede sadece bugünkü İsrail ve Ürdün topraklarında 1914'te tek bir birey kaydı vardır [@andrews1995; @shirihai1996].
-
-![](images/harita_Page_194.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Türkiye'de vurulmuş örneğin tahnitini incelenememiştir. Yayılış alanı dikkate alındığında nominat alttürün olduğu beklenir.
+michahellis ve cachinnans formlarını tür olarak kabul etmiştir [@olsen2003]. Karadeniz'in batı kıyılarında Romanya'daki kolonilerinde birbirine yakın bölgelerde ancak farklı habitatlarda yuvaladığını [@klein1997] göz önüne alarak burada iki farklı türden bahsedilebileceğini düşünüyoruz.
 
 ## Kuzey Gümüş Martısı
 
@@ -243,24 +309,6 @@ Türkiye'de yuvalamaz.
 **Alttürler ve Sınıflandırma**
 
 Bu bireyin kanat desenlenmesine göre argentatus alttürüne ait olduğunu düşündürmektedir.
-
-## Hazar Martısı
-
-*Larus cachinnans*, Caspian Gull
-
-***Karadeniz kıyısında yaygın ve bol, diğer bölgelerde lokal ve seyrek kış konuğudur.***
-
-Kışlayanların bir kısmının farklı coğrafi bölgelerden gelen, dolayısıyla farklı fenotip özellikleri gösteren bireyler olduğu düşünülmektedir. özellikle bilhassa Arabistan Yarımadası'nda kışladığını [@olsen2003]. Geçit sırasında her iki form da özellikle batı ve orta bölgelerde yaygın olarak bulunur, ancak doğu bölgelerinde az sayıda rastlanır. İlkbahar geçişi mayıs sonuna kadar devam eder, sonbaharda ağustosta başlar.
-
-![](images/harita_Page_196.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-michahellis ve cachinnans formlarını tür olarak kabul etmiştir [@olsen2003]. Karadeniz'in batı kıyılarında Romanya'daki kolonilerinde birbirine yakın bölgelerde ancak farklı habitatlarda yuvaladığını [@klein1997] göz önüne alarak burada iki farklı türden bahsedilebileceğini düşünüyoruz.
 
 ## Gümüş Martı
 
@@ -304,6 +352,44 @@ Doğu Anadolu'daki en azından 2000 m rakımlı göllerinde hem çıplak hem de 
 
 Monotipik bir türdür. İlk başta Larus taimyrensis'in alttürü olarak tanımlanan, daha sonraları sıkça kuzey gümüş martısının (Larus argentatus) ve tür olarak tanımlanmasından sonra gümüş martının alttürü olarak [@beaman1994] değerlendirilmiştir. Görünüşe göre Atlantik'ten ve Akdeniz havzası üzerinden erken zamanda gerçekleşen bir kolonizasyonun kalıntısıdır. Armenicus'un mitokondriyal DNA'sı görünüşe göre michahellis'e en yakın konumdadır [@liebers1999].
 
+## Büyük Kara Sırtlı Martı
+
+*Larus marinus*, Great Black-backed Gull
+
+***Rastlantısal konuktur.***
+
+Sık görülen bir türdür. Kayıtları büyük çoğunluğu İstanbul, Kızılırmak Deltası ve Göksu Deltası'ndan gelir. İlk kez 10 Eylül 2005'te İstanbul'da görülen bir birey, 8 Kasım 2011'e kadar defalarca görülmüş, hatta 13 Ekim 2010'da iki erişkin ve bir genç gözlenmiştir. İç sularda 1979'da Eylül sonunda bir tane Keban Barajında [@vanderven1980birds]ve bir tane 14 Mayıs 1997'de Hirfanlı Barajı'nda [@kirwan2003] görülmüştür .
+
+Kıyılarda rastlanır. ilk kez Gonzelbach tarafından İzmir'de ve Schrader de Mersin'de 23 Nisan'da 1880'lerin başında kaydedilmiş olup bu tarih ve yer, modern kayıtlarla uyumludur [@kumerloeve1961]. 19. yüzyılın sonu veya 20 Yüzyılın başında erişkin bir erkek İstanbul Boğazı'nda toplanmış [@matheydupraz1920], aynı yazara göre bu bölgeden 1888 ile 1894 arasında bazıları birçok birey ve biri Temmuz'da üç bireylik bir gruptan olan toplam 10 kayıt bulunmaktadır. Bir ergenin 23 Temmuz 1966'da Bursa Gemlik'te görüldüğü bahsedilmiş ancak detaylar verilmemiştir [@ganso1962].
+
+![](images/harita_Page_193.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür.
+
+## Kutup Martısı
+
+*Larus hyperboreus*, Glaucous Gull
+
+***Rastlantısal konuktur.***
+
+Güncel tek kaydı, 12 Aralık 2014'de Rize'de ilk kışındaki genç bir kuş bulunmuş ve ayrıntılı olarak belgelenmiştir. Bundan önceki tek kayıt bir tahnit örneği olup, genç bir dişi 23 Şubat 1874'de İstanbul Boğazı'nda toplanmıştır [@matheydupraz1920]. Aynı kaynakta Alléon'un İstanbul Boğazı'nda iki erişkin gördüğünü iddia ettiğinden de bahsedilir. Yakın çevrede sadece bugünkü İsrail ve Ürdün topraklarında 1914'te tek bir birey kaydı vardır [@andrews1995; @shirihai1996].
+
+![](images/harita_Page_194.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Türkiye'de vurulmuş örneğin tahnitini incelenememiştir. Yayılış alanı dikkate alındığında nominat alttürün olduğu beklenir.
+
 ## Kara Sırtlı Martı
 
 *Larus fuscus*, Lesser Black-backed Gull
@@ -323,6 +409,26 @@ Türkiye'de yuvalamaz.
 **Alttürler ve Sınıflandırma**
 
 Baltık Denizi kıyıları, Avrupa Rusya'sının kuzeybatısında üreyen ve başlıca Kuzeydoğu ve Doğu Afrika'da kışlayan [@olsen2003] nominat fuscus düzenli olarak bulunduğu kaydedilen alttürdür. Nadir olarak intermedius alttürü bulunabilir, nitekim geçit sırasında İsrail'de görülmüştür [@shirihai1996]. Daha doğuda yuvalayan ve Sibirya martısı olarak da değerlendirilen heuglini alttürü kışın güney ve batı kıyılarında oldukça nadir olarak görülebilir.
+
+## Küçük Sumru
+
+*Sternula albifrons*, Little Tern
+
+***Lokal ve yer yer çok sayıda bulunan yaz konuğudur.***
+
+Başta sahiller ve iç kesimlerdeki lagünlerde, genellikle nisan ortası ile eylül sonu arasında görülür. En büyük koloniler Meriç Deltası (200 çift) Büyük Menderes Deltası (300 çift), Gediz Deltası (205 çift) Seyfe Gölü (500 çift) ve Çukurova'da (yaklaşık 300 çift) bulunur. Kızılırmak Deltası'nda 1992'de çoğu nehir kıyısında olmak üzere 40-45 çift kaydedilmiştir. Güneydoğu Anadolu'da 1973'te, Birecik'te 34 çift gözlenmiş, ancak sonrasında üreme kanıtına rastlanmamıştır. Türün bu bölgede ürediği ancak 1990'ların sonunda, başta Dicle olmak üzere nehir boyunda birkaç noktada keşfedilmiştir.
+
+Geçit sırasında, özellikle mayıs ve eylül aylarında daha yaygın yayılışlıdır. Genellikle az sayıda görülse de sonbaharda Karadeniz'in doğusu ile Akdeniz'de, belirgin sayılarla kaydedildiği olmuştur.
+
+![](images/harita_Page_204.png)
+
+**Üreme**
+
+Sahiller ile iç kesimlerdeki göl ve nehirlerde bulunan adalarda ve kum tepelerinde ürer. Büyüklüğü değişken kolonilerde en az 2-3 çift bulunur. Sultansazlığı'nda 67 (Kasparek 1985); 1987'de Çukurova'da, tüm kıyı lagünlerine eşit dağılmış olarak 270 çift kaydedilmiştir [@have_etal1988]. Çıplak kum, çakıl ya da kuru çamur içine, sığ bir çukura yuvalar. Türkiye'de gözlenen yumurta sayısı genellikle üç (91 yuvada), ya da iki (16 yuvada) kere, nadiren bir (4 yuvada) kere kuluçkaya yatar. Üreme çoğunlukla mayısın ikinci yarısında ya da haziranda başlar. **AKD.** En erken üreme kayıtları Çukurova'dan bildirilmiştir. 9 Mayıs 1989 ve 11 Mayıs 1990'da, içinde tamamlanmış kuluçkayı gösterir şekilde üç yumurta olan birçok yuva kaydedilmiştir. **EGE.** Büyük Menderes Deltası Karine Gölü'nde 9 Mayıs 2003'te, henüz yuvalamıyor olsa da üreme alanında bulunan erişkinler gözlenmişti. Aynı yerde 14 Mayıs 2007'de, küçük bir çakıl adasında yaklaşık 20 yeni ama boş yuva kazıntısı, tamamlanmamış kuluçkayı gösterir şekilde içinde bir yumurta olan 16 yuva, içinde iki yumurta olan 1 yuva bulunmuştur ve bu yuvaların birkaçının, aralarında sadece 1 m olacak şekilde birbirine olağandışı yakınlıkta olduğu gözlenmiştir. 26 Haziran 1999'da, Büyük Menderes Deltası'nın başka bölgelerinde, içinde yumurta bulunan iki yuva ile içinde yeni tüylenmiş bir yavru bulunan diğer bir yuva bulunmuş, 25 Mayıs 2004'te ise kıyı lagünlerinde kuluçkaya yatmış birkaç erişkin gözlenmiştir. **MAR.** 2 Haziran 1966'da Uluabat Gölü'nde yaklaşık 15 çiftten oluşan bir kolonide içinde yumurta olan dört yuva kaydedilmiş, 16 Eylül 1995'de ise Kocaçay Deltası'nda yavrularını besleyen bir çift gözlenmiştir [@ertan1996]. **İÇA.** 3 Haziran 1982'de Sultansazlığı'nda, içinde 2-3 yumurta bulunan 50 yuva, içinde bir yumurta bulunan bir yuva ve içinde yeni tüylenmiş yavru bulunan iki yuva kaydedilmiştir [@kasparek1985]. Aynı bölgede 2 Haziran 1971'de Seyfe Gölü'nde, içinde 2-3 yumurta bulunan 48 yuva [@husband1984]; 19 Haziran 1992'de ise Kulu Gölü'ndeki bir adada, içinde iki yumurta olan bir yuva kaydedilmiştir. **AKD.** 30 Nisan 1970'de Silifke yakınında çiftleşme öncesi kur davranışı gözlenmiştir. Göksu Deltası'nda ise, 26 Mayıs 1998 ile 11 Haziran 1992'de kuluçkaya yatmış erişkinler; 9 Haziran 1974'te her birinde üç yumurta olan dört yuva ve 16 Haziran 1974'te içinde yeni tüylenmiş yavru olan altı yuva kaydedilmiştir [@witt1976beobachtungen]. Yine aynı yerde 8 Haziran 1999'da, yumurtaların mayıs başında koyulduğunu gösterir şekilde yeni tüylenmiş iki yavru gözlenmiştir. **KAR.** Kızılırmak Deltası'nda çiftlerin 9 Haziran 1992'de üremeye henüz başladıkları not edilmiştir [@hustings1994]. **DOA.** 2 Temmuz 2005'de Malatya'daki Karakaya Barajı'nda gençleri besleyen 5-10 çift kaydedilmiştir.
+
+**Alttürler ve Sınıflandırma**
+
+Türkiye'de nominat alttürü bulunur. Çok yakın bir geçmişe kadar genellikle Sterna cinsi içinde sınıflandırılmıştır, ancak kısa süre önce elde edilen genetik bulgular, bu tür ile birlikte S. antillarum ve S. saundersi'nin de kendi cinsleri içinde değerlendirilmeleri gerektiğini öngörmektedir (Ibis 147: 821-826) [@collinson2006].
 
 ## Gülen Sumru
 
@@ -366,104 +472,6 @@ Küçük koloniler halinde tuzlu göllerin çıplak veya deniz kabuğu ile ört�
 
 Monotipik bir türdür.
 
-## Tepeli Sumru
-
-*Thalasseus bengalensis*, Lesser Crested Tern
-
-***Rastlantısal konuktur.***
-
-Üç kaydı vardır: 28 Mayıs 1973'te Göksu Deltası'nda oldukça iyi şekilde gözlenen ancak, yüzeysel tanımlı, ilk yaşını süren bir birey [@witt1976beobachtungen]; 5 Haziran 2003'te yine Göksu Deltası'nda bu kez denizde hızla uçarken gözlenen, ancak hakkında ayrıntılı bilgi olmayan bir birey; 13 Mart 2004'te Küçük Menderes Deltası'nda gözlenen ve kısa tanımı mevcut birey [@balmer2004b]. Dördüncü kayıt, Belek Eleri sahilinde 26 Aralık 2004'de görülen bir kuş olup ayrıntılı tarifi mevcuttur (A.-A. Weller).
-
-Tür üremeksizin Eilat'da (İsrail) düzenli ancak nadir bahar ve yaz konuğu olarak kaydedilir [@shirihai1996]. Ürdün'de de iki kere kaydedilmiştir [@andrews1995]. Önceden Lübnan sahili açıklarındaki bir adada üremiştir [@ramadan1999]. Yunanistan'dan, hepsi 1987 ve sonrasına ait yakın zamanlı üç kayıt vardır (Handrinos ve Akriotis 1997).
-
-![](images/harita_Page_202.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Türkiye kayıtları alttür düzeyinde tanımlanmamıştır. Akdeniz'de yuvalayan emigratus alttürünün bulunması olasıdır.
-
-## Kara Gagalı Sumru
-
-*Thalasseus sandvicensis*, Sandwich Tern
-
-***Lokal ve az sayıda üreyen, tüm yıl görülen yaygın ve çok sayıda bulunan konuktur.***
-
-1980'lerin ortasında Gediz Deltası'nda az sayıda ürediği keşfedilmiştir. Son zamanlarda da Hersek Lagünü'nde 6 çiftin ürediği saptanmıştır. Bunun dışında, kıyı bölgelerinde oldukça yaygın ve seyrek olmayan geçit türüdür. Ülkenin ortasında ve batısında çok az sayıda kışlar. Marmara'da eylül sonundan nisan başına kadar kaydedilir. En yüksek sayıda bireyin gözlendiği kayıtların ayrıntıları şöyledir: Ocak 1972'de Büyükada ile Yalova arasında yaklaşık 450 birey; Mart 1974 ve Kasım 1970'de Büyükçekmece'de sırasıyla 231 ve 150 birey ve Ocak 1987'de Kavak Deltası'nda 170 birey. Karadeniz'de eylül sonundan nisan başına kadar, genellikle az sayıda kaydedilir. Kızılırmak Deltası ile Samsun civarında ise düzenli görülür ancak genellikle 100 bireyden az kaydedilir. Ege'de genellikle ekim sonundan mayıs sonuna kadar görülür. Çoğunlukla az sayıda kaydedilir ancak 1972'de Büyük Menderes Deltası'nda yaklaşık 100 birey gözlenmiştir. Akdeniz'de kasım başından mart sonuna dek görülür. Genellikle az sayıda kaydedilse de yaklaşık 50 bireyin gözlendiği de olmuştur.
-
-![](images/harita_Page_203.png)
-
-**Üreme**
-
-**EGE.** Gediz Deltası'nda 1984-88 yıllarında, deltanın tuzlu lagünlerinde yer alan, Akdeniz martısının (Larus melanocephalus) da ürediği adalarda ürediği doğrulanmıştır. 1996 Mayıs'ının başında, sözü geçen kolonide, 53 çift kara gagalı sumru ve 97 çift Akdeniz martısı kaydedilmiştir [@eken1997a]. **MAR.** Son yapılan araştırmada Yalova Hersek Lagünü'nde birkaç çiftin ürediği tespit edilmiştir. Türkiye'de veri yoktur, ancak diğer bölgelerde kolonilerin yoğun olduğu ve yuvaların birbirine 0,5 m'den daha yakın olduğu bilinmektedir. Yere, astarsız sığ bir deliğe yuvalar. Olağan kuluçka sayısı ikidir, ancak nadiren yılda bir kere de kuluçkaya yatabilir. Yumurtalar çoğunlukla mayısta koyulur.
-
-**Alttürler ve Sınıflandırma**
-
-Türkiye'de nominat alttürü bulunur.
-
-## Küçük Sumru
-
-*Sternula albifrons*, Little Tern
-
-***Lokal ve yer yer çok sayıda bulunan yaz konuğudur.***
-
-Başta sahiller ve iç kesimlerdeki lagünlerde, genellikle nisan ortası ile eylül sonu arasında görülür. En büyük koloniler Meriç Deltası (200 çift) Büyük Menderes Deltası (300 çift), Gediz Deltası (205 çift) Seyfe Gölü (500 çift) ve Çukurova'da (yaklaşık 300 çift) bulunur. Kızılırmak Deltası'nda 1992'de çoğu nehir kıyısında olmak üzere 40-45 çift kaydedilmiştir. Güneydoğu Anadolu'da 1973'te, Birecik'te 34 çift gözlenmiş, ancak sonrasında üreme kanıtına rastlanmamıştır. Türün bu bölgede ürediği ancak 1990'ların sonunda, başta Dicle olmak üzere nehir boyunda birkaç noktada keşfedilmiştir.
-
-Geçit sırasında, özellikle mayıs ve eylül aylarında daha yaygın yayılışlıdır. Genellikle az sayıda görülse de sonbaharda Karadeniz'in doğusu ile Akdeniz'de, belirgin sayılarla kaydedildiği olmuştur.
-
-![](images/harita_Page_204.png)
-
-**Üreme**
-
-Sahiller ile iç kesimlerdeki göl ve nehirlerde bulunan adalarda ve kum tepelerinde ürer. Büyüklüğü değişken kolonilerde en az 2-3 çift bulunur. Sultansazlığı'nda 67 (Kasparek 1985); 1987'de Çukurova'da, tüm kıyı lagünlerine eşit dağılmış olarak 270 çift kaydedilmiştir [@have_etal1988]. Çıplak kum, çakıl ya da kuru çamur içine, sığ bir çukura yuvalar. Türkiye'de gözlenen yumurta sayısı genellikle üç (91 yuvada), ya da iki (16 yuvada) kere, nadiren bir (4 yuvada) kere kuluçkaya yatar. Üreme çoğunlukla mayısın ikinci yarısında ya da haziranda başlar. **AKD.** En erken üreme kayıtları Çukurova'dan bildirilmiştir. 9 Mayıs 1989 ve 11 Mayıs 1990'da, içinde tamamlanmış kuluçkayı gösterir şekilde üç yumurta olan birçok yuva kaydedilmiştir. **EGE.** Büyük Menderes Deltası Karine Gölü'nde 9 Mayıs 2003'te, henüz yuvalamıyor olsa da üreme alanında bulunan erişkinler gözlenmişti. Aynı yerde 14 Mayıs 2007'de, küçük bir çakıl adasında yaklaşık 20 yeni ama boş yuva kazıntısı, tamamlanmamış kuluçkayı gösterir şekilde içinde bir yumurta olan 16 yuva, içinde iki yumurta olan 1 yuva bulunmuştur ve bu yuvaların birkaçının, aralarında sadece 1 m olacak şekilde birbirine olağandışı yakınlıkta olduğu gözlenmiştir. 26 Haziran 1999'da, Büyük Menderes Deltası'nın başka bölgelerinde, içinde yumurta bulunan iki yuva ile içinde yeni tüylenmiş bir yavru bulunan diğer bir yuva bulunmuş, 25 Mayıs 2004'te ise kıyı lagünlerinde kuluçkaya yatmış birkaç erişkin gözlenmiştir. **MAR.** 2 Haziran 1966'da Uluabat Gölü'nde yaklaşık 15 çiftten oluşan bir kolonide içinde yumurta olan dört yuva kaydedilmiş, 16 Eylül 1995'de ise Kocaçay Deltası'nda yavrularını besleyen bir çift gözlenmiştir [@ertan1996]. **İÇA.** 3 Haziran 1982'de Sultansazlığı'nda, içinde 2-3 yumurta bulunan 50 yuva, içinde bir yumurta bulunan bir yuva ve içinde yeni tüylenmiş yavru bulunan iki yuva kaydedilmiştir [@kasparek1985]. Aynı bölgede 2 Haziran 1971'de Seyfe Gölü'nde, içinde 2-3 yumurta bulunan 48 yuva [@husband1984]; 19 Haziran 1992'de ise Kulu Gölü'ndeki bir adada, içinde iki yumurta olan bir yuva kaydedilmiştir. **AKD.** 30 Nisan 1970'de Silifke yakınında çiftleşme öncesi kur davranışı gözlenmiştir. Göksu Deltası'nda ise, 26 Mayıs 1998 ile 11 Haziran 1992'de kuluçkaya yatmış erişkinler; 9 Haziran 1974'te her birinde üç yumurta olan dört yuva ve 16 Haziran 1974'te içinde yeni tüylenmiş yavru olan altı yuva kaydedilmiştir [@witt1976beobachtungen]. Yine aynı yerde 8 Haziran 1999'da, yumurtaların mayıs başında koyulduğunu gösterir şekilde yeni tüylenmiş iki yavru gözlenmiştir. **KAR.** Kızılırmak Deltası'nda çiftlerin 9 Haziran 1992'de üremeye henüz başladıkları not edilmiştir [@hustings1994]. **DOA.** 2 Temmuz 2005'de Malatya'daki Karakaya Barajı'nda gençleri besleyen 5-10 çift kaydedilmiştir.
-
-**Alttürler ve Sınıflandırma**
-
-Türkiye'de nominat alttürü bulunur. Çok yakın bir geçmişe kadar genellikle Sterna cinsi içinde sınıflandırılmıştır, ancak kısa süre önce elde edilen genetik bulgular, bu tür ile birlikte S. antillarum ve S. saundersi'nin de kendi cinsleri içinde değerlendirilmeleri gerektiğini öngörmektedir (Ibis 147: 821-826) [@collinson2006].
-
-## Sumru
-
-*Sterna hirundo*, Common Tern
-
-***Yaygın ve çok sayıda bulunan yaz konuğu ve geçit türüdür.***
-
-Kıyı kesimlerinde ve başta Manyas Gölü'nde (500 çift), Gediz Deltası'nda (2150 çifte kadar), Göksu Deltası'nda 100 çifte kadar), İç Anadolu (kolonilerin çoğunda 50-100 çift) ve Doğu Anadolu olmak üzere ülkenin iç kesimlerindeki çeşitli sulakalanlarda bulunur.
-
-Sonbahar başta olmak üzere geçit sırasında daha bol ve daha yaygın yayılışlıdır. Sonbahar geçişi en azından ağustos başından ekim ortasına kadar sürer. Geçişin en yoğun olduğu dönem, Doğu Karadeniz'de de bazen yüksek sayılarla kaydedildiği eylül ayıdır. Geçiş daha nadiren kasım ortasına dek gözlenir. Mart ortasında başlayan bahar geçişinde aynı bollukta görülmez.
-
-Çoğunlukla Karadeniz'den seyrek kış kayıtları vardır. Aralık sonu ile şubat başı ve ortasında Akdeniz'de kaydedilmiş kuşların da, geç ya da erken göçmenlerden çok kışlayan bireyler olmuş olması mümkündür.
-
-![](images/harita_Page_205.png)
-
-**Üreme**
-
-Koloniler genellikle 80 çiftten daha az olsa da, 1966'da Manyas Gölü'nde kaydedildiği gibi 500 çifte kadar büyüklerine de rastlanmıştır. En önemli üreyen popülasyon, 1996 yılında tahminen 2150 çift olarak hesaplanan Gediz Deltası'ndakidir [@eken1997a]. Nadiren yalnız, bazen gülen sumru (Gelochelidon nilotica) ve küçük sumru (Sternula albifrons) gibi diğer türlerle yakın ilişki içinde ürer. Hem kıyı, hem de iç kesimlerdeki göllerde, su basmış bölgelerde, nehir kıyılarında ve kıyıya yakın adalarda; çoğunlukla kum, çamur ve çakıldan oluşan alçak adalarda yuvalar. Uluabat Gölü'nde yüzen bitkilerin içinde yuvaladığı da kaydedilmiştir [@welch1998b]. Genellikle yerde, astarsız ya da yakındaki bitkilerle astarlanmış bir çukurda yuvalar. Türkiye'de gözlenen yumurta sayısı 3, nadiren 2. **İÇA.** 2 Haziran 1971'de Seyfe Gölü'nde 60 çiftten oluşan kolonide yapılan gözlemde yumurtaların yaklaşık 10 Mayıs'ta koyulduğunu gösterir şekilde 48 çiftin yuvasında yumurta, geri kalan çiftlerin yuvalarında da yavruların olduğu kaydedilmiştir [@husband1984]. 26 Temmuz 1971'de Yarma'da hala kuluçkada olan çiftler gözlenmiştir. 29 Mayıs 1999'da Çavuşçu Gölü'ndeki bir adada 100 çiftin yuvaladığı gözlenmiştir. **MAR.** 19 Haziran 1973'te Büyükçekmece'de, yumurtaların mayıs başında koyulduğunu gösterir şekilde 4 tüylenmiş yavru gözlenmiştir. 2 Haziran 1966'da Uluabat Gölü'nde yaklaşık 30 çiftten oluşan bir kolonide içinde yumurta bulunan 4 yuva kaydedilmiştir. Ayrıca, 14 Mayıs ve ardında içinde yumurta bulunan yuvalar kaydedilmiş, 11 Temmuz 1966'da ise Kocaçay Deltası'nda tüylenmiş yavru gözlenmiştir [@ertan1996]. **EGE.** 14 Mayıs 2007'de Karine Gölü'nde yapılan gözlemde, üremenin hala ilk aşamalarda olduğunu gösterir şekilde yalnızca bir yumurtası olan tamamlanmamış kuluçkaya sahip 2 yuva kaydedilmiş; 27 Haziran 1999'daki gözlemde ise çiftlerin çoğunun farklı gelişim seviyesinde yavruya sahip olduğu, ancak birkaç yuvada halâ yumurta bulunduğu kaydedilmiştir. [@mcneile1950], 23 Mayıs 1950'de Aliağa yakınındaki bir adacıktan 2 yumurta toplamıştır. **AKD.** Göksu Deltası'nda erişkinlerin 15 Mayıs'tan itibaren kuluçkaya yattıkları gözlenmiş, 19 Mayıs 1999'da ise Akgöl'de yaklaşık 100 bireyin kum şeridi üzerinde kuluçkada olduğu kaydedilmiş, temmuz başında ise tüylenmiş yavrular gözlenmiştir. **DOA.** Mayıs sonunda Erçek Gölü'nde, haziran başında ise Malatya'daki Murat Nehri'nde ve Karakaya barajındaki çakıl adalarında, kuluçkada olan erişkinler gözlenmiştir. **KAR.** 10 Haziran 1975'te Fatsa'da, açıktaki bir küçük adacıkta üremekte olan 30-50 çift kaydedilmiştir. Geç tarihlerde kaydedilen yumurtalı yuvalar büyük olasılıkla kaybedilen kuluçkaların yerine yenisinin yapıldığını göstermektedir.
-
-**Alttürler ve Sınıflandırma**
-
-Orta Asya'da bulunan tibetana alttürüne benzer kuşların Ortadoğu'da görüldüğüne dair iddialar olmuşsa da, büyük olasılıkla Türkiye'de görülenlerin hepsi nominattır.
-
-## Kutup Sumrusu
-
-*Sterna paradisaea*, Arctic Tern
-
-***Rastlantısal konuktur.***
-
-Altı kaydı vardır. Kayıtların ayrıntıları şöyledir: 27 Mayıs 1915'te Marmara Denizi'nden alınan iki erişkin [@matheydupraz1920]; 4 ve 5 Eylül 1959'da Boğazlar'da gözlenen, sırasıyla, 1 ve 2 birey [@ballance1961]; 25 Mayıs 1969'da Van Gölü yakınındaki Ahlat'ın 2 km batısında fotoğraflanan 4 birey [@ost1972]; 1 Mayıs 1970'te Ağrı ilindeki Taşlıçay ve Yoncalı ilçeleri arasında gözlenen 2 birey [@ost1975]. Yakın tarihli kayıtlar ise, 27 Nisan 1996'da, Dalyan'da İztuzu kumsalı açıklarında gözlenen birkaç birey ile [@kirwanmartins2000], 12 ile 27 Mayıs 2005 arasında Bodrum yakınındaki Tuzla Milas'ta en fazla 4 olarak sayılan bireylerdir. 1971 yılı Temmuz sonunda Karadeniz'den bildirdiği kayıtlar [@renkhoff1972] ve kanıtsız görülmüş ve reddedilmiştir [@kasparek1992a]. Tür, Kıbrıs ve İsrail'de de rastlantısaldır [@porter1996]. Yunanistan'da en az sekiz kere kaydedilmiştir [@handrinos1997].
-
-![](images/harita_Page_206.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Monotipik bir türdür.
-
 ## Bıyıklı Sumru
 
 *Chlidonias hybrida*, Whiskered Tern
@@ -481,6 +489,26 @@ Kışın az sayıda Ege ve Akdeniz kıyılarındaki lagün ve göllerde görüle
 **Üreme**
 
 Göllerin, nilüfer gibi suda büyüyen bitkilerin olduğu korunaklı bölgelerinde, kolonilerde ürer. Koloniler büyük olabilir. **İÇA.** Daha küçük koloniler kaydedilmiştir. Örneğin 2 Haziran 1972'de Gönenç Gölü'nde 10 çift, 27 Mayıs 1975'te Hotamış'ta 30 çift ve Çavuşçu Gölü'nde 100 çift kaydedilmiştir [@magninyarar1997]. Saz ve diğer sucul bitkilerinden oluşan küçük bir yığının, yüzen nilüferlerle iç içe geçirilmesinden oluşan bir yuvası vardır. Yuvalardaki yumurta sayısının bildirildiği kayıtlar şöyledir: 2 Haziran 1975'te Sultansazlığı'nda birinde 1, diğerinde 3 yumurta olan 2 yuva [@kasparek1985]. 22 Temmuz 1981'de Sultansazlığı'nda, yumurtaların çoğunun haziran başında koyulduğunu gösterir şekilde yeni tüylenmiş yavrular kaydedilmiştir [@kasparek1985]. Yine aynı bölgede, 25 Temmuz 1971'de Yarma yakınında ve 3 Ağustos 1971'de Akşehir Gölü'nde yeni tüylenmiş yavrular gözlenmiştir. **MAR.** 2 Haziran 2006'da ise Uluabat Gölü'nde ikisinin içinde 2, diğer ikisinin içinde ise 3 yumurta bulunan 4 yuva kaydedilmiştir. Diğer bölgelerde olağan yumurta sayısı 3'tür (nadiren 2-4). Koloniler, mayıs ortasından itibaren aktiftirler. 2/3 Haziran 2006'da Uluabat Gölü'nde yuva malzemesi taşıyan birçok erişkin, 28 Haziran 1973'te ise yavrularına yiyecek taşıyan erişkinler gözlenmiştir.
+
+**Alttürler ve Sınıflandırma**
+
+Türkiye'de nominat alttürü bulunur.
+
+## Kara Sumru
+
+*Chlidonias niger*, Black Tern
+
+***Çok lokal yaz konuğu, yaygın ve az sayıda geçit türüdür.***
+
+Marmara'nın bazı bölgelerinde ve muhtemelen İç Anadolu'da ürer. Herhangi bir kanıt olmamasına rağmen, Doğu Anadolu'da da ürediği tahmin edilmiştir [@kasparek1992a]. Meriç Deltası'nda üreyen koloni 250 çiftten oluşmaktadır.
+
+Genellikle makul sayılarla görülmesine ve ülkenin doğu bölgelerinde yine de açıkça seyrek olmasına rağmen, göç sırasında daha yaygın yayılışlı ve epey daha boldur. Öncelikle nisan-mayıs ve ağustos-ekim arasında kaydedilen geçit, eylülde en yoğundur. Akdeniz'de ise geçit kimi zaman temmuz başında başlar. Bu bölgede, Burdur Gölü'nde 2000'in üzerinde bireyin birlikte görüldüğü de olmuştur. Çoğunlukla nisan ortası ile ekim ortası arasında kaydedilmiştir. Kızılırmak Deltası'ndan 18 Aralık 2005'e ait yakın zamanlı bir kış kaydı vardır [@balmer2006].
+
+![](images/harita_Page_209.png)
+
+**Üreme**
+
+Göllerin, nilüfer gibi suda büyüyen ya da yüzen bitkilere sahip korunaklı bölgelerinde, küçük kolonilerde ürer. Sazlardan ve su bitkilerinden oluşan bir yığının, büyümekte olan bir bitkiye tutturulmasından ya da üzerine yerleştirilmesinden oluşan ve tepesinde, daha ince malzemelerle astarlanmış bir deliğe sahip olan bir yuvası vardır. **MAR.** Uluabat Gölü'nde 2 Haziran 1966'da yüzen bitkilerin üzerinde 15-20 çiftin yuvaladığı gözlenmiştir. R. F. Porter tarafından incelenen ve biri boş diğer ikisinde ise 2 ve 1 yumurta olan 3 yuvanın hepsi büyük olasılıkla tamamlanmamış kuluçkaya sahipti. Yine Uluabat Gölü'nde Mayıs 1967'de toplam yaklaşık 100 çifte sahip 4 koloni kaydedilmiş, Mayıs 1969'da ise 40'a kadar kuş ve yuvalama davranışı gözlenmiştir. 15 Mayıs-20 Haziran 1998 arasında en az 3 çiftin bıyıklı sumru kolonisi içinde yuvaladığı gözlenmiştir [@welch1998b]. **İÇA.** 1967'de Eber Gölü'nde toplam 15 çifte sahip 2 koloni kaydedilmiş, 8 Mayıs'ta burada yuva yapma davranışı gözlenmiştir. Türkiye'deki yumurta sayısı hakkında ayrıntılı bilgi yoktur. Diğer bölgelerde olağan yumurta sayısı üçtür.
 
 **Alttürler ve Sınıflandırma**
 
@@ -506,95 +534,75 @@ Düzensiz ürediği düşünülür. **İÇA.** 5 Temmuz 1969'da Mogan Gölü'nde
 
 Monotipik bir türdür.
 
-## Kara Sumru
+## Kutup Sumrusu
 
-*Chlidonias niger*, Black Tern
+*Sterna paradisaea*, Arctic Tern
 
-***Çok lokal yaz konuğu, yaygın ve az sayıda geçit türüdür.***
+***Rastlantısal konuktur.***
 
-Marmara'nın bazı bölgelerinde ve muhtemelen İç Anadolu'da ürer. Herhangi bir kanıt olmamasına rağmen, Doğu Anadolu'da da ürediği tahmin edilmiştir [@kasparek1992a]. Meriç Deltası'nda üreyen koloni 250 çiftten oluşmaktadır.
+Altı kaydı vardır. Kayıtların ayrıntıları şöyledir: 27 Mayıs 1915'te Marmara Denizi'nden alınan iki erişkin [@matheydupraz1920]; 4 ve 5 Eylül 1959'da Boğazlar'da gözlenen, sırasıyla, 1 ve 2 birey [@ballance1961]; 25 Mayıs 1969'da Van Gölü yakınındaki Ahlat'ın 2 km batısında fotoğraflanan 4 birey [@ost1972]; 1 Mayıs 1970'te Ağrı ilindeki Taşlıçay ve Yoncalı ilçeleri arasında gözlenen 2 birey [@ost1975]. Yakın tarihli kayıtlar ise, 27 Nisan 1996'da, Dalyan'da İztuzu kumsalı açıklarında gözlenen birkaç birey ile [@kirwanmartins2000], 12 ile 27 Mayıs 2005 arasında Bodrum yakınındaki Tuzla Milas'ta en fazla 4 olarak sayılan bireylerdir. 1971 yılı Temmuz sonunda Karadeniz'den bildirdiği kayıtlar [@renkhoff1972] ve kanıtsız görülmüş ve reddedilmiştir [@kasparek1992a]. Tür, Kıbrıs ve İsrail'de de rastlantısaldır [@porter1996]. Yunanistan'da en az sekiz kere kaydedilmiştir [@handrinos1997].
 
-Genellikle makul sayılarla görülmesine ve ülkenin doğu bölgelerinde yine de açıkça seyrek olmasına rağmen, göç sırasında daha yaygın yayılışlı ve epey daha boldur. Öncelikle nisan-mayıs ve ağustos-ekim arasında kaydedilen geçit, eylülde en yoğundur. Akdeniz'de ise geçit kimi zaman temmuz başında başlar. Bu bölgede, Burdur Gölü'nde 2000'in üzerinde bireyin birlikte görüldüğü de olmuştur. Çoğunlukla nisan ortası ile ekim ortası arasında kaydedilmiştir. Kızılırmak Deltası'ndan 18 Aralık 2005'e ait yakın zamanlı bir kış kaydı vardır [@balmer2006].
-
-![](images/harita_Page_209.png)
+![](images/harita_Page_206.png)
 
 **Üreme**
 
-Göllerin, nilüfer gibi suda büyüyen ya da yüzen bitkilere sahip korunaklı bölgelerinde, küçük kolonilerde ürer. Sazlardan ve su bitkilerinden oluşan bir yığının, büyümekte olan bir bitkiye tutturulmasından ya da üzerine yerleştirilmesinden oluşan ve tepesinde, daha ince malzemelerle astarlanmış bir deliğe sahip olan bir yuvası vardır. **MAR.** Uluabat Gölü'nde 2 Haziran 1966'da yüzen bitkilerin üzerinde 15-20 çiftin yuvaladığı gözlenmiştir. R. F. Porter tarafından incelenen ve biri boş diğer ikisinde ise 2 ve 1 yumurta olan 3 yuvanın hepsi büyük olasılıkla tamamlanmamış kuluçkaya sahipti. Yine Uluabat Gölü'nde Mayıs 1967'de toplam yaklaşık 100 çifte sahip 4 koloni kaydedilmiş, Mayıs 1969'da ise 40'a kadar kuş ve yuvalama davranışı gözlenmiştir. 15 Mayıs-20 Haziran 1998 arasında en az 3 çiftin bıyıklı sumru kolonisi içinde yuvaladığı gözlenmiştir [@welch1998b]. **İÇA.** 1967'de Eber Gölü'nde toplam 15 çifte sahip 2 koloni kaydedilmiş, 8 Mayıs'ta burada yuva yapma davranışı gözlenmiştir. Türkiye'deki yumurta sayısı hakkında ayrıntılı bilgi yoktur. Diğer bölgelerde olağan yumurta sayısı üçtür.
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür
+
+## Sumru
+
+*Sterna hirundo*, Common Tern
+
+***Yaygın ve çok sayıda bulunan yaz konuğu ve geçit türüdür.***
+
+Kıyı kesimlerinde ve başta Manyas Gölü'nde (500 çift), Gediz Deltası'nda (2150 çifte kadar), Göksu Deltası'nda 100 çifte kadar), İç Anadolu (kolonilerin çoğunda 50-100 çift) ve Doğu Anadolu olmak üzere ülkenin iç kesimlerindeki çeşitli sulakalanlarda bulunur.
+
+Sonbahar başta olmak üzere geçit sırasında daha bol ve daha yaygın yayılışlıdır. Sonbahar geçişi en azından ağustos başından ekim ortasına kadar sürer. Geçişin en yoğun olduğu dönem, Doğu Karadeniz'de de bazen yüksek sayılarla kaydedildiği eylül ayıdır. Geçiş daha nadiren kasım ortasına dek gözlenir. Mart ortasında başlayan bahar geçişinde aynı bollukta görülmez.
+
+Çoğunlukla Karadeniz'den seyrek kış kayıtları vardır. Aralık sonu ile şubat başı ve ortasında Akdeniz'de kaydedilmiş kuşların da, geç ya da erken göçmenlerden çok kışlayan bireyler olmuş olması mümkündür.
+
+![](images/harita_Page_205.png)
+
+**Üreme**
+
+Koloniler genellikle 80 çiftten daha az olsa da, 1966'da Manyas Gölü'nde kaydedildiği gibi 500 çifte kadar büyüklerine de rastlanmıştır. En önemli üreyen popülasyon, 1996 yılında tahminen 2150 çift olarak hesaplanan Gediz Deltası'ndakidir [@eken1997a]. Nadiren yalnız, bazen gülen sumru (Gelochelidon nilotica) ve küçük sumru (Sternula albifrons) gibi diğer türlerle yakın ilişki içinde ürer. Hem kıyı, hem de iç kesimlerdeki göllerde, su basmış bölgelerde, nehir kıyılarında ve kıyıya yakın adalarda; çoğunlukla kum, çamur ve çakıldan oluşan alçak adalarda yuvalar. Uluabat Gölü'nde yüzen bitkilerin içinde yuvaladığı da kaydedilmiştir [@welch1998b]. Genellikle yerde, astarsız ya da yakındaki bitkilerle astarlanmış bir çukurda yuvalar. Türkiye'de gözlenen yumurta sayısı 3, nadiren 2. **İÇA.** 2 Haziran 1971'de Seyfe Gölü'nde 60 çiftten oluşan kolonide yapılan gözlemde yumurtaların yaklaşık 10 Mayıs'ta koyulduğunu gösterir şekilde 48 çiftin yuvasında yumurta, geri kalan çiftlerin yuvalarında da yavruların olduğu kaydedilmiştir [@husband1984]. 26 Temmuz 1971'de Yarma'da hala kuluçkada olan çiftler gözlenmiştir. 29 Mayıs 1999'da Çavuşçu Gölü'ndeki bir adada 100 çiftin yuvaladığı gözlenmiştir. **MAR.** 19 Haziran 1973'te Büyükçekmece'de, yumurtaların mayıs başında koyulduğunu gösterir şekilde 4 tüylenmiş yavru gözlenmiştir. 2 Haziran 1966'da Uluabat Gölü'nde yaklaşık 30 çiftten oluşan bir kolonide içinde yumurta bulunan 4 yuva kaydedilmiştir. Ayrıca, 14 Mayıs ve ardında içinde yumurta bulunan yuvalar kaydedilmiş, 11 Temmuz 1966'da ise Kocaçay Deltası'nda tüylenmiş yavru gözlenmiştir [@ertan1996]. **EGE.** 14 Mayıs 2007'de Karine Gölü'nde yapılan gözlemde, üremenin hala ilk aşamalarda olduğunu gösterir şekilde yalnızca bir yumurtası olan tamamlanmamış kuluçkaya sahip 2 yuva kaydedilmiş; 27 Haziran 1999'daki gözlemde ise çiftlerin çoğunun farklı gelişim seviyesinde yavruya sahip olduğu, ancak birkaç yuvada halâ yumurta bulunduğu kaydedilmiştir. [@mcneile1950], 23 Mayıs 1950'de Aliağa yakınındaki bir adacıktan 2 yumurta toplamıştır. **AKD.** Göksu Deltası'nda erişkinlerin 15 Mayıs'tan itibaren kuluçkaya yattıkları gözlenmiş, 19 Mayıs 1999'da ise Akgöl'de yaklaşık 100 bireyin kum şeridi üzerinde kuluçkada olduğu kaydedilmiş, temmuz başında ise tüylenmiş yavrular gözlenmiştir. **DOA.** Mayıs sonunda Erçek Gölü'nde, haziran başında ise Malatya'daki Murat Nehri'nde ve Karakaya barajındaki çakıl adalarında, kuluçkada olan erişkinler gözlenmiştir. **KAR.** 10 Haziran 1975'te Fatsa'da, açıktaki bir küçük adacıkta üremekte olan 30-50 çift kaydedilmiştir. Geç tarihlerde kaydedilen yumurtalı yuvalar büyük olasılıkla kaybedilen kuluçkaların yerine yenisinin yapıldığını göstermektedir.
+
+**Alttürler ve Sınıflandırma**
+
+Orta Asya'da bulunan tibetana alttürüne benzer kuşların Ortadoğu'da görüldüğüne dair iddialar olmuşsa da, büyük olasılıkla Türkiye'de görülenlerin hepsi nominattır.
+
+## Kara Gagalı Sumru
+
+*Thalasseus sandvicensis*, Sandwich Tern
+
+***Lokal ve az sayıda üreyen, tüm yıl görülen yaygın ve çok sayıda bulunan konuktur.***
+
+1980'lerin ortasında Gediz Deltası'nda az sayıda ürediği keşfedilmiştir. Son zamanlarda da Hersek Lagünü'nde 6 çiftin ürediği saptanmıştır. Bunun dışında, kıyı bölgelerinde oldukça yaygın ve seyrek olmayan geçit türüdür. Ülkenin ortasında ve batısında çok az sayıda kışlar. Marmara'da eylül sonundan nisan başına kadar kaydedilir. En yüksek sayıda bireyin gözlendiği kayıtların ayrıntıları şöyledir: Ocak 1972'de Büyükada ile Yalova arasında yaklaşık 450 birey; Mart 1974 ve Kasım 1970'de Büyükçekmece'de sırasıyla 231 ve 150 birey ve Ocak 1987'de Kavak Deltası'nda 170 birey. Karadeniz'de eylül sonundan nisan başına kadar, genellikle az sayıda kaydedilir. Kızılırmak Deltası ile Samsun civarında ise düzenli görülür ancak genellikle 100 bireyden az kaydedilir. Ege'de genellikle ekim sonundan mayıs sonuna kadar görülür. Çoğunlukla az sayıda kaydedilir ancak 1972'de Büyük Menderes Deltası'nda yaklaşık 100 birey gözlenmiştir. Akdeniz'de kasım başından mart sonuna dek görülür. Genellikle az sayıda kaydedilse de yaklaşık 50 bireyin gözlendiği de olmuştur.
+
+![](images/harita_Page_203.png)
+
+**Üreme**
+
+**EGE.** Gediz Deltası'nda 1984-88 yıllarında, deltanın tuzlu lagünlerinde yer alan, Akdeniz martısının (Larus melanocephalus) da ürediği adalarda ürediği doğrulanmıştır. 1996 Mayıs'ının başında, sözü geçen kolonide, 53 çift kara gagalı sumru ve 97 çift Akdeniz martısı kaydedilmiştir [@eken1997a]. **MAR.** Son yapılan araştırmada Yalova Hersek Lagünü'nde birkaç çiftin ürediği tespit edilmiştir. Türkiye'de veri yoktur, ancak diğer bölgelerde kolonilerin yoğun olduğu ve yuvaların birbirine 0,5 m'den daha yakın olduğu bilinmektedir. Yere, astarsız sığ bir deliğe yuvalar. Olağan kuluçka sayısı ikidir, ancak nadiren yılda bir kere de kuluçkaya yatabilir. Yumurtalar çoğunlukla mayısta koyulur.
 
 **Alttürler ve Sınıflandırma**
 
 Türkiye'de nominat alttürü bulunur.
 
-## Büyük Korsanmartı
+## Tepeli Sumru
 
-*Stercorarius skua*, Great Skua
-
-***Rastlantısal konuktur.***
-
-Altı alan kaydı vardır (hepsi ancak görünüşe göre en yeni iki tanesi tanımlanmamış ya da tanımsız olarak yayınlanmıştır): 15 Eylül 1967'de Ahtamar adası yakınlarında, Van Gölü genç bir birey [@vielliard1968resultats], 30 Aralık 1983'te Tuzla Gölü'nde, Çukurova ve 7-8 Ocak 1986'da İskenderun Körfezi'nde birer birey, 9 Ocak 1990'da Ceyhan Deltası açıklarında (Çukurova) [@kasparek1990a], 15 Nisan 1996'da Göksu Deltası açıklarında [@kirwanmartins2000] ve 5 Nisan 2003'te Marmara Denizi'nde bir feribottan kaydedilmiştir. Dördüncü kayıt, 25 Nisan 2011'de Karataş'ta Katalan bir ekip görülen kuştur.
-
-Doğu Akdeniz'deki diğer yerlerde de nadirdir. 1958 ile 1993 arasında Yunanistan'da beş defa kaydedilmiş [@handrinos1997], Kıbrıs [@flint1992] ya da Lübnan'da [@ramadan2008]hiç kaydedilmemiş, bir tanesi iç kesimlerde olmak üzere İsrail'de dört defa kaydedilmiştir [@shirihai1996]. Mısır'da en az beş tane kesin olmayan büyük korsanmartı kaydı vardır [@goodman1989].
-
-![](images/harita_Page_210.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Genellikle modern otoritelerin çoğu tarafından monotipik olduğu düşünülür. Bazı kaynaklarda Catharacta cinsi altında değerlendirir.
-
-## Küt Kuyruklu Korsanmartı
-
-*Stercorarius pomarinus*, Pomarine Skua
-
-***Seyrek geçit türüdür.***
-
-2008 yılına kadar en az 25 yayınlanmış ve dört tane önceden yayınlanmamış kaydı vardır. İlkbahar geçişinde mart sonundan mayıs sonuna, sonbahar geçişinde temmuz ortasından ekim ortasına kadar görülür. En kalabalık olarak 13 Ekim 2002'de İstanbul Ormanlı açıklarında altı birey gözlenmiştir. İçsu kayıtları nadirdir. 26 Temmuz 1989'da Bendimahi'de genç bir birey [@kasparek1990a] görülmüştür. Yukarıda listelenen kayıtların çoğu için tanımlayıcı detaylar eksiktir. Buna karşın, makul olan Türkiye'de küt kuyruklu korsanmartının kayıtların gösterdiğinden daha bile düzenli olduğudur.
-
-türün kasım-aralık aylarında Boğaziçi'nde düzenli olduğunu kabul eder [@alleon1880] ve ilkbahar 1888 ve Mayıs 1892 tarihli ve "Marmara" olarak etiketlenmiş iki örneği Sofya Ulusal Doğa Tarihi Müzesi'ndedir. Öte yandan, Boğaziçi, Kadıköy açıkları ve Üsküdar'la Haydarpaşa arasında olmak üzere türü altı defa kaydetmiştir (30 Ekim 1888, 17 Kasım ve 15 Aralık 1890, Ocak 1891 sonu, 3 Aralık 1892 ve 15 Aralık 1893) [@matheydupraz1920]. Geriye bakıldığında o dönemde korsanmartı tanımlaması ile ilgili yeterli bilgi olup olmadığı dikkate alınmalıdır.
-
-![](images/harita_Page_211.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Monotipik bir türdür.
-
-## Korsanmartı
-
-*Stercorarius parasiticus*, Parasitic Jaeger
-
-***Yaygın ve az sayıda geçit türüdür.***
-
-Karadeniz kıyısı boyunca ve Boğaziçi ile Marmara Denizi'nde seyrek ancak neredeyse kesinlikle düzenli bir geçit türüdür. Görünüşe göre Ege ve Akdeniz kıyılarında düzenlidir ve aynı zamanda diğer tüm korsanmartılar gibi ara sıra kara üzerinde de göç eder. Burdur Gölü'nde, üç defa Kulu Gölü'nde ve bir defa Ereğli Sazlığı'nda ve Doğu Anadolu'da Bendimahi, Van Gölü ve Van yakınlarında olmak üzere iç bölgelerde de kaydedilmiştir. İlkbaharda, mart ortasından haziran sonuna kadar ve sonbaharda temmuz ortasından ekim başına kadar ve yoğun olarak eylülde geçiş yapar. Karadeniz kıyısı boyunca düzenli olarak kışlar. Welch ve Welch 1998a, Ocak 1997'de altı lokalitede toplam yedi birey kaydetmiştir. Aralık 1997'de İskenderun Körfezi'nde en az dört ve Fethiye açıklarında 13 birey kaydedilmiştir. Ocak 2004'te Kulu Gölü'nde olası bir kaydı vardır. [@kasparek1992a] 50'ye yakın mevcut kaydı rapor etmiş, belirlenmemiş korsanmartı kayıtlarını dâhil etmeden, bazıları 15 bireyden oluşan toplam 114 kayıt derlemiştir. Ayrıca hepsi Alléon tarafından Marmara'da toplanmış dört tahnit vardır.
-
-![](images/harita_Page_212.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Monotipik bir türdür.
-
-## Uzun Kuyruklu Korsanmartı
-
-*Stercorarius longicaudus*, Long-tailed Jaeger
+*Thalasseus bengalensis*, Lesser Crested Tern
 
 ***Rastlantısal konuktur.***
 
-Toplam dokuz güncel kaydı vardır: 23 Eylül 1979'da Boğaziçi'nde iki erişkin ya da ergen [@martins1989], 3 Haziran 1991'de Kulu Gölü'nde bir erişkin fotoğraflanmıştır, 11 Haziran 1991'de Taşucu açıklarında iki genç [@kirwanmartins1994], 17 Eylül 1991'de İstanbul yakınlarında Karaburun açıklarında bir birey [@robel1992], 24 Mayıs 1992'de Finike'nin batısında Kale açıklarında bir erişkin, 10 Haziran 1994'te Sultansazlığı'nda açık fazda bir erişkin [@kirwan1995a] ve 8 Mayıs 1999'da Yumurtalık açıklarında (Çukurova, Akdeniz) ikinci yazında bir birey [@kirwan2003] kaydedilmiştir. Bu kayıtların hiçbirinde tanımlama yoktur. Son olarak bir genç birey Mersin Limanı'nda 21 Aralık 2009'da beş korsanmartı ile beraber ve 29 Nisan 2011'de Sarıyer Keskin Viraj'da (S Bilgin) kaydedilmiştir. Mersin kaydı türün ilk kışlama kaydıdır.
+Üç kaydı vardır: 28 Mayıs 1973'te Göksu Deltası'nda oldukça iyi şekilde gözlenen ancak, yüzeysel tanımlı, ilk yaşını süren bir birey [@witt1976beobachtungen]; 5 Haziran 2003'te yine Göksu Deltası'nda bu kez denizde hızla uçarken gözlenen, ancak hakkında ayrıntılı bilgi olmayan bir birey; 13 Mart 2004'te Küçük Menderes Deltası'nda gözlenen ve kısa tanımı mevcut birey [@balmer2004b]. Dördüncü kayıt, Belek Eleri sahilinde 26 Aralık 2004'de görülen bir kuş olup ayrıntılı tarifi mevcuttur (A.-A. Weller).
 
-Eylül 1888 sonlarında Terkos Gölü'nde kaydedilen ve tarafından tanımlanan birey açıkça bu türdür [@matheydupraz1920]. Ermenistan'da bir defa kaydedilmiş [@adamian1999] ancak Yunanistan [@handrinos1997] ya da Lübnan'da hiç kaydedilmemiştir [@ramadan2008].
+Tür üremeksizin Eilat'da (İsrail) düzenli ancak nadir bahar ve yaz konuğu olarak kaydedilir [@shirihai1996]. Ürdün'de de iki kere kaydedilmiştir [@andrews1995]. Önceden Lübnan sahili açıklarındaki bir adada üremiştir [@ramadan1999]. Yunanistan'dan, hepsi 1987 ve sonrasına ait yakın zamanlı üç kayıt vardır (Handrinos ve Akriotis 1997).
 
-![](images/harita_Page_213.png)
+![](images/harita_Page_202.png)
 
 **Üreme**
 
@@ -602,4 +610,4 @@ Türkiye'de yuvalamaz.
 
 **Alttürler ve Sınıflandırma**
 
-Muhtemelen nominat alttür görülmektedir; ancak ülkedeki kayıtların hiçbiri alttür düzeyinde tanımlanmamıştır.
+Türkiye kayıtları alttür düzeyinde tanımlanmamıştır. Akdeniz'de yuvalayan *emigratus* alttürünün bulunması olasıdır.

@@ -6,7 +6,7 @@ title: "Bataklık Kuşları"
 
 *Otis tarda*, Great Bustard
 
-***Çok nadir ve lokal yerli ve yarı göçmendir.***
+***Lokal olarak çok az sayıda olan yerli bir türdür.***
 
 Tür, yalnızca geniş ve ağaçsız alanlar ile tarımsal mozaik, yarı bozkır ve az insan baskısı olan, doğudaki 1800 m yüksekliklerde görülür. türün Türkiye'deki eski yayılışını ayrıntılarıyla belirtmektedir ve buna göre tür daha önceden tüm bölgelerde görülmektedir [@kasparek1989a]. Günümüzde de hala aynı bölgelerde mevcuttur ve tür için toplam 83 temel alan tanımlanmıştır. Bu alanların bazıları gerçekten geniş sahalardır. Bu alanlar eski üreme alanlarını içermektedir ve çoğunun şu an toyların sığınmasına uygun olmadığı bilinmektedir.
 
@@ -24,15 +24,17 @@ Genellikle geniş, açık ve ağaçsız alanlar, rahatsız edilmeyecekleri büy�
 
 Türkiye'de nominat alttürü bulunur.
 
-## Asya Yakalı Toyu (Yakalı Toy)
+## Asya Yakalı Toyu
 
 *Chlamydotis macqueenii*, Macqueen's Bustard
 
-***Üreyen tür olarak soyu tükenmiş, bugün çok nadir rastlantısal konuktur.***
+***Rastlantısal konuktuk. Üreyen nüfusu geçen yüzyılda tükenmiştir.***
 
-Yaklaşık 100 yıl sonra bir birey İç Anadolu'da bulunmuştur. 17 Aralık 2012'de Konya'nın Karapınar ilçesinden avcılar tarafından yaralı olarak bulunmuş, Selçuk Üniversitesi Veterinerlik Fakültesine getirilmiş, oradaki hocaların Dr. K. Erciyas'a danışmasıyla türü tespit edilmiştir. 28 günlük esareti sırasında tedavi ve rehabilite edildikten sonra 14 Ocak günü Dr. O. Onmuş tarafından sırtına verici takılarak serbest bırakıldı. Serbest bırakılan kuş birkaç metre uçabildi, ardından koşarak uzaklaştı. Ancak ertesi gün bir çakal tarafından öldürülmüş olarak bulundu. Görünüşe göre yaralanma nedeni avcıların attığı bir saçmanın göğsüne saplanmasıydı ve rehabilitasyon ve tedavisi sırasında göğüs kasındaki kurşun temizlenmemişti. Yaban hayatının rehabilitasyonu ülkemizde henüz başarılı olabildiğimiz bir alan değildir.
+Yaklaşık 100 yıl sonra bir birey İç Anadolu'da bulunmuştur. 17 Aralık 2012'de Konya'nın Karapınar ilçesinden avcılar tarafından yaralı olarak bulunmuş, Selçuk Üniversitesi Veterinerlik Fakültesine getirilmiş, oradaki hocaların Dr. K. Erciyas'a danışmasıyla türü tespit edilmiştir. 28 günlük esareti sırasında tedavi ve rehabilite edildikten sonra 14 Ocak günü Dr. O. Onmuş tarafından sırtına verici takılarak serbest bırakıldı. Serbest bırakılan kuş birkaç metre uçabildi, ardından koşarak uzaklaştı. Ancak ertesi gün bir çakal tarafından öldürülmüş olarak bulundu. Görünüşe göre yaralanma nedeni avcıların attığı bir saçmanın göğsüne saplanmasıydı ve rehabilitasyon ve tedavisi sırasında göğüs kasındaki kurşun temizlenmemişti. Yaban hayatının rehabilitasyonu ülkemizde henüz başarılı olabildiğimiz bir alan değildir. Kuşun bulunduğu yerde kalabalık bağırtlak sürüleri ve toyları kışladığı tespit edilmiştir. Orta Asya'da üreyen ve az sayıda Orta Doğu ülkelerinde kışlayan bu tür Karapınar Ovası'nda düzenli kışlıyor olabilir.
 
-Kuşun bulunduğu yerde kalabalık bağırtlak sürüleri ve toyları kışladığı tespit edilmiştir. Orta Asya'da üreyen ve az sayıda Orta Doğu ülkelerinde kışlayan bu tür Karapınar Ovası'nda düzenli kışlıyor olabilir.
+İkinci kayıt, 1 birey Trabzon Akçaabat ilçesinde bitkin halde bulundudu sırtında verici olan halkalı bir birey. Ekim 20 tarihinde *B. Hatinoğlu* tarafından kaydedildi. Aynı birey daha sonra Baymurt, Balkaynak Köyü'nde 28 Ekim 20 tarihinde *B. Hatinoğlu, E. Yogurtcuoglu* salındı. Ancak Sonra kuşun Yozgat'ta Sorgun ilçesi Osmaniye Köyü'nde ölüsü bulundu [@ntv2020yakalitoy].\
+
+Üçüncü kez, 1 birey “Tigem/Muş/Muş Ovası” alanında (Muş) 17 Mart 21 tarihinde *A. S. Aloğlu, O. Aydin, F. Başbuğ, E. Biyikoğlu, E. Cengiz, M. Kocas, O. Çi̇çek, M. Çulcuoğlu* tarafından kaydedildi.
 
 Eski üreyen popülasyona ait kayıtlar 1912 veya daha öncesinde Kars civarından [@satunin1912] ve 1917 öncesinde Aras Vadisi'nde çok küçük bir popülasyondur [@glutzvonblotzheim1973]. eski Amik gölü yakınlarında 1910 yılında bulunan genç bir birey Aharoni tarafından muhafaza edilemediğini ve bu bölgede muhtemelen o yıllarda üremekte olduğunu aktarmıştır [@kumerloeve1963a]. 1981'de Türkiye'nin doğusunun uzak bölgelerinde üremesi için hala uygun habitatların olduğunu ve türün buralarda ara sıra kışlayabileceğini [@goriup1985].
 
@@ -106,44 +108,6 @@ Diğer yandan, tüm Türkiye'de belirgin olarak yaygın ancak genelde az sayıda
 
 Monotipik bir türdür.
 
-## Bataklık Suyelvesi
-
-*Porzana parva*, Little Crake
-
-***Seyrek ve lokal yaz konuğu ve yaygın ve çok sayıda bulunan geçit türüdür.***
-
-Yakın zamanlarda, Akdeniz'de ürediği kanıtlanmış ve neredeyse kesin olarak İç Anadolu, Karadeniz ve Doğu Anadolu'da aynı şekildedir. Muhtemelen üç Porzana türü arasında en yaygın olarak üreyendir. Öte yandan, mevcut tahminlerden daha kesin olarak yaygın bir geçiş türüdür. Göçü benekli suyelvesi ile karşılaştırıldığında ülkede daha geniş yayılımlıdır. Göç sırasında, pek çok alanda ötmesinden dolayı ürüyor olarak yorumlanabilir. Mart ortasında varır ve nisan-mayıs döneminde bulunur. Orta Avrupa'da mayıs başında yumurtlar [@cramp1980]. Geç ilkbahar kayıtları, pek çok durumda muhtemel üremeyi ifade eder. Ancak haziranın ilk haftası gibi oldukça geç tarihteki kayıtların üreme sezonunun daha geç olduğu daha kuzey ve doğudaki alanlara gitmekte olan bireyler olma olasılığı da bulunmaktadır. İlkbahardaki sayıları genlikle düşüktür. Buna rağmen 19 Nisan 1996'da Kozanlı Saz Gölü'nde 42, Kuzeydoğu Anadolu'da bir alanda 22 Nisan 1996'da 39 [@kirwanmartins2000], Çukurova'da 25 Mart-15 Mayıs 1990 arasında 71 [@kivit1994], 1992 ilkbaharında Kızılırmak Deltası'nda 32 [@hustings1994] ve Mart ve Nisan 2002'de Mogan Gölü'nde un "düzinelerce" diye not ettikleri kayıtlar [@balmer2003a], özellikle önemli sayıda geçiş yaptığını düşündürmektedir. Sonbahar göçünün başlangıcı belirsizdir ancak kesinlikle ağustostan öncedir. Her ikisi de türün ürediği bilinen Göksu Deltası'ndan olmak üzere, temmuz ayında Akdeniz'den iki erken kaydı vardır. Çoğu sonbahar kaydı eylül ve ekim aylarındadır. Özellikle ilkbaharla karşılaştırıldığında, sonbahardaki sayıları genelde düşüktür. Bununla birlikte, göç genellikle ekim ortasında son bulmaktadır. En geç kaydı Kızılırmak Deltası'nda 14 Kasım'dadır (Sandgrouse 31: 100).
-
-![](images/harita_Page_117.png)
-
-**Üreme**
-
-Yuvalama ile ilgili tek kayıt 23 Mayıs 1993'de Göksu Deltası'nda, sazlık ve kındıralıklarda görülen 3 boş yuvadır. Bu alanın çok yakınında muhtemelen çift olan 2 erişkin ve görülemeyen olası bir yavru, bundan 2 gün önce heyecanlı hareketler yaparken görülmüştür. Tüm yuvalar kofalardan (Juncus) derin olmayan bir kap şeklinde, sukılavuzu yuvasından daha küçük, sık bitki örtüsü içinde iyi gizlenmiş ve su seviyesinden çok az yukarıdadır. Göksu Deltası'ndan erkek ve dişinin birlikte görüldüğü (muhtemel çift) ve mart ve nisan sonlarında öten erkek bireylere daha başka birçok erişkin kayıtları vardır. **İÇA.** 25 Nisan 1974 ve 1 Mayıs 1974'de Mogan Gölü'nde birer çift, Çöl Gölü'nde 2 Mayıs 1992'de 2 dişi ve 2 erkek kaydedilmiştir [@karauzkirac1993]. **KAR.** Kızılırmak Deltası'nda 1992'de öten birkaç erkek ve muhtemel üreme (0-5 çift) kayıtları vardır [@hustings1994]. **DOA.** Çenge Gölü'nde 20 Mayıs 1993'de öten 2 erkek [@kirwanmartins2000] ve 8/9 Haziran 1997'de yine öten 2 erkek kaydedilmiştir ve bunlar burada üreyen bir popülasyonun varlığını akla getirmektedir.
-
-**Alttürler ve Sınıflandırma**
-
-Monotipik bir türdür.
-
-## Küçük Suyelvesi
-
-*Porzana pusilla*, Baillon's Crake
-
-*Nadir ve lokal yaz konuğu, yaygın ve seyrek geçit türüdür.*
-
-Sadece Manyas Gölü ve Kırklareli İğneada'da ürediği tespit edilmiş olsa da bazı potansiyel üreme alanlarında yazın kaydedilmiştir. Özkan (2010) genç bir bireyi İğneada, Mert Gölü'nde 31 Temmuz 2009'da fotoğraflamıştır. Gerçek durumunu ortaya koymak, üreme ile göç kayıtlarının karışmasından dolayı çok zordur. Orta Avrupa'da yumurtlama mayısta başlar. Bu yüzden ilkbahar sonu kayıtları olası üremeleri ifade eder. Pek çoğu kuzey hattı boyunca göçleri sırasında öterler. Yaz kayıtları haziran sonu ve temmuz başı olabilir.
-
-Belirgin olarak yaygın bir geçiş türüdür ve ancak üç suyelvesi arasında en nadir görülenidir ve batı bölgelerde nispeten sıktır. Büyük olasılıkla tahmin edilenden daha boldur. En erken kaydı, Birecik'in güneyinde 20 Şubat 2011'de görülen kuştur. Mart ortasında görülmeye başlar. Öten erkekler çeşitli bölgelerde 19-28 Mart arasında kaydedilir. Nisan ve mayısta çok daha yaygın olarak görülür. Sonbaharda ağustostan ekime kadar, çoğunlukla eylülde görülür. 2 kış kaydı bulunur. 15 Aralık 1969'da Manyas Gölü'nde [@ost1975] ve 13 Ocak 2001'de Kızılırmak Deltası'nda birer birey görülmüştür.
-
-![](images/harita_Page_118.png)
-
-**Üreme**
-
-**MAR.** , 9 Ağustos 1965'de Manyas Gölü yakınındaki bir pirinç tarlasında aktif bir yuva kaydetmiştir [@beaudoin1967]ve bu Türkiye'de kesinleşen tek üreme kaydıdır. Bu yuva kındıra saplarıyla çevrelenmiş bir kap şeklinde, su seviyesinden çok az yüksekte, c.50 cm yükseklikteki kındıra veya saz (muhtemelen Scirpus) kümesinin arasındadır. Yuvada 3 adet kuluçkada yumurta (zeytin yeşili zeminde kahverengi lekeli) ve 4 küçük siyah yavru görmüş ve erişkinlerin de hemen yuvanın yakınında uyarı çığlıkları attıklarını belirtmiştir. Yavruların durumuna göre yumurtlama yaklaşık 18-19 Temmuz'da başlamıştır. Bu kadar geç bir tarih olması muhtemelen ikinci üremenin olduğu anlamına gelmektedir. Yöre halkı Beaudoin'e bu yuvaları sık sık pirinç tarlalarında bulduklarını belirtmiştir. Başka yerlerde öten erkekler birkaç bölgede bataklık ve çayırlıklarda kaydedilmiş fakat yuvalama kanıtlanamamıştır. **İÇA.** 23 Mayıs 1992'de Eşmekaya'da sığ su bulunan bir bataklıkta bir erişkinin heyecanlı hareketleri görülmüştür ve görülen yer tür için uygun üreme habitatıdır.
-
-**Alttürler ve Sınıflandırma**
-
-Muhtemelen Türkiye'dekilerin hepsi intermedia'dır. nominat alttür ile intermedia'nın yayılış alanlarının sınırlarında iki alttür bir ölçüde karışır ve ayırt edilmeleri zorlaşır [@cramp1980; @roselaar1995].
-
 ## Benekli Suyelvesi
 
 *Porzana porzana*, Spotted Crake
@@ -159,46 +123,6 @@ Marmara, İç Anadolu ve Karadeniz'de yazın görülür ancak esas olarak göç 
 **Üreme**
 
 Bataklık ve çayırlıklarda öten erkekler kaydedilmiştir ve birkaç bölgede ürediği söylenebilir. Ancak bunlar profesyonel kayıtlar değildir. **KAR.** Kızılırmak Deltası'nda 7 Haziran 1992'de öten bir erkek duyulmuştur. Aynı yerde 6 Mayıs 1992'de de öten bir erkek duyulmuştur [@hustings1994].
-
-**Alttürler ve Sınıflandırma**
-
-Monotipik bir türdür.
-
-## Sazhorozu
-
-*Porphyrio poliocephalus*, Grey-headed Swamphen
-
-***Lokal ve yer yer çok sayıda bulunan yerlidir.***
-
-Türkiye'de iki popülasyonu vardır. Doğu Akdeniz'de Göksu Deltası, Çukurova ve eski Amik Gölü'nde yerli ve üreyen bir tür olduğu bilinir. 1972'de Göksu Deltası'nda c.70 çift, Çukurova'da Akyatan Gölü merkezli olmak üzere bunu izleyen Tarsus Deltası'ndaki Aynaz Gölü'nün drenajlarında c.20 çiftin ürediğini tahmin etmektedir (bu alandan en geç 1982'ye kadar kayıt vardır). Amik Gölü popülasyonu 1962'deki son kayıttan sonra yok olmuştur [@kasparek1989]. Yakın zamandaki kurutma çalışmaları Çukurova popülasyonunu risk altına sokmuştur. 1990'ların sonlarından itibaren Fırat boyunca Birecik'te görülmeye başlanmıştır ve bugün burada yerleşiktir.
-
-1990'ların sonunda Kızılırmak Deltası'nda yeni popülasyonlar bulunmuştur [@balmer2004b]. Kızılırmak Deltası popülasyonu 1990'ların sonlarında ilk kez kaydedilse de, yöre halkı bundan 5 yıl önce var olduğunu bildirmiştir[@kasparek1992a]. Bu popülasyon yerleştikten sonra hızla çoğalmıştır 2005 Aralık sonu ve Ekim 2007'de yaklaşık 1800 birey buradaki pirinç tarlalarında sayılmıştır.
-
-Türkiye'nin başka yerlerinde, bazıları nadir üreme durumunu gösteren birkaç kayıt mevcuttur. Akşehir Gölü'nde [@beaman1986], Sultansazlığı'nda [@kasparek1985; @kirwanmartins1994], Mogan Gölü, Adıyaman [@kasparek1989], 1 Haziran 2002'de Ahlat Bataklıkları'nda bir erişkin, Karakaya Barajı'nda bir erişkin, 27 Kasım 2005'de Malatya'da ve 8 Eylül 2006'da Iğdır'da bir birey kaydedilmiştir (Dutch Birding 28:376). Son gözlem düzenli gözlenen bu alandaki mevcut tek kayıttır. Bununla birlikte, Manyas Gölü'nde en azından eski tarihlerde bulunduğu iddiası [@kiziroglu1987], dayanaktan yoksun görünmektedir. İstanbul'da 15 Temmuz 1893'de kaydedilmiştir [@rigler1852; @matheydupraz1920].
-
-![](images/harita_Page_120.png)
-
-**Üreme**
-
-Göksu Deltası'nda Akgöl'ün yanı başındaki sığ gölcüklerde yetişen çalı ve sazlıkların içinde yuva yapar. Yuvası sucuk bitkilerin dalları ve yaprakları ile yapılmış, suyun üzerinde büyük bir platformdur ve derin olmayan bir kap şeklindedir. Yuvanın etrafındaki daha uzun çalılar (dallar), kuluçkada yatan kuşu yukarıdan örtecek şekilde bükülmüştür. Yuva birkaç gün kullanıldıktan sonra, özellikle erişkinlerin çamurlu sudan tırmanmaları sonucu daha belirgin hale gelir. Çoğu yuva suda gelişen çalı kümelerinin üzerindedir. Ancak kaydedilen yuvalardan biri kamış ve çalılarla çevrelenmiş otlardan oluşmuş küçük bir adanın üzerindeki kuru zemindedir. Yuva ile yoğun bitki örtüsü arasında çamurla çevrelenmiş 2 m uzunluğunda bir tünel vardır ve bu tünel su seviyesinden 1,3 m yüksekte olup yukarıdan tamamen gizlenmiştir. Türkiye'de gözlenen yumurta sayısı 3 (2 yuvada), 4 (2 yuvada), 5 (4 yuvada), 6 (1 yuvada). Daha düşük sayıların tamamlanmamış kuluçkalar olduğu düşünülmektedir. Çoğu zaman yuvayı terk etmiş 1 veya 2 yavru görülür (15 yuvada), bu kuluçka süresindeki kayıtlar, bir nedenden dolayı annenin yumurtlamayı erken bitirmesi veya gözlemcilerin yavruların sadece bir kısmını görmelerinden kaynaklanıyor olabilir. Yavru sayısı: 3 (5 yuvada), 4 (3 yuvada). **AKD.** 21-23 Mayıs 1993'de Göksu'daki 8 kuluçkadan 4'ü tamamlanamamıştır ancak bunlarda sonradan yumurtlama olmuştur. Bir tanesinde 24 Mayıs 1993'de yavru görülmüş ve bu ilk yumurtlama tarihinin 25 Nisan olduğunu göstermektedir. Aynı alanda 26 Mayıs 1998'de içinde 4 yumurta olan bir yuva ve içinde 3 yavru olan gecikmiş bir yuva oldukça iyi durumda 17 Haziran 1992'de görülmüştür. Yavrular çoğunlukla mayıs ortası ve haziranda gözlenir. En erken tarih 3 Mayıs 1989'dur (Kasparek vd. 1989) ve yumurtlamanın nisan başlarında olduğunu göstermektedir. Son kayıtlar ağustos sonunda yeni uçmaya başlamış yavrulara aittir. Çukurova'da 8 Mayıs 1990'da bir erişkin yavrularıyla birlikte görülmüştür ve aynı alanda en az 9 erişkin ve 10 yavru ile 9 Mayıs 1990'da 7 territoryum tespit edilmiştir [@ovaa1990]. Amik Gölü'nde 22 Mayıs 1933'de yoğun bir sazlıkta, içinde 5 yavru ile bir yuva görülmüş ve yeni çıkmış bir yavru yakalanmıştır [@meinertzhagen1935]. Ayrıca 5 yumurta 6 Haziran 1929'da toplanmıştır [@kasparek1989]. **KAR.** Kızılırmak Deltası'nda 27 Haziran 1999'da iyi gelişmiş 2 yavruyla bir erişkin kaydedilmiştir.
-
-**Alttürler ve Sınıflandırma**
-
-Türkiye'de iki farklı alttürü bulunur. Geçmişi daha uzun olan Doğu Akdeniz ve çevresindeki alttür Doğu Akdeniz'den Kuzeybatı Hindistan'a kadar yayılış gösteren seistanicus alttürü olup, bazı yazarlarca Hindistan'da bulunan poliocephalus alttürünün sinonimi olarak değerlendirilmiştir. [@aharoni1930], daha önce bölgeden örnekleri de alınmış olan seistanicus'un Amik Gölü'nde ürediğini düşünmektedir [@kumerloeve1963a]. Buna ek olarak, Türkiye kuşlarının morfolojilerinin diğer seistanicus popülasyonlarına caspius'tan daha yakın olduğu söylenebilir [@kasparek1989]. 2000'li yılların başında Kızılırmak Deltası'na göçle gelen ve yerleşen (kolonize eden) popülasyon ise caspius alttürün aittir. İlginç bir şekilde, 15 Temmuz 1893'de İstanbul yakınlarında gözlemlediği kuşu Batı Akdeniz porphyrio taksonundan tanımlamıştır [@matheydupraz1920].
-
-## Küçük Sazhorozu
-
-*Porphyrio alleni*, Allen's Gallinule
-
-***Rastlantısal konuktur.***
-
-Tek kaydı vardır. 26 ve 30 Nisan 2013 arasında Mogan Gölü'nde erişkin bir birey gözlenmiştir. Esas yayılış alanı Sahra Altı Afrika'dır. Batı Palearktik bölgesinde anakarada 13'ten fazla ülkeden ve Azorlar, Madeira ve Kanarya Adaları'ndan kaydı vardır.
-
-![](images/harita_Page_121.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
 
 **Alttürler ve Sınıflandırma**
 
@@ -244,21 +168,37 @@ Yuvasını sazlıklarda su üzerine yapar. Yuva ölü yapraklar ve sucul bitki s
 
 Türkiye'de nominat alttürü bulunur.
 
-## Ak Turna
+## Gri Başlı Sazhorozu
 
-*Grus leucogeranus*, Siberian Crane
+*Porphyrio poliocephalus*, Grey-headed Swamphen
+
+***Lokal ve yer yer çok sayıda bulunan yerlidir.***
+
+Türkiye'de iki popülasyonu vardır. Doğu Akdeniz'de Göksu Deltası, Çukurova ve eski Amik Gölü'nde yerli ve üreyen bir tür olduğu bilinir. 1972'de Göksu Deltası'nda c.70 çift, Çukurova'da Akyatan Gölü merkezli olmak üzere bunu izleyen Tarsus Deltası'ndaki Aynaz Gölü'nün drenajlarında c.20 çiftin ürediğini tahmin etmektedir (bu alandan en geç 1982'ye kadar kayıt vardır). Amik Gölü popülasyonu 1962'deki son kayıttan sonra yok olmuştur [@kasparek1989]. Yakın zamandaki kurutma çalışmaları Çukurova popülasyonunu risk altına sokmuştur. 1990'ların sonlarından itibaren Fırat boyunca Birecik'te görülmeye başlanmıştır ve bugün burada yerleşiktir.
+
+1990'ların sonunda Kızılırmak Deltası'nda yeni popülasyonlar bulunmuştur [@balmer2004b]. Kızılırmak Deltası popülasyonu 1990'ların sonlarında ilk kez kaydedilse de, yöre halkı bundan 5 yıl önce var olduğunu bildirmiştir[@kasparek1992a]. Bu popülasyon yerleştikten sonra hızla çoğalmıştır 2005 Aralık sonu ve Ekim 2007'de yaklaşık 1800 birey buradaki pirinç tarlalarında sayılmıştır.
+
+Türkiye'nin başka yerlerinde, bazıları nadir üreme durumunu gösteren birkaç kayıt mevcuttur. Akşehir Gölü'nde [@beaman1986], Sultansazlığı'nda [@kasparek1985; @kirwanmartins1994], Mogan Gölü, Adıyaman [@kasparek1989], 1 Haziran 2002'de Ahlat Bataklıkları'nda bir erişkin, Karakaya Barajı'nda bir erişkin, 27 Kasım 2005'de Malatya'da ve 8 Eylül 2006'da Iğdır'da bir birey kaydedilmiştir (Dutch Birding 28:376). Son gözlem düzenli gözlenen bu alandaki mevcut tek kayıttır. Bununla birlikte, Manyas Gölü'nde en azından eski tarihlerde bulunduğu iddiası [@kiziroglu1987], dayanaktan yoksun görünmektedir. İstanbul'da 15 Temmuz 1893'de kaydedilmiştir [@rigler1852; @matheydupraz1920].
+
+![](images/harita_Page_120.png)
+
+**Üreme**
+
+Göksu Deltası'nda Akgöl'ün yanı başındaki sığ gölcüklerde yetişen çalı ve sazlıkların içinde yuva yapar. Yuvası sucuk bitkilerin dalları ve yaprakları ile yapılmış, suyun üzerinde büyük bir platformdur ve derin olmayan bir kap şeklindedir. Yuvanın etrafındaki daha uzun çalılar (dallar), kuluçkada yatan kuşu yukarıdan örtecek şekilde bükülmüştür. Yuva birkaç gün kullanıldıktan sonra, özellikle erişkinlerin çamurlu sudan tırmanmaları sonucu daha belirgin hale gelir. Çoğu yuva suda gelişen çalı kümelerinin üzerindedir. Ancak kaydedilen yuvalardan biri kamış ve çalılarla çevrelenmiş otlardan oluşmuş küçük bir adanın üzerindeki kuru zemindedir. Yuva ile yoğun bitki örtüsü arasında çamurla çevrelenmiş 2 m uzunluğunda bir tünel vardır ve bu tünel su seviyesinden 1,3 m yüksekte olup yukarıdan tamamen gizlenmiştir. Türkiye'de gözlenen yumurta sayısı 3 (2 yuvada), 4 (2 yuvada), 5 (4 yuvada), 6 (1 yuvada). Daha düşük sayıların tamamlanmamış kuluçkalar olduğu düşünülmektedir. Çoğu zaman yuvayı terk etmiş 1 veya 2 yavru görülür (15 yuvada), bu kuluçka süresindeki kayıtlar, bir nedenden dolayı annenin yumurtlamayı erken bitirmesi veya gözlemcilerin yavruların sadece bir kısmını görmelerinden kaynaklanıyor olabilir. Yavru sayısı: 3 (5 yuvada), 4 (3 yuvada). **AKD.** 21-23 Mayıs 1993'de Göksu'daki 8 kuluçkadan 4'ü tamamlanamamıştır ancak bunlarda sonradan yumurtlama olmuştur. Bir tanesinde 24 Mayıs 1993'de yavru görülmüş ve bu ilk yumurtlama tarihinin 25 Nisan olduğunu göstermektedir. Aynı alanda 26 Mayıs 1998'de içinde 4 yumurta olan bir yuva ve içinde 3 yavru olan gecikmiş bir yuva oldukça iyi durumda 17 Haziran 1992'de görülmüştür. Yavrular çoğunlukla mayıs ortası ve haziranda gözlenir. En erken tarih 3 Mayıs 1989'dur (Kasparek vd. 1989) ve yumurtlamanın nisan başlarında olduğunu göstermektedir. Son kayıtlar ağustos sonunda yeni uçmaya başlamış yavrulara aittir. Çukurova'da 8 Mayıs 1990'da bir erişkin yavrularıyla birlikte görülmüştür ve aynı alanda en az 9 erişkin ve 10 yavru ile 9 Mayıs 1990'da 7 territoryum tespit edilmiştir [@ovaa1990]. Amik Gölü'nde 22 Mayıs 1933'de yoğun bir sazlıkta, içinde 5 yavru ile bir yuva görülmüş ve yeni çıkmış bir yavru yakalanmıştır [@meinertzhagen1935]. Ayrıca 5 yumurta 6 Haziran 1929'da toplanmıştır [@kasparek1989]. **KAR.** Kızılırmak Deltası'nda 27 Haziran 1999'da iyi gelişmiş 2 yavruyla bir erişkin kaydedilmiştir.
+
+**Alttürler ve Sınıflandırma**
+
+Türkiye'de iki farklı alttürü bulunur. Geçmişi daha uzun olan Doğu Akdeniz ve çevresindeki alttür Doğu Akdeniz'den Kuzeybatı Hindistan'a kadar yayılış gösteren seistanicus alttürü olup, bazı yazarlarca Hindistan'da bulunan poliocephalus alttürünün sinonimi olarak değerlendirilmiştir. [@aharoni1930], daha önce bölgeden örnekleri de alınmış olan seistanicus'un Amik Gölü'nde ürediğini düşünmektedir [@kumerloeve1963a]. Buna ek olarak, Türkiye kuşlarının morfolojilerinin diğer seistanicus popülasyonlarına caspius'tan daha yakın olduğu söylenebilir [@kasparek1989]. 2000'li yılların başında Kızılırmak Deltası'na göçle gelen ve yerleşen (kolonize eden) popülasyon ise caspius alttürün aittir. İlginç bir şekilde, 15 Temmuz 1893'de İstanbul yakınlarında gözlemlediği kuşu Batı Akdeniz porphyrio taksonundan tanımlamıştır [@matheydupraz1920].
+
+## Küçük Sazhorozu
+
+*Porphyrio alleni*, Allen's Gallinule
 
 ***Rastlantısal konuktur.***
 
-Eskiden muhtemelen düzenli bulunan, bugün rastlantısal konuk statüsündeki bir türdür. Türkiye'deki ilk geçerli kayıtlar özetlenmiştir [@kasparek1987b]. Buna göre; Ankara çevresinde Nisan 1879'da 100'den fazla kuşun kaydını belgelemiş olup, leyleğe benzer görünüşlerinden ve ekibiyle beraber kuşların çok yakınına kadar sokulduklarından bahseder [@danford1880]. Eylül 1854'te Erzurum Ovası'nda biri 4-5 diğeri 20 bireylik iki grup gözlemiş ve bunlardan birini vurarak toplamıştır [@sandwith1856]. Maalesef bu örnek günümüze kadar ulaşamamıştır. Sandwith'in tür tayininde telli turnayı elediğini söylemesi de bu kuşların aslında turna (Grus grus) olabileceğine işaret eder. Bu şüphe üzerine , Kasparek'in tarihi kayıtları geçerli kılmasını tartışmış ve Türkiye listesine dâhil edilmemesini önermiş [@harrap1987], buna karşılık veren tarihi kayıtların değerlendirilmesinde modern standartların kullanılmasını eleştiren bir yazı yazmıştır [@walters1988letter].
+Tek kaydı vardır. 26 ve 30 Nisan 2013 arasında Mogan Gölü'nde erişkin bir birey gözlenmiştir. Esas yayılış alanı Sahra Altı Afrika'dır. Batı Palearktik bölgesinde anakarada 13'ten fazla ülkeden ve Azorlar, Madeira ve Kanarya Adaları'ndan kaydı vardır.
 
-Çağdaş gözlemlere baktığımızda, 21 Mayıs 1985'te Bulanık'ın batısında görünüşe göre turna (Grus grus) ve ak turna (Grus leucogeranus) melezi olduğunu düşündüğü bir kuş gözlemiştir [@davidson1985]. böyle bir kuşun, doğal bir melez olmasından çok Rusya'da yürütülen bir tür koruma programının sonucu ortaya çıkmasının daha olası olduğunu belirtmiştir [@martins1989]. En son olarak Haziran 1999'un başında bir ak turna Sinop Gerze'de bir tavuk çiftliğinde bulunmuştur. Bu kuş iki üç ay önce yakın çevrede ortaya çıkmış, daha sonra bir köylü tarafından esarete alınmıştır. Olay incelendiğinde bu kuşun Ağustos 1996'da Rusya'daki Oka Biyosfer Koruma Alanı'nda kaçmış olduğu ve yakın çevredeki bir turna sürüsüne katıldığı ve onlarla güneye göç ettiği ortaya çıkmış ve Türkiye'de görülmesini büyük ihtimalle açıklamıştır [@bradshaw2000].
-
-Türün batı popülasyonlarının 19. yüzyıldaki kayıtlarına bakıldığında türün daha yaygın olduğu ve yaklaşık 300 tanesinin Volga Deltası'nda mart ve nisan arasındaki ve istisnai olarak da mayıs ayındaki ilkbahar göçünde görüldüğü bilinmektedir. Buna paralel olarak Türkiye kayıtlarının hepsi, bilinen göç dönemiyle uyumludur [@birdlife2001]. Yakın coğrafyada 19. yüzyılda Makedonya'dan iyi belgelenmemiş bir kayıt [@elwes1870] ve Bulgaristan'dan kesin olmayan bir kaydı vardır [@snow1998]. Ortaçağ'dan bir Nil Deltası kaydından bahseder [@provençal1998].
-
-Bugün batı popülasyonu yok olmanın eşiğindedir. İran'da Hazar Denizi kıyılarında son yıllarda 7-11 birey ve Kuzey Hindistan'da 2 birey ve 1996'da Volga Deltası'nda 13 birey kaydedilmiştir. Son tahminlere göre kuzeydeki üreme alanında üreyen popülasyon sekiz çifttir [@snow1998; @birdlife2001]. Uydu telemetrisi ile yapılan gözlemlerde üreme alanlarının Ob Nehri havzasında, Kunovat Nehri havzasının 650 km güneyinde olduğu ortaya çıkmış, kuşların çoğunlukla Hazar Denizi'nin batı kıyıları boyunda göç edebilecekleri düşünülmüştür [@kanai2002]. Buna göre gelecekte de birkaç kuşun Türkiye'ye ulaşması küçük de olsa bir ihtimaldir. Nitekim yakın zamanda, Şubat 2001'de Ürdün'deki Doğu Çölü'nde Qa' Khanna'daki kaydı kabul görmüştür [@hamidan2003].
-
-![](images/harita_Page_124.png)
+![](images/harita_Page_121.png)
 
 **Üreme**
 
@@ -267,6 +207,60 @@ Türkiye'de yuvalamaz.
 **Alttürler ve Sınıflandırma**
 
 Monotipik bir türdür.
+
+## Çizgili Yelve
+
+Aenigmatolimnas marginalis, Striped Crake
+
+**Raslantısal Türdür.**
+
+Bir birey 11 Aralık 2020'de Bodrum'da *E. Durmuş* tarafından ölü bulunmuştur.
+
+**Üreme**
+
+Türkiye'de yuvalamaz. Asıl yayılış alanı Doğu ve Güney Afrika'dır.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür.
+
+## Bataklık Suyelvesi
+
+*Porzana parva*, Little Crake
+
+***Seyrek ve lokal yaz konuğu ve yaygın ve çok sayıda bulunan geçit türüdür.***
+
+Yakın zamanlarda, Akdeniz'de ürediği kanıtlanmış ve neredeyse kesin olarak İç Anadolu, Karadeniz ve Doğu Anadolu'da aynı şekildedir. Muhtemelen üç Porzana türü arasında en yaygın olarak üreyendir. Öte yandan, mevcut tahminlerden daha kesin olarak yaygın bir geçiş türüdür. Göçü benekli suyelvesi ile karşılaştırıldığında ülkede daha geniş yayılımlıdır. Göç sırasında, pek çok alanda ötmesinden dolayı ürüyor olarak yorumlanabilir. Mart ortasında varır ve nisan-mayıs döneminde bulunur. Orta Avrupa'da mayıs başında yumurtlar [@cramp1980]. Geç ilkbahar kayıtları, pek çok durumda muhtemel üremeyi ifade eder. Ancak haziranın ilk haftası gibi oldukça geç tarihteki kayıtların üreme sezonunun daha geç olduğu daha kuzey ve doğudaki alanlara gitmekte olan bireyler olma olasılığı da bulunmaktadır. İlkbahardaki sayıları genlikle düşüktür. Buna rağmen 19 Nisan 1996'da Kozanlı Saz Gölü'nde 42, Kuzeydoğu Anadolu'da bir alanda 22 Nisan 1996'da 39 [@kirwanmartins2000], Çukurova'da 25 Mart-15 Mayıs 1990 arasında 71 [@kivit1994], 1992 ilkbaharında Kızılırmak Deltası'nda 32 [@hustings1994] ve Mart ve Nisan 2002'de Mogan Gölü'nde un "düzinelerce" diye not ettikleri kayıtlar [@balmer2003a], özellikle önemli sayıda geçiş yaptığını düşündürmektedir. Sonbahar göçünün başlangıcı belirsizdir ancak kesinlikle ağustostan öncedir. Her ikisi de türün ürediği bilinen Göksu Deltası'ndan olmak üzere, temmuz ayında Akdeniz'den iki erken kaydı vardır. Çoğu sonbahar kaydı eylül ve ekim aylarındadır. Özellikle ilkbaharla karşılaştırıldığında, sonbahardaki sayıları genelde düşüktür. Bununla birlikte, göç genellikle ekim ortasında son bulmaktadır. En geç kaydı Kızılırmak Deltası'nda 14 Kasım'dadır (Sandgrouse 31: 100).
+
+![](images/harita_Page_117.png)
+
+**Üreme**
+
+Yuvalama ile ilgili tek kayıt 23 Mayıs 1993'de Göksu Deltası'nda, sazlık ve kındıralıklarda görülen 3 boş yuvadır. Bu alanın çok yakınında muhtemelen çift olan 2 erişkin ve görülemeyen olası bir yavru, bundan 2 gün önce heyecanlı hareketler yaparken görülmüştür. Tüm yuvalar kofalardan (Juncus) derin olmayan bir kap şeklinde, sukılavuzu yuvasından daha küçük, sık bitki örtüsü içinde iyi gizlenmiş ve su seviyesinden çok az yukarıdadır. Göksu Deltası'ndan erkek ve dişinin birlikte görüldüğü (muhtemel çift) ve mart ve nisan sonlarında öten erkek bireylere daha başka birçok erişkin kayıtları vardır. **İÇA.** 25 Nisan 1974 ve 1 Mayıs 1974'de Mogan Gölü'nde birer çift, Çöl Gölü'nde 2 Mayıs 1992'de 2 dişi ve 2 erkek kaydedilmiştir [@karauzkirac1993]. **KAR.** Kızılırmak Deltası'nda 1992'de öten birkaç erkek ve muhtemel üreme (0-5 çift) kayıtları vardır [@hustings1994]. **DOA.** Çenge Gölü'nde 20 Mayıs 1993'de öten 2 erkek [@kirwanmartins2000] ve 8/9 Haziran 1997'de yine öten 2 erkek kaydedilmiştir ve bunlar burada üreyen bir popülasyonun varlığını akla getirmektedir.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür.
+
+## Küçük Suyelvesi
+
+*Porzana pusilla*, Baillon's Crake
+
+*Nadir ve lokal yaz konuğu, yaygın ve seyrek geçit türüdür.*
+
+Sadece Manyas Gölü ve Kırklareli İğneada'da ürediği tespit edilmiş olsa da bazı potansiyel üreme alanlarında yazın kaydedilmiştir. Özkan (2010) genç bir bireyi İğneada, Mert Gölü'nde 31 Temmuz 2009'da fotoğraflamıştır. Gerçek durumunu ortaya koymak, üreme ile göç kayıtlarının karışmasından dolayı çok zordur. Orta Avrupa'da yumurtlama mayısta başlar. Bu yüzden ilkbahar sonu kayıtları olası üremeleri ifade eder. Pek çoğu kuzey hattı boyunca göçleri sırasında öterler. Yaz kayıtları haziran sonu ve temmuz başı olabilir.
+
+Belirgin olarak yaygın bir geçiş türüdür ve ancak üç suyelvesi arasında en nadir görülenidir ve batı bölgelerde nispeten sıktır. Büyük olasılıkla tahmin edilenden daha boldur. En erken kaydı, Birecik'in güneyinde 20 Şubat 2011'de görülen kuştur. Mart ortasında görülmeye başlar. Öten erkekler çeşitli bölgelerde 19-28 Mart arasında kaydedilir. Nisan ve mayısta çok daha yaygın olarak görülür. Sonbaharda ağustostan ekime kadar, çoğunlukla eylülde görülür. 2 kış kaydı bulunur. 15 Aralık 1969'da Manyas Gölü'nde [@ost1975] ve 13 Ocak 2001'de Kızılırmak Deltası'nda birer birey görülmüştür.
+
+![](images/harita_Page_118.png)
+
+**Üreme**
+
+**MAR.** , 9 Ağustos 1965'de Manyas Gölü yakınındaki bir pirinç tarlasında aktif bir yuva kaydetmiştir [@beaudoin1967]ve bu Türkiye'de kesinleşen tek üreme kaydıdır. Bu yuva kındıra saplarıyla çevrelenmiş bir kap şeklinde, su seviyesinden çok az yüksekte, c.50 cm yükseklikteki kındıra veya saz (muhtemelen Scirpus) kümesinin arasındadır. Yuvada 3 adet kuluçkada yumurta (zeytin yeşili zeminde kahverengi lekeli) ve 4 küçük siyah yavru görmüş ve erişkinlerin de hemen yuvanın yakınında uyarı çığlıkları attıklarını belirtmiştir. Yavruların durumuna göre yumurtlama yaklaşık 18-19 Temmuz'da başlamıştır. Bu kadar geç bir tarih olması muhtemelen ikinci üremenin olduğu anlamına gelmektedir. Yöre halkı Beaudoin'e bu yuvaları sık sık pirinç tarlalarında bulduklarını belirtmiştir. Başka yerlerde öten erkekler birkaç bölgede bataklık ve çayırlıklarda kaydedilmiş fakat yuvalama kanıtlanamamıştır. **İÇA.** 23 Mayıs 1992'de Eşmekaya'da sığ su bulunan bir bataklıkta bir erişkinin heyecanlı hareketleri görülmüştür ve görülen yer tür için uygun üreme habitatıdır.
+
+**Alttürler ve Sınıflandırma**
+
+Muhtemelen Türkiye'dekilerin hepsi intermedia'dır. nominat alttür ile intermedia'nın yayılış alanlarının sınırlarında iki alttür bir ölçüde karışır ve ayırt edilmeleri zorlaşır [@cramp1980; @roselaar1995].
 
 ## Telli Turna
 
@@ -291,6 +285,30 @@ Suya yakın geniş ve açık araziler, çayırlar, bataklıklar ve nehirlerdeki 
 **Alttürler ve Sınıflandırma**
 
 Monotipik bir türdür. Tür, geleneksel olarak Anthropoides cinsi altında değerlendirilmiştir.
+
+## Ak Turna
+
+*Grus leucogeranus*, Siberian Crane
+
+***Rastlantısal konuktur.***
+
+Eskiden muhtemelen düzenli bulunan, bugün rastlantısal konuk statüsündeki bir türdür. Türkiye'deki ilk geçerli kayıtlar özetlenmiştir [@kasparek1987b]. Buna göre; Ankara çevresinde Nisan 1879'da 100'den fazla kuşun kaydını belgelemiş olup, leyleğe benzer görünüşlerinden ve ekibiyle beraber kuşların çok yakınına kadar sokulduklarından bahseder [@danford1880]. Eylül 1854'te Erzurum Ovası'nda biri 4-5 diğeri 20 bireylik iki grup gözlemiş ve bunlardan birini vurarak toplamıştır [@sandwith1856]. Maalesef bu örnek günümüze kadar ulaşamamıştır. Sandwith'in tür tayininde telli turnayı elediğini söylemesi de bu kuşların aslında turna (Grus grus) olabileceğine işaret eder. Bu şüphe üzerine , Kasparek'in tarihi kayıtları geçerli kılmasını tartışmış ve Türkiye listesine dâhil edilmemesini önermiş [@harrap1987], buna karşılık veren tarihi kayıtların değerlendirilmesinde modern standartların kullanılmasını eleştiren bir yazı yazmıştır [@walters1988letter].
+
+Çağdaş gözlemlere baktığımızda, 21 Mayıs 1985'te Bulanık'ın batısında görünüşe göre turna (Grus grus) ve ak turna (Grus leucogeranus) melezi olduğunu düşündüğü bir kuş gözlemiştir [@davidson1985]. böyle bir kuşun, doğal bir melez olmasından çok Rusya'da yürütülen bir tür koruma programının sonucu ortaya çıkmasının daha olası olduğunu belirtmiştir [@martins1989]. En son olarak Haziran 1999'un başında bir ak turna Sinop Gerze'de bir tavuk çiftliğinde bulunmuştur. Bu kuş iki üç ay önce yakın çevrede ortaya çıkmış, daha sonra bir köylü tarafından esarete alınmıştır. Olay incelendiğinde bu kuşun Ağustos 1996'da Rusya'daki Oka Biyosfer Koruma Alanı'nda kaçmış olduğu ve yakın çevredeki bir turna sürüsüne katıldığı ve onlarla güneye göç ettiği ortaya çıkmış ve Türkiye'de görülmesini büyük ihtimalle açıklamıştır [@bradshaw2000].
+
+Türün batı popülasyonlarının 19. yüzyıldaki kayıtlarına bakıldığında türün daha yaygın olduğu ve yaklaşık 300 tanesinin Volga Deltası'nda mart ve nisan arasındaki ve istisnai olarak da mayıs ayındaki ilkbahar göçünde görüldüğü bilinmektedir. Buna paralel olarak Türkiye kayıtlarının hepsi, bilinen göç dönemiyle uyumludur [@birdlife2001]. Yakın coğrafyada 19. yüzyılda Makedonya'dan iyi belgelenmemiş bir kayıt [@elwes1870] ve Bulgaristan'dan kesin olmayan bir kaydı vardır [@snow1998]. Ortaçağ'dan bir Nil Deltası kaydından bahseder [@provençal1998].
+
+Bugün batı popülasyonu yok olmanın eşiğindedir. İran'da Hazar Denizi kıyılarında son yıllarda 7-11 birey ve Kuzey Hindistan'da 2 birey ve 1996'da Volga Deltası'nda 13 birey kaydedilmiştir. Son tahminlere göre kuzeydeki üreme alanında üreyen popülasyon sekiz çifttir [@snow1998; @birdlife2001]. Uydu telemetrisi ile yapılan gözlemlerde üreme alanlarının Ob Nehri havzasında, Kunovat Nehri havzasının 650 km güneyinde olduğu ortaya çıkmış, kuşların çoğunlukla Hazar Denizi'nin batı kıyıları boyunda göç edebilecekleri düşünülmüştür [@kanai2002]. Buna göre gelecekte de birkaç kuşun Türkiye'ye ulaşması küçük de olsa bir ihtimaldir. Nitekim yakın zamanda, Şubat 2001'de Ürdün'deki Doğu Çölü'nde Qa' Khanna'daki kaydı kabul görmüştür [@hamidan2003].
+
+![](images/harita_Page_124.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür.
 
 ## Turna
 

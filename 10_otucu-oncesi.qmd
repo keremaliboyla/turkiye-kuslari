@@ -2,109 +2,25 @@
 title: "Ebabiller-Ağaçkakanlar"
 ---
 
-## Hint Gökkuzgunu
+## İbibik
 
-*Coracias benghalensis*, Indian Roller
+*Upupa epops*, Eurasian Hoopoe
 
-***Rastlantısal konuktur.***
+***Yaygın ve çok sayıda bulunan yaz konuğu ve geçit türüdür.***
 
-Sclator ve Taylor 1875'te Haydarpaşa ve İzmit arasında bir örnek topladığından bahseder. Bu örnek daha sonra Pearce'nin koleksiyonuna girmiş ve sonra Robert Kolej Müzesi'ne geçmiştir.
+Nisan sonundan itibaren en az 3000 m'ye kadar son derece geniş bir habitat çeşitliliğinde ürer. Özellikle açık kayalık alanlar, köyler, ağaçların ve duvarların bulunduğu tarlalar ve aynı zamanda meyve bahçeleri ve zeytinlikler dâhil açık ağaçlık alanlar olmak üzere yuva yapmaya uygun oyukların bulunduğu çeşitli habitatta ürer.
 
-Bunun ardından Giaour Keui (Gavurköy) ve Bereketlu (Bereketli) arasında bir tane [@danford1877]ve Çamardı ve Karanfil Dağ arasında Nisan 1876'da iki tanesinin olduğunu iddia etmiştir.
+Geçiş sırasında daha yaygındır. İlkbaharda mart başında, yoğun olarak mart sonunda devam eder, mayıs ortasına kadar sürer. Üreme genellikle temmuz sonunda tamamlanır ve dönüş geçişi de hemen başlar. 28 Temmuz'da Karadeniz'de daha kuzeyden gelen ilk göçmenler gözlenmiştir. Kuzey ve iç bölgelerde ekim başında, güneyde ekim ortasında çoğu gitmiş olur ancak geç kalan bireyler güneyde nadiren kasım başına kadar kaydedilebilir. 31 Ocak 1998'de Ağyatan Gölü'nün güneyinde (Çukurova) ve 2 Ocak 2002'de Seyhan Nehri'nde gözlenen bireyler olmak üzere en az iki kış kaydı vardır. 14 Kasım 2010'da Kozak Yaylası, Bergama'daki kayıt en geç sonbahar geçişidir.
 
-bu örnek kaydından bahsetmez [@kumerloeve1961]ve Danford'un kayıtlarını sorgular. ise örnek kaydını teyit eder [@dresser1878]. Bu durumda örnek kaydını tek kayıt olarak almak doğrudur
-
-![](images/harita_Page_243.png)
+![](images/harita_Page_250.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Tahnit örneği muhtemelen Irak İran doğusuna kadar gelen nominat alttüre aittir.
-
-## Gökkuzgun
-
-*Coracias garrulus*, European Roller
-
-***Oldukça yaygın ve yer yer çok sayıda bulunan yaz konuğudur.***
-
-En az 2000 m'ye kadar açık, ağaçlık alanlarda ya da aslında seyrek ağaçların bulunduğu her tür açık alanda ya da kayalıklar, ahırlar, yıkıntılar gibi diğer uygun yuva alanlarında ürer. Muhtemelen yuva yerlerinin varlığına bağlı olarak orman kenarları, seyrek ağaçlık alanlar, zeytinlikler, seyrek ağaçlı açık alanlar ve ağaçsız bozkır alanları da dâhil olmak üzere çeşitli habitatlarda bulunur. Karadeniz'de son derece lokaldir ve belki de bazı alanlarda hiç yoktur.
-
-Geçiş sırasında ülke geneline yaygındır. İlkbaharda, güney kıyılarında mart sonundan itibaren gözlenirken nisan sonu ile mayıs başında zirve yapar ve kuzeye ancak bu dönemde ulaşır. Sonbaharda, ağustos başından ekim sonuna kadar gözlenir. Çoğunluğu, kuzey ve batı bölgelerinden eylül ortasında ayrılmış olsa da Akdeniz ve İç Anadolu'da kasım sonuna kadar kaydedilir.
-
-![](images/harita_Page_244.png)
-
-**Üreme**
-
-Yuvası, yaşlı bir ağaçta (özellikle zeytin ağaçları), kayalıklarda, toprak dolgularında, yıkıntılarda, binalarda ve köprülerdeki oyuklarda kaplanmamış bir oyuktur. Hatta Efes'te tarihi alanda kazı yapmak için kullanılan bir vincin bir oyuğuna bile yuva yaptığı kaydedilmiştir. Ayrıca, özellikle İç Anadolu'da düz, ağaçsız alanlarda yerdeki gelengi (Spermophilus xanthoprymnus) yuvalarını da kullanır. Türkiye'de gözlenen yumurta sayısı 3 (2 yuvada), 4 (1 yuvada), 5 (4 yuvada). **EGE.** 8 Mayıs 1899'da Aydın yakınlarındaki bir kayalıktan henüz yumurtlamamış birçok erişkin havalanmıştır [@selous1900]; Tring Doğa Tarihi Müzesi'ndeki 5, 4 ve 5 yumurtalı üç kuluçka Selous tarafından 1 Mayıs 1887'de İzmir'den, 19 Mayıs 1901'de Milet'teki harabelerden ve 29 Mayıs 1901'de Büyük Menderes Nehri'nden toplanmıştır. 14 Mayıs 1991'de ([@mcneile1950]) ve 19 Mayıs 1999'da erişilemeyecek yuvalarda gözlenen erişkinler neredeyse kesinlikle kuluçkadadır. 28 Mayıs 1951'de İzmir yakınlarındaki bir taş köprüdeki bir delikte bulunan kuluçkanın ileri evrelerindeki beş yumurta ilk yumurtanın 8 Mayıs civarında bırakıldığını göstermektedir ([@mcneile1950]). **GDA.** 5 Haziran 1998'de Birecik'te bir suvattaki yuvada tüylenmemiş dört yavru, bulunmuştur; aynı yerde, 20 Mayıs 1993'te ve 4 Haziran 1998'de erişkinlerin yuvada muhtemelen kuluçkada olduğu gözlenmiştir ve 20 Mayıs bir yuvada bir yumurta bulunmuştur. Birecik'te 25 Mayıs 2009'da birinde beş yumurta gözüken toplam dört yuva nehir suvatındaki deliklerde görülmüştür **AKD.** 9 Mayıs 1970'de Adana yakınlarında bir kaya yüzeyindeki bir yuvada bir çiftin kur davranışı yaptığı ve eşlerin birbirini beslemesi gözlenmiştir; 2 Temmuz 1972'de Side'de bir çam ağacında, yerden 2,7 m yüksekteki yuva deliğinde en az iki tane iyi gelişmiş yavru ve 24 Mayıs 2007'de Manavgat yakınlarında bir köprüdeki bir yuvada beş yumurta bulunmuştur. **İÇA.** Bir çiftin 15 çiftlik bir arıkuşu kolonisi ile aynı suvatta kuluçkaya yattığı kaydedilmiştir; temmuz-ağustosta gençler gözlenmiştir. **DOA.** 8 Haziran 2004'te Van yakınlarında kum kırlangıçlarının da kullandığı yol kenarındaki yüksek bir suvattaki geniş bir delikten muhtemelen kuluçkadaki bir erişkin uçmuştur. 24 Haziran 2004'te İspir'de bir arıkuşu kolonisinin de kullandığı yol kenarındaki yüksek bir suvatta geniş bir deliğe uçarak giren bir erişkin gözlenmiştir; daha sonra iki erişkin gökkuzgun dışarı uçmuştur ve küçük yavrularla sürekli ilgilenilmesi gerektiği için yuvada büyük yavruların olduğu varsayılmıştır. **KAR.** Kızılırmak Deltası'nda, 28 Mayıs 1979'da ağaçlardaki yuva delikleri için küçük kargalarla kavga eden çiftler gözlenmiştir, 9-10 Haziran 1975'te kur davranışı yapan çiftler, Temmuz 1971'de yuva deliklerine yiyecek taşıyan dört çift, 29 Temmuz 1971'de tüylenmiş iki yavru ve 5-12 Temmuz 1983'te günlük olarak tüylenmiş yavrular gözlenmiştir [@dijksen1985]; 1992'de, kur davranışı özellikle mayısın ikinci yarısında görülmüş ve yuvaların yanında alarm ötüşü yapan çiftler haziranın ilk on günü boyunca kaydedilmiştir [@hustings1994]. **MAR.** Manyas Gölü'nde kısmen su içindeki bir söğütlükte su seviyesinden 1 m yüksekteki bir ağaç deliğindeki yuvada 5 Haziran 1966'da bir yumurta ve 9 Haziran 1966'da üç yumurta kaydedilmiştir; 6 Haziran 1966'da benzer bir alanda, ağaç deliğinin 0,26 cm içindeki başka bir yuvada üç yumurta ve yine 6 Haziran 1966'da bir diğer yuvada bir yumurta bulunmuştur; Manyas'ta geç kalan bir yuvada Ağustos 1968 başlarında hâlâ yavru olduğu gözlenmiş ve 21-27 Haziran 1973'te Marmara'daki bazı alanlarda yiyecek taşıyan beş çift kaydedilmiştir. Yumurtlamaya başlamanın mayıs başından haziran ortasına kadar olabildiği göz önüne alındığında Türkiye'de üremenin değişken olduğu açıktır.
+Ağaçkakanların eski yuva delikleri de olmak üzere ağaçlardaki ve kayalıklardaki deliklerde, kiremitlerin altında ve binalarda ve kuşların yumurtlamak için toprak seviyesine inebileceği şekilde taş yığınlarındaki ve duvarlardaki deliklerde yuva yapar. Yuva malzemesi kullanmaz. Yavrularla birlikte dışkılar yuvada birikir ve çok kötü kokar. Türkiye'de gözlenen yumurta sayısı 7 (2 yuvada). Yavru sayısı: 2 (1 yuvada), 4 (1 yuvada), 7 (2 yuvada). **İÇA.** 11 Mayıs 1993'te Eşmekaya'daki bir kaya yığınının içindeki bir yuvada üç yumurta, 16 Mayıs 1993'te beş yumurta, 27 Mayıs 1993'te altı yumurta ve bir yeni yumurtadan çıkmış yavru görülmüş ve 30 Mayıs 1993'te tüm yavruların yumurtadan çıkmış olduğu kaydedilmiştir. Sultansazlığı'nda, 17 Mayıs 1979'da bir yuvada büyük bir yavru ve 10 Haziran 1982'de uçan bir yavru gözlenmiştir [@kasparek1985]. 20-27 Haziran 1981'de Kızılcahamam'daki bir yuvada iki yavru kaydedilmiştir [@baris1984]. 14 Mayıs 2004'te Bolluk Gölü yakınlarındaki bir yuvada yumurtlamanın nisan sonunda olduğunu gösterecek şekilde yeni yumurtadan çıkmış bir yavru görülmüştür. 8 Mayıs 2005'te Kulu Gölü yakınlarındaki bir yuvada yumurtlamanın nisan ortasında olduğunu gösterecek şekilde altı yumurta ve yeni yumurtadan çıkmış bir yavru, 14 Mayıs'ta yedi yavru kaydedilmiştir. Çoğunlukla mayıs sonu ile haziran ortası arasında yuva deliklerine yiyecek taşıyan birkaç erişkin kaydı vardır. Ankara'da, 22 Temmuz 1969'da tüylenmiş üç yavrusunu besleyen bir çift ve 2 Temmuz 1968'de bir çift ve genç gözlenmiştir. **GDA.** 4 Haziran 2001'de Birecik'te eski bir Alaca Ağaçkakan yuvasında dört büyük yavru kaydedilmiştir. 26 Nisan 1981'de Birecik'te yumurtlamanın nisan başında olduğunu gösterecek şekilde yavrulu yuvasına yiyecek taşıyan bir çift gözlenmiştir. **AKD.** 7 Mayıs 2004'te Uzuncaburç yakınlarındaki bir kayalıkta yavrularını besleyen erişkinler gözlenmiştir. **EGE.** 20 Mayıs 1999'da Akköy'de ağaçtaki delikten dışarıya bir erişkin uçmuştur ve 12 Mayıs 1970'de Altınova'daki bir yuvada yavru görülmüştür. **MAR.** 13 Haziran 1966'da Manyas Gölü'nde bir çift ve iki tüylenmiş yavru gözlenmiştir. **KAR.** Kızılırmak Deltası'nda, Temmuz 1971'de yavrulu iki yuva, 8-9 Haziran 1969'da tüylenmiş yavrularıyla iki çift [@dijksen1985] ve 19 Temmuz 1975'te tüylenmiş yavrularını besleyen üç çift gözlenmiştir. 1992'de, Yürükler Ormanı'nda 33 ve hemen çevresinde de 12 territoryum kaydedilmiş ve birinde 10 Haziran 1992'de yavru olan birkaç yuva bulunmuştur [@hustings1994]. **DOA.** 11 Haziran 2001'de Van yakınlarında yavrulu bir yuva bulunmuş, 28 Mayıs 1969'da Erçek Gölü'nde yavrusunu besleyen bir çift gözlenmiş ve 5 Temmuz 2004'te Erzincan yakınlarında Fırat kıyısında bir aile grubu gözlenmiştir. Yuva kayıtlarının çoğu yuva deliklerine yiyecek taşıyan erişkinlere aittir. Her iki erişkin de gözlendiyse yuvada yavru olduğunu, sadece birinin gözlenmesi ise erkek bireyin kuluçkadaki dişiyi beslediğini gösteriyor olabilir. Üreme tarihleri arasında büyük bir çeşitlilik olması iki kez kuluçkaya yattığını gösteriyor olabilir ki bu özellik diğer yerlerde ara sıra görülür.
 
 **Alttürler ve Sınıflandırma**
 
 Türkiye'de nominat alttürü bulunur.
-
-## İzmir Yalıçapkını
-
-*Halcyon smyrnensis*, White-throated Kingfisher
-
-***Lokal ve yer yer çok sayıda bulunan bulunan yerlidir.***
-
-William Sherard'ın 18. yüzyılın başlarında İzmir'den aldığı örnekler Linnaeus tarafından tanımlanmıştır. Ayrıca, [@kruper1875] ve Hartlaub tarafından da bu bölgede kaydedilmiş ve İzmir çevresindeki başlıca nehirler boyunca ürediğinden bahsedilmiştir. Krüper, Mayıs 1894 başlarında bir kuluçka yumurta toplamıştır ancak bunun ardından bu bölgeden teyit edilmiş tek kayıt 2002/03'te Çamaltı yakınlarındadır. Kur davranışı sırasında toplanmış olan Ege Üniversitesi'ndeki örnek de muhtemelen son on yıllar boyunca komşu alanlardan toplanmıştır (van den Berk ve Kasparek 1988) ancak bu kanıtlanamamıştır. Geçtiğimiz yüzyılda, hem Danford hem de Selous bu türün Büyük Menderes Vadisi'nin aşağı kesimlerinde var olduğunu biliyorlardı ve son zamanlarda hemen güneyde Güllük Deltası'nda da kaydedilmiştir. Görünüşe bakılırsa, burası en kuzeydeki güncel üreme alanıdır: Haziran 1990'da Troya'da (Çanakkale, Marmara) uygun üreme habitatında gözlenen bir çift [@deppe1990] ve Şubat 2003'te Gediz Deltası'nda gözlenen bir birey son zamanlarda elde edilen daha kuzeydeki kayıtlardır (haritalanmamıştır).
-
-Çoğunlukla Akdeniz'de (özellikle Çukurova ve Göksu Deltalarında) ancak Ege'de de, kıyısal ovalardaki nehir boylarında ve ağaçlık bölgeler de dâhil bitişik alanlarda ürer. Hepsi üreme döneminde olmak üzere, Fırat ve Dicle nehirleri ile doğuda Cizre ve Siirt'e kadar Güneydoğu Anadolu'da da beş defa kaydedilmiştir. En önemli üreme alanlarının tümü Akdeniz'dedir; Köyceğiz Gölü çevresinde (birkaç çift), Göksu nehrinin aşağı kesimlerinde (son yıllarda 8-10 çift, van den Berk ve Güder 1992) ve en büyük popülasyonlar Tarsus (1987'de 40-45 çift) ve Ceyhan Deltalarında olmak üzere Çukurova'da. Son yıllarda kesin olmayan bir popülasyon tahminine göre 100-150 çift üremektedir (van den Berk ve Kasparek 1988). Görünüşe göre yoğun tarım uygulamalarının türün yararına olduğu Çukurova dışında ulusal popülasyon uzun dönemli bir azalma eğilimindedir. Küçük Menderes Deltası (İzmir, Ege) ve şimdi kurutulmuş olan Amik Gölü (Antakya, Akdeniz) gibi bilinen ya da şüpheli birkaç eski üreme lokalitesi terkedilmiş ve diğer popülasyonlar, örneğin Göksu Deltası'ndaki, eskiye göre daha küçük gibi görünmektedir.
-
-Bilinen üreme alanları dışındaki birkaç kayıt çoğunlukla Ağustos sonu ile Şubat sonu arasında olmak üzere üreme sezonu dışında Ege ve Akdeniz bölgelerinde sınırlı ve muhtemelen düzensiz bir yayılış yaptığını düşündürmektedir. Her ikisi de şüpheli olan gözlemciler [@rigler1852] ve [@wahby1930oiseaux] tarafından İstanbul kuşları arasında listelenmiştir. Kesin olarak, 17 Aralık 2001'de, Avanos'ta Kızılırmak Deltası kıyısında (Nevşehir, İç Anadolu) bir birey kaydedilmiştir.
-
-![](images/harita_Page_245.png)
-
-**Üreme**
-
-Aksi belirtilmedikçe verilerin çoğu van den Berk ve Kasparek'e aittir (1988). **AKD.** En önemli üreme alanı en az 40-45 çift ile Berdan (Tarsus) Nehri'dir (Çukurova). Nehir kıyısı 4 m kadar yüksektir ve 12-13 Mayıs 1987'de dış menderes kıyısında birbirinden 200-800 m mesafede 19 tane kullanılan yuva bulunmuştur. Ormanlık alanda yok kenarındaki bankette de iki yuva daha kaydedilmiştir (van der Have vd. 1988). Nisan başında yuva deliklerinin önünde kur davranışları gözlenmiştir. 27 Nisan 1965'te üç yumurtalı tamamlanmamış bir kuluçka ve beş yumurtalı tamamlanmış bir kuluçka bulunmuştur; 6 Mayıs 1964'te altı yumurtalı (biri taze) tamamlanmış iki kuluçka bulunmuş ve yuva tünelinin uzunluğu 60-80 cm olarak ölçülmüştür [@warncke1964-65beitrag]. 21 Mayıs 1974'te Mersin yakınlarında yuvadaki yavrularına küçük kertenkeleler ve dikenli keler taşıyan erişkinler gözlenmiştir. 1989 ve 1991'de Göksu Nehri üzerinde Silifke ile Kurtuluş arasında beş yuva kaydedilmiş ve nehrin doğusundaki tarım alanlarında üç territoryum gözlenmiştir; nisan-mayıs aylarında nehir kıyısında yuvalar bulunmuştur; 12 Haziran 2002'de bir yuva deliğinde bir erişkin görülmüş ve 10 Temmuz 1991'de bir erişkinin kıyıdaki olası bir yuvaya girdiği gözlenmiştir. 24 Nisan 1967'de Antalya yakınlarında Aksu Nehri'nde balık taşıma da dâhil kur davranışları gözlenmiştir. **EGE.** 4 Mayıs 1894'te İzmir yakınlarında Krüper tarafından bir kuluçka toplanmıştır; 1980-81'de Bafa Gölü'nde üremiş ve 1980'den bu yana Söke yakınlarında ürediği birkaç defa teyit edilmiştir. Yuvası, bir tünelin ucunda kaplamasız bir bölmedir [@harrison2002]. Türkiye'de gözlenen yumurta sayısı 5 (1 yuvada), 6 (2 yuvada). Yavru: veri yoktur.
-
-**Alttürler ve Sınıflandırma**
-
-Türkiye'de nominat alttürü bulunur. İzmir'de tanımlanmıştır.
-
-## Yalıçapkını
-
-*Alcedo atthis*, Common Kingfisher
-
-***Lokal ve nadir üreyen, yaygın ve çok sayıda bulunan geçit türü ve kış konuğudur.***
-
-Ülkenin büyük bölümündeki sulakalanlarda ve nehir boylarında görünüşe göre nispeten lokal ve çok az sayılarda bulunan yerli bir türdür. Doğu Anadolu'da çok daha lokaldir ve İç Anadolu'nun büyük bölümünde üremez. Üreme nadir olarak kanıtlanmıştır.
-
-Ülke genelinde geçiş sırasında daha yaygın ve genellikle daha boldur. İlkbaharda marttan mayıs sonuna kadar geçer, Karadeniz'de muhtemelen nisan ortasındaki iki haftada zirve yapar. Sonbaharda ağustos sonundan itibaren, kıyı alanlarında eylül sonuna kadar geçiş yapar. 20 Ekim-18 Kasım arasında en yoğun olmakla birlikte aralık sonuna kadar Ereğli'den geçiş yaptığını kaydetmiştir [@albrecht1986]. Kışın büyük oranda Batı ve Orta Anadolu ile sınırlıdır. Başta Göksu Deltası, Çukurova Deltası ve Kızılırmak Deltası olmak üzere bazı kıyı alanlarında çoğu kez önemli sayılarda kaydedilir. Bu lokalitelerde toplamda 1000-2000 birey kaydedilmiştir. Rusya'da halkalanmış bir birey Kızılırmak Deltası'nda tekrar yakalanmış ve 2003'te muhtemelen daha kuzeyden gelen bir sonbahar göçmeni Kızılırmak Deltası'nda halkalandıktan sadece üç gün sonra Akyatan'da (Çukurova Deltası) tekrar yakalanmıştır [@gursoy2004].
-
-![](images/harita_Page_246.png)
-
-**Üreme**
-
-Nehirler ve dereler boyunca ürer. Erişkinler dikey kıyılara tünel kazarlar. Tünel, hafifçe yukarı doğru eğim yaparak kaplanmamış yuva odasına ulaşır ve yığılmış balık kılçıklarıyla giderek düzleşir. Yumurta sayısı Türkiye'de kaydedilmemiştir ancak, diğer yerlerde genellikle 6-7'dir (4-8). **GDA.** 4 Haziran 1969'da Yüksekova'da. **İÇA.** 16 Mayıs 1970'de Kızılcahamam yakınlarında. **EGE.** 5 Haziran 1971'de Yatağan'da. **KAR.** Mayıs Fırtına Vadisi'nde kullanılan yuvalar kaydedilmiştir [@faldborg1994]. **MAR.** 30 Mayıs 1970'de Lüleburgaz'da yavrusunu besleyen bir çift gözlenmiştir. 16 Haziran 1975'te Çaykara'nın kuzeyindeki bir nehirde birinin yiyecek taşıdığı ve bir diğerinin de bunu talep ettiğini kaydedilmiştir. 13-14 Nisan 1993'te Karpuz Nehri'nin ağzında gözlenen gençler dâhil beş birey yumurtlamanın şubat sonunda olduğunu göstermektedir. Bu kayıtlar, diğer yerlerde olduğu gibi iki kez kuluçkaya yattığını düşündürmektedir.
-
-**Alttürler ve Sınıflandırma**
-
-Muhtemelen üreme sezonunda nominat alttür bulunur. Diğer yandan Kuzeybatı Afrika ve İspanya'dan Rusya'ya kadar görülen ve Kıbrıs ve Irak'ta kışlayan ispida alttürü muhtemelen kışın yüksek sayılarda bulunur.
-
-## Alaca Yalıçapkını
-
-*Ceryle rudis*, Pied Kingfisher
-
-***Lokal ve yer yer çok sayıda bulunan yerlidir.***
-
-Ege'nin güneyinde ve Akdeniz'deki sulakalanlarda ve kıyısal ovalardaki nehirler boyunca nispeten lokal ancak nadir olmayan yerli bir türdür. Görünüşe göre bazen sınırlı olarak kış yayılışı yapar. Eskiden her iki bölgede de daha bol ve yaygındı. İzmir ve çevresinde birçok gözlemci tarafından kaydedilmiştir ancak artık düzenli olarak sadece Büyük Menderes Deltası'nda gözlenmektedir. Öte yandan, Gediz Deltası'nda (İzmir) ve Güllük Deltası'nda (Muğla) da hâlâ ürüyor olabilir. Akdeniz'de önceleri şimdi kurutulmuş olan Amik Gölü'nde (Antakya) ve Göksu Deltası'nda ürerdi ancak görünüşe göre bu alanlarda artık bulunmamaktadır. Köyceğiz sulakalan kompleksinde ve çoğunlukla kışın olmak üzere son zamanlarda birkaç defa kaydedildiği Çukurova'da hâlâ üremektedir ve daha önce görülmemiş şekilde Eylül 2004'te, Akseki'de bir dişi kaydedilmiştir. Fırat ve Dicle gibi Güneydoğu Anadolu'daki başlıca nehirlerde ve Doğu Anadolu'nun hemen bitişiğindeki alanlarda yaygındır. Yayılışının kuzey sınırı, Gölbaşı (Adıyaman), Malatya, Diyarbakır ve Bitlis arasındaki bir çizgiye denk geliyor gibi görünmektedir. Bazı eski habitatlarının baraj inşaatları nedeniyle sular altında kalmış olmasına rağmen yayılışının doğusunda azaldığını söyleyebilmek için henüz yeterli kanıt yoktur.
-
-Genellikle aynı bölgelerde kışın daha yaygındır. Bu mevsimde daha geniş çapta dağıldığını gösteren sınırlı sayıda kayıt vardır: Ocak 1969'da Karacabey'de (Balıkesir, Marmara), Aralık 1970'de Denizli'nin batısında [@ost1972; @ost1975], Burdur Gölü'nde ve Tuz Gölü'nde kaydedilmiştir [@kasparek1992a; @kumerloeve1961].
-
-![](images/harita_Page_247.png)
-
-**Üreme**
-
-Birecik'te Fırat Nehri'nde olduğu gibi nehirler boyunca ve nehirlerin bitişiğindeki gölcüklerde ürer. Yuvası, dikey bir kıyıda kazdıkları dar tünelin ucunda kaplanmamış bir odadır. Türkiye'de gözlenen yumurta sayısı 6 (1 yuvada); Diğer yerlerde olağan yumurta sayısı dörttür (3-6). Tüylenmiş yavru sayısı 3-5'tir (üç). 12 Nisan 1996'da Birecik'te kur davranışı kaydedilmiş, 20 Mayıs 1993'te tünel kazmaya yeni başlamış bir erişkin gözlenmiş ve 5 Haziran 1993'te yaklaşık 50 m uzakta bir erişkinin açıkça kuluçkada olduğu anlaşılmıştır. 24 Temmuz 1998'de altı bireyli bir aile grubu gözlenmiştir. **EGE.** 14 Mayıs 1899'da İzmir yakınlarında bir tünele girerken gördüğü bir erişkini yakalayan Selous (1900) tünelden altı taze yumurta almıştır. 23-27 Haziran 1966'da Büyük Menderes Nehri'nde yuva deliklerine girip çıkan ve muhtemelen yavruları olan iki çift gözlenmiş ve aynı yerde 25-26 Haziran 1966'da bir erişkin ve üç tüylenmiş yavru kaydedilmiştir. **AKD.** 12 Mayıs 1982'de Göksu'da aktif bir yuvayı ziyaret eden erişkinler gözlenmiştir. Mayıs 1983 sonlarında Dalyan'da yumurtlamanın nisan sonunda olduğunu gösterecek şekilde tüylenmiş üç yavrunun iki erişkini takip ettiği gözlenmiştir (Kılıç ve Kasparek 1989). **GDA.** 7-18 Ağustos 1971'de Asvan'da iki erişkin ve beş genç (gelişimleri ile ilgili bilgi yoktur) kaydedilmiştir. Diğer yerlerde yılda bir kez kuluçkaya yatar ve yukarıdaki verilere göre Türkiye'de üremenin başlaması en az bir ay değişebilir.
-
-**Alttürler ve Sınıflandırma**
-
-Türkiye'de syriacus alttürü bulunur. gaga uzunluğu hariç ölçümlerinin sürekli daha küçük olmasına dayanarak Türkiye (İzmir, Antalya ve bilinmeyen bir lokalite "Harpara"), Kıbrıs, Doğu Akdeniz, Irak ve İran'da yeni bu alttürü tanımlamıştır [@roselaar1995]. Bu öneri reddedilmiştir [@kasparek1996b], nitekim Bergman kuralına göre kanat uzunluğunun güneyden kuzeye çıktıkça uzaması gibi bazı değişkenler artabilir.
 
 ## Yeşil Arıkuşu
 
@@ -148,25 +64,113 @@ Açık alanlarda özellikle nehirlerin kıyısında, vadilerde ve ovalarda, ayr�
 
 Monotipik bir türdür.
 
-## İbibik
+## Güneyli Yakut Renkli Arıkuşu
 
-*Upupa epops*, Eurasian Hoopoe
+*Merops nubicoides*, Southern Carmine-coloured Bee-eater
 
-***Yaygın ve çok sayıda bulunan yaz konuğu ve geçit türüdür.***
+## Yalıçapkını
 
-Nisan sonundan itibaren en az 3000 m'ye kadar son derece geniş bir habitat çeşitliliğinde ürer. Özellikle açık kayalık alanlar, köyler, ağaçların ve duvarların bulunduğu tarlalar ve aynı zamanda meyve bahçeleri ve zeytinlikler dâhil açık ağaçlık alanlar olmak üzere yuva yapmaya uygun oyukların bulunduğu çeşitli habitatta ürer.
+*Alcedo atthis*, Common Kingfisher
 
-Geçiş sırasında daha yaygındır. İlkbaharda mart başında, yoğun olarak mart sonunda devam eder, mayıs ortasına kadar sürer. Üreme genellikle temmuz sonunda tamamlanır ve dönüş geçişi de hemen başlar. 28 Temmuz'da Karadeniz'de daha kuzeyden gelen ilk göçmenler gözlenmiştir. Kuzey ve iç bölgelerde ekim başında, güneyde ekim ortasında çoğu gitmiş olur ancak geç kalan bireyler güneyde nadiren kasım başına kadar kaydedilebilir. 31 Ocak 1998'de Ağyatan Gölü'nün güneyinde (Çukurova) ve 2 Ocak 2002'de Seyhan Nehri'nde gözlenen bireyler olmak üzere en az iki kış kaydı vardır. 14 Kasım 2010'da Kozak Yaylası, Bergama'daki kayıt en geç sonbahar geçişidir.
+***Lokal ve nadir üreyen, yaygın ve çok sayıda bulunan geçit türü ve kış konuğudur.***
 
-![](images/harita_Page_250.png)
+Ülkenin büyük bölümündeki sulakalanlarda ve nehir boylarında görünüşe göre nispeten lokal ve çok az sayılarda bulunan yerli bir türdür. Doğu Anadolu'da çok daha lokaldir ve İç Anadolu'nun büyük bölümünde üremez. Üreme nadir olarak kanıtlanmıştır.
+
+Ülke genelinde geçiş sırasında daha yaygın ve genellikle daha boldur. İlkbaharda marttan mayıs sonuna kadar geçer, Karadeniz'de muhtemelen nisan ortasındaki iki haftada zirve yapar. Sonbaharda ağustos sonundan itibaren, kıyı alanlarında eylül sonuna kadar geçiş yapar. 20 Ekim-18 Kasım arasında en yoğun olmakla birlikte aralık sonuna kadar Ereğli'den geçiş yaptığını kaydetmiştir [@albrecht1986]. Kışın büyük oranda Batı ve Orta Anadolu ile sınırlıdır. Başta Göksu Deltası, Çukurova Deltası ve Kızılırmak Deltası olmak üzere bazı kıyı alanlarında çoğu kez önemli sayılarda kaydedilir. Bu lokalitelerde toplamda 1000-2000 birey kaydedilmiştir. Rusya'da halkalanmış bir birey Kızılırmak Deltası'nda tekrar yakalanmış ve 2003'te muhtemelen daha kuzeyden gelen bir sonbahar göçmeni Kızılırmak Deltası'nda halkalandıktan sadece üç gün sonra Akyatan'da (Çukurova Deltası) tekrar yakalanmıştır [@gursoy2004].
+
+![](images/harita_Page_246.png)
 
 **Üreme**
 
-Ağaçkakanların eski yuva delikleri de olmak üzere ağaçlardaki ve kayalıklardaki deliklerde, kiremitlerin altında ve binalarda ve kuşların yumurtlamak için toprak seviyesine inebileceği şekilde taş yığınlarındaki ve duvarlardaki deliklerde yuva yapar. Yuva malzemesi kullanmaz. Yavrularla birlikte dışkılar yuvada birikir ve çok kötü kokar. Türkiye'de gözlenen yumurta sayısı 7 (2 yuvada). Yavru sayısı: 2 (1 yuvada), 4 (1 yuvada), 7 (2 yuvada). **İÇA.** 11 Mayıs 1993'te Eşmekaya'daki bir kaya yığınının içindeki bir yuvada üç yumurta, 16 Mayıs 1993'te beş yumurta, 27 Mayıs 1993'te altı yumurta ve bir yeni yumurtadan çıkmış yavru görülmüş ve 30 Mayıs 1993'te tüm yavruların yumurtadan çıkmış olduğu kaydedilmiştir. Sultansazlığı'nda, 17 Mayıs 1979'da bir yuvada büyük bir yavru ve 10 Haziran 1982'de uçan bir yavru gözlenmiştir [@kasparek1985]. 20-27 Haziran 1981'de Kızılcahamam'daki bir yuvada iki yavru kaydedilmiştir [@baris1984]. 14 Mayıs 2004'te Bolluk Gölü yakınlarındaki bir yuvada yumurtlamanın nisan sonunda olduğunu gösterecek şekilde yeni yumurtadan çıkmış bir yavru görülmüştür. 8 Mayıs 2005'te Kulu Gölü yakınlarındaki bir yuvada yumurtlamanın nisan ortasında olduğunu gösterecek şekilde altı yumurta ve yeni yumurtadan çıkmış bir yavru, 14 Mayıs'ta yedi yavru kaydedilmiştir. Çoğunlukla mayıs sonu ile haziran ortası arasında yuva deliklerine yiyecek taşıyan birkaç erişkin kaydı vardır. Ankara'da, 22 Temmuz 1969'da tüylenmiş üç yavrusunu besleyen bir çift ve 2 Temmuz 1968'de bir çift ve genç gözlenmiştir. **GDA.** 4 Haziran 2001'de Birecik'te eski bir Alaca Ağaçkakan yuvasında dört büyük yavru kaydedilmiştir. 26 Nisan 1981'de Birecik'te yumurtlamanın nisan başında olduğunu gösterecek şekilde yavrulu yuvasına yiyecek taşıyan bir çift gözlenmiştir. **AKD.** 7 Mayıs 2004'te Uzuncaburç yakınlarındaki bir kayalıkta yavrularını besleyen erişkinler gözlenmiştir. **EGE.** 20 Mayıs 1999'da Akköy'de ağaçtaki delikten dışarıya bir erişkin uçmuştur ve 12 Mayıs 1970'de Altınova'daki bir yuvada yavru görülmüştür. **MAR.** 13 Haziran 1966'da Manyas Gölü'nde bir çift ve iki tüylenmiş yavru gözlenmiştir. **KAR.** Kızılırmak Deltası'nda, Temmuz 1971'de yavrulu iki yuva, 8-9 Haziran 1969'da tüylenmiş yavrularıyla iki çift [@dijksen1985] ve 19 Temmuz 1975'te tüylenmiş yavrularını besleyen üç çift gözlenmiştir. 1992'de, Yürükler Ormanı'nda 33 ve hemen çevresinde de 12 territoryum kaydedilmiş ve birinde 10 Haziran 1992'de yavru olan birkaç yuva bulunmuştur [@hustings1994]. **DOA.** 11 Haziran 2001'de Van yakınlarında yavrulu bir yuva bulunmuş, 28 Mayıs 1969'da Erçek Gölü'nde yavrusunu besleyen bir çift gözlenmiş ve 5 Temmuz 2004'te Erzincan yakınlarında Fırat kıyısında bir aile grubu gözlenmiştir. Yuva kayıtlarının çoğu yuva deliklerine yiyecek taşıyan erişkinlere aittir. Her iki erişkin de gözlendiyse yuvada yavru olduğunu, sadece birinin gözlenmesi ise erkek bireyin kuluçkadaki dişiyi beslediğini gösteriyor olabilir. Üreme tarihleri arasında büyük bir çeşitlilik olması iki kez kuluçkaya yattığını gösteriyor olabilir ki bu özellik diğer yerlerde ara sıra görülür.
+Nehirler ve dereler boyunca ürer. Erişkinler dikey kıyılara tünel kazarlar. Tünel, hafifçe yukarı doğru eğim yaparak kaplanmamış yuva odasına ulaşır ve yığılmış balık kılçıklarıyla giderek düzleşir. Yumurta sayısı Türkiye'de kaydedilmemiştir ancak, diğer yerlerde genellikle 6-7'dir (4-8). **GDA.** 4 Haziran 1969'da Yüksekova'da. **İÇA.** 16 Mayıs 1970'de Kızılcahamam yakınlarında. **EGE.** 5 Haziran 1971'de Yatağan'da. **KAR.** Mayıs Fırtına Vadisi'nde kullanılan yuvalar kaydedilmiştir [@faldborg1994]. **MAR.** 30 Mayıs 1970'de Lüleburgaz'da yavrusunu besleyen bir çift gözlenmiştir. 16 Haziran 1975'te Çaykara'nın kuzeyindeki bir nehirde birinin yiyecek taşıdığı ve bir diğerinin de bunu talep ettiğini kaydedilmiştir. 13-14 Nisan 1993'te Karpuz Nehri'nin ağzında gözlenen gençler dâhil beş birey yumurtlamanın şubat sonunda olduğunu göstermektedir. Bu kayıtlar, diğer yerlerde olduğu gibi iki kez kuluçkaya yattığını düşündürmektedir.
+
+**Alttürler ve Sınıflandırma**
+
+Muhtemelen üreme sezonunda nominat alttür bulunur. Diğer yandan Kuzeybatı Afrika ve İspanya'dan Rusya'ya kadar görülen ve Kıbrıs ve Irak'ta kışlayan ispida alttürü muhtemelen kışın yüksek sayılarda bulunur.
+
+## İzmir Yalıçapkını
+
+*Halcyon smyrnensis*, White-throated Kingfisher
+
+***Lokal ve yer yer çok sayıda bulunan bulunan yerlidir.***
+
+William Sherard'ın 18. yüzyılın başlarında İzmir'den aldığı örnekler Linnaeus tarafından tanımlanmıştır. Ayrıca, [@kruper1875] ve Hartlaub tarafından da bu bölgede kaydedilmiş ve İzmir çevresindeki başlıca nehirler boyunca ürediğinden bahsedilmiştir. Krüper, Mayıs 1894 başlarında bir kuluçka yumurta toplamıştır ancak bunun ardından bu bölgeden teyit edilmiş tek kayıt 2002/03'te Çamaltı yakınlarındadır. Kur davranışı sırasında toplanmış olan Ege Üniversitesi'ndeki örnek de muhtemelen son on yıllar boyunca komşu alanlardan toplanmıştır (van den Berk ve Kasparek 1988) ancak bu kanıtlanamamıştır. Geçtiğimiz yüzyılda, hem Danford hem de Selous bu türün Büyük Menderes Vadisi'nin aşağı kesimlerinde var olduğunu biliyorlardı ve son zamanlarda hemen güneyde Güllük Deltası'nda da kaydedilmiştir. Görünüşe bakılırsa, burası en kuzeydeki güncel üreme alanıdır: Haziran 1990'da Troya'da (Çanakkale, Marmara) uygun üreme habitatında gözlenen bir çift [@deppe1990] ve Şubat 2003'te Gediz Deltası'nda gözlenen bir birey son zamanlarda elde edilen daha kuzeydeki kayıtlardır (haritalanmamıştır).
+
+Çoğunlukla Akdeniz'de (özellikle Çukurova ve Göksu Deltalarında) ancak Ege'de de, kıyısal ovalardaki nehir boylarında ve ağaçlık bölgeler de dâhil bitişik alanlarda ürer. Hepsi üreme döneminde olmak üzere, Fırat ve Dicle nehirleri ile doğuda Cizre ve Siirt'e kadar Güneydoğu Anadolu'da da beş defa kaydedilmiştir. En önemli üreme alanlarının tümü Akdeniz'dedir; Köyceğiz Gölü çevresinde (birkaç çift), Göksu nehrinin aşağı kesimlerinde (son yıllarda 8-10 çift, van den Berk ve Güder 1992) ve en büyük popülasyonlar Tarsus (1987'de 40-45 çift) ve Ceyhan Deltalarında olmak üzere Çukurova'da. Son yıllarda kesin olmayan bir popülasyon tahminine göre 100-150 çift üremektedir (van den Berk ve Kasparek 1988). Görünüşe göre yoğun tarım uygulamalarının türün yararına olduğu Çukurova dışında ulusal popülasyon uzun dönemli bir azalma eğilimindedir. Küçük Menderes Deltası (İzmir, Ege) ve şimdi kurutulmuş olan Amik Gölü (Antakya, Akdeniz) gibi bilinen ya da şüpheli birkaç eski üreme lokalitesi terkedilmiş ve diğer popülasyonlar, örneğin Göksu Deltası'ndaki, eskiye göre daha küçük gibi görünmektedir.
+
+Bilinen üreme alanları dışındaki birkaç kayıt çoğunlukla Ağustos sonu ile Şubat sonu arasında olmak üzere üreme sezonu dışında Ege ve Akdeniz bölgelerinde sınırlı ve muhtemelen düzensiz bir yayılış yaptığını düşündürmektedir. Her ikisi de şüpheli olan gözlemciler [@rigler1852] ve [@wahby1930oiseaux] tarafından İstanbul kuşları arasında listelenmiştir. Kesin olarak, 17 Aralık 2001'de, Avanos'ta Kızılırmak Deltası kıyısında (Nevşehir, İç Anadolu) bir birey kaydedilmiştir.
+
+![](images/harita_Page_245.png)
+
+**Üreme**
+
+Aksi belirtilmedikçe verilerin çoğu van den Berk ve Kasparek'e aittir (1988). **AKD.** En önemli üreme alanı en az 40-45 çift ile Berdan (Tarsus) Nehri'dir (Çukurova). Nehir kıyısı 4 m kadar yüksektir ve 12-13 Mayıs 1987'de dış menderes kıyısında birbirinden 200-800 m mesafede 19 tane kullanılan yuva bulunmuştur. Ormanlık alanda yok kenarındaki bankette de iki yuva daha kaydedilmiştir (van der Have vd. 1988). Nisan başında yuva deliklerinin önünde kur davranışları gözlenmiştir. 27 Nisan 1965'te üç yumurtalı tamamlanmamış bir kuluçka ve beş yumurtalı tamamlanmış bir kuluçka bulunmuştur; 6 Mayıs 1964'te altı yumurtalı (biri taze) tamamlanmış iki kuluçka bulunmuş ve yuva tünelinin uzunluğu 60-80 cm olarak ölçülmüştür [@warncke1964-65beitrag]. 21 Mayıs 1974'te Mersin yakınlarında yuvadaki yavrularına küçük kertenkeleler ve dikenli keler taşıyan erişkinler gözlenmiştir. 1989 ve 1991'de Göksu Nehri üzerinde Silifke ile Kurtuluş arasında beş yuva kaydedilmiş ve nehrin doğusundaki tarım alanlarında üç territoryum gözlenmiştir; nisan-mayıs aylarında nehir kıyısında yuvalar bulunmuştur; 12 Haziran 2002'de bir yuva deliğinde bir erişkin görülmüş ve 10 Temmuz 1991'de bir erişkinin kıyıdaki olası bir yuvaya girdiği gözlenmiştir. 24 Nisan 1967'de Antalya yakınlarında Aksu Nehri'nde balık taşıma da dâhil kur davranışları gözlenmiştir. **EGE.** 4 Mayıs 1894'te İzmir yakınlarında Krüper tarafından bir kuluçka toplanmıştır; 1980-81'de Bafa Gölü'nde üremiş ve 1980'den bu yana Söke yakınlarında ürediği birkaç defa teyit edilmiştir. Yuvası, bir tünelin ucunda kaplamasız bir bölmedir [@harrison2002]. Türkiye'de gözlenen yumurta sayısı 5 (1 yuvada), 6 (2 yuvada). Yavru: veri yoktur.
+
+**Alttürler ve Sınıflandırma**
+
+Türkiye'de nominat alttürü bulunur. İzmir'de tanımlanmıştır.
+
+## Alaca Yalıçapkını
+
+*Ceryle rudis*, Pied Kingfisher
+
+***Lokal ve yer yer çok sayıda bulunan yerlidir.***
+
+Ege'nin güneyinde ve Akdeniz'deki sulakalanlarda ve kıyısal ovalardaki nehirler boyunca nispeten lokal ancak nadir olmayan yerli bir türdür. Görünüşe göre bazen sınırlı olarak kış yayılışı yapar. Eskiden her iki bölgede de daha bol ve yaygındı. İzmir ve çevresinde birçok gözlemci tarafından kaydedilmiştir ancak artık düzenli olarak sadece Büyük Menderes Deltası'nda gözlenmektedir. Öte yandan, Gediz Deltası'nda (İzmir) ve Güllük Deltası'nda (Muğla) da hâlâ ürüyor olabilir. Akdeniz'de önceleri şimdi kurutulmuş olan Amik Gölü'nde (Antakya) ve Göksu Deltası'nda ürerdi ancak görünüşe göre bu alanlarda artık bulunmamaktadır. Köyceğiz sulakalan kompleksinde ve çoğunlukla kışın olmak üzere son zamanlarda birkaç defa kaydedildiği Çukurova'da hâlâ üremektedir ve daha önce görülmemiş şekilde Eylül 2004'te, Akseki'de bir dişi kaydedilmiştir. Fırat ve Dicle gibi Güneydoğu Anadolu'daki başlıca nehirlerde ve Doğu Anadolu'nun hemen bitişiğindeki alanlarda yaygındır. Yayılışının kuzey sınırı, Gölbaşı (Adıyaman), Malatya, Diyarbakır ve Bitlis arasındaki bir çizgiye denk geliyor gibi görünmektedir. Bazı eski habitatlarının baraj inşaatları nedeniyle sular altında kalmış olmasına rağmen yayılışının doğusunda azaldığını söyleyebilmek için henüz yeterli kanıt yoktur.
+
+Genellikle aynı bölgelerde kışın daha yaygındır. Bu mevsimde daha geniş çapta dağıldığını gösteren sınırlı sayıda kayıt vardır: Ocak 1969'da Karacabey'de (Balıkesir, Marmara), Aralık 1970'de Denizli'nin batısında [@ost1972; @ost1975], Burdur Gölü'nde ve Tuz Gölü'nde kaydedilmiştir [@kasparek1992a; @kumerloeve1961].
+
+![](images/harita_Page_247.png)
+
+**Üreme**
+
+Birecik'te Fırat Nehri'nde olduğu gibi nehirler boyunca ve nehirlerin bitişiğindeki gölcüklerde ürer. Yuvası, dikey bir kıyıda kazdıkları dar tünelin ucunda kaplanmamış bir odadır. Türkiye'de gözlenen yumurta sayısı 6 (1 yuvada); Diğer yerlerde olağan yumurta sayısı dörttür (3-6). Tüylenmiş yavru sayısı 3-5'tir (üç). 12 Nisan 1996'da Birecik'te kur davranışı kaydedilmiş, 20 Mayıs 1993'te tünel kazmaya yeni başlamış bir erişkin gözlenmiş ve 5 Haziran 1993'te yaklaşık 50 m uzakta bir erişkinin açıkça kuluçkada olduğu anlaşılmıştır. 24 Temmuz 1998'de altı bireyli bir aile grubu gözlenmiştir. **EGE.** 14 Mayıs 1899'da İzmir yakınlarında bir tünele girerken gördüğü bir erişkini yakalayan Selous (1900) tünelden altı taze yumurta almıştır. 23-27 Haziran 1966'da Büyük Menderes Nehri'nde yuva deliklerine girip çıkan ve muhtemelen yavruları olan iki çift gözlenmiş ve aynı yerde 25-26 Haziran 1966'da bir erişkin ve üç tüylenmiş yavru kaydedilmiştir. **AKD.** 12 Mayıs 1982'de Göksu'da aktif bir yuvayı ziyaret eden erişkinler gözlenmiştir. Mayıs 1983 sonlarında Dalyan'da yumurtlamanın nisan sonunda olduğunu gösterecek şekilde tüylenmiş üç yavrunun iki erişkini takip ettiği gözlenmiştir (Kılıç ve Kasparek 1989). **GDA.** 7-18 Ağustos 1971'de Asvan'da iki erişkin ve beş genç (gelişimleri ile ilgili bilgi yoktur) kaydedilmiştir. Diğer yerlerde yılda bir kez kuluçkaya yatar ve yukarıdaki verilere göre Türkiye'de üremenin başlaması en az bir ay değişebilir.
+
+**Alttürler ve Sınıflandırma**
+
+Türkiye'de syriacus alttürü bulunur. gaga uzunluğu hariç ölçümlerinin sürekli daha küçük olmasına dayanarak Türkiye (İzmir, Antalya ve bilinmeyen bir lokalite "Harpara"), Kıbrıs, Doğu Akdeniz, Irak ve İran'da yeni bu alttürü tanımlamıştır [@roselaar1995]. Bu öneri reddedilmiştir [@kasparek1996b], nitekim Bergman kuralına göre kanat uzunluğunun güneyden kuzeye çıktıkça uzaması gibi bazı değişkenler artabilir.
+
+## Gökkuzgun
+
+*Coracias garrulus*, European Roller
+
+***Oldukça yaygın ve yer yer çok sayıda bulunan yaz konuğudur.***
+
+En az 2000 m'ye kadar açık, ağaçlık alanlarda ya da aslında seyrek ağaçların bulunduğu her tür açık alanda ya da kayalıklar, ahırlar, yıkıntılar gibi diğer uygun yuva alanlarında ürer. Muhtemelen yuva yerlerinin varlığına bağlı olarak orman kenarları, seyrek ağaçlık alanlar, zeytinlikler, seyrek ağaçlı açık alanlar ve ağaçsız bozkır alanları da dâhil olmak üzere çeşitli habitatlarda bulunur. Karadeniz'de son derece lokaldir ve belki de bazı alanlarda hiç yoktur.
+
+Geçiş sırasında ülke geneline yaygındır. İlkbaharda, güney kıyılarında mart sonundan itibaren gözlenirken nisan sonu ile mayıs başında zirve yapar ve kuzeye ancak bu dönemde ulaşır. Sonbaharda, ağustos başından ekim sonuna kadar gözlenir. Çoğunluğu, kuzey ve batı bölgelerinden eylül ortasında ayrılmış olsa da Akdeniz ve İç Anadolu'da kasım sonuna kadar kaydedilir.
+
+![](images/harita_Page_244.png)
+
+**Üreme**
+
+Yuvası, yaşlı bir ağaçta (özellikle zeytin ağaçları), kayalıklarda, toprak dolgularında, yıkıntılarda, binalarda ve köprülerdeki oyuklarda kaplanmamış bir oyuktur. Hatta Efes'te tarihi alanda kazı yapmak için kullanılan bir vincin bir oyuğuna bile yuva yaptığı kaydedilmiştir. Ayrıca, özellikle İç Anadolu'da düz, ağaçsız alanlarda yerdeki gelengi (Spermophilus xanthoprymnus) yuvalarını da kullanır. Türkiye'de gözlenen yumurta sayısı 3 (2 yuvada), 4 (1 yuvada), 5 (4 yuvada). **EGE.** 8 Mayıs 1899'da Aydın yakınlarındaki bir kayalıktan henüz yumurtlamamış birçok erişkin havalanmıştır [@selous1900]; Tring Doğa Tarihi Müzesi'ndeki 5, 4 ve 5 yumurtalı üç kuluçka Selous tarafından 1 Mayıs 1887'de İzmir'den, 19 Mayıs 1901'de Milet'teki harabelerden ve 29 Mayıs 1901'de Büyük Menderes Nehri'nden toplanmıştır. 14 Mayıs 1991'de ([@mcneile1950]) ve 19 Mayıs 1999'da erişilemeyecek yuvalarda gözlenen erişkinler neredeyse kesinlikle kuluçkadadır. 28 Mayıs 1951'de İzmir yakınlarındaki bir taş köprüdeki bir delikte bulunan kuluçkanın ileri evrelerindeki beş yumurta ilk yumurtanın 8 Mayıs civarında bırakıldığını göstermektedir ([@mcneile1950]). **GDA.** 5 Haziran 1998'de Birecik'te bir suvattaki yuvada tüylenmemiş dört yavru, bulunmuştur; aynı yerde, 20 Mayıs 1993'te ve 4 Haziran 1998'de erişkinlerin yuvada muhtemelen kuluçkada olduğu gözlenmiştir ve 20 Mayıs bir yuvada bir yumurta bulunmuştur. Birecik'te 25 Mayıs 2009'da birinde beş yumurta gözüken toplam dört yuva nehir suvatındaki deliklerde görülmüştür **AKD.** 9 Mayıs 1970'de Adana yakınlarında bir kaya yüzeyindeki bir yuvada bir çiftin kur davranışı yaptığı ve eşlerin birbirini beslemesi gözlenmiştir; 2 Temmuz 1972'de Side'de bir çam ağacında, yerden 2,7 m yüksekteki yuva deliğinde en az iki tane iyi gelişmiş yavru ve 24 Mayıs 2007'de Manavgat yakınlarında bir köprüdeki bir yuvada beş yumurta bulunmuştur. **İÇA.** Bir çiftin 15 çiftlik bir arıkuşu kolonisi ile aynı suvatta kuluçkaya yattığı kaydedilmiştir; temmuz-ağustosta gençler gözlenmiştir. **DOA.** 8 Haziran 2004'te Van yakınlarında kum kırlangıçlarının da kullandığı yol kenarındaki yüksek bir suvattaki geniş bir delikten muhtemelen kuluçkadaki bir erişkin uçmuştur. 24 Haziran 2004'te İspir'de bir arıkuşu kolonisinin de kullandığı yol kenarındaki yüksek bir suvatta geniş bir deliğe uçarak giren bir erişkin gözlenmiştir; daha sonra iki erişkin gökkuzgun dışarı uçmuştur ve küçük yavrularla sürekli ilgilenilmesi gerektiği için yuvada büyük yavruların olduğu varsayılmıştır. **KAR.** Kızılırmak Deltası'nda, 28 Mayıs 1979'da ağaçlardaki yuva delikleri için küçük kargalarla kavga eden çiftler gözlenmiştir, 9-10 Haziran 1975'te kur davranışı yapan çiftler, Temmuz 1971'de yuva deliklerine yiyecek taşıyan dört çift, 29 Temmuz 1971'de tüylenmiş iki yavru ve 5-12 Temmuz 1983'te günlük olarak tüylenmiş yavrular gözlenmiştir [@dijksen1985]; 1992'de, kur davranışı özellikle mayısın ikinci yarısında görülmüş ve yuvaların yanında alarm ötüşü yapan çiftler haziranın ilk on günü boyunca kaydedilmiştir [@hustings1994]. **MAR.** Manyas Gölü'nde kısmen su içindeki bir söğütlükte su seviyesinden 1 m yüksekteki bir ağaç deliğindeki yuvada 5 Haziran 1966'da bir yumurta ve 9 Haziran 1966'da üç yumurta kaydedilmiştir; 6 Haziran 1966'da benzer bir alanda, ağaç deliğinin 0,26 cm içindeki başka bir yuvada üç yumurta ve yine 6 Haziran 1966'da bir diğer yuvada bir yumurta bulunmuştur; Manyas'ta geç kalan bir yuvada Ağustos 1968 başlarında hâlâ yavru olduğu gözlenmiş ve 21-27 Haziran 1973'te Marmara'daki bazı alanlarda yiyecek taşıyan beş çift kaydedilmiştir. Yumurtlamaya başlamanın mayıs başından haziran ortasına kadar olabildiği göz önüne alındığında Türkiye'de üremenin değişken olduğu açıktır.
 
 **Alttürler ve Sınıflandırma**
 
 Türkiye'de nominat alttürü bulunur.
+
+## Hint Gökkuzgunu
+
+*Coracias benghalensis*, Indian Roller
+
+***Rastlantısal konuktur.***
+
+Sclator ve Taylor 1875'te Haydarpaşa ve İzmit arasında bir örnek topladığından bahseder. Bu örnek daha sonra Pearce'nin koleksiyonuna girmiş ve sonra Robert Kolej Müzesi'ne geçmiştir.
+
+Bunun ardından Giaour Keui (Gavurköy) ve Bereketlu (Bereketli) arasında bir tane [@danford1877]ve Çamardı ve Karanfil Dağ arasında Nisan 1876'da iki tanesinin olduğunu iddia etmiştir.
+
+bu örnek kaydından bahsetmez [@kumerloeve1961]ve Danford'un kayıtlarını sorgular. ise örnek kaydını teyit eder [@dresser1878]. Bu durumda örnek kaydını tek kayıt olarak almak doğrudur
+
+![](images/harita_Page_243.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Tahnit örneği muhtemelen Irak İran doğusuna kadar gelen nominat alttüre aittir.
 
 ## Boyunçeviren
 
@@ -189,24 +193,6 @@ Ormanlarda, açık ağaçlık alanlarda ve ağaçların bulunduğu tarım alanla
 **Alttürler ve Sınıflandırma**
 
 Muhtemelen nominat alttürü vardır (sonbaharda Orta Anadolu üzerinden geçiş yapan göçmenlerin hepsi bu forma dâhildir; van den Berk 1990). Bununla birlikte Akdeniz'de Korsika'dan Adriyatik kıyısına kadar birkaç adada üreyen tschusii alttürü de en azından geçiş sırasında görülebilir. Öte yandan, ) bu formu göçe yatkın değil olarak tanımlamıştır[@vaurie1959c].
-
-## Küçük Ağaçkakan
-
-*Dyrocopus minor*, Lesser Spotted Woodpecker
-
-***Yaygın ve nispeten çok sayıda bulunan yerlidir.***
-
-Kocaçay Deltası'nda 200 çiftten daha fazlası bulunabilir [@ertan1996]. Nisan-Mayıs 1993'te Çamlıhemşin, Rize çevresindeki düşük rakımlarda bol sayıda üreyen bir tür olarak tanımlanmıştır [@faldborg1994] ve 1992'de Kızılırmak Deltası'nda 75-125 çift tahmin edilmiştir [@hustings1994] genellikle az sayılarda bulunur. Güneydoğu Anadolu'da yakın zamanda Diyarbakır yakınlarında [@karakas2002] ve daha önceleri de Siirt'in güneyindeki dağlık bölgede [@goriup1983] kaydedilmiştir. Doğu Anadolu'da çoğunlukla yaprak döken, bazen de karışık ormanlarda ve meyve bahçelerinde bulunur. Alçak ve orta yüksekliklerde bulunduğu kesin olsa da yükseklik sınırı belirsizdir. Türkiye'de 1000 metrenin üzerinde sadece nadir olarak kaydedilir ancak Ermenistan ve Kafkaslar'da 2000 metrede bulunur [@kumerloeve1961].
-
-![](images/harita_Page_252.png)
-
-**Üreme**
-
-Ormanlarda, daha küçük ağaçlık alanlarda ve ağaç sıralarında ürer. **MAR.** Kocaçay Deltası'nda, daha nemli ormanları, genellikle orman ve kanallar ya da subasar alanlar arasındaki ekotonları tercih eder. 31 ha büyüklüğündeki bir alanda tespit edilen 6 yuva (hepsi dişbudak Fraxinus excelsior ağaçlarında) hektar başına 0,29 çiftin ürediğini göstermektedir ve haziranın ikinci haftasında yeni tüylenmiş bir yavru kaydedilmiş [@ertan1996] ve 16 Mayıs 1966'da yuva deliğinde bir erişkin gözlenmiştir. 22 Temmuz 1966'da Çamlıca Tepelerinde bir erişkinle birlikte genç bir birey gözlenmiş ve 4 Haziran 1996'da Belgrad Ormanları'nda yuva deliğinde bir erişkin kaydedilmiştir. **AKD.** 20 Nisan-25 Mayıs 1989'da Dalyan bölgesinde kullanılan iki yuva bulunmuş, 14 Mayıs 2001'de Akseki'de bir yuvada bir çift gözlenmiştir. 26 Mayıs 2005'te aynı yerde 3,5 m yüksekliğindeki bir meşe kütüğünün tepesinden 50 cm aşağıdaki bir delikte bir dişinin ilgilendiği başka bir yuva bulunmuştur. Yuvadan gelen seslere göre yuvada en az iki yavru olduğu tahmin edilmiştir. **KAR.** Kızılırmak Deltası'nda, 9 Mayıs 1977'de kullanılan bir yuva deliği bulunmuş, haziranda yuvadan uçmuş birkaç yavru kaydedilmiş ve 10 Haziran 1975'te, yumurtlamanın mayıs başında olduğunu gösterecek şekilde bir aile grubu gözlenmiştir [@dijksen1985]. 1992'de, yavruların yiyecek isteme ötüşleri ilk kez 27 Mayıs'ta duyulmuş ve yuvadan yeni uçmuş yavrular haziranın ikinci haftasında gözlenmiştir [@hustings1994]. Başka yerlerde yumurta sayısı 4-6'dır.
-
-**Alttürler ve Sınıflandırma**
-
-Alt kısımları koyu ancak bazen kahverengiye kaçan ve tepenin arkasından kulak örtülerinin arkasına kadar uzanan siyah bir banda sahip olan D. m. danfordi alttürü bulunur.
 
 ## Ortanca Ağaçkakan
 
@@ -244,24 +230,6 @@ Varsayılan üreme döneminde, mayıs ve haziran aylarında çiftler halinde gö
 
 Türkiye'de bulunan lilfordi alttürü, böğründeki ve dış kuyruk tüylerindeki çizgilenme miktarı ve alt kısımların arka tarafındaki kırmızılığın kapsamı gibi lilfordi'yi ayırt etmek için kullanılan temel özelliklerin bazılarında bir ölçüde örtüşme vardır. Türkiye'deki lilfordi popülasyonu şu özellikleri ile nominat alttürden ayrılır: daha belirgin sarıca alın, göz pınarı, kulak örtü tüyleri ve çenesi; kulak örtü tüylerinin arkasından enseye uzanan siyah çizginin daha belirgin olması (leucotos'ta yoktur ya da neredeyse yok gibidir); daha geniş siyah gıdı çizgisi; daha uzun omuz tüyleri, daha genişçe beyaz yerine sırtının daha eşit şekilde siyah beyaz çizgili olması; kuyruk sokumunun siyah olup beyazlığın sadece tüylerin uçları ile sınırlı kalması (geniş olarak beyaz değildir); üçüncül tüylerinin, uçma tüylerinin ve kanat örtü tüylerinin düzensiz şekilde eşit kalınlıkta siyah beyaz çizgili olması (kalın siyah ve dar beyaz çizgili değil); böğrün, göğsün yanlarının ve karnının geniş olarak siyah çizgili olması, böğrün kısmen siyah çizgili ve alt kısımların zemin renginin soluk sarıca olması (leucotos'ta soluk krem rengidir).
 
-## Alaca Ağaçkakan
-
-*Dendrocopos syriacus*, Syrian Woodpecker
-
-***Yaygın ve çok sayıda bulunan bir yerlidir.***
-
-Alçak yüksekliklerde orta yüksekliklere kadar en yaygın ağaçkakan türüdür. Meyve bahçeleri, zeytinlikler, seyrek ağaçların bulunduğu tarım alanları ve yerleşimlerin çevresindeki kavaklıklar dâhil olmak üzere daha açık alanlarda bulunur. Alçak rakımlarda sadece ibreli ormanlarda bulunmasına rağmen her çeşit ağaçlık alanda ürer. Deniz seviyesinden kuzeyde ve batıda 2100 metreye kadar kaydedilir. Orman ağaçkakanı ile diğer bölgelere göre daha geniş ölçüde örtüştüğü Toroslar'da nadiren 900 metrenin üstünde bulunur. 1000-2000 metrede (genellikle bu sınırın alt kenarında) orman ağaçkakanı ile yer değiştirir. Görünüşe bakılırsa güneybatı Ege'de ve muhtemelen kuzey Trakya'nın bazı kısımlarında ortanca ağaçkakan ile yer değiştirir. Istranca Dağları'nın Bulgaristan tarafında neredeyse tamamen orman ağaçkakanı ile yer değiştirmiştir [@milchev1994]. Nisan-Mayıs 1993'te gerçekleştirilen yoğun arazi çalışması boyunca Rize Çamlıhemşin'de hiç kaydedilmemiştir [@faldborg1994].
-
-![](images/harita_Page_255.png)
-
-**Üreme**
-
-Meyve bahçeleri, zeytinlikler, açık ağaçlık alanlar ve seyrek ağaçların ya da baltalıkların bulunduğu tarım alanları ile açık arazilerde ürer. Erişkin kuşlar tarafından ağaç gövdelerine ya da dallarına açılmış ve kaplanmamış yuva bölmesine ulaşan deliklerde yuva yapar. Birecik'te antepfıstığı bahçelerinde daha kalın gövdeli ağaçları tercih eder; 2 m'den hatta bazıları 1 m'den aşağıda olmak üzere yuvalar genellikte alçaktır. Diğer habitatlarda yuva delikleri 10 m kadar yüksekte olabilir. Türkiye'de gözlenen yumurta sayısı 2 (1 yuvada), 5 (1 yuvada). Yavru sayısı: 1 (1 yuvada), 2 (1 yuvada), 4 (1 yuvada), 5 (1 yuvada). Çok az yuva yakından incelenmiştir ve bu sınırlı veri gerçeği yansıtıcı olmayabilir; başka yerlerde olağan kuluçka büyüklüğü 5-7 yumurtadır. **EGE.** 7 Mayıs'tan itibaren erişkinlerin yuva deliklerinde olduğu bildirilmiştir ve 2 Haziran 1974'te Kuşadası'nda yumurtlamanın nisan sonunda olduğunu gösterecek şekilde içinde tamamen gelişmiş yavru olan bir yuva bulunmuştur. **GDA.** Özellikle Birecik'te mayıs sonu/haziran başında elde edilen büyük ya da tamamen gelişmiş beş yavru kaydı yumurtlamanın nisan sonunda olduğunu gösterir. Durnalık'ta bir yuvada 9 Mayıs 2004'te beş yumurta ve 16 Mayıs 2004'te yeni yumurtadan çıkmış yavrular gözlenmesi yumurtlamanın nisan sonunda olduğunu gösterir. Durnalık'taki bir başka yuvada ise 9 Mayıs 2004'te yumurtalar ve 23 Mayıs 2004'te küçük yavru görülmüştür. **MAR.** 18 Haziran 1973'te Belgrad Ormanı'nda tüylenmiş yavrusuyla birlikte bir erişkin ve 23 Haziran 1973'te Keşan yakınlarındaki yuvasına yiyecek taşıyan bir erişkin gözlenmiştir; 31 Mayıs 1988'de Truva'daki bir yuvada görülen büyük yavru yumurtlamanın nisan sonunda olduğunu göstermektedir. **KAR.** 27 Mayıs 1992'de Kızılırmak Deltası'nda içinde yiyecek isteyen yavrular olan ilk yuvalar bulunmuştur [@hustings1994]. **İÇA.** 27 Mayıs 1993'te Hasan Dağı'nda yuva yapımı gözlenmiştir. Geç gibi görünen bu kayıt muhtemelen başarısız bir çabadan sonraki ikinci denemedir. **AKD.** 15 Haziran 1992'de Taşucu yakınlarındaki bir yuvada bulunan iki yumurta ve 9 Haziran 1993'te Uzuncaburç'taki bir yuvada görülen büyük yavru yumurtlamanın mayıs başında olduğunu göstermektedir; 7 Mayıs 2004'te Uzuncaburç yakınlarında endoskop ile incelenen üç yuvanın yeni ve yumurtlamaya hazır ancak boş olduğu görülmüştür. Özellikle haziran sonunda ve temmuzda birçok bölgede tüylenmiş yavrular gözlenmiştir. Alaca ağaçkakanlar tarafından açılan yuva delikleri takip eden yıllarda sığırcık ve sarı boğazı serçe da dâhil olmak üzere serçeler gibi başka türler tarafından da kullanılır. Bu türler yuva alanlarının sağlanması açısından kısmen bu ağaçkakan türüne bağlıdır.
-
-**Alttürler ve Sınıflandırma**
-
-Türkiye'de nominat alttürü bulunur.
-
 ## Orman Alaca Ağaçkakanı
 
 *Dendrocopos major*, Great Spotted Woodpecker
@@ -280,19 +248,57 @@ Dağlık ibreli ormanlarda yaygın ancak genellikle az sayıda bulunur. En bol o
 
 Türkiye'ye endemik olan paphlagoniae alttürü bulunur. Bu alttür, ve Winkler ve Christie tarafından İngiltere'den doğuda Kafkaslar'a kadar görülen pinetorum alttürüne dâhil edilmiştir [@vaurie1959b] [@delhoyo2002].
 
-## Kara Ağaçkakan
+## Alaca Ağaçkakan
 
-*Dryocopus martius*, Black Woodpecker
+*Dendrocopos syriacus*, Syrian Woodpecker
 
-***Nispeten yaygın ancak oldukça seyrek yerlidir.***
+***Yaygın ve çok sayıda bulunan bir yerlidir.***
 
-En çok Doğu Karadeniz'de Sümela ve Borçka'da, Batı'da düzenli olarak Uludağ, Yalova, Yenice Ormanları, Ilgaz Dağları ve çevresinde kaydedilmiştir. Ülkenin kuzeyinde çoğunlukla 900 metreden en az 2000 metreye kadar görülür, ancak Kocaçay Deltası [@ertan1996] ve Trakya'da deniz seviyesine kadar iner. 1988-90 yıllarında Bulgaristan'da gerçekleştirilen üreyen kuş sayımlarında 5 km'lik karelerin %28'inde kaydedilmiştir [@milchev1994]. Toroslar'daki durumu belirsizdir. bu yayılışın orta bölgesinde "nadir ama ara sıra gözlenen" olarak tanımlamıştır [@danford1877] ancak o günden bu yana çok az gözlemci tarafından kaydedilmiştir. Bu bölgedeki en yeni kayıtlar 1993 ve 1998 yıllarında Gidengelmez Dağları'nda elde edilmiştir. Mayıs 2008'de Osmaniye'nin güneyinde Zorkun Yaylası'nda bir çam ormanında 700 metrede keşfedilmiştir.
+Alçak yüksekliklerde orta yüksekliklere kadar en yaygın ağaçkakan türüdür. Meyve bahçeleri, zeytinlikler, seyrek ağaçların bulunduğu tarım alanları ve yerleşimlerin çevresindeki kavaklıklar dâhil olmak üzere daha açık alanlarda bulunur. Alçak rakımlarda sadece ibreli ormanlarda bulunmasına rağmen her çeşit ağaçlık alanda ürer. Deniz seviyesinden kuzeyde ve batıda 2100 metreye kadar kaydedilir. Orman ağaçkakanı ile diğer bölgelere göre daha geniş ölçüde örtüştüğü Toroslar'da nadiren 900 metrenin üstünde bulunur. 1000-2000 metrede (genellikle bu sınırın alt kenarında) orman ağaçkakanı ile yer değiştirir. Görünüşe bakılırsa güneybatı Ege'de ve muhtemelen kuzey Trakya'nın bazı kısımlarında ortanca ağaçkakan ile yer değiştirir. Istranca Dağları'nın Bulgaristan tarafında neredeyse tamamen orman ağaçkakanı ile yer değiştirmiştir [@milchev1994]. Nisan-Mayıs 1993'te gerçekleştirilen yoğun arazi çalışması boyunca Rize Çamlıhemşin'de hiç kaydedilmemiştir [@faldborg1994].
 
-![](images/harita_Page_257.png)
+![](images/harita_Page_255.png)
 
 **Üreme**
 
-Bilgi yoktur.
+Meyve bahçeleri, zeytinlikler, açık ağaçlık alanlar ve seyrek ağaçların ya da baltalıkların bulunduğu tarım alanları ile açık arazilerde ürer. Erişkin kuşlar tarafından ağaç gövdelerine ya da dallarına açılmış ve kaplanmamış yuva bölmesine ulaşan deliklerde yuva yapar. Birecik'te antepfıstığı bahçelerinde daha kalın gövdeli ağaçları tercih eder; 2 m'den hatta bazıları 1 m'den aşağıda olmak üzere yuvalar genellikte alçaktır. Diğer habitatlarda yuva delikleri 10 m kadar yüksekte olabilir. Türkiye'de gözlenen yumurta sayısı 2 (1 yuvada), 5 (1 yuvada). Yavru sayısı: 1 (1 yuvada), 2 (1 yuvada), 4 (1 yuvada), 5 (1 yuvada). Çok az yuva yakından incelenmiştir ve bu sınırlı veri gerçeği yansıtıcı olmayabilir; başka yerlerde olağan kuluçka büyüklüğü 5-7 yumurtadır. **EGE.** 7 Mayıs'tan itibaren erişkinlerin yuva deliklerinde olduğu bildirilmiştir ve 2 Haziran 1974'te Kuşadası'nda yumurtlamanın nisan sonunda olduğunu gösterecek şekilde içinde tamamen gelişmiş yavru olan bir yuva bulunmuştur. **GDA.** Özellikle Birecik'te mayıs sonu/haziran başında elde edilen büyük ya da tamamen gelişmiş beş yavru kaydı yumurtlamanın nisan sonunda olduğunu gösterir. Durnalık'ta bir yuvada 9 Mayıs 2004'te beş yumurta ve 16 Mayıs 2004'te yeni yumurtadan çıkmış yavrular gözlenmesi yumurtlamanın nisan sonunda olduğunu gösterir. Durnalık'taki bir başka yuvada ise 9 Mayıs 2004'te yumurtalar ve 23 Mayıs 2004'te küçük yavru görülmüştür. **MAR.** 18 Haziran 1973'te Belgrad Ormanı'nda tüylenmiş yavrusuyla birlikte bir erişkin ve 23 Haziran 1973'te Keşan yakınlarındaki yuvasına yiyecek taşıyan bir erişkin gözlenmiştir; 31 Mayıs 1988'de Truva'daki bir yuvada görülen büyük yavru yumurtlamanın nisan sonunda olduğunu göstermektedir. **KAR.** 27 Mayıs 1992'de Kızılırmak Deltası'nda içinde yiyecek isteyen yavrular olan ilk yuvalar bulunmuştur [@hustings1994]. **İÇA.** 27 Mayıs 1993'te Hasan Dağı'nda yuva yapımı gözlenmiştir. Geç gibi görünen bu kayıt muhtemelen başarısız bir çabadan sonraki ikinci denemedir. **AKD.** 15 Haziran 1992'de Taşucu yakınlarındaki bir yuvada bulunan iki yumurta ve 9 Haziran 1993'te Uzuncaburç'taki bir yuvada görülen büyük yavru yumurtlamanın mayıs başında olduğunu göstermektedir; 7 Mayıs 2004'te Uzuncaburç yakınlarında endoskop ile incelenen üç yuvanın yeni ve yumurtlamaya hazır ancak boş olduğu görülmüştür. Özellikle haziran sonunda ve temmuzda birçok bölgede tüylenmiş yavrular gözlenmiştir. Alaca ağaçkakanlar tarafından açılan yuva delikleri takip eden yıllarda sığırcık ve sarı boğazı serçe da dâhil olmak üzere serçeler gibi başka türler tarafından da kullanılır. Bu türler yuva alanlarının sağlanması açısından kısmen bu ağaçkakan türüne bağlıdır.
+
+**Alttürler ve Sınıflandırma**
+
+Türkiye'de nominat alttürü bulunur.
+
+## Küçük Ağaçkakan
+
+*Dyrocopus minor*, Lesser Spotted Woodpecker
+
+***Yaygın ve nispeten çok sayıda bulunan yerlidir.***
+
+Kocaçay Deltası'nda 200 çiftten daha fazlası bulunabilir [@ertan1996]. Nisan-Mayıs 1993'te Çamlıhemşin, Rize çevresindeki düşük rakımlarda bol sayıda üreyen bir tür olarak tanımlanmıştır [@faldborg1994] ve 1992'de Kızılırmak Deltası'nda 75-125 çift tahmin edilmiştir [@hustings1994] genellikle az sayılarda bulunur. Güneydoğu Anadolu'da yakın zamanda Diyarbakır yakınlarında [@karakas2002] ve daha önceleri de Siirt'in güneyindeki dağlık bölgede [@goriup1983] kaydedilmiştir. Doğu Anadolu'da çoğunlukla yaprak döken, bazen de karışık ormanlarda ve meyve bahçelerinde bulunur. Alçak ve orta yüksekliklerde bulunduğu kesin olsa da yükseklik sınırı belirsizdir. Türkiye'de 1000 metrenin üzerinde sadece nadir olarak kaydedilir ancak Ermenistan ve Kafkaslar'da 2000 metrede bulunur [@kumerloeve1961].
+
+![](images/harita_Page_252.png)
+
+**Üreme**
+
+Ormanlarda, daha küçük ağaçlık alanlarda ve ağaç sıralarında ürer. **MAR.** Kocaçay Deltası'nda, daha nemli ormanları, genellikle orman ve kanallar ya da subasar alanlar arasındaki ekotonları tercih eder. 31 ha büyüklüğündeki bir alanda tespit edilen 6 yuva (hepsi dişbudak Fraxinus excelsior ağaçlarında) hektar başına 0,29 çiftin ürediğini göstermektedir ve haziranın ikinci haftasında yeni tüylenmiş bir yavru kaydedilmiş [@ertan1996] ve 16 Mayıs 1966'da yuva deliğinde bir erişkin gözlenmiştir. 22 Temmuz 1966'da Çamlıca Tepelerinde bir erişkinle birlikte genç bir birey gözlenmiş ve 4 Haziran 1996'da Belgrad Ormanları'nda yuva deliğinde bir erişkin kaydedilmiştir. **AKD.** 20 Nisan-25 Mayıs 1989'da Dalyan bölgesinde kullanılan iki yuva bulunmuş, 14 Mayıs 2001'de Akseki'de bir yuvada bir çift gözlenmiştir. 26 Mayıs 2005'te aynı yerde 3,5 m yüksekliğindeki bir meşe kütüğünün tepesinden 50 cm aşağıdaki bir delikte bir dişinin ilgilendiği başka bir yuva bulunmuştur. Yuvadan gelen seslere göre yuvada en az iki yavru olduğu tahmin edilmiştir. **KAR.** Kızılırmak Deltası'nda, 9 Mayıs 1977'de kullanılan bir yuva deliği bulunmuş, haziranda yuvadan uçmuş birkaç yavru kaydedilmiş ve 10 Haziran 1975'te, yumurtlamanın mayıs başında olduğunu gösterecek şekilde bir aile grubu gözlenmiştir [@dijksen1985]. 1992'de, yavruların yiyecek isteme ötüşleri ilk kez 27 Mayıs'ta duyulmuş ve yuvadan yeni uçmuş yavrular haziranın ikinci haftasında gözlenmiştir [@hustings1994]. Başka yerlerde yumurta sayısı 4-6'dır.
+
+**Alttürler ve Sınıflandırma**
+
+Alt kısımları koyu ancak bazen kahverengiye kaçan ve tepenin arkasından kulak örtülerinin arkasına kadar uzanan siyah bir banda sahip olan D. m. danfordi alttürü bulunur.
+
+## Küçük Yeşil Ağaçkakan
+
+*Picus canus*, Grey-headed Woodpecker
+
+***Lokal ve yer yer çok sayıda bulunan yerlidir.***
+
+Yoğun olarak Batı Karadeniz ve Trakya'da bulunur, deniz seviyesinden 2300 metrenin üstüne kadar kaydedilir. Özellikle Trakya'da olmak üzere karışık ormanlarda da birkaç kaydı olsa da kayıtların çoğu ibreli ormanlardandır. Doğu Karadeniz Ormanları'nda 1993'te Çamlıhemşin yakınlarında ürediği kanıtlanmıştır [@faldborg1994]. İkizdere [@heiser1984] ve ve Ayder'de [@berg1988]kaydedilmiştir. Çamlıhemşin çevresinde ağaç seviyesine yaklaşık 300-400 m'ye kadar oldukça bol olduğu düşünülmüştür. Akdeniz'de, 1989'dan bu yana Akseki'de az sayılarda sık sık kaydedilmektedir. Orta-Doğu Toroslar'ın eteklerinde Mersin Uzuncaburç'un yukarı kesimlerinde de kaydedilmiştir [@kirwanmartins2000].
+
+Krüper ve Hartlaub (1875) ve [@matheydupraz1920] aynı zamanda , 1850-1900 yılları arasında İstanbul Boğazı civarında bulunduğuna işaret ederler [@matheydupraz1920]ve bu bölgeden en az bir tahnit mevcuttur [@kirwan1997a]. İlk kayıtlar, Şubat 1910'da İstanbul'dan iki örnek ve Ağustos 1934'te Bolu, Mengen yakınlarında Elemen'den üç, Ekim 1934'te Bolu'dan bir ve 15 Mayıs 1949'da İstanbul'un kuzeybatısında Büyükdere'den bir örnek toplanmış, ancak bunların Bulgaristan'dan geldiği farz edilmiştir [@kumerloeve1961]. Nisan 1969'da İstanbul Belgrad Ormanları; 12 Mayıs 1967'de Kırklareli Demirköy; 29 Nisan 1972'de Ankara Kızılcahamam ve 31 Ocak 1917'de Ergene Nehri üzerinde Kırklareli Mandra yakınlarında benzer şekilde hatalı sayılmıştır. Yakın zamana kadar Türkiye'den gelen kayıtlar şüpheli görülmüş ve varlığı kabul edilmemiştir [@berg1988]. Ardından kuzeybatı bölgelerindeki varlığı anlaşılmış, 18 Haziran 1964'te Adana Pozantı'da, 13 Nisan 1965'te Mersin Gülek'te, 30-31 Ağustos 1971'de Zigana Geçidi'nde ve Istavri yakınlarındaki diğer bölgelerdeki kayıtlara şüpheli bakılmıştır [@berg1988] . 1988-1990'da Istranca Dağları'nın Bulgaristan tarafında gerçekleştirdiği üreyen kuş sayımlarında 5 kilometrelik karelerin %35'inde bulunduğunu tespit etmiştir [@milchev1994].
+
+![](images/harita_Page_259.png)
+
+**Üreme**
+
+Trakya'da ve Akdeniz'de (özellikle Akseki'de, açık çam ormanında) muhtemel üreme sezonunda Nisan ve Haziran ayları arasında gözlenir ancak yuvalama ile ilgili hiç kanıt yoktur. **KAR.** Kesin olan tek üreme kaydı Çamlıhemşin-Ardeşen bölgesindendir. Burada yaygın olarak üreyen bir türdür ve neredeyse her gün duyulur. 3 Mayıs 1993'te yaklaşık 37-40 metre uzunluktaki bir Fagus orientalis ağacında, yerden yaklaşık 27 metre yüksekte kullanılan bir yuva bulunmuş ve 3-4 saatlik vardiyalarla kuluçka görevini her iki erişkinin paylaştığı gözlenmiştir. 8 Haziran 1993'te ise her iki erişkinin de sık sık yuvayı ziyaret ettiği gözlenmiş ve böylece yumurtaların çatladığı anlaşılmıştır (Faldborg 1994). Türkiye'de yumurta sayısı bilinmemekte, diğer yerlerde olağan yumurta sayısı 4-5'tir.
 
 **Alttürler ve Sınıflandırma**
 
@@ -316,21 +322,19 @@ Yaprak döken ve ibreli ormanlarda ürer. Ağaçlarda kuşların açtığı deli
 
 Nominat alttürden biraz daha küçük, soluk ve daha az sarı olan Picus viridis karelini görülür.
 
-## Küçük Yeşil Ağaçkakan
+## Kara Ağaçkakan
 
-*Picus canus*, Grey-headed Woodpecker
+*Dryocopus martius*, Black Woodpecker
 
-***Lokal ve yer yer çok sayıda bulunan yerlidir.***
+***Nispeten yaygın ancak oldukça seyrek yerlidir.***
 
-Yoğun olarak Batı Karadeniz ve Trakya'da bulunur, deniz seviyesinden 2300 metrenin üstüne kadar kaydedilir. Özellikle Trakya'da olmak üzere karışık ormanlarda da birkaç kaydı olsa da kayıtların çoğu ibreli ormanlardandır. Doğu Karadeniz Ormanları'nda 1993'te Çamlıhemşin yakınlarında ürediği kanıtlanmıştır [@faldborg1994]. İkizdere [@heiser1984] ve ve Ayder'de [@berg1988]kaydedilmiştir. Çamlıhemşin çevresinde ağaç seviyesine yaklaşık 300-400 m'ye kadar oldukça bol olduğu düşünülmüştür. Akdeniz'de, 1989'dan bu yana Akseki'de az sayılarda sık sık kaydedilmektedir. Orta-Doğu Toroslar'ın eteklerinde Mersin Uzuncaburç'un yukarı kesimlerinde de kaydedilmiştir [@kirwanmartins2000].
+En çok Doğu Karadeniz'de Sümela ve Borçka'da, Batı'da düzenli olarak Uludağ, Yalova, Yenice Ormanları, Ilgaz Dağları ve çevresinde kaydedilmiştir. Ülkenin kuzeyinde çoğunlukla 900 metreden en az 2000 metreye kadar görülür, ancak Kocaçay Deltası [@ertan1996] ve Trakya'da deniz seviyesine kadar iner. 1988-90 yıllarında Bulgaristan'da gerçekleştirilen üreyen kuş sayımlarında 5 km'lik karelerin %28'inde kaydedilmiştir [@milchev1994]. Toroslar'daki durumu belirsizdir. bu yayılışın orta bölgesinde "nadir ama ara sıra gözlenen" olarak tanımlamıştır [@danford1877] ancak o günden bu yana çok az gözlemci tarafından kaydedilmiştir. Bu bölgedeki en yeni kayıtlar 1993 ve 1998 yıllarında Gidengelmez Dağları'nda elde edilmiştir. Mayıs 2008'de Osmaniye'nin güneyinde Zorkun Yaylası'nda bir çam ormanında 700 metrede keşfedilmiştir.
 
-Krüper ve Hartlaub (1875) ve [@matheydupraz1920] aynı zamanda , 1850-1900 yılları arasında İstanbul Boğazı civarında bulunduğuna işaret ederler [@matheydupraz1920]ve bu bölgeden en az bir tahnit mevcuttur [@kirwan1997a]. İlk kayıtlar, Şubat 1910'da İstanbul'dan iki örnek ve Ağustos 1934'te Bolu, Mengen yakınlarında Elemen'den üç, Ekim 1934'te Bolu'dan bir ve 15 Mayıs 1949'da İstanbul'un kuzeybatısında Büyükdere'den bir örnek toplanmış, ancak bunların Bulgaristan'dan geldiği farz edilmiştir [@kumerloeve1961]. Nisan 1969'da İstanbul Belgrad Ormanları; 12 Mayıs 1967'de Kırklareli Demirköy; 29 Nisan 1972'de Ankara Kızılcahamam ve 31 Ocak 1917'de Ergene Nehri üzerinde Kırklareli Mandra yakınlarında benzer şekilde hatalı sayılmıştır. Yakın zamana kadar Türkiye'den gelen kayıtlar şüpheli görülmüş ve varlığı kabul edilmemiştir [@berg1988]. Ardından kuzeybatı bölgelerindeki varlığı anlaşılmış, 18 Haziran 1964'te Adana Pozantı'da, 13 Nisan 1965'te Mersin Gülek'te, 30-31 Ağustos 1971'de Zigana Geçidi'nde ve Istavri yakınlarındaki diğer bölgelerdeki kayıtlara şüpheli bakılmıştır [@berg1988] . 1988-1990'da Istranca Dağları'nın Bulgaristan tarafında gerçekleştirdiği üreyen kuş sayımlarında 5 kilometrelik karelerin %35'inde bulunduğunu tespit etmiştir [@milchev1994].
-
-![](images/harita_Page_259.png)
+![](images/harita_Page_257.png)
 
 **Üreme**
 
-Trakya'da ve Akdeniz'de (özellikle Akseki'de, açık çam ormanında) muhtemel üreme sezonunda Nisan ve Haziran ayları arasında gözlenir ancak yuvalama ile ilgili hiç kanıt yoktur. **KAR.** Kesin olan tek üreme kaydı Çamlıhemşin-Ardeşen bölgesindendir. Burada yaygın olarak üreyen bir türdür ve neredeyse her gün duyulur. 3 Mayıs 1993'te yaklaşık 37-40 metre uzunluktaki bir Fagus orientalis ağacında, yerden yaklaşık 27 metre yüksekte kullanılan bir yuva bulunmuş ve 3-4 saatlik vardiyalarla kuluçka görevini her iki erişkinin paylaştığı gözlenmiştir. 8 Haziran 1993'te ise her iki erişkinin de sık sık yuvayı ziyaret ettiği gözlenmiş ve böylece yumurtaların çatladığı anlaşılmıştır (Faldborg 1994). Türkiye'de yumurta sayısı bilinmemekte, diğer yerlerde olağan yumurta sayısı 4-5'tir.
+Bilgi yoktur.
 
 **Alttürler ve Sınıflandırma**
 
@@ -540,27 +544,7 @@ Tepelik ya da dağlık alanlarda, deniz seviyesinde Adrasan, Antalya kayalıklar
 
 **Alttürler ve Sınıflandırma**
 
-Tüm ülkede üreyen yerli popülasyon brookei alttürüne aittir. Uzun mesafe göçmeni peregrinus ve calidus göçte ve kışın bulunmaktadır [@shirihai2000].
-
-## Kızıl Enseli Doğan
-
-*Falco pelegrinoides*, Barbary Falcon
-
-***Rastlantısal konuktur.***
-
-Tek kesin kaydı, 12 Haziran 2012'de M. Zenginer ve S. Bekir tarafından Van Çaldıran'da fotoğrafı çekilen genç bireydir. Van Gölü ve doğusunda gökdoğanın nadir olduğu göz önünde bulundurulduğunda Kuzey İran'da yuvalayan kızıl enseli doğanların sıklıkla bölgeyi ziyaret etmesi olasıdır.
-
-İlk kez Ağustos 1990'da Birecik'te yapılan bir gözlemden dolayı zikredilmiştir [@gosney1996]ve Haziran 1994'de aynı alanda H. Shirihai ve J. Francis tarafından kaydedilmiştir. Güneydoğu Anadolu'daki muhtemelen bulunduğunu, yerli olduğunu ve tahminen çok düşük sayıda olduğunu düşünebiliriz. türün Suriye'de düzenli olarak bulunduğunu ve muhtemelen ürediğini [@baumgart1995]ve Lübnan'dan 3 kaydı olduğunu belirtmektedir [@ramadan2008]. Yakın bir tarih olarak 15 Temmuz 2006'da Göksu Deltası'nda babylonicus'a çok yakın bir bireyin kaydı vardır. Ancak ayrıntılar belirtilmemiştir.
-
-![](images/harita_Page_270.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Türkiye'de hangi alttürü olduğu bilinmemektedir.
+Tüm ülkede üreyen yerli popülasyon brookei alttürüne aittir. Uzun mesafe göçmeni peregrinus ve calidus göçte ve kışın bulunmaktadır [@shirihai2000]. Ortadoğu'da bulunan *pelegrinoides* alttürüne ait tek kesin kaydı, 12 Haziran 2012'de M. Zenginer ve S. Bekir tarafından Van Çaldıran'da fotoğrafı çekilen genç bireydir. Van Gölü ve doğusunda gökdoğanın nadir olduğu göz önünde bulundurulduğunda Kuzey İran'da yuvalayan kızıl enseli doğanların sıklıkla bölgeyi ziyaret etmesi olasıdır. İlk kez Ağustos 1990'da Birecik'te yapılan bir gözlemden dolayı zikredilmiştir [@gosney1996]ve Haziran 1994'de aynı alanda H. Shirihai ve J. Francis tarafından kaydedilmiştir. Türün Suriye'de düzenli olarak bulunduğunu ve muhtemelen ürediğini [@baumgart1995]ve Lübnan'dan 3 kaydı olduğunu belirtmektedir [@ramadan2008].
 
 ## İskender Papağanı
 

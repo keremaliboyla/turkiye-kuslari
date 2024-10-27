@@ -2,6 +2,26 @@
 title: "Kargamsılar"
 ---
 
+## Sarıasma
+
+*Oriolus oriolus*, Eurasian Golden Oriole
+
+***Yaygın ve çok sayıda bulunan yaz göçmeni ve geçit türüdür.***
+
+Muhtemelen Karadeniz ve Trakya'da çok bol bulunur. Yaprak döken ormanlarda ve hatta küçük kavaklıklarda bile bulunur. Üreyen bireylerle geç göçmenleri ayırt etmek zor olduğu için üreme alanını tanımlamak kolay değildir. Nehir vadileri, açık ormanların olduğu ovalar, plantasyonlar ve özellikle kavak ve meşe, nadiren de çınar ve huş olmak üzere yaprak döken baltalıklarda ürer. Batı ve Orta Anadolu'da 0--1200 m'de ve Doğu Anadolu'da 2200 m'ye kadar bulunur. Ağaç olmayan bozkırlarda ve dağlık alanlarda üremez.
+
+Geçiş sırasında daha yaygın ve sayıca fazladır. İlkbahar geçişi mayısta en yoğundur; nisan ortasından itibaren kaydedilir. Kumerloeve (1970a) 2 Nisan'daki bir kayıttan bahsetmektedir. İlkbahar geçişi en azından kuzeyde ciddi olarak haziran başına kadar devam edebilir. Sonbaharda nispeten azdır; sonbahar göçü İstanbul Boğazı'nda açıkça ağustos sonu ile eylül ortasında zirve yapar ve genellikle eylül sonunda tamamlanır, Kızılırmak Deltası'nda 15 Ekim tarihli geç bir kayıt vardır.
+
+![](images/harita_Page_282.png)
+
+**Üreme**
+
+Açık genellikle yaşlı ve yaprak döken ormanlarda ve özellikle nehir boylarında ve göl kenarlarında olmak üzere yerlerde kavaklarda ve söğütlerde ürer. Bazıları nisan sonunda çoğunlukla mayısta üreme alanı tutar. 1992'de Yörükler Ormanı'nda (Kızılırmak Deltası) en yüksek sayılar mayıs ortasında kaydedilmekle birlikte nisan ortasından itibaren görülmeye başlanmış ve haziran başında bile yeni alanı kurulmuş, 8 Mayıs'tan itibaren yuva yapımı gözlenmiş, üreme yoğunluğu ortalama 0,25 alan/ha ve en yüksek 0,55 alan/ha olarak hesaplanmıştır [@hustings1994]. **MAR.** Kocaçay Deltası'nda açık alüvyonlu ormandaki yaşlı ağaçları tercih eder. 1993'te 31 hektarlık bir alanda 0,3 öten erkek kaydedilmiştir (Ertan 1996). Genellikle bir ağacın yüksekteki yatay dalları arasında otlardan kâse şeklinde bir yuva yapar. Türkiye'de yumurta sayısı kaydedilmemiştir, ancak diğer yerlerde 3-4 (6'ya kadar) olur. KAD. 15 Temmuz 1971'de Kızılırmak Deltası'nda, yumurtlamanın 12 Haziran'da olduğunu gösterecek şekilde yeni tüylenmiş bir yavrunun erişkinler tarafından beslendiği gözlenmiştir [@dijksen1985]. **DOA.** Gelinkaya'da yol kenarındaki kavaklarda yerden 15 m yüksekte bir yuva bulunmuş ve bu yuvada 23-25 Haziran 2004'te dişinin kuluçkada olduğu gözlenmiştir. **İÇA.** 17 Mayıs 1998'de Ankara yakınlarında yuva yapımı gözlenmiştir. 2004 yılında Hasan Dağı'nda yerden 5 m yüksekte bir yuva bulunmuştur. Birçok çift mayıs ortası ile sonunda yumurtluyor gibi görünmektedir.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür.
+
 ## Kızıl Sırtlı Örümcekkuşu
 
 *Lanius collurio*, Red-backed Shrike
@@ -19,6 +39,24 @@ Seyrek çalılıklar, çalı çitleri, yol boyundaki ağaç altı çalılıklar�
 **Alttürler ve Sınıflandırma**
 
 Roselaar (1995), batı ve güneydeki kuşları nominat collurio ve Doğu Anadolu'nun uç kesimindekileri de kobylini olarak değerlendirir. Orta Anadolu'da ise geniş bir melezleşme alanı olduğunu belirtir. Roselaar'ın (1995) collurio ve kobylini arasındaki farkın zayıf ve varyasyonun güçlü şekilde klinal olduğunu söylediği düşünülürse kobylini ve diğerlerinin ayrı alttür olarak tanınması sadece boş bir iddia olabilir. Lefranc ve Worfolk'un (1997) belirttiği gibi Batı Avrupa'da (collurio) bile erkeklerin farklı ırklara ait özellikler gösterebildiği göz önüne alınarak ve örnekler üzerinde yaptığımız incelemelere dayanarak Stepanyan (1978) ve Lefranc ve Worfolk'un (1997) görüşü doğrultusunda tür monotipik olarak değerlendirilmelidir. 1990 ilkbaharında Çukurova'da yakalanan birkaç bireyin Sibirya'da üreyen pallidus formunu andıran tüy örtüsü özelliklerine sahip olduğu görülmüştür (Kivit vd. 1994).
+
+## Türkistan Örümcekkuşu
+
+*Lanius phoenicuroides*, Red-tailed Shrike
+
+***Rastlantısal konuktur.***
+
+Aksi belirtilmediği sürece kayıtların hepsi bir bireye aittir. 17 Ağustos 1972'de Erzurum yakınlarında (OST 1975), 25 Temmuz 1977'de Eceabat'ta (Çanakkale) (Louette vd. 1977), 16 Mayıs 1991'de Tirebolu'nun 12 km güneybatısında Espiye'de bir erkek ([@kirwanmartins1994]), 3 Mayıs 1998'de Kızılırmak Deltası'nda yakalanıp fotoğraflanan bir erkek, 24 Kasım 2007'de Gelemen'de (Samsun) fotoğraflanan ilk kışında bir birey (Balmer ve Betton 2008)
+
+![](images/harita_Page_275.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Eskiden kızıl kuyruklu örümcekkuşunun bir alttürü olarak ele alınıyordu. Ayrıntılı tartışma için Türkistan örümcekkuşunun metnini okuyun.
 
 ## Moğolistan Örümcekkuşu
 
@@ -44,24 +82,6 @@ Türkiye'de yuvalamaz.
 
 Kryukov (1995), cristatus grubundaki örümcekkuşlarının arasındaki etkileşimleri çalışmış ve tüy örtüsü karakterleri, biyometri ve yuvalama dönemleri göz önüne alındığında phoenicuroides'in geçici olarak monotipik bir tür olarak dikkate alınması gerektiği sonucuna varmıştır. Türkmenistan'ın güneyinde bu formlar simpatrik gibi görünmektedir, ancak Türkmenistan'ın diğer yerlerinde ve aynı zamanda İran ve Cungarya Havzası'nda (Moğolistan ve Çin) ara formlar kaydedilmiştir. Daha sonra yapılan bir çalışma orijinal cristatus grubunun tür düzeyinde altı taksonu kapsayabileceğini ortaya çıkarmıştır: cristatus, lucionensis ve superciliosus olmak üzere "kahverengi" ve phoenicuroides, isabellinus ve arenarius olmak üzere devetüyü rengindeki örümcekkuşları. Bu türlerin tanımı en iyi şekilde Worfolk (2000) tarafından yazılmıştır. Bu taksonların birkaçının potansiyel olarak Türkiye'de rastlantısal tür olduğu için gelecekte bu formlardan birini gözleyecek olanların bu makaleyi bilmeleri iyi olur. Pearson (2000), isabellinus'un tip örneği ile ilgili ve speculigerus'un isabellinus'un bir sinonimi olarak düşünülmesine neden olan gerekçelerle ilgili karışıklığı tartışmış ve Schodde ve Bock (2002) tarafından da ihtiyatla desteklenmiştir.
 
-## Türkistan Örümcekkuşu
-
-*Lanius phoenicuroides*, Red-tailed Shrike
-
-***Rastlantısal konuktur.***
-
-Aksi belirtilmediği sürece kayıtların hepsi bir bireye aittir. 17 Ağustos 1972'de Erzurum yakınlarında (OST 1975), 25 Temmuz 1977'de Eceabat'ta (Çanakkale) (Louette vd. 1977), 16 Mayıs 1991'de Tirebolu'nun 12 km güneybatısında Espiye'de bir erkek ([@kirwanmartins1994]), 3 Mayıs 1998'de Kızılırmak Deltası'nda yakalanıp fotoğraflanan bir erkek, 24 Kasım 2007'de Gelemen'de (Samsun) fotoğraflanan ilk kışında bir birey (Balmer ve Betton 2008)
-
-![](images/harita_Page_275.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Eskiden kızıl kuyruklu örümcekkuşunun bir alttürü olarak ele alınıyordu. Ayrıntılı tartışma için Türkistan örümcekkuşunun metnini okuyun.
-
 ## Uzun Kuyruklu Örümcekkuşu
 
 *Lanius schach*, Long-tailed Shrike
@@ -79,26 +99,6 @@ Türkiye'de yuvalamaz.
 **Alttürler ve Sınıflandırma**
 
 Toplanmış olan örnek özellikle yayılış alanının batısında bulunan erythronotus'a benzese de alttürü kesin olarak tanımlanmamıştır (bkz. Shirihai ve Golan 1994).
-
-## Kara Alınlı Örümcekkuşu
-
-*Lanius minor*, Lesser Grey Shrike
-
-***Oldukça yaygın ve nispeten seyrek yaz göçmeni ve geçit türüdür.***
-
-Marmara, Ege, Akdeniz ve Karadeniz'de daha lokal olmakla beraber tüm bölgelerde ürer. Karadeniz'deki çok iyi gözlenen ve düzenli üreyen bir popülasyonu destekleyebilecek çok az alandan biri olan Kızılırmak Deltası'nda görünüşe göre teyit edilmiş bir üreme kaydı yoktur. İç ve Doğu Anadolu'da en boldur. En az 2500 m'ye kadar tepelik ya da yüksek alanlarda genellikle çalıların arasındaki seyrek ağaçlarda ürer.
-
-Geçit sırasında, özellikle Doğu Anadolu'da olmak üzere ülke genelinde daha yaygın ve boldur. Genel olarak, ilkbahar geçişi mart sonundan en az mayıs sonuna kadar gerçekleşir, mayıs ortasında zirve yapar ve muhtemelen hazirana da sarkar (Albrecht 1986, Hustings ve van Dijk 1994). Karadeniz'e nisan sonundan önce nadiren ulaşır. İç Anadolu'da geçiş mayısın ilk haftası en yoğundur (Schekkerman ve van Roomen 1993). Sonbahar geçişi ise temmuz sonundan ekim ortasına hatta daha çok ekim başına kadar gerçekleşir, ağustos sonu ile eylül ortası arasında zirve yapar.
-
-![](images/harita_Page_277.png)
-
-**Üreme**
-
-Çoğunlukla yol kenarlarında ağaçların ve baltalıkların olduğu açık alanlarda ve seyrek çalıların ve izole ağaçların içinde ürer. Muhtemelen mevcut ağaçların boyuna bağlı olarak çok çeşitli yüksekliklerde yuva yapar. Örneğin, Karadağ'da (İç Anadolu), dikenli bir çeşit armut ağacında bulunan altı yuva yerden 1,5-2,8 m yükseklikteyken (Ramsay 1914) Erçek gölü yakınlarında kavak ağaçlarında bulunan üç yuva yerden 5 metre, 12 m ve 12 m yüksekliktedir. İnce dallar, bitki sapları ve kökçüklerden kâse şeklinde yaptığı yuvasını tüyler, kökler, kıllar ve yünle kaplar. Türkiye'de gözlenen yumurta sayısı 4 (1 yuvada), 5 (5 yuvada), 7 (1 yuvada). Yavru sayısı hakkında hiç kayıt yoktur, ancak tüylenmiş yumurta sayısı çoğunlukla 4-5 olur. **İÇA.** 27-29 Mayıs 1907'de Karadağ'da her biri beş taze yumurtalı beş yuva bulunmuş ve 21 Haziran 1907'de yuva yapımı gözlenmiş (Ramsay 1914), 10 Haziran 1998'de Karapınar yakınlarında yumurtlamanın 21 Mayıs'ta olduğunu gösterecek şekilde içinde çatlayan yumurtalar olan bir yuva bulunmuş, 1 Haziran 1972'de Karadağ'da 1500 m'de dört yumurtalı bir yuva ve 7 Haziran 1971'de Ulukışla yakınlarında bir zeytin ağacında kullanılan bir yuva bulunmuştur. 24 Temmuz 1971'de Karadağ'da yeni tüylenmiş yavrularıyla birlikte iki çift gözlenmiştir ve 22 Haziran 1973'te Ankara yakınlarında yeni tüylenmiş yavrusuyla bir çift kaydedilmiştir. 3 Temmuz 1989'da Madenşehir yakınlarında 4-5 yavrusunu besleyen iki erişkin gözlenmiştir. **AKD.** 29 Mayıs 1991'de Akseki'de yuva yapımı gözlenmiştir, 12 Haziran 1973'te Pınarbaşı'nda yedi yumurtalı bir yuva bulunmuş ve 1-3 Ağustos 1971'de birkaç aile grubu gözlenmiştir. **DOA.** 2 ve 11 Haziran 2001'de Erçek Gölü yakınlarında üç yuvada kuluçkada erişkinler gözlenmiştir.
-
-**Alttürler ve Sınıflandırma**
-
-Monotipik bir türdür.
 
 ## Büyük Örümcekkuşu
 
@@ -120,9 +120,7 @@ Bulgaristan'da üreyen L. e. homeyeri'nin Türkiye'de en sık rastlanan form olm
 
 ## Doğu Örümcekkuşu
 
-*Lanius pallidirostris*, Steppe Grey Shrike
-
-***Rastlantısal konuktur.***
+*Lanius pallidirostris* alttürünün
 
 4 kaydı vardır. İlk kez 8 Eylül 2010'da Trabzon Yorma'da fotoğraflanmıştır. Ardından 4 Kasım 2010'da Rize Limanı'nda, 11 Eylül 2011'de tekrar Yorma'da, 30 Mart 2015'te ise Antalya Sahilin'de fotoğraflanmıştır.
 
@@ -136,23 +134,25 @@ Türkiye'de yuvalamaz.
 
 Türkiye'deki gözlemcilerin, Kıbrıs dâhil Ortadoğu'daki diğer yerlerde bulunan ve artan bir şekilde tür düzeyinde tanınan pallidirostris formuyla genellikle oldukça uygunsuz bir İngilizce isimle (İng. Steppe Grey Shrike) karşılaşabileceklerini akılda bulundurmaları gerekir. Hem meridionalis kompleksinin hem de pallidirostris formunun tür statüsüne yükseltilmesi düşüncesi moleküler destek kazanmıştır (Hernández vd. 2004). Gözlemcilerin modern tanımlama kaynaklarını kullanarak (örneğin, Lefranc ve Worfolk 1997, Perttula ve Tenovuo 2002) büyük örümcekkuşu gözlemlerinde tür düzeyinde tanımlama yapabilmek için özel bir dikkat göstermeleri gerekir.
 
-## Kızıl Başlı Örümcekkuşu
+## Kara Alınlı Örümcekkuşu
 
-*Lanius senator*, Woodchat Shrike
+*Lanius minor*, Lesser Grey Shrike
 
-***Yaygın ve çok sayıda bulunan yaz göçmeni ve geçit türüdür.***
+***Oldukça yaygın ve nispeten seyrek yaz göçmeni ve geçit türüdür.***
 
-Ege'de, daha lokal olarak Marmara'da, daha az sayıda Akdeniz'de, İç ve Doğu Anadolu'nun Akdeniz'e komşu bölgelerinde ve bol olarak Güneydoğu Anadolu'nun büyük bölümünde ürer. Diğer yerlerde muhtemelen çok lokal olarak üreyen bir türdür. Genellikle çok çeşitli ova habitatında, özellikle narenciye bahçeleri ve zeytinlikler olmak üzere tarımsal alanlardaki çalılık ve yarı ağaçlık alanlarda mayıs başından itibaren ürer. Marmara ve Ege'de deniz seviyesinden 800 m'ye kadar, Akdeniz'de 1200 m'ye kadar ve Doğu ve Güneydoğu Anadolu'da 500- 2000 m'de ürer ([@roselaar1995]). Geçiş sırasında özellikle ilkbaharda daha bol ve yaygındır. İlkbaharda çoğunlukla nisan ortasında geçiş yapar, mart ortası ile mayıs başına kadar kaydedilir. Sonbaharda ise ağustos başı ve ekim sonu arasında kaydedilmiş olup yoğun olarak eylül ayında geçiş yapar. Sonbahar geçişi daha seyrektir.
+Marmara, Ege, Akdeniz ve Karadeniz'de daha lokal olmakla beraber tüm bölgelerde ürer. Karadeniz'deki çok iyi gözlenen ve düzenli üreyen bir popülasyonu destekleyebilecek çok az alandan biri olan Kızılırmak Deltası'nda görünüşe göre teyit edilmiş bir üreme kaydı yoktur. İç ve Doğu Anadolu'da en boldur. En az 2500 m'ye kadar tepelik ya da yüksek alanlarda genellikle çalıların arasındaki seyrek ağaçlarda ürer.
 
-![](images/harita_Page_280.png)
+Geçit sırasında, özellikle Doğu Anadolu'da olmak üzere ülke genelinde daha yaygın ve boldur. Genel olarak, ilkbahar geçişi mart sonundan en az mayıs sonuna kadar gerçekleşir, mayıs ortasında zirve yapar ve muhtemelen hazirana da sarkar (Albrecht 1986, Hustings ve van Dijk 1994). Karadeniz'e nisan sonundan önce nadiren ulaşır. İç Anadolu'da geçiş mayısın ilk haftası en yoğundur (Schekkerman ve van Roomen 1993). Sonbahar geçişi ise temmuz sonundan ekim ortasına hatta daha çok ekim başına kadar gerçekleşir, ağustos sonu ile eylül ortası arasında zirve yapar.
+
+![](images/harita_Page_277.png)
 
 **Üreme**
 
-Açık alanlardaki yüksek ve izole çalılar, çit bitkileri, meyve bahçeleri, zeytinlikler ve açık ağaçlık alanlarda ürer. Bir ağaçta ya da çalıda, 1,5-2,5 m yükseklikte (8 yuvada) yuva yapar. Muhtemelen kısıtlı veri nedeniyle yüksekte hiç yuva kaydedilmemiştir, oysa İspanya'da 8 m'ye kadar yuvalar olağandır. Kökler, otlar ve diğer bitkisel malzemeden kâse şeklinde yaptığı yuvasını yün, kıl ve tüylerle kaplar. Türkiye'de gözlenen yumurta sayısı 4--7, çoğunlukla 5--7 (12 yuvada). Yavru sayısı: 4 (1 yuvada), 6 (1 yuvada). **EGE.** 1950-51'de İzmir ve Manisa çevresinde çoğunlukla [@mcneile1950] tarafından kırktan fazla yuva bulunmuş, nisan ortasında yuva yapımı gözlenmiş, en tamamlanmış kuluçkalar en erken 20 Nisan'dan mayıs boyunca ve geç 3 Haziran'da kaydedilmiş, çoğunlukla büyümüş yavrular mayıs sonunda ve tüylenmiş yavrular 20 Haziran'dan itibaren gözlenmiştir ([@mcneile1950], PC, Selous 1900); 22 Haziran 1966'da Menemen tepelerinde ve 30 Haziran 1966'da Marmara Gölü'nde tüylenmiş yavrular gözlenmiştir. **GDA.** 9-17 Mayıs 2004'te Durnalık'ta boş ama yumurtlamaya hazır üç yuva bulunmuş, 2 Haziran 2001'de aynı yerde yeni yumurtadan çıkmış bir yavru ve 7 Haziran 2006'da başka bir yuvada yarı gelişmiş altı yavru görülmüştür. 11 Mayıs 2004'te Birecik'te boş ancak yumurtlamaya hazır bir yuva bulunmuştur. 9 Haziran'dan sonra çoğunlukla Gaziantep civarında yeni tüylenmiş yavrular kaydedilmiştir. **AKD.** 14 Mayıs'ta Karataş'ta beş yumurtalı bir yuva bulunmuş, 5-6 Temmuz 1992'de Antalya yakınlarında tüylenmiş bir yavru kaydedilmiştir. **DOA.** 19 Mayıs 2005'te Malatya'da kuluçkada olan bir çift gözlenmiştir. **MAR.** 21 Haziran 1973'te Vize'de, 27 Mayıs 1967'de Susurluk'ta ve 27 Haziran 1973'te Ezine'de yavrularını besleyen erişkinler gözlenmiştir.
+Çoğunlukla yol kenarlarında ağaçların ve baltalıkların olduğu açık alanlarda ve seyrek çalıların ve izole ağaçların içinde ürer. Muhtemelen mevcut ağaçların boyuna bağlı olarak çok çeşitli yüksekliklerde yuva yapar. Örneğin, Karadağ'da (İç Anadolu), dikenli bir çeşit armut ağacında bulunan altı yuva yerden 1,5-2,8 m yükseklikteyken (Ramsay 1914) Erçek gölü yakınlarında kavak ağaçlarında bulunan üç yuva yerden 5 metre, 12 m ve 12 m yüksekliktedir. İnce dallar, bitki sapları ve kökçüklerden kâse şeklinde yaptığı yuvasını tüyler, kökler, kıllar ve yünle kaplar. Türkiye'de gözlenen yumurta sayısı 4 (1 yuvada), 5 (5 yuvada), 7 (1 yuvada). Yavru sayısı hakkında hiç kayıt yoktur, ancak tüylenmiş yumurta sayısı çoğunlukla 4-5 olur. **İÇA.** 27-29 Mayıs 1907'de Karadağ'da her biri beş taze yumurtalı beş yuva bulunmuş ve 21 Haziran 1907'de yuva yapımı gözlenmiş (Ramsay 1914), 10 Haziran 1998'de Karapınar yakınlarında yumurtlamanın 21 Mayıs'ta olduğunu gösterecek şekilde içinde çatlayan yumurtalar olan bir yuva bulunmuş, 1 Haziran 1972'de Karadağ'da 1500 m'de dört yumurtalı bir yuva ve 7 Haziran 1971'de Ulukışla yakınlarında bir zeytin ağacında kullanılan bir yuva bulunmuştur. 24 Temmuz 1971'de Karadağ'da yeni tüylenmiş yavrularıyla birlikte iki çift gözlenmiştir ve 22 Haziran 1973'te Ankara yakınlarında yeni tüylenmiş yavrusuyla bir çift kaydedilmiştir. 3 Temmuz 1989'da Madenşehir yakınlarında 4-5 yavrusunu besleyen iki erişkin gözlenmiştir. **AKD.** 29 Mayıs 1991'de Akseki'de yuva yapımı gözlenmiştir, 12 Haziran 1973'te Pınarbaşı'nda yedi yumurtalı bir yuva bulunmuş ve 1-3 Ağustos 1971'de birkaç aile grubu gözlenmiştir. **DOA.** 2 ve 11 Haziran 2001'de Erçek Gölü yakınlarında üç yuvada kuluçkada erişkinler gözlenmiştir.
 
 **Alttürler ve Sınıflandırma**
 
-Trakya ve Marmara'daki diğer yerlerde ve Ege boyunca güneyde Bodrum civarına kadar nominat senator ve Hatay'ın doğusunda kuzeyde Kars'a kadar niloticus bulunur. Akdeniz'deki ve Ege'nin güneybatı ucundaki durumu belirsizdir ve özellikle Akdeniz'den çok az veri vardır. Göksu Deltası'ndaki kuşların niloticus olması muhtemeldir. Akdeniz'de, belki de sadece göç zamanı olmak üzere senator alttürünün de güvenilir bir şekilde kaydedilmiş olmasına rağmen niloticus alttürü bölge boyunca görülebilir. Marmara ve Ege'deki bazı bireylerin orta kuyruk teleklerinin dibinde biraz beyazlık vardır, ancak bu genellikle niloticus alttüründen çok daha sınırlıdır.
+Monotipik bir türdür.
 
 ## Maskeli Örümcekkuşu
 
@@ -172,25 +172,23 @@ Zeytinlikler ve meyve bahçeleri dâhil yaprak döken ve ibreli ormanların kena
 
 Monotipik bir türdür.
 
-## Sarıasma
+## Kızıl Başlı Örümcekkuşu
 
-*Oriolus oriolus*, Eurasian Golden Oriole
+*Lanius senator*, Woodchat Shrike
 
 ***Yaygın ve çok sayıda bulunan yaz göçmeni ve geçit türüdür.***
 
-Muhtemelen Karadeniz ve Trakya'da çok bol bulunur. Yaprak döken ormanlarda ve hatta küçük kavaklıklarda bile bulunur. Üreyen bireylerle geç göçmenleri ayırt etmek zor olduğu için üreme alanını tanımlamak kolay değildir. Nehir vadileri, açık ormanların olduğu ovalar, plantasyonlar ve özellikle kavak ve meşe, nadiren de çınar ve huş olmak üzere yaprak döken baltalıklarda ürer. Batı ve Orta Anadolu'da 0--1200 m'de ve Doğu Anadolu'da 2200 m'ye kadar bulunur. Ağaç olmayan bozkırlarda ve dağlık alanlarda üremez.
+Ege'de, daha lokal olarak Marmara'da, daha az sayıda Akdeniz'de, İç ve Doğu Anadolu'nun Akdeniz'e komşu bölgelerinde ve bol olarak Güneydoğu Anadolu'nun büyük bölümünde ürer. Diğer yerlerde muhtemelen çok lokal olarak üreyen bir türdür. Genellikle çok çeşitli ova habitatında, özellikle narenciye bahçeleri ve zeytinlikler olmak üzere tarımsal alanlardaki çalılık ve yarı ağaçlık alanlarda mayıs başından itibaren ürer. Marmara ve Ege'de deniz seviyesinden 800 m'ye kadar, Akdeniz'de 1200 m'ye kadar ve Doğu ve Güneydoğu Anadolu'da 500- 2000 m'de ürer ([@roselaar1995]). Geçiş sırasında özellikle ilkbaharda daha bol ve yaygındır. İlkbaharda çoğunlukla nisan ortasında geçiş yapar, mart ortası ile mayıs başına kadar kaydedilir. Sonbaharda ise ağustos başı ve ekim sonu arasında kaydedilmiş olup yoğun olarak eylül ayında geçiş yapar. Sonbahar geçişi daha seyrektir.
 
-Geçiş sırasında daha yaygın ve sayıca fazladır. İlkbahar geçişi mayısta en yoğundur; nisan ortasından itibaren kaydedilir. Kumerloeve (1970a) 2 Nisan'daki bir kayıttan bahsetmektedir. İlkbahar geçişi en azından kuzeyde ciddi olarak haziran başına kadar devam edebilir. Sonbaharda nispeten azdır; sonbahar göçü İstanbul Boğazı'nda açıkça ağustos sonu ile eylül ortasında zirve yapar ve genellikle eylül sonunda tamamlanır, Kızılırmak Deltası'nda 15 Ekim tarihli geç bir kayıt vardır.
-
-![](images/harita_Page_282.png)
+![](images/harita_Page_280.png)
 
 **Üreme**
 
-Açık genellikle yaşlı ve yaprak döken ormanlarda ve özellikle nehir boylarında ve göl kenarlarında olmak üzere yerlerde kavaklarda ve söğütlerde ürer. Bazıları nisan sonunda çoğunlukla mayısta üreme alanı tutar. 1992'de Yörükler Ormanı'nda (Kızılırmak Deltası) en yüksek sayılar mayıs ortasında kaydedilmekle birlikte nisan ortasından itibaren görülmeye başlanmış ve haziran başında bile yeni alanı kurulmuş, 8 Mayıs'tan itibaren yuva yapımı gözlenmiş, üreme yoğunluğu ortalama 0,25 alan/ha ve en yüksek 0,55 alan/ha olarak hesaplanmıştır [@hustings1994]. **MAR.** Kocaçay Deltası'nda açık alüvyonlu ormandaki yaşlı ağaçları tercih eder. 1993'te 31 hektarlık bir alanda 0,3 öten erkek kaydedilmiştir (Ertan 1996). Genellikle bir ağacın yüksekteki yatay dalları arasında otlardan kâse şeklinde bir yuva yapar. Türkiye'de yumurta sayısı kaydedilmemiştir, ancak diğer yerlerde 3-4 (6'ya kadar) olur. KAD. 15 Temmuz 1971'de Kızılırmak Deltası'nda, yumurtlamanın 12 Haziran'da olduğunu gösterecek şekilde yeni tüylenmiş bir yavrunun erişkinler tarafından beslendiği gözlenmiştir [@dijksen1985]. **DOA.** Gelinkaya'da yol kenarındaki kavaklarda yerden 15 m yüksekte bir yuva bulunmuş ve bu yuvada 23-25 Haziran 2004'te dişinin kuluçkada olduğu gözlenmiştir. **İÇA.** 17 Mayıs 1998'de Ankara yakınlarında yuva yapımı gözlenmiştir. 2004 yılında Hasan Dağı'nda yerden 5 m yüksekte bir yuva bulunmuştur. Birçok çift mayıs ortası ile sonunda yumurtluyor gibi görünmektedir.
+Açık alanlardaki yüksek ve izole çalılar, çit bitkileri, meyve bahçeleri, zeytinlikler ve açık ağaçlık alanlarda ürer. Bir ağaçta ya da çalıda, 1,5-2,5 m yükseklikte (8 yuvada) yuva yapar. Muhtemelen kısıtlı veri nedeniyle yüksekte hiç yuva kaydedilmemiştir, oysa İspanya'da 8 m'ye kadar yuvalar olağandır. Kökler, otlar ve diğer bitkisel malzemeden kâse şeklinde yaptığı yuvasını yün, kıl ve tüylerle kaplar. Türkiye'de gözlenen yumurta sayısı 4--7, çoğunlukla 5--7 (12 yuvada). Yavru sayısı: 4 (1 yuvada), 6 (1 yuvada). **EGE.** 1950-51'de İzmir ve Manisa çevresinde çoğunlukla [@mcneile1950] tarafından kırktan fazla yuva bulunmuş, nisan ortasında yuva yapımı gözlenmiş, en tamamlanmış kuluçkalar en erken 20 Nisan'dan mayıs boyunca ve geç 3 Haziran'da kaydedilmiş, çoğunlukla büyümüş yavrular mayıs sonunda ve tüylenmiş yavrular 20 Haziran'dan itibaren gözlenmiştir ([@mcneile1950], PC, Selous 1900); 22 Haziran 1966'da Menemen tepelerinde ve 30 Haziran 1966'da Marmara Gölü'nde tüylenmiş yavrular gözlenmiştir. **GDA.** 9-17 Mayıs 2004'te Durnalık'ta boş ama yumurtlamaya hazır üç yuva bulunmuş, 2 Haziran 2001'de aynı yerde yeni yumurtadan çıkmış bir yavru ve 7 Haziran 2006'da başka bir yuvada yarı gelişmiş altı yavru görülmüştür. 11 Mayıs 2004'te Birecik'te boş ancak yumurtlamaya hazır bir yuva bulunmuştur. 9 Haziran'dan sonra çoğunlukla Gaziantep civarında yeni tüylenmiş yavrular kaydedilmiştir. **AKD.** 14 Mayıs'ta Karataş'ta beş yumurtalı bir yuva bulunmuş, 5-6 Temmuz 1992'de Antalya yakınlarında tüylenmiş bir yavru kaydedilmiştir. **DOA.** 19 Mayıs 2005'te Malatya'da kuluçkada olan bir çift gözlenmiştir. **MAR.** 21 Haziran 1973'te Vize'de, 27 Mayıs 1967'de Susurluk'ta ve 27 Haziran 1973'te Ezine'de yavrularını besleyen erişkinler gözlenmiştir.
 
 **Alttürler ve Sınıflandırma**
 
-Monotipik bir türdür.
+Trakya ve Marmara'daki diğer yerlerde ve Ege boyunca güneyde Bodrum civarına kadar nominat senator ve Hatay'ın doğusunda kuzeyde Kars'a kadar niloticus bulunur. Akdeniz'deki ve Ege'nin güneybatı ucundaki durumu belirsizdir ve özellikle Akdeniz'den çok az veri vardır. Göksu Deltası'ndaki kuşların niloticus olması muhtemeldir. Akdeniz'de, belki de sadece göç zamanı olmak üzere senator alttürünün de güvenilir bir şekilde kaydedilmiş olmasına rağmen niloticus alttürü bölge boyunca görülebilir. Marmara ve Ege'deki bazı bireylerin orta kuyruk teleklerinin dibinde biraz beyazlık vardır, ancak bu genellikle niloticus alttüründen çok daha sınırlıdır.
 
 ## Alakarga
 
@@ -368,6 +366,24 @@ Türkiye'de yuvalamaz.
 
 Somali yarımadasında bulunan edithae formu tür seviyesinde değerlendirilirse (Madge ve Burn 1994) türün monotipik olduğu söylenebilir.
 
+## Kısa Kuyruklu Kuzgun
+
+*Corvus rhipidurus*, Fan-tailed Raven
+
+***Rastlantısal konuktur.***
+
+22 Mart 2005 tarihinde Belen Geçidi'nde bir bireyin kaydedilmiş ve türle ilgili tecrübeli gözlemciler tarafından çok iyi tanımlanmıştır. Kısa kuyruklu kuzgun İsrail ve Ürdün'de ürer, fakat Lübnan'dan da bilinen kaydı yoktur (Ramadan-Jaradi ve Ramadan-Jaradi 1998). 1975 senesinde Suriye'de Palmyra'daki bir kaydı diğer yazarların dikkatinden kaçmıştır (Baumgart vd. 1995; Serra vd. 2005).
+
+![](images/harita_Page_293.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz.
+
+**Alttürler ve Sınıflandırma**
+
+Gözlenen kuşun alttürü tespit edilmemiş, fakat Türkiye'ye ulaşan alttürün coğrafi yayılışı nedeniyle stanleyi alttürü olması kuvvetle muhtemeldir.
+
 ## Kuzgun
 
 *Corvus corax*, Northern Raven
@@ -386,20 +402,4 @@ Somali yarımadasında bulunan edithae formu tür seviyesinde değerlendirilirse
 
 Roselaar (1995) laurencei alttürünün Ege, Akdeniz ve İç Anadolu bölgelerinde nominat corax Kuzeydoğu Anadolu'da, Karadeniz ve Marmara boyunca, oradan da Van'ın güneyine kadar yayılış gösterir. Roselaar (1995) hepsi Kuzeydoğu Anadolu'dan toplanmış (Rize, Verçenik) toplam üç tahnit incelemiştir. Bu coğrafi varyasyonun alttür seviyesinde tanımlanması tartışmaya çok açıktır. Ne Vaurie (1959a) ne de Madge ve Burn laurencei alttürünü kabul etmiştir.
 
-## Kısa Kuyruklu Kuzgun
-
-*Corvus rhipidurus*, Fan-tailed Raven
-
-***Rastlantısal konuktur.***
-
-22 Mart 2005 tarihinde Belen Geçidi'nde bir bireyin kaydedilmiş ve türle ilgili tecrübeli gözlemciler tarafından çok iyi tanımlanmıştır. Kısa kuyruklu kuzgun İsrail ve Ürdün'de ürer, fakat Lübnan'dan da bilinen kaydı yoktur (Ramadan-Jaradi ve Ramadan-Jaradi 1998). 1975 senesinde Suriye'de Palmyra'daki bir kaydı diğer yazarların dikkatinden kaçmıştır (Baumgart vd. 1995; Serra vd. 2005).
-
-![](images/harita_Page_293.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Gözlenen kuşun alttürü tespit edilmemiş, fakat Türkiye'ye ulaşan alttürün coğrafi yayılışı nedeniyle stanleyi alttürü olması kuvvetle muhtemeldir.
+## 

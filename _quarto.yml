@@ -10,11 +10,13 @@ book:
   date: "2024-10-04"
   chapters:
     - index.qmd
+    - 00_turkiye_ornitoloji_tarihi.qmd
+    - 00_bilgi_bosluklari.qmd
     - 01_ordekgiller.qmd
     - 02_tavukgiller.qmd
     - 03_deniz-ve-gol-kuslari.qmd
     - 04_yirticilar.qmd
-    # - 05_bataklik-kuslari.qmd
+    - 05_bataklik-kuslari.qmd
     # - 06_cilibitlar.qmd
     # - 07_cullukgiller.qmd
     # - 08_martilar.qmd
