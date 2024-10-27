@@ -7,9 +7,10 @@ book:
   # repo-actions: [edit, issue]
   title: "Türkiye Kuşları"
   author: "Kerem Ali Boyla, Guy Kirwan, Barbaros Demirci, Hilary Welch, Metehan Özen, Peter Castell, Tim Marlow"
-  date: "2024-10-04"
+  date: "2024-10-18"
   chapters:
     - index.qmd
+    - 00_onsoz.qmd
     - 00_turkiye_ornitoloji_tarihi.qmd
     - 00_bilgi_bosluklari.qmd
     - 01_ordekgiller.qmd
@@ -34,7 +35,7 @@ book:
     - references.qmd
 
 bibliography: references.bib
-csl: mammal-review.csl
+csl: journal-of-zoology.csl
 
 format:
   html:
@@ -42,10 +43,13 @@ format:
       sidebar-width: 180px
       margin-width: 180px
       # gutter-width: 1.5rem
-    theme: cosmo 
+    theme: cosmo
     number-depth: 1
   # pdf:
   #   documentclass: scrreprt
+  #   papersize: A4
+  #   fig-width: 600
+  #   error: true
   # epub:
   #   toc: true
   #   lang: tr-TR

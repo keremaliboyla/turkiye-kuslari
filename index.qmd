@@ -1,28 +1,22 @@
 ## Kitap Hakkında {.unnumbered}
 
-Bu kitap 2008 yılında yayımlanan “The Birds of Turkey” kitabının geliştirilmiş bir sürümüdür. Metinler Türkçeye çevrilmiş ve uyarlanmış, en güncel gözlemler ve makalelerle zenginleştirilmiştir. Ülke listesindeki bütün türlerin mevcut durumu, coğrafi yayılışı, göç hareketleri, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
+Türkiye'de yabani olarak yaşayan tüm kuş türlerinin mevcut durumu, coğrafi yayılışı, göç hareketleri, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır. Bu kitap aynı yazarlar tarafından 2008 yılında yayımlanan “The Birds of Turkey” kitabının geliştirilmiş bir sürümüdür.
 
 ## Kitabın İçeriği
 
-Kitap 18 fasikülden oluşmaktadır. Fasiküller tamamlandıkça peyderpey kitaba eklenecektir. Tamamlanan fasiküller **kalın** olarak işaretlenmiştir:
+Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir:
 
-[**Ördekgiller**](https://keremaliboyla.github.io/turkiye-kuslari/01_ordekgiller.html) **- [Tavukgiller](https://keremaliboyla.github.io/turkiye-kuslari/02_tavukgiller.html) - [Deniz ve Göl Kuşları](https://keremaliboyla.github.io/turkiye-kuslari/03_deniz-ve-gol-kuslari.html) - [Yırtıcılar](https://keremaliboyla.github.io/turkiye-kuslari/04_yirticilar.html) -** Bataklık ve Kır Kuşları - Cılıbıtgiller - Çullukgiller - Martılar - Kara Kuşları - Papağanlar, Ağaçkakanlar ve Doğanlar - Kargamsılar - Ötleğenimsiler: Toygarlar - Ötleğenimsiler: Çıvgınler - Ötleğenimsiler: Ötleğenler - Tırmaşığımsılar - Sinekkapanımsılar - Serçemsiler: İncirkuşugiller, Dağbülbülleri ve Serçeler - Serçemsiler: İspinozlar ve Çinteler
+[Ördekgiller](https://keremaliboyla.github.io/turkiye-kuslari/01_ordekgiller.html) - [Tavukgiller](https://keremaliboyla.github.io/turkiye-kuslari/02_tavukgiller.html) - [Deniz ve Göl Kuşları](https://keremaliboyla.github.io/turkiye-kuslari/03_deniz-ve-gol-kuslari.html) (18 Ekim) - [Yırtıcılar](https://keremaliboyla.github.io/turkiye-kuslari/04_yirticilar.html) (25 Ekim) - Bataklık ve Kır Kuşları - Cılıbıtgiller - Çullukgiller - Martılar - Kara Kuşları - Papağanlar, Ağaçkakanlar ve Doğanlar - Kargamsılar - Ötleğenimsiler: Toygarlar - Ötleğenimsiler: Çıvgınler - Ötleğenimsiler: Ötleğenler - Tırmaşığımsılar - Sinekkapanımsılar - Serçemsiler: İncirkuşugiller, Dağbülbülleri ve Serçeler - Serçemsiler: İspinozlar ve Çinteler
 
-## Neden Dijital Bir Kitap?
+## Hazırlayanlar
 
-Diğer yandan, yazarın internet dünyasında açık kaynak dijital yayıncılıkla tanışması, kitabın yayımlanması için yeni bir umut oldu. Kitabın, R programlama dili ve Quarto dijital yayıncılık sistemi ile yayımlanmasına karar verildi. Bu yeni kitabın basılı bir yayın yerine açık kaynak dijital formatta yayımlanmasının nedenleri şu şekilde sıralanabilir:
+**Editör ve Yayına Hazırlayan**: Kerem Ali Boyla
 
--   Açık kaynak dijital kitap, hem ücretsiz hem de kuşlarla ilgilenen herkesin erişimine açıktır. Tablet, bilgisayar veya cep telefonundan rahatça okunabilir.
+**Yazarlar**: Kerem Ali Boyla, Guy Kirwan, Peter Castell, Barbaros Demirci, Metehan Özen, Hilary Welch ve Tim Marlow
 
--   Ornitoloji gibi dinamik bir alanda basılan kitaplar daha yayımlanmadan güncelliğini kaybedebilir. Kuş gözlemcilerinin eBird’e eklediği kayıtlar ve fotoğraflar sayesinde tür listesi, yayılış haritaları ve mevcut durum bilgileri hızla güncellenebilir.
+**Katkı Koyanlar**: Güneşin Aydemir, Sancar Barış, Bahtiyar Kurt, Gernant Magnin, Richard F. Porter ve Geoff Welch
 
--   Kuşlar konusunda araştırma yapan akademisyenler, uzmanlar ve amatörler GitHub üzerinden metni doğrudan düzenleyebilir. Kitabın yazılışı bir kitle çalışmasına dönüşebilir.
-
--   Basılı kitaplar sayfa sınırıyla kısıtlanırken, dijital kitaplarda böyle bir sınırlama yoktur.
-
--   Dijital kitap, içerik tamamlanmadan da fasiküller halinde yayımlanabilir.
-
-Kitap [Quarto publishing system](https://quarto.org/) ile hazıranmıştır.Kitabın Tarihçesi
+**Çevirmenler**: Özge Keşaplı Can, Özgür Keşaplı Didrickson, Önder Cırık, Ömer Döndüren, Utku Perktaş, Kuzey Cem Kulaçoğlu, Bahtiyar Kurt (Türkiye Ornitoloji Tarihi), Sancar Barış (Bilgi Boşlukları).
 
 ## Düzeltme Önerileri
 
@@ -30,26 +24,10 @@ Metindeki yazım hataları, eksik bilgiler veya düzeltme önerilerinizi yazarı
 
 ## Telif Hakkı
 
+Kitap [Quarto publishing system](https://quarto.org/) ile hazıranmıştır.
+
 Bu kitap [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) ile lisanslanmıştır. Kitabının tüm hakları yazarlarına aittir. Bu, kitabın kopyalanması, dağıtılması, sergilenmesi, ve eserden türetilmiş çalışmaların oluşturulması dahil olmak üzere birçok faaliyeti serbest bırakır, ancak eser üzerindeki orijinal yazarları belirtmeniz şarttır.
 
 Boyla, K.A. (2024) Türkiye Kuşları. <https://keremaliboyla.github.io/turkiye-kuslari/>
 
-## Kitabın Tarihçesi
-
-Bu kitap, 2008 yılında yayımlanan "The Birds of Turkey" kitabının Türkçeye çevrilmesi düşüncesiyle yola çıktı. İngilizce ornitoloji alanında en çok yayının üretildiği, teknik terimlerin oturduğu ve geliştiği bir dil. Çeviri taslakları hazırlanırken, İngilizcedeki yerleşmiş birçok kalıbın Türkçede tam karşılığının olmadığı ve çevirinin son derece zor olduğu ortaya çıktı. Ayrıca, ülkemizde kuş gözlemciliğinin yeni yaygınlaştığı göz önüne alındığında, metinlerin hedef kitle için fazla akademik bulunabileceği fark edildi. Bu nedenle, metnin tamamen gözden geçirilmesi zorunlu hale geldi.
-
-Kitabın okunabilirliğini artırmak için mevcut durum paragrafları ve vinyetler gibi okuyucu dostu unsurlar eklendi, haritalar renklendirildi ve geliştirildi. Kitabının yayımlanmasından bu yana geçen 15 yılda, kuş faunasında gözlenen değişimler ve kuş gözlemciliğinin artışıyla gelen yeni gözlemlerle metin ve haritalar güncellendi. Türkiye dışındaki bilimsel içerik çıkarıldı. Ve nihayet, her tür için bir fotoğraf eklenmesine karar verildi. Başlangıçta bir çeviri projesi olan bu çalışma, özgün içeriğe sahip yeni bir kitaba dönüştü.
-
-Ancak, bu revizyon süreci beklenenden çok daha uzun sürdü. Yazar, yayınevi ve editörle belirlenen takvimlere uyamadı, kişisel nedenlerle maratonu andıran bu yoğun çalışmaya yeterince zaman ayıramadı. Son yıllarda kağıt masraflarının artması ve kitabın 500 sayfaya ulaşması, basım kararından vazgeçilmesine yol açtı.
-
-### Daha Uzun Bir Hikayesi...
-
-Türkiye kuşları hakkında bugüne kadar çıkan en kapsamlı kaynak, 2008 yılında İngiliz ve Türk araştırmacılar tarafından yayımlanan "The Birds of Turkey" isimli yayın olmuştur.
-
-Türkiye'deki kuş gözlemciliğinin ve ornitolojinin ilerlemesi için iki kuş kitabını Türkçeye çevirdim. Yazarlarından biri olduğum bu değerli kaynağın da Türkçeye kazandırılması gerektiğini düşünerek 2010 yılında çeviri çalışmalarına başladım. Telif hakları alındı ve 9 kişilik bir ekip tüm metinleri tercüme etti. Bir yayınevi bulundu, ancak kitabın Türk okuyucusuna daha uygun hale getirilmesi gerektiği anlaşıldı. Haritaların renklendirilmesi, verilerin güncellenmesi, bazı taksonomik tartışmaların çıkarılması ve üreme biyolojisi bölümlerinin sadeleştirilmesi gibi kapsamlı revizyonlar yapıldı. Ayrıca, 12 kuş fotoğrafçısıyla bir fotoğraf arşivi oluşturuldu. Planlanan revizyonlar genişleyince, eserin yeni bir kitap olarak yayımlanmasına karar verildi. Ancak yayınevi, bu tür (renkli ve hacimli) kitapları basmama kararı alınca, edisyon süreci 2013 yılında durdu.
-
-2016 yılında büyük bir yayınevi ile yapılan görüşmeler sonucunda kitabın basılması tekrar gündeme geldi. Doğa tarihi konusunda tecrübeli bir editörle çalışıldı, metinler yeniden gözden geçirildi. Kitabın ilk maketi hazırlandı ve ilk bölümü yayına hazır hale getirildi. Geriye kalan işler yaklaşık 1-2 yıllık bir yoğun çalışma gerektiriyordu. Ancak, Türkiye’de yaşanan ve biz "endişeli modernlerin" fazlasıyla canını sıkan gelişmelerin etkisiyle ve kişisel nedenlerle metinlerin gözden geçirilmesine bir türlü girişemedim.2021'e kadar süren uzun bir duraksama döneminin ardından, artan kağıt fiyatları da göz önüne alınarak, kitabın basımından karşılıklı olarak vazgeçildi.
-
-2023 yılında R programlama dili ve Quarto, Bookdown gibi dijital yayımlama sistemleriyle tanıştığımda, kitabı dijital ortamda yayımlama fikri doğdu. Hem kağıt masrafları ortadan kalkıyordu hem de kuşlarla ilgili gelen yeni bilgiler anında güncellenebiliyordu. Metinler, haritalar ve fotoğraflar kolayca paylaşılabilir, eksikler ve hatalar okurlar tarafından düzeltilebilir, en güncel gözlemler anında eklenebilirdi. 2024 yılında metinler tekrar güncellenerek markdown diline çevrildi ve uygun bir şablon alındı. Kitabın tüm fotoğrafları, eBird sitesinden alınan kullanıma açık kodlarla yerleştirildi.
-
-Bugüne kadar bu çalışmada bana destek olan yüzlerce kişiye, başta "The Birds of Turkey" yazarları, metinleri tercüme edenler, NTV Yayınları ve İş Bankası Kültür Yayınları’ndaki editörler, kuş gözlemcileri, fotoğrafçılar, akademisyenler, arkadaşlarım, dostlarım ve aileme çok teşekkür ederim. Onlar olmasaydı bu noktaya gelemezdim.
+## 
