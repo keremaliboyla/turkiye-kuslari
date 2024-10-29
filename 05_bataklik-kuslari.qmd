@@ -8,11 +8,15 @@ title: "Bataklık Kuşları"
 
 ***Lokal olarak çok az sayıda olan yerli bir türdür.***
 
-Tür, yalnızca geniş ve ağaçsız alanlar ile tarımsal mozaik, yarı bozkır ve az insan baskısı olan, doğudaki 1800 m yüksekliklerde görülür. türün Türkiye'deki eski yayılışını ayrıntılarıyla belirtmektedir ve buna göre tür daha önceden tüm bölgelerde görülmektedir [@kasparek1989a]. Günümüzde de hala aynı bölgelerde mevcuttur ve tür için toplam 83 temel alan tanımlanmıştır. Bu alanların bazıları gerçekten geniş sahalardır. Bu alanlar eski üreme alanlarını içermektedir ve çoğunun şu an toyların sığınmasına uygun olmadığı bilinmektedir.
+Yakın zamana kadar, bu tür yalnızca geniş ve ağaçsız arazilerde, tarımsal mozaik alanlarda ve yarı bozkır bölgelerde, insan baskısının düşük olduğu ve 1800 metre yükseklikteki doğu bölgelerinde görülmüştür.
 
-Nüfus tahmini 764-1250 bireydir [@dogadernegi2004]. Popülasyonu tarımsal artış, avcılık, habitat kaybı ve değişimi nedeniyle uzun dönemli bir düşüş yaşamaktadır. Güneydoğu ve Doğu Anadolu'da ise, en azından eskiden, lokal olarak daha boldur. Ege, Marmara ve güney kıyı şeridinde sonbahardan ilkbahara kadar daha geniş bir alanda kaydedilirdi. Karadeniz Bölgesi'ndeki kayıtların çoğu göç dönemindendir.
+Türkiye'deki eski yayılışını detaylandıran bir çalışmaya göre, geçmişte tüm bölgelerde bulunmaktaydı [@kasparek1989a]. Çalışmada, tür için toplam 83 alan tanımlanmıştır. Ancak bu alanların birçoğu eski üreme alanları olup, günümüzde toyların sığınması için uygun olmadığı bilinmektedir.
 
-1980'lerin başlarında Güneydoğu Anadolu'nun sınır bölgelerinde hatırı sayılır rakamlarda kışladığı bilinmektedir [@goriup1985]. Ancak kışın bu bölgeden son zamanlara ait tek bir kayıt vardır (Aralık 2004). Bu bölgedeki yeni ve kapsamlı bir arazi çalışmasında bölgede üreme döneminde bulunduğuna dair çok az kanıt bulunabilmiştir [@kirwan2003; @welch2004gap; @karakas2005a]. Bazı büyük yoğunluklarının tamamı Türkiye'de üreyenlerden kaynaklanmaktadır ve aynı zamanda ülke dışından gelen bireylerin de katılımı olabilir. Karadeniz'den gelen göç ve göç geçişi ile ilgili bazı kanıtlar verilmiştir. 1980'lerin başında türün yaşamını devam ettirmesinin daha önce tahmin edilenden zor olacağını [@goriup1985] (1997 gibi yakın bir tarihte popülasyonun 800-3000 çift olduğu tahmin edilmektedir) ve Türkiye'nin türün yayılışında daha önemli merkezlerden biri olabileceğini ortaya koymalarına rağmen, daha taze veriler [@eken1999; @heunks2001; @heunks2002] son 20-30 yılda Türkiye'de toy sayısının ciddi bir şekilde azaldığını göstermektedir. Türün son sığınakları olan Murat Nehri Vadisi ve Bulanık civarlarında 2002 ilkbaharında 145 birey sayılmasına rağmen, Türkiye'nin doğusundaki popülasyonuyla ilgili ilk araştırma 20 yıl öncesine dayanan ve 2002'de üstlenilen bir çalışmadır ve buna göre tür için en önemli alanlardan Bulanık ve Muş'ta 251 birey saptanmıştır [@balmer2003].
+2000'li yıllarda popülasyonunun 764-1250 birey arasında olduğu tahmin edilmiştir [@dogadernegi2004]. Türün son sığınakları arasında sayılan Murat Nehri Vadisi ve Bulanık civarlarında, 2002 ilkbaharında 145 birey sayılmıştır. Türkiye’nin doğusundaki popülasyonun değerlendirildiği ve 2002 yılında yapılan bir çalışmaya göre, tür için en önemli alanlardan Bulanık ve Muş'ta 251 birey tespit edilmiştir [@balmer2003]. Ancak, tarımsal yayılma, avcılık, habitat kaybı ve değişimi nedeniyle popülasyonun uzun vadede azaldığı gözlenmektedir. Eskiden Güneydoğu ve Doğu Anadolu’da daha lokal olarak yaygınken, Ege, Marmara ve güney kıyı şeridinde sonbahardan ilkbahara kadar daha geniş bir alanda kaydedilmiştir.
+
+1997'ye yakın tarihlerde popülasyonun 800-3000 çift arasında olduğu tahmin edilmiştir. 1980’lerin başında Güneydoğu Anadolu'nun sınır bölgelerinde dikkate değer sayılarda kışladığı bilinmekteydi [@goriup1985]. Ancak bölgede yapılan yeni ve kapsamlı bir arazi çalışması, üreme döneminde türün varlığına dair çok az kanıt sunmuştur [@kirwan2003; @welch2004gap; @karakas2005a]. Ülkedeki yoğunlukların tümü yerli bireylerden oluşsa da, ülke dışından gelen bireylerin de katılımı olabileceği düşünülmektedir. Karadeniz Bölgesi’nden göç eden ya da bu bölgeden geçen bireyler hakkında da bazı kanıtlar bulunmaktadır.
+
+1980'lerin başında, türün varlığını sürdürebilmesinin zor olacağı tahmin edilmiştir [@goriup1985]. Sonraki veriler [@eken1999; @heunks2001; @heunks2002], Türkiye'deki toy sayısında son 20-30 yılda ciddi bir azalma yaşandığını göstermektedir.
 
 ![](images/harita_Page_112.png)
 
@@ -30,29 +34,31 @@ Türkiye'de nominat alttürü bulunur.
 
 ***Rastlantısal konuktuk. Üreyen nüfusu geçen yüzyılda tükenmiştir.***
 
-Yaklaşık 100 yıl sonra bir birey İç Anadolu'da bulunmuştur. 17 Aralık 2012'de Konya'nın Karapınar ilçesinden avcılar tarafından yaralı olarak bulunmuş, Selçuk Üniversitesi Veterinerlik Fakültesine getirilmiş, oradaki hocaların Dr. K. Erciyas'a danışmasıyla türü tespit edilmiştir. 28 günlük esareti sırasında tedavi ve rehabilite edildikten sonra 14 Ocak günü Dr. O. Onmuş tarafından sırtına verici takılarak serbest bırakıldı. Serbest bırakılan kuş birkaç metre uçabildi, ardından koşarak uzaklaştı. Ancak ertesi gün bir çakal tarafından öldürülmüş olarak bulundu. Görünüşe göre yaralanma nedeni avcıların attığı bir saçmanın göğsüne saplanmasıydı ve rehabilitasyon ve tedavisi sırasında göğüs kasındaki kurşun temizlenmemişti. Yaban hayatının rehabilitasyonu ülkemizde henüz başarılı olabildiğimiz bir alan değildir. Kuşun bulunduğu yerde kalabalık bağırtlak sürüleri ve toyları kışladığı tespit edilmiştir. Orta Asya'da üreyen ve az sayıda Orta Doğu ülkelerinde kışlayan bu tür Karapınar Ovası'nda düzenli kışlıyor olabilir.
+Yaklaşık 100 yıl aradan sonra ilk kez İç Anadolu'da bulunmuştur. 17 Aralık 2012'de Konya'nın Karapınar ilçesinde avcılar tarafından yaralı halde bulunan kuş, Selçuk Üniversitesi Veterinerlik Fakültesi’ne getirilmiştir. Fakülte hocalarının Dr. K. Erciyas’a danışması üzerine tür tanımlanmıştır. Kuş, 28 günlük tedavi ve rehabilitasyon sürecinin ardından, 14 Ocak’ta Dr. Ortaç Onmuş tarafından sırtına verici takılarak doğaya bırakılmıştır. Serbest bırakıldığında birkaç metre uçabilmiş, ardından koşarak uzaklaşmıştır; fakat ertesi gün bir çakal tarafından öldürülmüş olarak bulunmuştur. Yaralanmasının, avcıların göğsüne isabet ettirdiği bir saçmadan kaynaklandığı anlaşılmıştır ve tedavi sırasında göğüs kasındaki kurşun çıkarılamamıştır. Bölgedeki gözlemler, kuşun bulunduğu alanda bağırtlak ve toy sürülerinin kışladığını göstermiştir.
 
-İkinci kayıt, 1 birey Trabzon Akçaabat ilçesinde bitkin halde bulundudu sırtında verici olan halkalı bir birey. Ekim 20 tarihinde *B. Hatinoğlu* tarafından kaydedildi. Aynı birey daha sonra Baymurt, Balkaynak Köyü'nde 28 Ekim 20 tarihinde *B. Hatinoğlu, E. Yogurtcuoglu* salındı. Ancak Sonra kuşun Yozgat'ta Sorgun ilçesi Osmaniye Köyü'nde ölüsü bulundu [@ntv2020yakalitoy].\
+İkinci kayıt, Trabzon'un Akçaabat ilçesinde 20 Ekim 2020 tarihinde bitkin halde bulunan halkalı ve sırtında verici taşıyan bir bireye aittir. Sokakta göç yorgunu olarak bulunan bu bireyin bakımı kuş fotoğrafçısı Hakan Kahraman tarafından üstlenilmiş ve rehabilitasyonu tamamlanmıştır. Ardından, 28 Ekim 2020’de Bayburt’un Balkaynak Köyü’nde B. Hatinoğlu ve E. Yoğurtçuoğlu tarafından doğaya salınmıştır. Ancak iki gün sonra, Yozgat’ın Sorgun ilçesine bağlı Osmaniye Köyü kırsalında avcılar tarafından vurularak ölü bulunmuştur [@ntv2020yakalitoy].
 
-Üçüncü kez, 1 birey “Tigem/Muş/Muş Ovası” alanında (Muş) 17 Mart 21 tarihinde *A. S. Aloğlu, O. Aydin, F. Başbuğ, E. Biyikoğlu, E. Cengiz, M. Kocas, O. Çi̇çek, M. Çulcuoğlu* tarafından kaydedildi.
+Üçüncü kayıt, 2020 Aralık ayında Bitlis'te yaralı halde bulunan bir bireye aittir. Bu birey, tedavi için Van Yüzüncü Yıl Üniversitesi Hayvanları Koruma ve Rehabilitasyon Merkezi'ne getirildiğinde 550 gram ağırlığındaydı. Rehabilitasyon süreci sonunda ağırlığı yaklaşık 1,5 kilograma ulaştı. Sağlığına kavuşan kuş, 17 Mart 2021 tarihinde Muş Ovası'nda TİGEM sahasında doğaya salındı.
 
-Eski üreyen popülasyona ait kayıtlar 1912 veya daha öncesinde Kars civarından [@satunin1912] ve 1917 öncesinde Aras Vadisi'nde çok küçük bir popülasyondur [@glutzvonblotzheim1973]. eski Amik gölü yakınlarında 1910 yılında bulunan genç bir birey Aharoni tarafından muhafaza edilemediğini ve bu bölgede muhtemelen o yıllarda üremekte olduğunu aktarmıştır [@kumerloeve1963a]. 1981'de Türkiye'nin doğusunun uzak bölgelerinde üremesi için hala uygun habitatların olduğunu ve türün buralarda ara sıra kışlayabileceğini [@goriup1985].
+Eski üreyen popülasyona ait kayıtlar, 1912 yılı veya daha öncesinde Kars civarından gelmektedir [@satunin1912]. Ayrıca 1917 öncesinde Aras Vadisi'nde çok küçük bir popülasyonun bulunduğu belirtilmiştir [@glutzvonblotzheim1973]. 1910 yılında eski Amik Gölü yakınlarında bulunan genç bir bireyin, Aharoni tarafından muhafaza edilemediği, ancak bu bölgede muhtemelen o dönemde üreme faaliyetlerinin olduğu aktarılmıştır [@kumerloeve1963a]. 1981 yılında yapılan değerlendirmeler, Türkiye'nin doğusundaki uzak bölgelerde hala uygun üreme habitatlarının bulunduğunu ve türün buralarda ara sıra kışlayabileceğini öne sürmüştür [@goriup1985].
 
 ![](images/harita_Page_113.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Parçalı yayılış gösterir, batıda Sina (Mısır) ve doğuda Arabistan'dan Moğolistan'a kadar uzanır, kuzeyde üreyenler uzun mesafe göçmenidir.
 
 **Alttürler ve Sınıflandırma**
 
-Monotipik bir türdür. Eskiden yakalı toylar tek bir tür altında Chlamydotis undulata sınıflandırılıyordu. Yapılan moleküler analizler ve kur törenindeki farklara göre Kuzey Afrika'daki undulata ve Orta Asya'daki macqueenii alttürlerinin farklı türler olduğuna karar verilmiştir. Macqueenii'nin parçalı yayılışı Sina (Mısır) ve doğuda Arabistan'dan Moğolistan'a kadar uzanmaktadır ve kuzeyde üreyenler yıl içinde uzun mesafeli göç etmektedir.
+Monotipik bir türdür. Eskiden yakalı toylar tek bir tür altında *Chlamydotis undulata* sınıflandırılıyordu. Yapılan moleküler analizler ve kur törenindeki farklara göre Kuzey Afrika'da bulunan *undulata* ve Orta Asya'da bulunan *macqueenii* alttürlerinin farklı türler olduğuna karar verilmiştir.
 
 ## Mezgeldek
 
 *Tetrax tetrax*, Little Bustard
 
 ***Çok lokal ve nadir yaz konuğu, nispeten yaygın ancak nadir geçit türü ve kış konuğudur.***
+
+BURADA KALDIM
 
 İç Anadolu'da çok nadir ve lokal olarak yerli olmakla birlikte, türün mevcut durumu tam olarak kesin değildir. İç Anadolu'da 1998 yılında iki küçük üreme kolonisi bulunmuş [@eken1999] ve 2003 yılında farklı üç alanda kur davranışı ile uzun süreli kalma gözlenmiştir. Doğu Anadolu'da Muş yakınlarında ve Bulanık Ovası'nda sağlıklı bir popülasyon olduğu bulunmuştur. Buna karşın Güneydoğu Anadolu'da son yapılan kapsamlı arazi çalışmalarında bulunduğuna dair veri elde dilememiştir [@welch2004gap].
 
@@ -334,4 +340,4 @@ Daha az rahatsız edilecekleri geniş ve sığ bataklıklar, sıklıkla göllere
 
 **Alttürler ve Sınıflandırma**
 
-Monotipik bir türdür. Eskiden Türkiye, Güney Kafkasya ve Kuzey Asya popülasyonlarını lilfordi olarak kabul edilmiştir ([@roselaar1995]). Ermenistan'da tanımlanan archibaldi alttürü, Türkiye'de en azından Doğu Anadolu'daki popülasyonu da içermektedir [@lyashenko2011]. Ancak bu alttür henüz gerçek bir kabul görmemiştir.
+Monotipik bir türdür. Eskiden Türkiye, Güney Kafkasya ve Kuzey Asya popülasyonlarını *lilfordi* olarak kabul edilmiştir ([@roselaar1995]). Ermenistan'da tanımlanan *archibaldi* alttürü, Türkiye'de en azından Doğu Anadolu'daki popülasyonu da içermektedir [@lyashenko2011]. Ancak bu alttür henüz gerçek bir kabul görmemiştir.
