@@ -6,8 +6,8 @@ book:
   # repo-url: https://github.com/keremaliboyla/turkiye-kuslari
   # repo-actions: [edit, issue]
   title: "Türkiye Kuşları"
-  author: "Kerem Ali Boyla, Guy Kirwan, Barbaros Demirci, Hilary Welch, Metehan Özen, Peter Castell, Tim Marlow"
-  date: "2024-10-18"
+  # author: "Kerem Ali Boyla, Guy Kirwan, Barbaros Demirci, Hilary Welch, Metehan Özen, Peter Castell, Tim Marlow"
+  # date: "2024-10-18"
   chapters:
     - index.qmd
     - 00_onsoz.qmd

@@ -1,8 +1,10 @@
 ## Kitap Hakkında {.unnumbered}
 
-Türkiye'de yabani olarak yaşayan tüm kuş türlerinin mevcut durumu, coğrafi yayılışı, göç hareketleri, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır. Bu kitap aynı yazarlar tarafından 2008 yılında yayımlanan “The Birds of Turkey” kitabının geliştirilmiş bir sürümüdür.
+Türkiye'de tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
 
 Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir: [Ördekgiller](https://keremaliboyla.github.io/turkiye-kuslari/01_ordekgiller.html) - [Tavukgiller](https://keremaliboyla.github.io/turkiye-kuslari/02_tavukgiller.html) - [Deniz ve Göl Kuşları](https://keremaliboyla.github.io/turkiye-kuslari/03_deniz-ve-gol-kuslari.html) (18 Ekim) - [Yırtıcılar](https://keremaliboyla.github.io/turkiye-kuslari/04_yirticilar.html) (25 Ekim) - [Bataklık ve Kır Kuşları](https://keremaliboyla.github.io/turkiye-kuslari/05_bataklik-kuslari.html) (13 Kasım)- Cılıbıtgiller - Çullukgiller - Martılar - Kara Kuşları - Papağanlar, Ağaçkakanlar ve Doğanlar - Kargamsılar - Ötleğenimsiler: Toygarlar - Ötleğenimsiler: Çıvgınler - Ötleğenimsiler: Ötleğenler - Tırmaşığımsılar - Sinekkapanımsılar - Serçemsiler: İncirkuşugiller, Dağbülbülleri ve Serçeler - Serçemsiler: İspinozlar ve Çinteler
+
+Bu kitap aynı yazarlar tarafından 2008 yılında yayımlanan “The Birds of Turkey” kitabının geliştirilmiş bir sürümüdür.
 
 **Editör ve Yayına Hazırlayan**: Kerem Ali Boyla
 
