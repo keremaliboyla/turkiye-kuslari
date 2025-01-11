@@ -247,3 +247,89 @@ Geçmişte özellikle Hatay ve Doğu Karadeniz kıyı şeridi gibi bölgelerde o
 **Alttürler ve Sınıflandırma**
 
 Türkiye'nin güneyi boyunca *cypriotes* alttürü görülmektedir. Kuzeyde *kleini* ve Doğu Akdeniz bölgesine özgü *sinaica* alttürünün etkili olduğu bölgede, Güneydoğu Anadolu'da *kurdestanica* alttürü bulunmaktadır. Tür içerisindeki coğrafi varyasyon konusu ile ilgili kesin bir çıkarım yapılamamıştır; ancak gözlemlenen formların tamamı, güçlü bir şekilde gradient ile birlikte belirgin klinal yapı göstermektedir [@madge2002].
+
+## Toy
+
+*Otis tarda*, Great Bustard
+
+***Lokal olarak çok az sayıda olan yerli bir türdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/209373821/embed" height="541" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
+İç Anadolu ve Doğu Anadolu’da lokal olarak çok az sayıda bulunur. Bilinen üreme alanları, geniş ve ağaçsız araziler, tarımsal mozaik alanlar ve yarı bozkır bölgeler olup insan baskısının düşük olduğu ve 1800 metre yükseklikteki doğu bölgelerinde görülür. Bugün popülasyonu 10’dan az alanda bulunmakta olup bu alanlar arasında devlet üretme çiftlikleri önemli popülasyonu barındırmaktadır. Tarımsal yayılma, avcılık, habitat kaybı ve değişimi nedeniyle popülasyonun uzun vadede azaldığı gözlenmektedir. Mevcut gidişat devam ederse soyunun tükenme tehlikesi yüksek bir olasılıktır.
+
+Türkiye’deki eski yayılışını detaylandıran bir çalışmaya göre, geçmişte tüm bölgelerde bulunmaktaydı [@kasparek1989a], bu çalışmada tür için toplam 83 alan tanımlanmıştır. 1980’lerin başında, türün varlığını sürdürebilmesinin zor olacağı tahmin edilmiştir [@goriup1985]. Sonraki veriler [@eken1999; @heunks2001; @heunks2002], Türkiye’deki toy sayısında son 20-30 yılda ciddi bir azalma yaşandığını göstermektedir. 2000’li yıllarda popülasyonunun 764-1250 birey arasında olduğu tahmin edilmiştir [@dogadernegi2004]. Murat Nehri Vadisi ve Bulanık civarında, 2002 ilkbaharında 145 birey sayılmıştır. Doğu Anadolu popülasyonunun belkemiğini oluşturan Bulanık ve Muş Ovası'nda toplam 251 bireyin olduğu tespit edilmiştir [@balmer2003]. Güneydoğu Anadolu’da ürediği yüksek bir olasılık olarak değerlendirilse de, 2004 yılında bölgede yapılan kapsamlı arazi çalışması sonucunda bölgede artık üremediği ortaya çıkmıştır [@kirwan2003; @welch2004gap; @karakas2005a]. 1997’ye yakın tarihlerde popülasyonun 800-3000 çift arasında olduğu tahmin edilmiştir. 1980’lerin başında Güneydoğu Anadolu'nun sınır bölgelerinde dikkate değer sayılarda kışladığı bilinmektedir [@goriup1985].
+
+Ülkedeki popülasyonun çoğunluğu yerli bireylerden oluşsa da az sayıda göç almaktadır. Güneydoğu Anadolu’da kışlayan bireylerin ise Karadeniz’in kuzeyinden geldiği düşünülmektedir. Ege, Marmara ve güney kıyı şeridinde sonbahardan ilkbahara kadar daha geniş bir alanda kaydedilmiştir.
+
+![](images/harita_Page_112.png)
+
+**Üreme**
+
+**Yuvalama alanı:** Genellikle geniş, açık ve ağaçsız alanlar, büyük tarım alanları, nadasa bırakılmış tarlalar ve çayırlarda yuvalar. Sivrihisar'ın güneybatısındaki Aliken’de 45 erişkinin bulunduğu önemli bir arazinin %50'si buğday ve arpa tarlalarından, %40'ı nadas alanlarından ve %10'u taşlık bozkırdan oluşmaktadır. Kütahya civarındaki Altıntaş Ovası’nda, tahıl arazilerinin neredeyse yarısı her yıl nadasa bırakılmakta olup burada türün her yıl ürediği teyit edilmektedir [@magninyarar1997].\
+**Yuvası:** Derin olmayan, çevrelenmemiş bir çukur şeklindedir ve genellikle kısa, seyrek bitki örtüsü içinde ya da gelişen mısır veya otlar arasında bulunur. Türkiye’de yuva yapısına dair ayrıntılı bilgi bulunmamakla birlikte, diğer bölgelerde sade bir yapıdadır.\
+**Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı tanımlanmamıştır; başka bölgelerde genellikle 2-3 (nadiren 4) yumurta ile kuluçkaya yatar.\
+**Üreme dönemi:** Nisan ortasından ağustos ortasına kadar sürer. **AKD.** 9-11 Mayıs 1899'da Acıgöl yakınlarında kalmıştır [@selous1900]. Bu sürede yuva bulamamış fakat taze bir yumurta kendisine getirilmiştir ve o bölgede kuvvetle muhtemel hala küçük bir popülasyon bulunmaktadır [@magninyarar1997]. **İÇA.** Tuz Gölü'nün doğu kıyısında 15 Nisan 1995'de erkeklerin ağaçsız tahıl tarlaları ve doğal bozkırlarda 2-6 bireylik gruplar veya tek olarak kur yaptığı belirlenmiştir; çiftleşme yalnızca bir kez gözlenmiştir [@heunks2002]. Kayseri ile Çorum arasında 8-14 Mayıs 1876’da yapılan bir yolculukta "talan edilmiş bir toy yuvası" gözlemlenmiştir [@danford1877]. 1972 ilkbaharında Tuz Gölü’ndeki bir adada martı kolonisinde bir toy yumurtası bulunmuştur. 27 Haziran 1951’de Çubuk Ovası’nda bir yavruyla dişi, 25 Nisan 1965’te Ereğli’de ve Mayıs 1969’da Tuz Gölü’nde kur davranışı gözlenmiştir [@kasparek1989a]. Tuz Gölü’nün doğu kıyısında 15 Nisan 1995’te kur davranışı kaydedilmiştir. **GDA** 14 Mayıs 1975’te Viranşehir’in batısında yanında yavrusu varmış gibi davranan bir dişi ve 14 Haziran 1983’te Batman yakınlarındaki Çöltepe’de orta boylu bir yavru ile dişi gözlenmiştir. **DOA.** 30 Mayıs 1992’de Bulanık’ta, içinde 6 kur yapan erkek ve bir genç dişi bulunan yaklaşık 30 bireylik bir grup gözlenmiştir. 7 Haziran 1987’de Hazar Gölü’nde Sivrice civarında bir yavru ve Van Gölü yakınlarında yavrusu varmış gibi davranan bir dişi kaydedilmiştir [@kasparek1989a]. Sodalı Göl’ün doğusunda üreme sezonunda 32’den fazla birey gözlenmiş ve burada ürediği teyit edilmiştir [@magninyarar1997].
+
+**Alttürler ve Sınıflandırma**
+
+Türkiye'de nominat alttürü bulunur.
+
+## Asya Yakalı Toyu
+
+*Chlamydotis macqueenii*, Macqueen's Bustard
+
+***Rastlantısal konuktuk. Üreyen nüfusu geçen yüzyılda tükenmiştir.***
+
+<iframe src="https://macaulaylibrary.org/asset/317900631/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
+Yaklaşık 100 yıl aradan sonra tekrar görülmüştür. İlk kayıt, 17 Aralık 2012’de Konya’nın Karapınar ilçesinde avcılar tarafından yaralı halde bulunan bir bireye aittir. Selçuk Üniversitesi Veterinerlik Fakültesi’ne getirilen bu kuş Dr. K. Erciyas’ın danışmanlığıyla tanımlanmıştır. 28 günlük tedavi ve rehabilitasyon sürecinin ardından 14 Ocak’ta Dr. Ortaç Onmuş tarafından sırtına verici takılarak doğaya bırakılmıştır. Serbest bırakıldığında birkaç metre uçabilmiş, ardından koşarak uzaklaşmıştır; ancak ertesi gün bir çakal tarafından ölü olarak bulunmuştur. Yaralanmasının göğsüne isabet eden bir avcı saçmasından kaynaklandığı ve göğüs kasındaki kurşunun tedavi sırasında çıkarılamadığı anlaşılmıştır. Kuşun bulunduğu alanda bağırtlak ve toy sürülerinin kışladığını öğrenilmiştir.
+
+İkinci kayıt, 20 Ekim 2020’de Trabzon’un Akçaabat ilçesinde bitkin halde bulunan, halkalı ve sırtında verici taşıyan bir bireye aittir. Sokakta göç yorgunu olarak bulunan bu bireyin bakımı kuş fotoğrafçısı Hakan Kahraman tarafından yapılmış, rehabilitasyonu tamamlanmıştır. 28 Ekim 2020’de Bayburt’un Balkaynak Köyü’nde doğaya salınan kuş, iki gün sonra Yozgat’ın Sorgun ilçesine bağlı Osmaniye Köyü kırsalında avcılar tarafından vurularak ölü bulunmuştur [@ntv2020yakalitoy].
+
+Üçüncü kayıt, 2020 Aralık ayında Bitlis’te yaralı halde bulunan bir bireyedir. Bu birey, tedavi için Van Yüzüncü Yıl Üniversitesi’ne getirildiğinde 550 gram ağırlığındaydı. Rehabilitasyon süreci sonunda ağırlığı yaklaşık 1,5 kilograma ulaşmıştır. Sağlığına kavuşan kuş, 17 Mart 2021’de Muş Ovası’nda TİGEM sahasında doğaya salınmış ve kuş fotoğrafçıları tarafından belgelenmiştir.
+
+Eski üreyen popülasyona ait kayıtlar, 1912 yılı veya daha öncesinde Kars civarından gelmektedir [@satunin1912]. Ayrıca 1917 öncesinde Aras Vadisi’nde çok küçük bir popülasyonun bulunduğu belirtilmiştir [@glutzvonblotzheim1973]. 1910 yılında Amik Gölü yakınlarında bulunan genç bir bireyin, Aharoni tarafından muhafaza edilemediği, ancak o dönemde bu bölgede muhtemelen üremenin olduğuna dair bilgiler aktarılmıştır [@kumerloeve1963a]. 1981 yılında yapılan değerlendirmeler, Doğu Anadolu'nun ücra bölgelerde hala hem uygun üreme habitatlarının bulunduğunu, hem de buralarda ara sıra kışlayabileceğini öne sürmüştür [@goriup1985].
+
+![](images/harita_Page_113.png)
+
+**Üreme**
+
+Türkiye'de yuvalamaz. Parçalı yayılış gösterir, batıda Sina (Mısır) ve doğuda Arabistan'dan Moğolistan'a kadar uzanır, kuzeyde üreyenler uzun mesafe göçmenidir.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür. Eskiden yakalı toylar tek bir tür altında *Chlamydotis undulata* sınıflandırılıyordu. Yapılan moleküler analizler ve kur törenindeki farklara göre Kuzey Afrika'da bulunan *undulata* ve Orta Asya'da bulunan *macqueenii* alttürlerinin farklı türler olduğuna karar verilmiştir.
+
+## Mezgeldek
+
+*Tetrax tetrax*, Little Bustard
+
+***Çok lokal ve nadir yaz konuğu, nispeten yaygın ancak nadir geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/239343491/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
+İç Anadolu ve Doğu Anadolu’da çok nadir ve lokal olarak bulunur. 1980-2000 yılları arasında soyunun tükenmiş olduğu düşünülmüştür. Ancak uzun bir aradan sonra İç Anadolu’da 1998 yılında iki küçük üreme kolonisi tespit edilmiş [@eken1999] ve 2003 yılında farklı üç alanda kur davranışı sergileyerek uzun süreli kalma gözlenmiştir. Doğu Anadolu’da ise Muş yakınlarında ve Bulanık Ovası’nda daha güçlü bir popülasyonun var olduğu tespit edilmiştir. Buna karşın, Güneydoğu Anadolu’da yapılan kapsamlı arazi çalışmalarında türün varlığına dair herhangi bir veri elde edilememiştir [@welch2004gap].
+
+Türün tarihsel yayılışı ve durumu [@kasparek1989a] tarafından karşılaştırmalı olarak gösterilmiştir. Bu çalışmaya göre, türün esas yayılış alanı Marmara’nın güneyindeki bazı bölgeler, kıyı Ege, İç Anadolu’nun çok lokal alanları, Akdeniz, Doğu ve Güneydoğu Anadolu’dur. Urfa Ceylanpınar’da 1960’lara kadar oldukça yaygındı ve son üç bölgedeki kayıtların çoğu üreme dönemi dışındaydı. [@kasparek1989a] tarafından mezgeldek için yalnızca 40 kadar alan işaret edilmekle birlikte, türün Türkiye’deki durumu ile ilgili literatürün çoğu 1950 öncesine aittir. Toya benzer şekilde, tarımsal uygulamalar, habitat değişimleri ve avcılık nedeniyle popülasyon uzun vadede azalma göstermektedir.
+
+Geç sonbaharda Karadeniz kıyısı boyunca nadir de olsa az sayıda birey göç geçişi yapar. 26 Ekim 2010’da Rize’de, 9 Kasım 2009’da İstanbul’da, 15 Kasım 2009’da Trabzon’da [@balmer2010around] ve Aralık 2005’te Kızılırmak Deltası’nda kaydedilmiştir. Kış mevsiminde ise az sayıda birey Karadeniz, Marmara, Ege ve Akdeniz kıyılarında görülebilir.
+
+![](images/harita_Page_114.png)
+
+**Üreme**
+
+**Yuvalama alanı:** Türkiye'de üreme verisi yoktur; ancak diğer bölgelerde açık çayırlar ve mısır tarlalarında yuvalar.\
+**Yuvası:** Derin olmayan, çevrelenmemiş bir çukur şeklinde olup genellikle bitki örtüsü içine gizlenmiştir.\
+**Yumurta sayısı:** Normalde 3-4 (nadiren 2-5) yumurta ile kuluçkaya yatar.\
+**Üreme dönemi:** **AKD** Karamık Bataklığı’nda, 12 Temmuz 1969'da bulunan ölü bir bireyin neredeyse tüylenmiş yavru (palaz) olduğu düşünülmektedir. **MAR** Karacabey-Bursa arasındaki yaklaşık 60 hektarlık bir alanda, Mayıs 1937’de kur yapan 7 erkek vurulmuş ve burada üredikleri teyit edilmiştir [@kasparek1989a]. **GDA** 8 Nisan 1981’de Ceylanpınar’da kur yapan bir erkek gözlenmiştir [@parr1981]. **İÇA** Konya Havzası’nda 23 Haziran 1998'de kur yapan bir erkek gözlenmiştir [@kirwan2003]. Ayrıca, 27 Mart 2004'te Kulu Gölü yakınlarında kur yapan iki erkek ve öten bir erkek ile kaçan bir dişi gözlenmiştir.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür. Önceden Otis cinsi altında yer almıştır (Collar N.; [@delhoyo1996].

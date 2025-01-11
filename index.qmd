@@ -2,9 +2,7 @@
 
 Türkiye'de tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
 
-Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir: [Ördekgiller](https://keremaliboyla.github.io/turkiye-kuslari/01_ordekgiller.html) - [Tavukgiller](https://keremaliboyla.github.io/turkiye-kuslari/02_tavukgiller.html) - [Deniz ve Göl Kuşları](https://keremaliboyla.github.io/turkiye-kuslari/03_deniz-ve-gol-kuslari.html) (18 Ekim) - [Yırtıcılar](https://keremaliboyla.github.io/turkiye-kuslari/04_yirticilar.html) (25 Ekim) - [Bataklık ve Kır Kuşları](https://keremaliboyla.github.io/turkiye-kuslari/05_bataklik-kuslari.html) (13 Kasım)- Cılıbıtgiller - Çullukgiller - Martılar - Kara Kuşları - Papağanlar, Ağaçkakanlar ve Doğanlar - Kargamsılar - Ötleğenimsiler: Toygarlar - Ötleğenimsiler: Çıvgınler - Ötleğenimsiler: Ötleğenler - Tırmaşığımsılar - Sinekkapanımsılar - Serçemsiler: İncirkuşugiller, Dağbülbülleri ve Serçeler - Serçemsiler: İspinozlar ve Çinteler
-
-Bu kitap aynı yazarlar tarafından 2008 yılında yayımlanan “The Birds of Turkey” kitabının geliştirilmiş bir sürümüdür.
+Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir: [Ördekgiller](https://keremaliboyla.github.io/turkiye-kuslari/01_ordekgiller.html) - [Tavukgiller](https://keremaliboyla.github.io/turkiye-kuslari/02_tavukgiller.html) - [Deniz ve Göl Kuşları](https://keremaliboyla.github.io/turkiye-kuslari/03_deniz-ve-gol-kuslari.html) (18/10) - [Yırtıcılar](https://keremaliboyla.github.io/turkiye-kuslari/04_yirticilar.html) (25/10) - [Bataklık Kuşları](https://keremaliboyla.github.io/turkiye-kuslari/05_bataklik-kuslari.html) (13/11) - Cılıbıtgiller - Çullukgiller - Martılar - Kara Kuşları - Papağanlar, Ağaçkakanlar ve Doğanlar - Kargamsılar - Ötleğenimsiler: Toygarlar - Ötleğenimsiler: Çıvgınler - Ötleğenimsiler: Ötleğenler - Tırmaşığımsılar - Sinekkapanımsılar - Serçemsiler: İncirkuşugiller, Dağbülbülleri ve Serçeler - Serçemsiler: İspinozlar ve Çinteler
 
 **Editör ve Yayına Hazırlayan**: Kerem Ali Boyla
 
@@ -14,13 +12,15 @@ Bu kitap aynı yazarlar tarafından 2008 yılında yayımlanan “The Birds of T
 
 **Çevirmenler**: Özge Keşaplı Can, Özgür Keşaplı, Önder Cırık (sevgiyle anıyorum), Ömer Döndüren, Utku Perktaş, Kuzey Cem Kulaçoğlu, Bahtiyar Kurt (Türkiye Ornitoloji Tarihi), Sancar Barış (Bilgi Boşlukları).
 
+Bu kitap aynı yazarlar tarafından 2008 yılında yayımlanan “The Birds of Turkey” kitabının geliştirilmiş bir sürümüdür.
+
 ## Telif Hakkı
 
 Kitap [Quarto publishing system](https://quarto.org/) ile hazıranmıştır.
 
 Bu kitap [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) ile lisanslanmıştır. Kitabının tüm hakları yazarlarına aittir. Bu, kitabın kopyalanması, dağıtılması, sergilenmesi, ve eserden türetilmiş çalışmaların oluşturulması dahil olmak üzere birçok faaliyeti serbest bırakır, ancak eser üzerindeki orijinal yazarları belirtmeniz şarttır.
 
-Kaynak gösterme: **Boyla, K.A., Kirwan, G.M., Demirci, B., Welch, H., Özen, M., Castell, P., & Marlow, T.** (2024). *Türkiye Kuşları.* <https://keremaliboyla.github.io/turkiye-kuslari/>
+Kaynak gösterme: Boyla, K.A., Kirwan, G.M., Demirci, B., Welch, H., Özen, M., Castell, P., & Marlow, T. (2024). *Türkiye Kuşları.* <https://keremaliboyla.github.io/turkiye-kuslari/>
 
 ## Düzeltme Önerileri
 

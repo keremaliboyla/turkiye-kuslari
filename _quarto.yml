@@ -45,11 +45,12 @@ format:
       # gutter-width: 1.5rem
     theme: cosmo
     number-depth: 1
-  # pdf:
-  #   documentclass: scrreprt
-  #   papersize: A4
-  #   fig-width: 600
-  #   error: true
+  # typst:
+  #   papersize: a5
+  #   margin:
+  #     x: 1cm
+  #     y: 1cm
+  #   columns: 2
   # epub:
   #   toc: true
   #   lang: tr-TR
