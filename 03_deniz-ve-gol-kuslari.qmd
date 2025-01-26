@@ -409,7 +409,7 @@ Monotipik bir türdür. Yakın zamana kadar Batı Akdeniz'de üreyen allopatrik 
 
 Ormanlık ve tepelik arazilerde lokal olarak görülen bir yaz konuğudur. İki farklı habitatta ürer: Birincisi, su kaynakları açısından zengin, akarsu, göl veya sulakalanların yakınındaki ormanlık alanlardır. İkincisi, kurak bölgelerde akarsu boylarındaki dik kayalık yarlardır. Kocaçay Deltası ve Kızılırmak Deltası gibi alanlarda yüksek yoğunlukta üreyebilir. Kızılırmak Deltası'nda 50'den fazla çift bulunur. Bilinen üreme alanlarının dışında temmuz ortasında görülmeye başlanır.
 
-İlkbahar göçü mart ortasından haziran başına kadar sürer ve batı ile orta bölgelerde daha sık rastlanır. İstanbul Boğazı'nda Sarıyer tepelerinde yapılan gözlemlerde, mart ortasından mayıs sonuna kadar 2006'da 1118, 2010'da 1197 ve 2011'de 1246 kuş sayılmıştır (Üner et al. 2007, İKGT 2010 ve 2011).
+İlkbahar göçü mart ortasından haziran başına kadar sürer ve batı ile orta bölgelerde daha sık rastlanır. İstanbul Boğazı'nda Sarıyer tepelerinde yapılan gözlemlerde, mart ortasından mayıs sonuna kadar 2006'da 1118, 2010'da 1197 ve 2011'de 1246 kuş sayılmıştır [@uner2006spring; @ikgt2010; @bilgin2011].
 
 Sonbahar göçü ağustos başından kasım başına kadar devam eder, en yoğun dönem eylül başından ekim başına kadardır. İstanbul Boğazı'nda 1973 yılında yapılan sonbahar sayımında toplam 8318 kuş sayılmıştır; 18 Eylül 1978'de ise bir günde 5333 kuş gözlenmiştir. Son yıllarda bir günde tek noktada sayılan en yüksek değer, 20 Eylül 1995'te 2588 kuş olmuştur. 2008 yılında, 22 Eylül ile 10 Ekim arasında 6 farklı noktada yapılan kapsamlı bir çalışmada toplam 16.647 kuş sayılmış, bu sayı önceki rekoru ikiye katlamıştır. Ekim başında Çukurova'da da gözlenir. Borçka'da ise nadir olarak görülür.
 

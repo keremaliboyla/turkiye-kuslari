@@ -46,7 +46,7 @@ format:
     theme: cosmo
     number-depth: 1
   # typst:
-  #   papersize: a5
+  #   papersize: a4
   #   margin:
   #     x: 1cm
   #     y: 1cm

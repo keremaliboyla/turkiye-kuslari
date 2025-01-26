@@ -22,11 +22,9 @@ Monotipik bir türdür.
 
 ## Çölkoşarı
 
-Cursorius cursor
+*Cursorius cursor*, Cream-colored Courser
 
-Cream-colored Courser
-
-Lokal ve az sayıda yaz konuğudur.
+***Lokal ve az sayıda yaz konuğudur.***
 
 Birecik, Suruç, Harran ve Akçakale çevresinde yaz konuğudur (Kasparek 1992a). En erken kayıt 3 Nisan'dır ancak bu bölgede nisan-ağustos dönemi dışındaki gözlemler halen çok çok azdır. 12 Ekim 2007'de Ceylanpınar'da görülen 6 kuş en geç kayıttır. 30 Haziran 2008'de 40'tan fazla kuş, kalabalık bir sürüdür (Sandgrouse 31: 100). Ancak ardında 6 Ağustos 2009'da Ceylanpınar ve Akçakale yolunda 10 km boyunca kaydedilen 128 kuş bugüne kadar kaydedilmiş en yüksek (Balmer ve Murdoch 2010, Sandgrouse 32: 91-102).
 
@@ -44,11 +42,9 @@ Türkiye'de bogolubovi alttürü bulunur (Dickinson 2003). Buna rağmen nominat 
 
 ## Bataklıkkırlangıcı
 
-Glareola pratincola
+*Glareola pratincola*, Collared Pratincole
 
-Collared Pratincole
-
-Yaygın ve nispeten çok sayıda bulunan yaz konuğudur.
+***Yaygın ve nispeten çok sayıda bulunan yaz konuğudur.***
 
 En önemli üreme alanları şunlardır: Meriç Deltası (200 çift), Kocaçay Deltası (80 çift), Büyük Menderes Deltası (85 çift), Kızılırmak Deltası (115 çiftin üzerinde), Hotamış Bataklığı (100 çift), Tuz Gölü (200 çift), Göksu Deltası (300 çift), Tuzla Gölü (150 çift) (Magnin vd. in Heath ve Evans 2000). Kurutulmadan önce Amik Gölü'nde önemli sayıda ürüyordu. Kasparek (1992a) tüm ülkede ürediğini ancak Güneydoğu Anadolu, Doğu Anadolu ve Karadeniz'de kısmen lokal olduğunu bildirmektedir. Kumerloeve (1970a), mayıs sonunda uygun üreme habitatında iki çift gözlenmesine dayanarak, türün Van Gölü'nde tek olarak yuva yaptığını iddia etmektedir. Bununla birlikte, haziranın ikinci yarısında Murat Vadisi'nde son zamanlarda gözlenmiştir (1999) ve aynı bölgede kara kanatlı bataklıkkırlangıcının şüpheli kayıtları mevcuttur. Bazen birkaç yüz bireylik sürüler görülür (Uluabat Gölü, Eylül 1971 ve istisnai olarak 1500 birey, Amik Gölü, Eylül 1967) ancak genelde gruplar daha küçüktür. İlkbahar göçü mart sonunda başlar ve en azından mayıs sonu/haziran ortasına kadar sürer. Muhtemelen nisan ortasında zirve yapar. Sonbahar göçü ağustos ortasından eylül ortasına kadar gerçekleşir.
 
@@ -64,11 +60,9 @@ Türkiye'de nominat alttürü bulunur.
 
 ## Kara Kanatlı Bataklıkkırlangıcı
 
-Glareola nordmanni
+*Glareola nordmanni*, Black-winged Pratincole
 
-Black-winged Pratincole
-
-Lokal ve oldukça seyrek geçit türüdür.
+***Lokal ve oldukça seyrek geçit türüdür.***
 
 Tür, daha çok doğu bölgelerinde özellikle sonbaharda rastlanan seyrek ve lokal bir geçit türü olarak bilinir. İlkbaharda nisan başı ile haziran başı arasında geçer, mayısın ilk haftasında yoğunlaşır. Sonbaharda ağustos başı ve ekim sonu arasında gözlenir, eylülün ikinci yarısında yoğundur. Ara sıra yüksek sayılarda Kuyucuk Gölü ve Erzurum Ovası'nda rastlanır. Eski kayıtlarında 15 Eylül 1968'de 230 tanesi Mogan Gölü'nde, 7 Eylül 1980'de 160 tane Ereğli Sazlığı'nda, 18 Eylül 1989'da 160 tane Muş'un güneydoğusunda, 20 Eylül 1989'da yaklaşık 1000 tane Bulanık'ta gözlenmiş ve 189 tanesi 15 Eylül 2000'de Van Gölü'nde fotoğraflanmıştır. Kızılırmak Deltası'nda azami 60 kuşluk küçük sürüler Kızılırmak Deltası ve Çukurova ve Göksu Deltası'nda görülmüştür. Marmara Bölgesi'nde sadece 7 eski kaydı vardır, bunlardan ikisi Alléon'un topladığı örneklerdir. Ege'den tek kaydı 2 Ekim 2010'da Işıklı Gölü'ndeki bireydir (Balmer ve Murdoch 2010.
 
@@ -396,7 +390,7 @@ Bu bireyin kanat desenlenmesine göre argentatus alttürüne ait olduğunu düş
 
 *Larus michahellis*, Yellow-legged Gull
 
-*Yaygın ve çok sayıda bulunan yerlidir.*
+***Yaygın ve çok sayıda bulunan yerlidir.***
 
 bütün kıyılarda toplam 22 kıyısal üreme alanının olduğunu teyit ederken bunların dışında 15 muhtemel veya olası üreme alanından bahseder [@eken1997c]. Bu koloniler Doğu Karadeniz'de Giresun Adası'nda itibaren bütün kıyılar boyunca dolaşarak Doğu Akdeniz'deki Göksu Deltası açıklarına kadar yayılış gösterir. Çoğu koloni nispeten küçük olup 500 çiftten azdır, ancak İstanbul anakara popülasyonunun 3000-5000 çift, Adalar popülasyonunun azami 3000 çift olduğunu tahmin eder [@eken1997c]. Beyşehir Gölü'nde küçük bir adada toplam 40-50 çiftten oluşmaktadır. Mayıs 1999'da bazı Van Gölü martısı ve iki türün arasında fenotiplerin görüldüğü fotoğraflar çekilmiş, 1964'de aynı yerde yaklaşık 40 çift bulunmuştur [@vauk1973]. Ülkenin birçok yerinde, özellikle de kıyılar boyunca yaygın ve bol sayıda bulunur. Az sayıda iç bölgeler nehirlerde bulunur. Ortalama kışlama popülasyonu 100.000 ila 120.000 birey arasında olup birçok bölgede, özellikle Marmara ve Ege'de, örneğin Gediz Deltası'nda 40.000'i varan sayılarla, kalabalık gruplar görülebilir. Karadeniz kıyısında da kalabalık sürüler bulunur, örneğin Şubat 1997'de tüm Karadeniz sahili boyunca sayılan yaklaşık 34.000 kuş sayılmıştır.
 
@@ -650,7 +644,7 @@ Sonbahar başta olmak üzere geçit sırasında daha bol ve daha yaygın yayıl�
 
 **Üreme**
 
-Koloniler genellikle 80 çiftten daha az olsa da, 1966'da Manyas Gölü'nde kaydedildiği gibi 500 çifte kadar büyüklerine de rastlanmıştır. En önemli üreyen popülasyon, 1996 yılında tahminen 2150 çift olarak hesaplanan Gediz Deltası'ndakidir [@eken1997a]. Nadiren yalnız, bazen gülen sumru (Gelochelidon nilotica) ve küçük sumru (Sternula albifrons) gibi diğer türlerle yakın ilişki içinde ürer. Hem kıyı, hem de iç kesimlerdeki göllerde, su basmış bölgelerde, nehir kıyılarında ve kıyıya yakın adalarda; çoğunlukla kum, çamur ve çakıldan oluşan alçak adalarda yuvalar. Uluabat Gölü'nde yüzen bitkilerin içinde yuvaladığı da kaydedilmiştir [@welch1998b]. Genellikle yerde, astarsız ya da yakındaki bitkilerle astarlanmış bir çukurda yuvalar. Türkiye'de gözlenen yumurta sayısı 3, nadiren 2. **İÇA.** 2 Haziran 1971'de Seyfe Gölü'nde 60 çiftten oluşan kolonide yapılan gözlemde yumurtaların yaklaşık 10 Mayıs'ta koyulduğunu gösterir şekilde 48 çiftin yuvasında yumurta, geri kalan çiftlerin yuvalarında da yavruların olduğu kaydedilmiştir [@husband1984]. 26 Temmuz 1971'de Yarma'da hala kuluçkada olan çiftler gözlenmiştir. 29 Mayıs 1999'da Çavuşçu Gölü'ndeki bir adada 100 çiftin yuvaladığı gözlenmiştir. **MAR.** 19 Haziran 1973'te Büyükçekmece'de, yumurtaların mayıs başında koyulduğunu gösterir şekilde 4 tüylenmiş yavru gözlenmiştir. 2 Haziran 1966'da Uluabat Gölü'nde yaklaşık 30 çiftten oluşan bir kolonide içinde yumurta bulunan 4 yuva kaydedilmiştir. Ayrıca, 14 Mayıs ve ardında içinde yumurta bulunan yuvalar kaydedilmiş, 11 Temmuz 1966'da ise Kocaçay Deltası'nda tüylenmiş yavru gözlenmiştir [@ertan1996]. **EGE.** 14 Mayıs 2007'de Karine Gölü'nde yapılan gözlemde, üremenin hala ilk aşamalarda olduğunu gösterir şekilde yalnızca bir yumurtası olan tamamlanmamış kuluçkaya sahip 2 yuva kaydedilmiş; 27 Haziran 1999'daki gözlemde ise çiftlerin çoğunun farklı gelişim seviyesinde yavruya sahip olduğu, ancak birkaç yuvada halâ yumurta bulunduğu kaydedilmiştir. [@mcneile1950], 23 Mayıs 1950'de Aliağa yakınındaki bir adacıktan 2 yumurta toplamıştır. **AKD.** Göksu Deltası'nda erişkinlerin 15 Mayıs'tan itibaren kuluçkaya yattıkları gözlenmiş, 19 Mayıs 1999'da ise Akgöl'de yaklaşık 100 bireyin kum şeridi üzerinde kuluçkada olduğu kaydedilmiş, temmuz başında ise tüylenmiş yavrular gözlenmiştir. **DOA.** Mayıs sonunda Erçek Gölü'nde, haziran başında ise Malatya'daki Murat Nehri'nde ve Karakaya barajındaki çakıl adalarında, kuluçkada olan erişkinler gözlenmiştir. **KAR.** 10 Haziran 1975'te Fatsa'da, açıktaki bir küçük adacıkta üremekte olan 30-50 çift kaydedilmiştir. Geç tarihlerde kaydedilen yumurtalı yuvalar büyük olasılıkla kaybedilen kuluçkaların yerine yenisinin yapıldığını göstermektedir.
+Koloniler genellikle 80 çiftten daha az olsa da, 1966'da Manyas Gölü'nde kaydedildiği gibi 500 çifte kadar büyüklerine de rastlanmıştır. En önemli üreyen popülasyon, 1996 yılında tahminen 2150 çift olarak hesaplanan Gediz Deltası'ndakidir [@eken1997a]. Nadiren yalnız, bazen Gülen Sumru ve Küçük Sumru gibi diğer türlerle yakın ilişki içinde ürer. Hem kıyı, hem de iç kesimlerdeki göllerde, su basmış bölgelerde, nehir kıyılarında ve kıyıya yakın adalarda; çoğunlukla kum, çamur ve çakıldan oluşan alçak adalarda yuvalar. Uluabat Gölü'nde yüzen bitkilerin içinde yuvaladığı da kaydedilmiştir [@welch1998b]. Genellikle yerde, astarsız ya da yakındaki bitkilerle astarlanmış bir çukurda yuvalar. Türkiye'de gözlenen yumurta sayısı 3, nadiren 2. **İÇA.** 2 Haziran 1971'de Seyfe Gölü'nde 60 çiftten oluşan kolonide yapılan gözlemde yumurtaların yaklaşık 10 Mayıs'ta koyulduğunu gösterir şekilde 48 çiftin yuvasında yumurta, geri kalan çiftlerin yuvalarında da yavruların olduğu kaydedilmiştir [@husband1984]. 26 Temmuz 1971'de Yarma'da hala kuluçkada olan çiftler gözlenmiştir. 29 Mayıs 1999'da Çavuşçu Gölü'ndeki bir adada 100 çiftin yuvaladığı gözlenmiştir. **MAR.** 19 Haziran 1973'te Büyükçekmece'de, yumurtaların mayıs başında koyulduğunu gösterir şekilde 4 tüylenmiş yavru gözlenmiştir. 2 Haziran 1966'da Uluabat Gölü'nde yaklaşık 30 çiftten oluşan bir kolonide içinde yumurta bulunan 4 yuva kaydedilmiştir. Ayrıca, 14 Mayıs ve ardında içinde yumurta bulunan yuvalar kaydedilmiş, 11 Temmuz 1966'da ise Kocaçay Deltası'nda tüylenmiş yavru gözlenmiştir [@ertan1996]. **EGE.** 14 Mayıs 2007'de Karine Gölü'nde yapılan gözlemde, üremenin hala ilk aşamalarda olduğunu gösterir şekilde yalnızca bir yumurtası olan tamamlanmamış kuluçkaya sahip 2 yuva kaydedilmiş; 27 Haziran 1999'daki gözlemde ise çiftlerin çoğunun farklı gelişim seviyesinde yavruya sahip olduğu, ancak birkaç yuvada halâ yumurta bulunduğu kaydedilmiştir. [@mcneile1950], 23 Mayıs 1950'de Aliağa yakınındaki bir adacıktan 2 yumurta toplamıştır. **AKD.** Göksu Deltası'nda erişkinlerin 15 Mayıs'tan itibaren kuluçkaya yattıkları gözlenmiş, 19 Mayıs 1999'da ise Akgöl'de yaklaşık 100 bireyin kum şeridi üzerinde kuluçkada olduğu kaydedilmiş, temmuz başında ise tüylenmiş yavrular gözlenmiştir. **DOA.** Mayıs sonunda Erçek Gölü'nde, haziran başında ise Malatya'daki Murat Nehri'nde ve Karakaya barajındaki çakıl adalarında, kuluçkada olan erişkinler gözlenmiştir. **KAR.** 10 Haziran 1975'te Fatsa'da, açıktaki bir küçük adacıkta üremekte olan 30-50 çift kaydedilmiştir. Geç tarihlerde kaydedilen yumurtalı yuvalar büyük olasılıkla kaybedilen kuluçkaların yerine yenisinin yapıldığını göstermektedir.
 
 **Alttürler ve Sınıflandırma**
 
@@ -682,7 +676,7 @@ Türkiye'de nominat alttürü bulunur.
 
 Üç kaydı vardır: 28 Mayıs 1973'te Göksu Deltası'nda oldukça iyi şekilde gözlenen ancak, yüzeysel tanımlı, ilk yaşını süren bir birey [@witt1976beobachtungen]; 5 Haziran 2003'te yine Göksu Deltası'nda bu kez denizde hızla uçarken gözlenen, ancak hakkında ayrıntılı bilgi olmayan bir birey; 13 Mart 2004'te Küçük Menderes Deltası'nda gözlenen ve kısa tanımı mevcut birey [@balmer2004b]. Dördüncü kayıt, Belek Eleri sahilinde 26 Aralık 2004'de görülen bir kuş olup ayrıntılı tarifi mevcuttur (A.-A. Weller).
 
-Tür üremeksizin Eilat'da (İsrail) düzenli ancak nadir bahar ve yaz konuğu olarak kaydedilir [@shirihai1996]. Ürdün'de de iki kere kaydedilmiştir [@andrews1995]. Önceden Lübnan sahili açıklarındaki bir adada üremiştir [@ramadan1999]. Yunanistan'dan, hepsi 1987 ve sonrasına ait yakın zamanlı üç kayıt vardır (Handrinos ve Akriotis 1997).
+Tür üremeksizin Eilat'da (İsrail) düzenli ancak nadir bahar ve yaz konuğu olarak kaydedilir [@shirihai1996]. Önceden Lübnan sahili açıklarındaki bir adada üremiştir [@ramadan1999].
 
 ![](images/harita_Page_202.png)
 
