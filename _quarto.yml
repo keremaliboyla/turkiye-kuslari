@@ -18,7 +18,7 @@ book:
     - 03_deniz-ve-gol-kuslari.qmd
     - 04_yirticilar.qmd
     - 05_bataklik-kuslari.qmd
-    # - 06_cilibitlar.qmd
+    - 06_cilibitlar.qmd
     # - 07_cullukgiller.qmd
     # - 08_martilar.qmd
     # - 09_karakuslari.qmd
