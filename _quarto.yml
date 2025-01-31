@@ -8,6 +8,8 @@ book:
   title: "Türkiye Kuşları"
   # author: "Kerem Ali Boyla, Guy Kirwan, Barbaros Demirci, Hilary Welch, Metehan Özen, Peter Castell, Tim Marlow"
   # date: "2024-10-18"
+  cover-image: kapak3.png
+  favicon: kapak3.png
   chapters:
     - index.qmd
     - 00_onsoz.qmd
@@ -19,7 +21,7 @@ book:
     - 04_yirticilar.qmd
     - 05_bataklik-kuslari.qmd
     - 06_cilibitlar.qmd
-    # - 07_cullukgiller.qmd
+    - 07_cullukgiller.qmd 
     # - 08_martilar.qmd
     # - 09_karakuslari.qmd
     # - 10_otucu-oncesi.qmd
@@ -40,7 +42,7 @@ csl: journal-of-zoology.csl
 format:
   html:
     grid:
-      sidebar-width: 180px
+      sidebar-width: 200px
       margin-width: 180px
       # gutter-width: 1.5rem
     theme: cosmo

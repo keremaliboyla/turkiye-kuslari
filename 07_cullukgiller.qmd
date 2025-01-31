@@ -6,11 +6,15 @@ title: "Çullukgiller"
 
 *Numenius phaeopus*, Whimbrel
 
-***Lokal ve orta sayılarda geçit türüdür.***
+***Lokal olarak nispeten az sayılarda görülen bir geçit türüdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/619136802/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Çoğunluğu, önemli güney-kuzey deltalarını ve İç Anadolu'nun geniş playa göllerini kullanarak ülkenin orta bölgelerinden geçmektedir [@kasparek1990b; @kasparek1992a]. İlkbahar göçü mart sonu ve haziran başı arasındadır, medyan tarih 23 Nisan olarak belirlenmiştir @kasparek1990b. Sonbahar göçü temmuz başından ekim sonuna kadar sürer, ağustos ve eylülde zirve yapar, medyan tarih 29 Ağustostur. Kayıtların çoğu yalnız bireyler ya da beş bireyden küçük gruplara aittir ancak hem geçmişte hem de günümüzde Doğu Karadeniz, Ege ve Akdeniz'de 20-30 bireylik gruplar kaydedilmiştir. Mart ortası ile 27 Nisan 1990 tarihleri arasında Çukurova'dan toplam 54 birey [@kivit1994] ve 29 Mart ile 7 Haziran 1992 tarihleri arasında Kızılırmak Deltası'ndan 70 birey [@hustings1994] geçmiştir. Aşağıdaki günlük toplamlar da önemlidir: 25 Eylül 1981'de Göksu Deltası'nda 20 birey ve 7-10 Kasım 1983'te Büyük Menderes Deltası'nda 40 birey [@kasparek1990b]. Geçişin çoğu gece olduğu için neredeyse kesinlikle var olduğundan daha az sayıda kaydedilmektedir. Kışın nadiren kaydedilmiştir.
 
-@kruper1875 ve HArtlaub kışın İzmir'de bulunduğunu belirtmiş, oysa @kasparek1990b, bu kuşların İnce Gagalı Kervançulluğu ile karıştırıldığından şüphelenmiştir.
+@kruper1875 ve Hartlaub kışın İzmir'de bulunduğunu belirtmiş, oysa @kasparek1990b, bu kuşların İnce Gagalı Kervançulluğu ile karıştırıldığından şüphelenmiştir.
 
 ![](images/harita_Page_154.png)
 
@@ -26,7 +30,11 @@ Türkiye'de nominat alttürü bulunur.
 
 *Numenius tenuirostris*, Slender-billed Curlew
 
-***2024 yılında soyunun tükendiği ilan edilmiştir. Eskiden nadir bir geçit türüydü.***
+***Soyu tükenmiş bir türdür. Eskiden nadir olarak görülen bir geçit türüydü.***
+
+<iframe src="https://macaulaylibrary.org/asset/725388/embed" height="540" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Son derece nadir bir geçit türüdür, en son kesinlikle 1986'da kaydedilmiştir. Kayıtlar 10 Temmuz ile 12 Mayıs tarihleri arasındadır, batı ve orta bölgelerde, özellikle iyi gözlem yapılan Akdeniz kıyısındaki deltalarda ve İç Anadolu'daki sığ göllerdeki kayıtların çoğu 1975'ten öncedir. Görünüşe göre, bu tür kaçınılmaz biçimde yok oluşa doğru gitmektedir [@gretton2002]. Türkiye'den şu kayıtlar mevcuttur, aksi belirtilmediği sürece hepsi Gretton (1991) ya da BirdLife International veritabanındandır: 19.yy sonlarında ya da 20. yy başlarında muhtemelen İstanbul çevresinden alınan iki örnek [@kirwan1997a], Aralık 1892'de İstanbul'dan alınan erişkin bir dişi ve 11 Eylül 1895'te İstanbul'un 10 km batısında Makriköy'den (Bakırköy, İstanbul) alınan başka bir dişi vardır ve her ikisi de Alléon koleksiyonunda ve şu anda Sofya Ulusal Doğa Tarihi Müzesi'nde bulunmaktadır [@boev2003], 14 Ocak 1967'de Hoyran (Eğirdir) Gölü'nde bir birey, 19 Mart 1967'de Mogan Gölü'nde iki birey ve 23 Mart 1967'de aynı yerde başka bir birey, 26 Mart 1967'de Balıkdamı'nda iki birey, 12 Ağustos 1967'de Sodalı Gölü'nde bir birey, 10 Ekim 1968'de Amik Gölü'nde bir birey, 5 Nisan 1969'da Tekirdağ yakınlarında üç birey, 15 Nisan 1969'da Side'den (Antalya, Akdeniz) batıya doğru giden iki birey, 12 Aralık 1969'da Seyfe Gölü'nde bir birey, 28 Nisan 1970'de Yarma yakınlarında bir birey, 12 Mayıs 1970'de Eber Gölü'nde bir birey, 17 Ocak 1971'de Çivril Gölü'nde bir birey, 25 Ağustos 1971'de Rize yakınlarında bir birey, 28 Ağustos 1973'te Göksu Deltası'nda bir birey, 30 Eylül 1973'te Uluabat Gölü'nde iki birey, 23 Eylül 1979'da Küçük Menderes Deltası'nda iki birey, 5 Ocak 1982'de ve 4 Mart 1985'te Çukurova'da Akyatan Gölü'nde birer birey, 9 Mart 1985'te Göksu Deltası'nda dört birey, 6 Nisan 1986'da Ereğli Sazlığı'nda bir birey, 10 Temmuz 1986'da Göksu Deltası'nda bir birey ve 26 Aralık 1986'da Büyük Menderes Deltası'nda bir birey. Bu kayıtların hepsi için birtakım belgeler mevcuttur. @gretton1991, 1946, 1947 ve 1951'de İstanbul'un hemen batısında Büyükçekmece'de ve 27 Şubat 1959'da Meriç Deltası'nda [@kumerloeve1970a] olmak üzere dört bireyle ilgili kabul edilemeyecek üç kayıt daha listelemiştir [@kumerloeve1961; @kirwan1997a]. Ek olarak, 30 Nisan 1986'da Çukurova'dan, 22 Ağustos 1990'da Dalyan Deltası'ndan ve 10 Mayıs 1993'te Kulu Gölü'nden kesin olarak kabul edilemeyecek kayıtlar vardır. Öte yandan, 15 Eylül 1985'te İstanbul Tuzla'da iddia edilen bireyin kervançulluğunun *orientalis* doğu alttürü olduğu kanıtlanmıştır [@konrad1994].
 
@@ -44,7 +52,11 @@ Monotipik bir türdür.
 
 *Numenius arquata*, Eurasian Curlew
 
-***Yaygın ve nispeten çok sayıda bulunan geçit türü ve kış konuğudur.***
+***Yaygın olarak nispeten çok sayıda bulunan geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/616727710/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Geçiş, mart ortasında başlar ve en yüksek sayılar nisanın ilk yarısından gözlenir ancak bu dönemde bile küçük gruplar kaydedilir. Çukurova'da ilkbahar 1987'de maksimum 27 birey [@have_etal1988] ve ilkbahar 1990'da tarafından maksimum 42 birey [@kivit1994] kaydedilmiştir. Geçişi oldukça güçlü bir şekilde en azından mayıs başına kadar sürer ve ülkenin batı ve orta bölgelerindeki birkaç yerden düzensiz yaz kayıtları vardır. Sonbahar göçü temmuz başında başlar ve bazı yıllarda en azından kasım ortasına kadar sürse de ilkbahar göçüne oranla daha hızlı gerçekleşir. Düzenli olarak 250 bireylik sürülerin kaydedildiği Meriç Deltası bu dönemdeki en önemli konaklama alanları arasındadır.
 
@@ -64,7 +76,11 @@ Bir kısmı nominat *arquata* alttürüdür. Özellikle son yıllarda yapılan a
 
 *Limosa lapponica*, Bar-tailed Godwit
 
-***Seyrek geçit türü ve kış konuğudur.***
+***Seyrek olarak az sayıda bulunan geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/367052011/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Kayıtların çoğu ana deltalardadır ve daha az sayılarda İç Anadolu'daki büyük sulakalanlarda. İlkbaharda mart ortasından haziran başına kadar kaydedilir, çoğunluğu nisanın ikinci ve dördüncü haftaları arasında geçer. Sonbaharda ağustos başında ekim ortasına kadar görülür, çoğunluğu ağustos sonu ile eylülün ilk yarısında kaydedilir. Nisan 1976'da Büyükçekmece'de (İstanbul) 20 birey, 29 Nisan 1998'de Kızılırmak Deltası'nda 20 birey ile Mayıs 1987 ve Mayıs 1991'de Çukurova deltalarında toplam 14 ve 13 birey kaydedilmiş en yüksek sayılardır. Diğer kayıtların tümü yalnız bireylere ya da on bireye kadar küçük gruplara aittir.
 
@@ -84,7 +100,11 @@ Türkiye'de nominat alttürü bulunur. Öte yandan, @have_etal1988 bazılarını
 
 *Limosa limosa*, Black-tailed Godwit
 
-***Yaygın ve nispeten çok sayıda bulunan geçit türü, lokal kış konuğudur.***
+***Yaygın olarak nispeten çok sayıda bulunan geçit türü, lokal kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/607249801/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 İlkbahar geçişi şubatta başlar ve mayıs sonuna kadar çoğu geçmiş olur. Mart 1970'de Tuz Gölü'nde kaydedilen 1500 birey ve Mart 1990 sonlarında Çukurova'da kaydedilen 3725 birey ilkbaharda kaydedilen en kalabalık sürülerdir. Temmuzdan itibaren tekrar sürü oluşturmaya başlar. 12 Temmuz 1997'de Meriç Deltası'nda kaydedilen 1030 birey, 3 Eylül 2005'te Kızılırmak Deltası'nda kaydedilen 741 birey (OMÜKUŞ) ve 23 Eylül 1974'te Ereğli Sazlığı'nda kaydedilen 1200 birey özellikle dikkate değerdir. Her iki mevsimde de ülkenin doğusundan genellikle az sayılarda geçiş yapar.
 
@@ -106,7 +126,11 @@ Türkiye'de nominat alttürü bulunur.
 
 *Lymnocryptes minimus*, Jack Snipe
 
-***Yaygın ancak seyrek rastlanan geçit türü ve kış konuğudur.***
+***Yaygın olarak az sayıda bulunan geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/208573711/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Eylül ile nisan sonu arasında tuzcul bataklıklar ve benzeri kıyı alanlarında ve iç kesimlerdeki her tür sulakalanda ve diğer nemli alanlarda bulunur. Çoğunlukla tek başına gözlenir, ara sıra birkaç bireylik (en fazla 12) gevşek gruplar kurar. Göçmenler Doğu Karadeniz Bölgesi'nde da kaydedilmiştir [@kumerloeve1967a; @faldborg1994]
 
@@ -126,7 +150,11 @@ Monotipik bir türdür.
 
 *Scolopax rusticola*, Eurasian Woodcock
 
-***Yaygın ve çok sayıda bulunan geçit türü ve kış konuğudur.***
+***Yaygın olarak çok sayıda bulunan geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/392996541/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 En sık olarak eylül başından mart sonuna kadar kaydedilir ancak bir kısmı kışlama alanlarına kasım öncesinde gelir. Kuzeydoğudaki dağ vadileri, Uludağ ve Toroslar'daki geçit alanlarında zaman zaman kaydedilir. İlkbahar geçişi nisanın ilk haftasının sonuna kadar devam edebilir. Türün en önemli kışlama alanları nemli çayırlarda ve dere boylarında yoğun olarak avlandığı Karadeniz ve Marmara'dadır. Bu mevsimde İç Anadolu, Ege ve Akdeniz'de de az sayılarda bulunur ve Aralık ayında Van Gölü yakınlarında da bir defa kaydedilmiştir.
 
@@ -144,7 +172,11 @@ Monotipik bir türdür.
 
 *Gallinago media*, Great Snipe
 
-***Yaygın ancak nadir geçit türüdür.***
+***Lokal olarak az sayıda görülen geçit türüdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/619628888/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Tarım alanlarını ve sulakalan kenarlarını kullanır. 1966 sonrasındakilerin tümünün detayları da dâhil olmak üzere 1990 öncesindeki tüm mevcut kayıtları listelemiştir [@kirwan1992a]. Modern kaydetmenin başlamasından sonraki 73 kaydın (140 bireye ait) yaklaşık %50'si (kaydedilen bireylerin %60'ından fazlası) sadece dört alanda elde edilmiştir: Çukurova ve Göksu deltaları ile Güney Van Sazlıkları ve Murat Vadisi'nin Bulanık Balatos bölgesi Sonradan yayınlanan yaklaşık 60 kayıt dikkate alındığında, yoğunluğu mayısta olmak üzere ilkbahar göçü 2 Mart ile 8 Haziran arasında ve sonbahar göçü ise eylül sonu ile ekimde zire yaparak 2 Ağustos ile 8 Ekim arasında gerçekleşir. Zaman zaman 9 bireye kadar küçük gruplar halinde gözlenirken bir defasında, Eylül 1982'de Van Sazlığı'nda, toplam 30 birey kaydedilmiştir.
 
@@ -168,7 +200,11 @@ Monotipik bir türdür.
 
 ***Rastlantısal konuktur.***
 
-ddd tarihinde görlmğkrğe
+<iframe src="https://macaulaylibrary.org/asset/514242341/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
+19 Ekim 2021'de Millehya ve sailh şeridinde ilk kez görülmüş (E. Yoğurtcuoğlu) ardından aynı alanada 18 Aralık 2022'de tekrar bulunmuştur.
 
 **Üreme**
 
@@ -182,7 +218,11 @@ Monotipik bir türdür.
 
 *Gallinago gallinago*, Common Snipe
 
-***Yaygın ve çok sayıda bulunan geçit türü ve kış konuğudur.***
+***Yaygın olarak çok sayıda bulunan geçit türü ve kış konuğudur. Nadir olarak az sayıda ürer.***
+
+<iframe src="https://macaulaylibrary.org/asset/622952842/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 İlkbahardaki geliş ve gidiş tarihlerini belirlemek zordur ancak görünüşe göre mart ve nisanın ilk haftasında en yoğun olarak geçiş yapar; Kızılırmak Deltası'nda 1000 bireyden fazlası kaydedilmiştir. Bu tarihten sonra sayılar hızla düşer ancak Doğu Anadolu'dan mayıs sonuna kadar ayrılmazlar. Dönüş yapan göçmenler temmuzun ilk haftası gözlenmeye başlar ve geçiş kasımın ilk yarısına kadar sürer. Bu tarihten sonra sadece kışlama alanlarında kaydedilir. Bu mevsimdeki en yüksek sayı 9-10 Ekim 1968'de Amik Gölü'nde gözlenen 300 bireydir ve alanda muhtemelen birkaç bin birey daha bulunmaktaydı. Kışlayanların çoğu kıyısal sulakalanlarda barınır ve çok sayıda olmasına rağmen geçit yapanlardan daha azdır. En önemli kış sayımları arasında Tarsus'ta kaydedilen 200 birey ve Balıkesir Gönen'de kaydedilen 100 birey vardır.
 
@@ -204,6 +244,10 @@ Türkiye'de nominat alttürü bulunur.
 
 ***Rastlantısal konuktur.***
 
+<iframe src="https://macaulaylibrary.org/asset/351526421/embed" height="461" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 İki kaydı vardır. 19 Eylül 1983'te Balık Gölü'nde (Kızılırmak Deltası) kış tüyörtüsü ile bir birey kaydedilmiş, ancak gözlem ayrıntılı olarak belgelenmemiştir [@braeuning1984; @dijksen1985]. Ardından 5 Mayıs 1984'te Sultansazlığı'nda yaz tüyörtüsü ile kaydedilen bir erişkin [@kasparek1990a] gözlemi yayınlanmıştır. Son yıllarda (1992) Bulgaristan'da [@nankinov1998] ve Orta Doğu'da kaydedilmiştir; bu Yenidünya türü Umman'a da ulaşmıştır [@porter1996].
 
 ![](images/harita_Page_178.png)
@@ -221,6 +265,10 @@ Monotipik bir türdür. Geçmişte tek türlü Steganopus cinsi altında sınıf
 *Phalaropus fulicarius*, Red Phalarope
 
 ***Rastlantısal konuktur.***
+
+<iframe src="https://macaulaylibrary.org/asset/435430261/embed" height="552" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Son zamanlara ait üç tane alan kaydı ve bir tane de eski örnek kaydı vardır. 1 Haziran 2002'de Kulu Gölü'nde üreme tüy örtüsünde bir dişi gözlenmiş [@demirci2003] S. Holmstedt vd.). Türe aşina olan gözlemciler tarafından kaydedilmiş olmasına rağmen ilk gözlemle ilgili ayrıntılar çok yetersizdir. 3 Mayıs 2003'te Birecik'te çok iyi gözlendiği bir birey 25 Mayıs 2005'te Sodalı Gölü'nde bir birey fotoğraflanmıştır [@balmer2005b]. Ardından 15-30 Eylül 2012'de Çukurova Tuzla Gölü'nde ve 13-17 Nisan 2014'de Kozanlı Saz Gölü'nde kaydedilmiştir.
 
@@ -240,7 +288,11 @@ Monotipik bir türdür.
 
 *Phalaropus lobatus*, Red-necked Phalarope
 
-***Yaygın ancak seyrek geçit türüdür.***
+***Özellikle doğu bölgelerinde mevsimsel olarak az sayıda görülen geçit türüdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/618106548/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Ülke genelindeki sulakalanlarda ve kıyı bölgelerinde düzenli ancak seyrek ve lokal bir geçit türüdür. İlkbaharda mart sonundan haziran ortasına kadar, yoğun olarak da mayısın ilk yarısında geçiş yapar. Van Gölü Havzası'nda, daha sık ve büyük sürüler kaydedilir. Van/Erçek Gölü bölgesindeki en yüksek sayımlar şöyledir: 20-21 Mayıs 1966'da yaklaşık 900 birey [@kumerloeve1967], 12-13 Mayıs 1973'te istisna olarak 1800 birey [@groh1986], 7 Mayıs 1986'da 380 birey [@martins1989], 1-11 Mayıs 1989'da bölgedeki üç yerde en az 855 birey [@berk1993] ve 2 Mayıs 1990'da Sodalı Gölü'nde yaklaşık 500 birey. 280 bireye kadar sürülere ait birkaç kayıt daha vardır ancak sonbaharda bu bölgeden kısmen bu mevsimde daha az gözlem yapılması nedeniyle nispeten az kaydı vardır ve hiçbiri büyük sürü değildir. Ülkenin geri kalanının çoğunda geçişi tipik olarak 50 bireyden küçük gruplar halindedir. 31 Mayıs 1989'da Çöl Gölü'nde 98 birey, 1987 Mayıs ortasında Çukurova'da 95 birey kaydedilmiştir. Güneydoğu Anadolu'dan çok az kaydı vardır.
 
@@ -260,7 +312,11 @@ Monotipik bir türdür.
 
 *Xenus cinereus*, Terek Sandpiper
 
-***Yaygın ancak seyrek geçit türüdür.***
+***Yaygın olarak az sayıda görülen geçit türüdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/477102721/embed" height="517" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Muhtemelen her iki mevsimde de en sık olarak Van Gölü Havzası'nda kaydedilir. Mayıs 1989'da Van sazlıklarında en fazla 16 birey, Temmuz 1986'da Haçlı Gölü'nde 15 birey ve Mayıs 1985'te Bendimahi Deltası'nda 11 birey kaydedilmiştir. Ülkenin geri kalanındaki geçişi tipik olarak çok az sayılarda ve genellikle beş bireyden daha az gevşek gruplar halindedir, istisna olarak Mayıs 1990'da Çukurova'da on birey gözlenmiştir. yaklaşık 50 kayıt derlenmiştir [@kasparek1992a]. O tarihten sonra birçok kaydı olmuştur ancak muhtemelen yine de toplamda 150'yi pek aşmaz. İlkbaharda mart ortası ile haziran ortası arasında geçer, geçişi mayısın ilk yarısında yoğunlaşır. Sonbaharda temmuz ortası ile ekim sonu arasında görülür, ağustos ortası geçişin en yoğun olduğu dönemdir; eylülün ilk haftasından sonra nadiren kaydedilir.
 
@@ -280,7 +336,11 @@ Monotipik bir türdür. Zaman zaman Tringa cinsi altında değerlendirilir.
 
 *Actitis hypoleucos*, Common Sandpiper
 
-***Lokal yaz konuğu, yaygın ve çok sayıda bulunan geçit türü ve az sayıda kış konuğudur.***
+***Lokal olarak az sayıda bulunan yaz konuğu, yaygın olarak çok sayıda bulunan geçit türü ve az sayıda kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/622294503/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Yukarı Aras ve Murat vadilerinde, Erzurum çevresinde sık görülen üreyen bir türdür [@kumerloeve1967a]. Muhtemelen Kralkızı Barajı'nda [@karakas2005a], Kocaçay Deltası'nda [@ertan1996] ve Dalyan bölgesinde birkaç üreme sezonu kaydı vardır [@kilic1989]. En azından zaman zaman daha düşük yüksekliklerde ve Karadeniz'de deniz seviyesinde bile üreyebilir [@hustings1994].
 
@@ -302,6 +362,10 @@ Monotipik bir türdür. Eskiden *Tringa* cinsi altında sınıflandırılmışt�
 
 ***Rastlantısal konuktur.***
 
+<iframe src="https://macaulaylibrary.org/asset/234335971/embed" height="510" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 2 Ağustos 1988'de Göksu Deltası'nda yaz tüy örtüsüne sahip bir bireyin fotoğraflanmasıyla belgelenen bir kaydı vardır [@debruin1989]. Diğer iddialar görünüşe göre eskiden Robert Koleji'ndeki (İstanbul) koleksiyonda bulunan [@matheydupraz1920] ve artık mevcut olmayan [@kirwan1997a] üç örnekle ilgilidir. Ayrıca, güvenilir olmadığı konusunda adı çıkmış olan [@wahby1930oiseaux], Ekim 1920'de Fikirtepe'de (İstanbul) bir bireyden bahsetmektedir. SON GÜNCEL KAYDI GELECEK.
 
 ![](images/harita_Page_166.png)
@@ -318,7 +382,11 @@ Monotipik bir türdür. Eskiden *Tringa* cinsi altında sınıflandırılmışt�
 
 *Tringa ochropus*, Green Sandpiper
 
-***Yaygın ve çok sayıda bulunan geçit türü ve kış konuğudur.***
+***Yaygın olarak çok sayıda bulunan geçit türü ve kış konuğudur. Üreme olasılığı vardır.***
+
+<iframe src="https://macaulaylibrary.org/asset/432000711/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Üremesi olası bir türdür. İlk olarak 12 Haziran 1975'te İkizdere ve İspir arasındaki dağlarda 3000 metrede nemli bir çayırda kur davranışı yapan bir birey gözlenmiştir [@ost1978]. Ardından Istranca Dağları'nda Mayıs ve Ağustos 2009'da yapılan kapsamlı bir araştırmada uygun üreme habitatında birkaç bireyin araştırma dönemi boyunca görüldüğünü ve araştırmanın sonuna doğru genç kuşların görüldüğü tespit edilmiştir [@ozkan2010]. Burada ürediğine dair somut kayıtlara ihtiyaç vardır.
 
@@ -340,7 +408,11 @@ Monotipik bir türdür.
 
 *Tringa stagnatilis*, Marsh Sandpiper
 
-***Yaygın ve seyrek geçit türüdür.***
+***Yaygın olarak genellikle az sayıda görülen geçit türüdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/557384911/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Lagünlerde, çamur düzlüklerinde, gölcüklerde ve sazlıklarda bulunur. Doğu bölgelerinde daha seyrektir. Mart ortasından haziran başına kadar süren ilkbahar geçişinde küçük sürüler oluşturur. Çoğunluğu nisanın ilk yarısında geçiş yapar. Örneğin, toplam 498 bireylik ilkbahar geçişinin 167'si 5 Nisan 1990'da Çukurova'da kaydedilmiştir [@kivit1994]. 7 Temmuz'da başlayan sonbahar geçişi de genellikle küçük sürüler halindedir ancak özellikle ağustosun ilk yarısından sonra lokal olarak dikkate değer sayılar kaydedilebilir. Örneğin, 22-23 Eylül 1974'te Hotamış Sazlığı'nda 135 birey kaydedilmiştir. Sonbahar geçişi ekim sonlarına kadar devam eder ve bu tarihten sonra bile ülkenin batı yarısında çok az sayılarda kaydedilir. Özellikle Gediz Deltası, Acıgöl ile Göksu ve Çukurova Deltaları ve hatta çok daha nadir olarak İç Anadolu'da olmak üzere kışın da zaman zaman çok az sayılarda kaydedilir.
 
@@ -358,7 +430,11 @@ Monotipik bir türdür.
 
 *Tringa glareola*, Wood Sandpiper
 
-***Yaygın ve çok sayıda bulunan geçit türüdür.***
+***Yaygın olarak çok sayıda bulunan geçit türüdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/489657081/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 İlkbahar geçişi mart ortasında başlar, nisanın ikinci çeyreğinde zirve yaparak mayıs sonuna kadar devam eder. Az sayılarda yazı da geçirebilir. Sonbahar göçünde haziran sonunda sürüler gözlenir ve geçit kasım sonuna kadar devam eder. Her zaman çok az sayılarda olmak üzere çok nadir olarak güneyde ve batıda kışlar.
 
@@ -378,7 +454,11 @@ Monotipik bir türdür.
 
 *Tringa totanus*, Common Redshank
 
-***Yaygın ve çok sayıda bulunan görülen yerli, yarı göçmen, geçit türü ve kış konuğudur.***
+***Yaygın olarak çok sayıda bulunan görülen yerli ve yarı göçmendir. Kışın göç alır, sayıları artar.***
+
+<iframe src="https://macaulaylibrary.org/asset/221395991/embed" height="518" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Tersakan ve Bolluk gölleri, Akşehir Gölü ve Sultansazlığı ve Van Gölü ile Erzurum çevresindeki sulakalanlar en önemli üreme alanlarıdır. Haziran ortasında Erçek Gölü'nde 400 birey kaydedilmiştir. Geçmişteki önemli alanlardan Yüksekova sulakalanları ve Ereğli Sazlıkları tarım uygulamalarındaki değişiklikler, kurutma ve otlatma baskısı nedenleriyle artık önemini kaybetmiştir.
 
@@ -400,6 +480,10 @@ Nominat *totanus* ve muhtemelen zayıf biçimde ayrılmış olan *ussuriensis* a
 
 ***Rastlantısal konuktur.***
 
+<iframe src="https://macaulaylibrary.org/asset/716675/embed" height="500" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Amerika kıtasına yaşayan, Eski Dünya'da rastlantısal konuk olan bir türdür. 25 Ağustos 1988'de Ardahan yakınlarında (Kars, Doğu Anadolu) bir bireyin gözlendiği iddia edilmiştir ancak bunu ispat edecek ayrıntılar eksiktir [@kasparek1990a]. Ancak daha sonra, 27 Kasım 2006'da Kızılırmak Deltası'nda ilk kışındaki bir birey yakalanıp fotoğraflanmıştır [@erciyas2008].
 
 ![](images/harita_Page_161.png)
@@ -416,7 +500,11 @@ Monotipik bir türdür.
 
 *Tringa erythropus*, Spotted Redshank
 
-***Yaygın ve oldukça çok sayıda bulunan geçit türü, lokal ve az sayıda kış konuğudur.***
+***Yaygın olarak oldukça çok sayıda bulunan geçit türü, lokal olarak az sayıda görülen kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/464916631/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Ana göç dönemleri mart ortası ile haziran başı ve temmuz başı ile kasım başı arasındadır. Geçişi, martın ikinci haftası ile eylülün üçüncü haftasında zirve yapar. Genellikle on bireyden daha küçük gruplar halinde gözlenir ancak istisna olarak sonbahar sonlarında İç Anadolu'da birkaç yüz bireyden oluşan sürüler kaydedilir. Örneğin, 21 Kasım 1969'da Sultansazlığı'nda 1300 birey ve 23 Eylül 1974'te Hotamış'ta 1000 birey ve 10 Nisan 1990'da Çukurova'da 605 bireye kadar kaydedilmiştir [@kivit1994].
 
@@ -436,7 +524,11 @@ Monotipik bir türdür.
 
 *Tringa nebularia*, Common Greenshank
 
-***Yaygın ve çok sayıda bulunan geçit türü ve az sayıda kış konuğudur.***
+***Yaygın olarak nispeten çok sayıda bulunan geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/618562227/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Mart ortasında başlayan geçişi nisanda yoğunlaşarak en az mayıs ortasına kadar sürer. Daha sonraki tarihlerde de ara sıra gözlenir ve bunların bazıları üremeden yazı İç Anadolu'da geçirir [@ost1978]. Sonbahar göçü ise temmuz ortasında başlar ve kasım sonuna kadar sürer. Sürüler çoğunlukla beş bireyden az olmak üzere genellikle oldukça küçüktür. Ancak nadir olarak 50 bireyden büyük gruplar da gözlenir. İlkbahar 1990'da Çukurova'da toplamda sadece 242 birey kaydedilmesi geçişin ölçüsünü göstermektedir [@kivit1994]. Sarıyar Barajı gibi iç kesimlerdeki donmayan sulakalanlar da düzenli kışlama girişimlerini destekliyor olabilir.
 
@@ -454,7 +546,11 @@ Monotipik bir türdür.
 
 *Arenaria interpres*, Ruddy Turnstone
 
-***Yaygın ve seyrek geçit türü ve lokal kış konuğudur.***
+***Yaygın olarak az sayıda görülen geçit türü ve lokal kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/113667771/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Kayıtların çoğu kıyısal sulakalanlardandır, anca İç Anadolu'daki sığ göllerde de bulunur. İlkbaharda, mart başında haziran başına kadar görülür, yoğun olarak nisan sonu ve mayısta geçiş yapar, geçişin medyan tarih 10 Mayıs'tır [@kasparek1992c]. Sonbaharda ise temmuz ortasından ekim sonuna kadar, yoğun olarak ağustos sonu ve eylülde kaydedilir; geçişin medyan tarih 14 Eylül'dür [@kasparek1992c]. Sürüler tipik olarak on bireyden daha azdır ancak 6-15 Nisan 1987'de Çukurova'da kaydedilen toplam 154 birey, buna ek olarak 2-22 Mayıs'ta kaydedilen 73 birey [@have_etal1988], Göksu Deltası'nda 14 Eylül 1972'de en az 50 ve Ekimde 43 bireylik bir grup [@kasparek1992c], 13 Nisan 1990'da Çukurova'da 22 ve 1 Mayıs ile 9 Haziran 1992 tarihleri arasında Kızılırmak Deltası'ndan geçen toplam 41 birey gibi istisna kayıtlar da vardır.
 
@@ -474,7 +570,11 @@ Türkiye'de nominat alttürü bulunur.
 
 *Calidris canutus*, Red Knot
 
-***Yaygın ve seyrek geçit türü ve çok lokal kış konuğudur.***
+***Yaygın olarak az sayıda görülen geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/608860896/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Geçit sırasında genellikle kıyısal sulakalanlarda bulunur. Türkiye'deki 41 kaydı ile yapılmış analize göre ilkbahar geçişi mart ortası ile haziran başı arasında olup, muhtemelen mayısın ilk yarısında zirve yapar. Sonbaharda ise temmuz sonu ile ekim sonu arasında görülür.
 
@@ -500,7 +600,11 @@ Batı ve Güney Afrika'da kışlayan ve Sibirya'nın kuzeyi ile muhtemelen Yakut
 
 *Calidris pugnax*, Ruff
 
-***Yaygın ve çok sayıda bulunan geçit türü, seyrek kış konuğudur.***
+***Yaygın olarak ve nispeten çok sayıda bulunan geçit türü ve az sayıda kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/623600422/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Tüm sulakalanlarda ve tarım arazilerinde kaydedilen en bol kıyı kuşlarındandır. İlkbahar göçü şubatta başlar ve haziran başına kadar devam eder. Çoğu martın ikinci yarısı ile nisanın ilk üç haftasında geçiş yapar. Genellikle oldukça yüksek sayılarda kaydedilir ve Ereğli Sazlıkları, Sultansazlığı, Balıkdamı, Kızılırmak Deltası ve Göksu Deltası gibi birçok alanda 1000 bireyin üzerindeki kayıtlar nadir değildir. Muhtemelen en yüksek sayılar İç Anadolu'da kaydedilir. 19 Nisan 1994'te Sultansazlığı'nda 10.000 birey ve 20 Şubat 1974'te Hotamış Sazlığı'nda 6856 birey kaydedilmiştir. Ancak,, ilkbahar 1990'da Çukurova'dan geçiş yapan toplam 34.000 bireyden fazlasını saymıştır [@kivit1994]. haziran sonu ile temmuz başındaki bazı kayıtların yazı geçiren bireylere ait olabileceğini öne sürer [@kasparek1992a].
 
@@ -520,7 +624,11 @@ Monotipik bir türdür. Önceleri *Philomachus pugnax* olarak adlandırılırdı
 
 *Calidris falcinellus*, Broad-billed Sandpiper
 
-***Yaygın ve az sayıda geçit türüdür.***
+***Yaygın olarak az sayıda görülen geçit türüdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/608265104/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Ülke genelindeki sulakalanlarda ve kıyı bölgelerinde seyrekten oldukça bola kadar düzenli olarak kaydedilen bir geçit türüdür. İlkbaharda 17 Nisan (bir defasında 11 Mart'ta) ile 29 Haziran (özellikle ortadaki iki hafta olmak üzere nisan sonu ile mayısta zirve yapar) tarihleri arasında geçer. Ülkenin en batı ucundan geçişi tipik olarak çok az sayıdadır. İç ve güney bölgelerdeki en yüksek kayıtlar şöyledir: 24 Nisan ile 20 Mayıs 1987 tarihleri arasında Çukurova Deltası'nda toplam 123 birey [@have_etal1988], yine bu alanda 1990 yılının Nisan sonu ile Mayıs sonu arasında 134 birey [@kivit1994], aynı alanda Ağyatan Gölü'nde 30 Nisan 1997'de 73 birey, aynı alanda Tuz Gölü'nde 8 Mayıs 2004'te 110 birey, Yumurtalık'ta 9 Mayıs 2005'te 150 birey [@balmer2005b] ve 10 Mayıs ile 7 Haziran 1992 tarihleri arasında Kızılırmak Deltası'nda toplam 218 bireye kadar [@hustings1994] kaydedilmiştir.
 
@@ -540,7 +648,11 @@ Türkiye'de nominat alttürü bulunur. Eskiden *Limicola falcinellus* olarak adl
 
 *Calidris ferruginea*, Curlew Sandpiper
 
-***Yaygın ve yer yer çok sayıda bulunan geçit türü ve nadir kış konuğudur.***
+***Yaygın olarak ve nispeten çok sayıda bulunan geçit türü ve nadir kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/442049721/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Ülkedeki sulakalanlarda en yoğun olarak geçiş yaptığı dönem nisan sonu ile mayıs sonu arasındadır. Genellikle küçük sürüler ya da birkaç birey olarak görülür. Kıyısal sulakalanlarda yüksek sayılarda kaydedilir. Örneğin, 18 Mayıs 1993'te Çamaltı Tuzlasında 1000 birey ve 13 Mayıs 2001'de Gediz Deltası'nda 478 birey kaydedilmiştir. 1987 ilkbaharında, çoğu mayısın ikinci haftasında olmak üzere neredeyse 3000 birey Çukurova'dan geçmiştir [@have_etal1988] ve 1990 ilkbaharında da, 8 Mayıs'taki 2808 birey dahil, 6029 birey kaydedilmiştir [@kivit1994]. Güneye geçiş temmuz ortasından eylül ortasına kadar gözlenir ve en büyük yoğunluk genellikle ağustosun ikinci haftası olur ve bunlar muhtemelen erişkinlerdir. 23 Ağustos 1988'de Tuzla Gölü'nde (Çukurova) 200 birey sayılmıştır. İlk yılındaki bireyleri içeren ikinci yoğunluk ise eylülün ortası ile sonunda gözlenir. Akdeniz'de en geç göçmenler 10 Ekim'de, İç Anadolu'da ise 6 Kasım'da kaydedilmiştir. Son zamanlarda Büyük Menderes Deltası ve daha düzensiz Göksu Deltası'nda küçük sürüler kışlayabilir.
 
@@ -558,7 +670,11 @@ Monotipik bir türdür.
 
 *Calidris temminckii*, Temminck's Stint
 
-***Yaygın ancak az sayıda geçit türü, nadir ve lokal kış konuğudur.***
+***Yaygın olarak az sayıda görülen geçit türü, nadir kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/609461713/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Anadolu'nun ana göç yolu üzerinde olmasına rağmen az sayıda kaydı vardır ve görünüşe göre bu tür nispeten gözden kaçmaktadır. İlkbahar 1990'da Çukurova'da sadece 103 birey gözlenmiştir. Bunun bir sebebi muhtemelen sulakalanların daha vejetasyonlu bölümlerini tercih etmesidir. İlkbahar geçişi mart sonunda başlar ve mayıs sonuna kadar sürer. En erken kayıtlar Akdeniz kıyıları ile İç Anadolu'nun güneyindedir. 21-25 Nisan 1973'te Göksu Deltası'nda kaydedilen 100 birey en büyük yoğunluktur ancak bilinmeyen bir tarihte Kulu Gölü'nde 300 birey gözlendiğine dair kanıtlanmamış bir rapor da vardır [@ertan1989]. Çoğunlukla İç Anadolu'daki sazlık sulakalanlarda ve genellikle 10 bireyden küçük sürüler halinde kaydedilir; 22 Mayıs'ta Eşmekaya'da kaydedilen 50 birey dikkate değerdir. Sonbahar geçişi ise temmuz sonundan eylül sonuna kadar gerçekleşir. Ekim ayında nispeten az sayıda gözlenir.
 
@@ -578,7 +694,11 @@ Monotipik bir türdür.
 
 *Calidris alba*, Sanderling
 
-***Yaygın ve seyrek geçit türü ve kış konuğudur.***
+***Yaygın olarak az sayıda görülen geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/405960071/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Kıyısal sulakalanlarda ve daha nadiren iç bölgelerdeki göllerde konaklar. Genellikle az sayılarda kaydedilir ancak göçün zirve yaptığı dönemlerde 100 bireyi aşan sürüler de görülmüştür. Örneğin, 25 Ağustos 1967'de Karataş'ta 150 birey, Çukurova'da 24 Nisan 1990'da 288 birey [@kivit1994] ve 29 Nisan 1997'de 300 birey kaydedilmiştir. İlkbahar göçü mayıs başı ile haziran başı arasında zirve yapar. Göçmen olduğu kesin olan ilk bireyler türün kışlamadığı iç bölgelerde nisanın ilk yarısında gözlenir. Sonbahar göçü ağustos ortasından kasım başına kadar gerçekleşir. 25 Temmuz gibi çok erken bir tarihte İç Anadolu'dan bir kaydı vardır.
 
@@ -598,7 +718,11 @@ Monotipik bir türdür.
 
 *Calidris alpina*, Dunlin
 
-***Yaygın ve çok sayıda bulunan geçit türü ve kış konuğudur.***
+***Yaygın olarak çok sayıda bulunan geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/120319391/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Göçün en yoğun olduğu dönemler nisan başından mayıs sonuna kadar ve temmuz sonundan kasım ortasına kadardır. İç Anadolu'daki tatlı su göllerinde 11 Mart kadar erken tarihlerde ve Karadeniz'de de temmuz ortasından itibaren göçmenler görülür. Genellikle gevşek sürüler oluşturur ancak mayıs ayında Acıgöl'de 1500 birey kaydedildiğinden [@kasparek1992a] bahsederken 4-15 Nisan 1987'de Çukurova'da 10.539 birey [@have_etal1988] ve 10 Nisan 1990'da aynı bölgede gerçekleştirilen bir araştırmada maksimum 3688 birey [@kivit1994] kaydetmiştir. 24 Eylül 2004'te Çukurova'da sayılan yaklaşık 1000 birey en yüksek sonbahar kaydıdır.
 
@@ -618,7 +742,11 @@ Muhtemelen çoğunluğu nominattır ve WIWO'nun Çukurova Deltası'nda 1988 yıl
 
 *Calidris minuta*, Little Stint
 
-***Yaygın ve çok sayıda bulunan geçit türü ve kış konuğudur.***
+***Yaygın olarak çok sayıda bulunan geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/620112811/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Genellikle çamurluk alanların olduğu her çeşit sulakalanda bulunur. Tüm aylarda, hatta çoğu tür için sonbahar göçünün diğer yerlere göre bir ay daha geç başladığı Akdeniz'de haziran sonunda bile kaydedilir. İlkbahar göçü çoğunlukla nisan başından haziran başına kadar gerçekleşir. İstisna olarak mayıs ortasında Ereğli Sazlığı'nda 8000-10.000 birey kaydedilmiştir [@kasparek1992a]. 1990 ilkbaharında Çukurova'dan geçtiği tahmin edilen yaklaşık 35.000 birey [@kivit1994] büyük sulakalan sistemlerinden ne ölçüde geçiş yaptığını gösteren iyi bir örnektir. Sonbaharda temmuz sonundan itibaren gözlenir ve her ne kadar genellikle birkaç yüzü geçmese de bu dönemde Ereğli Sazlığı'nda 8000 bireye kadar kaydedilmiştir [@kasparek1992a]. Acıgöl ve Tuz Gölü bu dönemde 1000 bireyden fazlasını barındıran alanlar arasındadır. Diğer alanların çoğunda göç eylül ortasında zirve yapar ve kasım başına kadar sürer. Sayımların çoğu sadece düşük iki basamaklı sayılar içerir.
 
@@ -640,6 +768,10 @@ Monotipik bir türdür.
 
 ***Rastlantısal konuktur.***
 
+<iframe src="https://macaulaylibrary.org/asset/238425541/embed" height="513" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 İyi belgelenmiş bir kaydı vardır. 17 Mayıs 1996'da Göksu Deltası'nda gözlenen bir birey Orta Doğu için ilk kayıttır [@browne1997]. İkinci kaydı 23 Mayıs 2001'de aynı alanda görülmüştür, burada gözlemcileri kuşu tanımlamışlar, ancak fotoğraf çekememişlerdir.
 
 ![](images/harita_Page_172.png)
@@ -658,13 +790,17 @@ Monotipik bir türdür.
 
 ***Rastlantısal konuktur.***
 
-9-10 Mayıs 2005'te Kulu Gölü'nde fotoğraflanarak belgelenen tek erkek birey ilk kaydıdır. Ardından 20 Eylül 2008'de Kozanlı Gölü'nde, 3 tanesi 6 Ekim 2008'de Adana Yumurtalık Lagünü'nde, 7-9 Ekim 2010'da Gala Gölü'nde (Edirne), 29-30 Eylül 2012'de Çukurova Deltası'nda ve 19-29 Ekim 2014'de Kulu Gölü'nde görülmüştür.
+<iframe src="https://macaulaylibrary.org/asset/116855631/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
+Türkiye’de oldukça nadir rastlanan bir türdür. Şimdiye kadar kaydedilen gözlemler sonbahar göç dönemine aittir. 9-10 Mayıs 2005'te Kulu Gölü'nde fotoğraflanarak belgelenen tek erkek birey ilk kaydıdır. İlk kayıt 20 Eylül 2008’de Konya Kozanlı Gölü’nden, ikinci kayıt ise 6 Ekim 2008’de Adana Ağyatan’da 2 birey olarak bildirilmiştir (S. Bekir). Daha sonraki yıllarda 7-9 Ekim 2010’da Edirne Enez Lagünleri’nde (E. Yoğurtçuoğlu), 19-26 Ekim 2014’te tekrar Konya Kozanlı Gölü’nde, 29-30 Eylül 2012'de Çukurova Deltası'nda, 30 Eylül-1 Ekim 2018’de Balıkesir Manyas Gölü’nde (A. Tüydeş), 77 Ekim 2020’de Gaziantep Hancağız Barajı’nda (M. E. Tiryaki) ve 8-9 Eylül 2024’te Manisa Dibekdere’de (M. Altunbaş) kaydedilmiştir.
 
 ![](images/harita_Page_173.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Asıl üreme alanı Orta ve Doğu Sibirya ve Amerika Tundralarıdır. Kışlama alanı Avustralya, Yeni Zelanda ve Güney Amerikadır.
 
 **Alttürler ve Sınıflandırma**
 
