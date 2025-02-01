@@ -12,6 +12,8 @@ Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir
 
 **Çevirmenler**: Özge Keşaplı Can, Özgür Keşaplı, Önder Cırık (sevgiyle anıyorum), Ömer Döndüren, Utku Perktaş, Kuzey Cem Kulaçoğlu, Bahtiyar Kurt (Türkiye Ornitoloji Tarihi), Sancar Barış (Bilgi Boşlukları).
 
+**İllüstrasyon**: Tora Benzeyen
+
 Bu kitap aynı yazarlar tarafından 2008 yılında yayımlanan “The Birds of Turkey” kitabının geliştirilmiş bir sürümüdür.
 
 ## Telif Hakkı

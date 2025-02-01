@@ -3,11 +3,7 @@ project:
   output-dir: docs
 
 book:
-  # repo-url: https://github.com/keremaliboyla/turkiye-kuslari
-  # repo-actions: [edit, issue]
-  title: "Türkiye Kuşları"
-  # author: "Kerem Ali Boyla, Guy Kirwan, Barbaros Demirci, Hilary Welch, Metehan Özen, Peter Castell, Tim Marlow"
-  # date: "2024-10-18"
+  title: "Türkiye Kuşlarının Doğa Tarihi"
   cover-image: kapak3.png
   favicon: kapak3.png
   chapters:
@@ -21,19 +17,19 @@ book:
     - 04_yirticilar.qmd
     - 05_bataklik-kuslari.qmd
     - 06_cilibitlar.qmd
-    - 07_cullukgiller.qmd 
-    # - 08_martilar.qmd
-    # - 09_karakuslari.qmd
-    # - 10_otucu-oncesi.qmd
-    # - 11_kargamsilar.qmd
-    # - 12_toygarlar.qmd
-    # - 13_civginlar.qmd
-    # - 14_otlegenler.qmd
-    # - 15_tirmasiklar.qmd
-    # - 16_sinekkapanlar.qmd
-    # - 17_serceler.qmd
-    # - 18_ispinozlar.qmd
-    # - ekler.qmd
+    - 07_cullukgiller.qmd
+  # - 08_martilar.qmd
+  # - 09_karakuslari.qmd
+  # - 10_otucu-oncesi.qmd
+  # - 11_kargamsilar.qmd
+  # - 12_toygarlar.qmd
+  # - 13_civginlar.qmd
+  # - 14_otlegenler.qmd
+  # - 15_tirmasiklar.qmd
+  # - 16_sinekkapanlar.qmd
+  # - 17_serceler.qmd
+  # - 18_ispinozlar.qmd
+  # - ekler.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -43,16 +39,9 @@ format:
   html:
     grid:
       sidebar-width: 200px
-      margin-width: 180px
-      # gutter-width: 1.5rem
+      margin-width: 200px
     theme: cosmo
     number-depth: 1
-  # typst:
-  #   papersize: a4
-  #   margin:
-  #     x: 1cm
-  #     y: 1cm
-  #   columns: 2
   # epub:
   #   toc: true
   #   lang: tr-TR
