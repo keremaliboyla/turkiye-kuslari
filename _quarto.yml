@@ -6,6 +6,10 @@ book:
   title: "Türkiye Kuşlarının Doğa Tarihi"
   cover-image: kapak3.png
   favicon: kapak3.png
+  repo-url: https://github.com/keremaliboyla/turkiye-kuslari
+  repo-actions: [edit, issue]
+  sharing: [twitter, facebook]
+  
   chapters:
     - index.qmd
     - 00_onsoz.qmd
@@ -40,10 +44,12 @@ format:
     grid:
       sidebar-width: 200px
       margin-width: 200px
+      gutter-width: 1.5rem
     theme: cosmo
     number-depth: 1
   # epub:
   #   toc: true
   #   lang: tr-TR
+
 
 editor: visual

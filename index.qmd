@@ -10,11 +10,11 @@ Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir
 
 **Katkı Koyanlar**: Güneşin Aydemir, Sancar Barış, Bahtiyar Kurt, Gernant Magnin, Richard F. Porter ve Geoff Welch
 
-**Çevirmenler**: Özge Keşaplı Can, Özgür Keşaplı, Önder Cırık (sevgiyle anıyorum), Ömer Döndüren, Utku Perktaş, Kuzey Cem Kulaçoğlu, Bahtiyar Kurt (Türkiye Ornitoloji Tarihi), Sancar Barış (Bilgi Boşlukları).
+**Çevirmenler**: Özge Keşaplı Can, Özgür Keşaplı, Önder Cırık, Ömer Döndüren, Utku Perktaş, Kuzey Cem Kulaçoğlu, Bahtiyar Kurt (Türkiye Ornitoloji Tarihi), Sancar Barış (Bilgi Boşlukları).
 
 **İllüstrasyon**: Tora Benzeyen
 
-Bu kitap aynı yazarlar tarafından 2008 yılında yayımlanan “The Birds of Turkey” kitabının geliştirilmiş bir sürümüdür.
+Bu kitap aynı yazarlar tarafından 2008 yılında yayımlanan “The Birds of Turkey” kitabının Türkçe'ye uyarlanmış, geliştirilmiş ve güncellenmiş bir sürümüdür.
 
 ## Telif Hakkı
 
@@ -22,8 +22,8 @@ Kitap [Quarto publishing system](https://quarto.org/) ile hazıranmıştır.
 
 Bu kitap [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) ile lisanslanmıştır. Kitabının tüm hakları yazarlarına aittir. Bu, kitabın kopyalanması, dağıtılması, sergilenmesi, ve eserden türetilmiş çalışmaların oluşturulması dahil olmak üzere birçok faaliyeti serbest bırakır, ancak eser üzerindeki orijinal yazarları belirtmeniz şarttır.
 
-Kaynak gösterme: Boyla, K.A., Kirwan, G.M., Demirci, B., Welch, H., Özen, M., Castell, P., & Marlow, T. (2024). *Türkiye Kuşları.* <https://keremaliboyla.github.io/turkiye-kuslari/>
+Kaynak gösterme: Boyla, K.A., Kirwan, G.M., Demirci, B., Welch, H., Özen, M., Castell, P., & Marlow, T. (2025). *Türkiye Kuşlarının Doğa Tarihi.* <https://keremaliboyla.github.io/turkiye-kuslari/>
 
 ## Düzeltme Önerileri
 
-Metindeki yazım hataları, eksik bilgiler veya düzeltme önerilerinizi yazarın e-posta adresine (kerem.boyla\@gmail.com) gönderebilirsiniz. Ayrıca, uzmanlar ve akademisyenler GitHub üzerinden metinlere erişebilir ve düzeltmelerini doğrudan paylaşabilirler.
+Metindeki yazım hataları, eksik bilgiler veya düzeltme önerilerinizi yazarın e-posta adresine (kerem.boyla \[at\] gmail.com) gönderebilirsiniz. Ayrıca, uzmanlar ve akademisyenler GitHub üzerinden metinlere erişebilir ve düzeltmelerini doğrudan paylaşabilirler.
