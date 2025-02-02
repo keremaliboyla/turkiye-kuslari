@@ -47,8 +47,5 @@ format:
       gutter-width: 1.5rem
     theme: cosmo
     number-depth: 1
-  # epub:
-  #   toc: true
-  #   lang: tr-TR
 
 editor: visual
