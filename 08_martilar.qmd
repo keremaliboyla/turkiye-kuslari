@@ -1,4 +1,4 @@
----
+﻿---
 title: "Martılar"
 ---
 
@@ -8,9 +8,13 @@ title: "Martılar"
 
 ***Rastlantısal konuktur.***
 
+<iframe src="https://macaulaylibrary.org/asset/347362541/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Tek kaydı vardır. 15 Temmuz 1986'da Göksu Deltası'nda 5 birey fotoğraflanmıştır [@bouwman1987]. Tür, esasen çok nadir olarak yolunu şaşırmakta ve Türkiye kaydı en kuzey kaydıdır. 1885'de Suriye Lübnan sınırında yine 5 bireylik bir grup kaydedilmiştir [@hue1970; @ramadan1999].
 
-![](images/harita_Page_129.png)
+![](images/harita_Dromas ardeola.png)
 
 **Üreme**
 
@@ -24,35 +28,45 @@ Monotipik bir türdür.
 
 *Cursorius cursor*, Cream-colored Courser
 
-***Lokal ve az sayıda yaz konuğudur.***
+***Lokal olarak az sayıda bulunan yaz konuğudur.***
 
-Birecik, Suruç, Harran ve Akçakale çevresinde yaz konuğudur (Kasparek 1992a). En erken kayıt 3 Nisan'dır ancak bu bölgede nisan-ağustos dönemi dışındaki gözlemler halen çok çok azdır. 12 Ekim 2007'de Ceylanpınar'da görülen 6 kuş en geç kayıttır. 30 Haziran 2008'de 40'tan fazla kuş, kalabalık bir sürüdür (Sandgrouse 31: 100). Ancak ardında 6 Ağustos 2009'da Ceylanpınar ve Akçakale yolunda 10 km boyunca kaydedilen 128 kuş bugüne kadar kaydedilmiş en yüksek (Balmer ve Murdoch 2010, Sandgrouse 32: 91-102).
+<iframe src="https://macaulaylibrary.org/asset/341573381/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-Hatay'daki İskenderun ve Kırıkhan'daki haziran ortası ve temmuz başı kayıtları üreyen bireyler olmalıdır. Birecik'te eylül sonunda (1973) kaydedilen on bireylik bir grup, göç öncesi toplanma olabilir. Tuz Gölü ve Çukurova'dan mayıs sonunda olan kayıtlar kesinlikle göç edenlerle ilgilidir (Székely 1998). Doğu Anadolu'dan sonbahar sonundaki bir kaydın (muhtemelen ergin bir birey, Doğubayazıt, 12 Kasım 1970) daha kuzeyden göç eden birey ait olduğu farz edilebilir. Gerçekte bu bireyin taksonomisi düşündüğünde, tanımlaması yapılabilen Kafkas ırkından (bogolubovi) olduğu düşünülebilir. 23 Ağustos 1946'da Büyükçekmece'den muhtemelen hatalı bir kayıt vardır (Kumerloeve 1970a). Her ne kadar ilgili gözlemci güvenilirliği düşük olan Abbas Celaloğlu olsa da, 20. yüzyıl'ın ilk yarısında günümüze oranla batı rastlantısalının daha sıklıkla kaydedildiği unutulmamalıdır (Snow ve Perrins 1998).
+</iframe>
 
-![](images/harita_Page_181.png)
+Birecik, Suruç, Harran ve Akçakale çevresinde yaz konuğudur [@kasparek1992a]. En erken kayıt 3 Nisan'dır ancak bu bölgede nisan-ağustos dönemi dışındaki gözlemler halen çok çok azdır. 12 Ekim 2007'de Ceylanpınar'da görülen 6 kuş en geç kayıttır. 30 Haziran 2008'de 40'tan fazla kuş, kalabalık bir sürüdür [@balmer2009around]. Ancak ardında 6 Ağustos 2009'da Ceylanpınar ve Akçakale yolunda 10 km boyunca kaydedilen 128 kuş bugüne kadar kaydedilmiş en yüksek [@balmer2009around; @balmer2010around]. Son yıllarda giderek artan sıkılıkla, İç Anadolu'da görülür. Tuz Gölü ve Çukurova'dan mayıs sonunda olan kayıtları vardır [@szekely1998]. Aksaray çevresine yerleşmiş olması muhtemeldir.
+
+İlkbahar Göçü'nde Akdeniz kıyılarındaki kumluk arazilerde görülür, Çukurova'dan mayıs sonunda olan kayıtları vardır [@szekely1998].
+
+İskenderun ve Kırıkhan'daki haziran ortası ve temmuz başı kayıtları üreyen bireyler olmalıdır. Birecik'te eylül sonunda (1973) kaydedilen on bireylik bir grup, göç öncesi toplanma olabilir. Doğu Anadolu'dan sonbahar sonundaki bir kaydın (muhtemelen ergin bir birey, Doğubayazıt, 12 Kasım 1970) daha kuzeyden göç eden birey ait olduğu farz edilebilir. Gerçekte bu bireyin taksonomisi düşündüğünde, tanımlaması yapılabilen Kafkas *bogolubovi* alttüründen olduğu düşünülebilir. 23 Ağustos 1946'da Büyükçekmece'den muhtemelen hatalı bir kayıt vardır [@kumerloeve1970a]. Her ne kadar ilgili gözlemci güvenilirliği düşük olan Abbas Celaloğlu olsa da, 20. yüzyıl'ın ilk yarısında günümüze oranla batı rastlantısalının daha sıklıkla kaydedildiği unutulmamalıdır [@snow1998].
+
+![](images/harita_Cursorius cursor.png)
 
 **Üreme**
 
-Erişkinler Birecik yakınlarında esasen tepeler bulunan açık taşlık alanlarda, üreme döneminde çiftler halinde ve kur yaparken kaydedilmiş ancak aralarında bir yavrunun da olduğu 10'un üzerinde birey kaydedilmiş olmasına rağmen (29 Mayıs 2005) kesin bir yuva tanımlanamamıştır. 7 Eylül 1994'de Birecik'te 2 yavrusuyla bir çift ve yalnız bir birey (Davidson ve Kirwan 1995) ve 10 Haziran 2004'de 4 birey kaydedilmiştir ve bunlar lokal üreyenleri ifade etmektedir. Suriye'nin komşu bölgelerinde ve başka yerlerde, yuvası açık taşlıklar veya kumlu çöllerde zeminde çevrelenmemiş derin olmayan bir çukurdur ve daha çok nisanda iki yumurta yapar.
+Erişkinler Birecik yakınlarında esasen tepeler bulunan açık taşlık alanlarda, üreme döneminde çiftler halinde ve kur yaparken kaydedilmiş ancak aralarında bir yavrunun da olduğu 10'un üzerinde birey kaydedilmiş olmasına rağmen (29 Mayıs 2005) kesin bir yuva tanımlanamamıştır. 7 Eylül 1994'de Birecik'te 2 yavrusuyla bir çift ve yalnız bir birey [@davidson1995] ve 10 Haziran 2004'de 4 birey kaydedilmiştir ve bunlar lokal üreyenleri ifade etmektedir. Suriye'nin komşu bölgelerinde ve başka yerlerde, yuvası açık taşlıklar veya kumlu çöllerde zeminde çevrelenmemiş derin olmayan bir çukurdur ve daha çok nisanda iki yumurta yapar.
 
 **Alttürler ve Sınıflandırma**
 
-Türkiye'de bogolubovi alttürü bulunur (Dickinson 2003). Buna rağmen nominat alttür de bulunabilir ([@roselaar1995]). Türkiye'den geçerli bir kayıt yoktur. Bu yüzden emin olmak imkânsızdır ancak Suriye ve Irak çöllerinde bulunan cursor'un Türkiye'nin buralara komşu bölgelerinde bulunması bogolubovi'den daha akla yakın görünmektedir. Bu alttürün yayılışı güney Hazar Denizi'nin batısına kadar ulaşmaktadır. Her ne olursa olsun, bu formlar arasındaki varyasyon düşüktür ve bogolubovi burada vurgulanan referanslar altında tanımlanamaz.
+Türkiye'de *bogolubovi* alttürü bulunur [@dickinson2003]. Buna rağmen nominat alttür de bulunabilir ([@roselaar1995]). Türkiye'den geçerli bir kayıt yoktur. Bu yüzden emin olmak imkânsızdır ancak Suriye ve Irak çöllerinde bulunan *cursor* alttürünün Türkiye'nin buralara komşu bölgelerinde bulunması *bogolubovi* alttüründen daha akla yakın görünmektedir. Bu alttürün yayılışı güney Hazar Denizi'nin batısına kadar ulaşmaktadır. Her ne olursa olsun, bu formlar arasındaki varyasyon düşüktür ve bogolubovi burada vurgulanan referanslar altında tanımlanamaz.
 
 ## Bataklıkkırlangıcı
 
 *Glareola pratincola*, Collared Pratincole
 
-***Yaygın ve nispeten çok sayıda bulunan yaz konuğudur.***
+***Yaygın olarak nispeten çok sayıda bulunan yaz konuğudur.***
 
-En önemli üreme alanları şunlardır: Meriç Deltası (200 çift), Kocaçay Deltası (80 çift), Büyük Menderes Deltası (85 çift), Kızılırmak Deltası (115 çiftin üzerinde), Hotamış Bataklığı (100 çift), Tuz Gölü (200 çift), Göksu Deltası (300 çift), Tuzla Gölü (150 çift) (Magnin vd. in Heath ve Evans 2000). Kurutulmadan önce Amik Gölü'nde önemli sayıda ürüyordu. Kasparek (1992a) tüm ülkede ürediğini ancak Güneydoğu Anadolu, Doğu Anadolu ve Karadeniz'de kısmen lokal olduğunu bildirmektedir. Kumerloeve (1970a), mayıs sonunda uygun üreme habitatında iki çift gözlenmesine dayanarak, türün Van Gölü'nde tek olarak yuva yaptığını iddia etmektedir. Bununla birlikte, haziranın ikinci yarısında Murat Vadisi'nde son zamanlarda gözlenmiştir (1999) ve aynı bölgede kara kanatlı bataklıkkırlangıcının şüpheli kayıtları mevcuttur. Bazen birkaç yüz bireylik sürüler görülür (Uluabat Gölü, Eylül 1971 ve istisnai olarak 1500 birey, Amik Gölü, Eylül 1967) ancak genelde gruplar daha küçüktür. İlkbahar göçü mart sonunda başlar ve en azından mayıs sonu/haziran ortasına kadar sürer. Muhtemelen nisan ortasında zirve yapar. Sonbahar göçü ağustos ortasından eylül ortasına kadar gerçekleşir.
+<iframe src="https://macaulaylibrary.org/asset/331778791/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-![](images/harita_Page_182.png)
+</iframe>
+
+En önemli üreme alanları şunlardır: Meriç Deltası (200 çift), Kocaçay Deltası (80 çift), Büyük Menderes Deltası (85 çift), Kızılırmak Deltası (115 çiftin üzerinde), Hotamış Bataklığı (100 çift), Tuz Gölü (200 çift), Göksu Deltası (300 çift), Tuzla Gölü (150 çift) [@heath2000]. Kurutulmadan önce Amik Gölü'nde önemli sayıda ürüyordu. tüm ülkede ürediğini ancak Güneydoğu Anadolu, Doğu Anadolu ve Karadeniz'de kısmen lokal olduğunu bildirmektedir [@kasparek1992a]. mayıs sonunda uygun üreme habitatında iki çift gözlenmesine dayanarak, türün Van Gölü'nde tek olarak yuva yaptığını iddia etmektedir [@kumerloeve1970a]. Bununla birlikte, haziranın ikinci yarısında Murat Vadisi'nde son zamanlarda gözlenmiştir (1999) ve aynı bölgede kara kanatlı bataklıkkırlangıcının şüpheli kayıtları mevcuttur. Bazen birkaç yüz bireylik sürüler görülür (Uluabat Gölü, Eylül 1971 ve istisnai olarak 1500 birey, Amik Gölü, Eylül 1967) ancak genelde gruplar daha küçüktür. İlkbahar göçü mart sonunda başlar ve en azından mayıs sonu/haziran ortasına kadar sürer. Muhtemelen nisan ortasında zirve yapar. Sonbahar göçü ağustos ortasından eylül ortasına kadar gerçekleşir.
+
+![](images/harita_Glareola pratincola.png)
 
 **Üreme**
 
-Koloniler düzlük alanlarda, tipik olarak göl ve bataklıkların kuru kıyılarında, çıplak zeminlerde ve seyrek çalılı, sıklıkla bataklık ve çayırların arasında bulunur. Aynı zamanda deniz börülcesi bulunan kuru tuzcul bataklıklarda, ekime hazırlanan nemli tarlalarda, kıyısal kumullarda ve sıklıkla iç göllerdeki çıplak düz adalarda ürer. Tek üreyen çiftler de bulunur ancak çoğunlukla 10-30 çiftlik küçük koloniler halinde ürer ve 24 Haziran 1973'de Kavak'ta 100 çift kaydedilmiştir. Yuvası çıplak zeminde derin olmayan bir kazıntıdır, çevrelenmemiştir veya az sayıda küçük bitkisel materyaller bulunur. Yumurta sayısı 3 (13 yuvada), 2 (5 yuvada), 1 (5 yuvada), bu az sayıdaki yumurtalar tamamlanmamış kuluçkalara aittir. Yavru sayısı 2 (4 yuvada), 1 (1 yuvada). **AKD.** 1987'de Çukurova'da, erişkinler nisanın ikinci haftası gelmiştir, mayısta sayıları artmıştır (van der Have vd. 1988). Aynı yerde 6 Mayıs 1990'da içinde 1, 2 ve 3 yumurta bulunan 3 yuva ve 11 Mayıs 1990'da 1-2 yumurtalı birkaç yuva kaydedilmiştir. Göksu Deltası'nda, kuluçkadaki bir yuvada ikinci yumurta 22 Mayıs 1993'de koyulmuştur. 9 Haziran 1993'de 5-7 günlük 2 yavru görülmüş ve bu durum yumurtlamanın mayıs ortasında olduğunu göstermektedir. 28 Temmuz 1971 ve 19 Ağustos 1986'da yeni uçmaya başlamış 2 yavru görülmüştür. Amik Gölü'nde 18-20 Haziran 1966'da yumurtalı yuvalar bulunmuştur. **İÇA.** Sultansazlığı'nda 3 Haziran 1982'de üçer yumurtalı 3 yuva ve başka 2 yuvada yeni yumurtadan çıkmış bir yavru ve bir yumurta kaydedilmiştir ve bu durum yumurtlamanın mayıs ortasında olduğunu ifade etmektedir (Kasparek 1985). 15 Mayıs 1987'de Hotamış'ta bir boş ve içinde bir yumurta olan bir yuva, 4 Haziran 1975'de iki yavru kaydedilmiştir (Kirwan 1993a). Bu yavrular neredeyse uçabilecek büyüklüktedir ve bu durum yumurtlamanın nisan sonunda olduğunu göstermektedir ki bu diğer kayıtlardan erkendir. Bolluk Gölü'ndeki bir adada ikisinde 3, birinde 2 ve diğerinde 1 yumurta olan 4 yuva 15 Mayıs 2004'de görülmüştür. **EGE.** 16 Mayıs 1899'da İzmir yakınlarındaki kıyısal lagünlerde içinde üçer yumurta olan birkaç yuva [@selous1900] ve 1 Temmuz 1966'da tamamen tüylenmiş iki yavru (kesin lokalite belirsiz) gözlenmiştir. **MAR.** 1993'de Kocaçay Deltası'nda toplamda 80-100 çiftlik üç koloni vardı ve en erken varış tarihi nisan ortasıydı (Ertan 1996). 11 Haziran 1998'de Uluabat Gölü'nde küçük bir koloni üreme alanı yeniden sürülünce yer değiştirmiştir ve yakındaki diğer bir küçük koloniye katılmıştır (Welch ve Welch 1998b). 25 Haziran 1973'de Kavak'ta neredeyse uçmaya yakın büyüklükte iki yavru kaydedilmiştir. **KAR.** 1992'de Kızılırmak Deltası'nda üreyen popülasyon daha çok kuru çamurlu topraktaki kurumuş bataklıklardaki, kısmen büyümüş 10-20 cm boyundaki Rumex vejetasyonundaydı. 30 Nisan 1992'de kur davranışı ve 10 Mayıs 1992'de üçer yumurtalı 5 yuva ve bir yumurtalı bir yuva kaydedildi [@hustings1994].
+Koloniler düzlük alanlarda, tipik olarak göl ve bataklıkların kuru kıyılarında, çıplak zeminlerde ve seyrek çalılı, sıklıkla bataklık ve çayırların arasında bulunur. Aynı zamanda deniz börülcesi bulunan kuru tuzcul bataklıklarda, ekime hazırlanan nemli tarlalarda, kıyısal kumullarda ve sıklıkla iç göllerdeki çıplak düz adalarda ürer. Tek üreyen çiftler de bulunur ancak çoğunlukla 10-30 çiftlik küçük koloniler halinde ürer ve 24 Haziran 1973'de Kavak'ta 100 çift kaydedilmiştir. Yuvası çıplak zeminde derin olmayan bir kazıntıdır, çevrelenmemiştir veya az sayıda küçük bitkisel materyaller bulunur. Yumurta sayısı 3 (13 yuvada), 2 (5 yuvada), 1 (5 yuvada), bu az sayıdaki yumurtalar tamamlanmamış kuluçkalara aittir. Yavru sayısı 2 (4 yuvada), 1 (1 yuvada). **AKD.** 1987'de Çukurova'da, erişkinler nisanın ikinci haftası gelmiştir, mayısta sayıları artmıştır [@have_etal1988]. Aynı yerde 6 Mayıs 1990'da içinde 1, 2 ve 3 yumurta bulunan 3 yuva ve 11 Mayıs 1990'da 1-2 yumurtalı birkaç yuva kaydedilmiştir. Göksu Deltası'nda, kuluçkadaki bir yuvada ikinci yumurta 22 Mayıs 1993'de koyulmuştur. 9 Haziran 1993'de 5-7 günlük 2 yavru görülmüş ve bu durum yumurtlamanın mayıs ortasında olduğunu göstermektedir. 28 Temmuz 1971 ve 19 Ağustos 1986'da yeni uçmaya başlamış 2 yavru görülmüştür. Amik Gölü'nde 18-20 Haziran 1966'da yumurtalı yuvalar bulunmuştur. **İÇA.** Sultansazlığı'nda 3 Haziran 1982'de üçer yumurtalı 3 yuva ve başka 2 yuvada yeni yumurtadan çıkmış bir yavru ve bir yumurta kaydedilmiştir ve bu durum yumurtlamanın mayıs ortasında olduğunu ifade etmektedir [@kasparek1985]. 15 Mayıs 1987'de Hotamış'ta bir boş ve içinde bir yumurta olan bir yuva, 4 Haziran 1975'de iki yavru kaydedilmiştir [@kirwan1993a]. Bu yavrular neredeyse uçabilecek büyüklüktedir ve bu durum yumurtlamanın nisan sonunda olduğunu göstermektedir ki bu diğer kayıtlardan erkendir. Bolluk Gölü'ndeki bir adada ikisinde 3, birinde 2 ve diğerinde 1 yumurta olan 4 yuva 15 Mayıs 2004'de görülmüştür. **EGE.** 16 Mayıs 1899'da İzmir yakınlarındaki kıyısal lagünlerde içinde üçer yumurta olan birkaç yuva [@selous1900] ve 1 Temmuz 1966'da tamamen tüylenmiş iki yavru (kesin lokalite belirsiz) gözlenmiştir. **MAR.** 1993'de Kocaçay Deltası'nda toplamda 80-100 çiftlik üç koloni vardı ve en erken varış tarihi nisan ortasıydı [@ertan1996]. 11 Haziran 1998'de Uluabat Gölü'nde küçük bir koloni üreme alanı yeniden sürülünce yer değiştirmiştir ve yakındaki diğer bir küçük koloniye katılmıştır [@welch1998b]. 25 Haziran 1973'de Kavak'ta neredeyse uçmaya yakın büyüklükte iki yavru kaydedilmiştir. **KAR.** 1992'de Kızılırmak Deltası'nda üreyen popülasyon daha çok kuru çamurlu topraktaki kurumuş bataklıklardaki, kısmen büyümüş 10-20 cm boyundaki Rumex vejetasyonundaydı. 30 Nisan 1992'de kur davranışı ve 10 Mayıs 1992'de üçer yumurtalı 5 yuva ve bir yumurtalı bir yuva kaydedildi [@hustings1994].
 
 **Alttürler ve Sınıflandırma**
 
@@ -62,17 +76,21 @@ Türkiye'de nominat alttürü bulunur.
 
 *Glareola nordmanni*, Black-winged Pratincole
 
-***Lokal ve oldukça seyrek geçit türüdür.***
+***Lokal olarak ve seyrek aralıklarla görülen geçit türüdür.***
 
-Tür, daha çok doğu bölgelerinde özellikle sonbaharda rastlanan seyrek ve lokal bir geçit türü olarak bilinir. İlkbaharda nisan başı ile haziran başı arasında geçer, mayısın ilk haftasında yoğunlaşır. Sonbaharda ağustos başı ve ekim sonu arasında gözlenir, eylülün ikinci yarısında yoğundur. Ara sıra yüksek sayılarda Kuyucuk Gölü ve Erzurum Ovası'nda rastlanır. Eski kayıtlarında 15 Eylül 1968'de 230 tanesi Mogan Gölü'nde, 7 Eylül 1980'de 160 tane Ereğli Sazlığı'nda, 18 Eylül 1989'da 160 tane Muş'un güneydoğusunda, 20 Eylül 1989'da yaklaşık 1000 tane Bulanık'ta gözlenmiş ve 189 tanesi 15 Eylül 2000'de Van Gölü'nde fotoğraflanmıştır. Kızılırmak Deltası'nda azami 60 kuşluk küçük sürüler Kızılırmak Deltası ve Çukurova ve Göksu Deltası'nda görülmüştür. Marmara Bölgesi'nde sadece 7 eski kaydı vardır, bunlardan ikisi Alléon'un topladığı örneklerdir. Ege'den tek kaydı 2 Ekim 2010'da Işıklı Gölü'ndeki bireydir (Balmer ve Murdoch 2010.
+<iframe src="https://macaulaylibrary.org/asset/341227481/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-Yakın zamana kadar düzenli olarak Murat Nehri vadisinde çok az sayıda kaydedilmiş ve burada muhtemelen üremiştir. Ancak son zamanlarda kaydı gelmemiş, dolayısıyla geçmişteki üreme olayları düzensiz ve rastlantısal davranışlar olarak değerlendirebilir. Bunun ötesinde 1999 yılında bataklıkkırlangıcının üremesi, daha önceki kayıtlardaki tür tayinini şüphe altında bırakmıştır. Bataklıkkırlangıcının tayininde kullanılan kanadında firar hattındaki beyaz şeridin, yazın ortasına doğru hızla yıpranması ile tür tahini zordur ve kara kanatlının tayininde birçok kriterin kullanılması gerekmektedir. Dolayısıyla İç Anadolu'da 1970'lerde ve 1980'lerin ortasından gelen iddiaların hepsi reddedilmiş ve burada dâhil edilmemiştir.
+</iframe>
 
-![](images/harita_Page_183.png)
+Tür, daha çok doğu bölgelerinde özellikle sonbaharda rastlanan seyrek ve lokal bir geçit türü olarak bilinir. İlkbaharda nisan başı ile haziran başı arasında geçer, mayısın ilk haftasında yoğunlaşır. Sonbaharda ağustos başı ve ekim sonu arasında gözlenir, eylülün ikinci yarısında yoğundur. Ara sıra yüksek sayılarda Kuyucuk Gölü ve Erzurum Ovası'nda rastlanır. Eski kayıtlarında 15 Eylül 1968'de 230 tanesi Mogan Gölü'nde, 7 Eylül 1980'de 160 tane Ereğli Sazlığı'nda, 18 Eylül 1989'da 160 tane Muş'un güneydoğusunda, 20 Eylül 1989'da yaklaşık 1000 tane Bulanık'ta gözlenmiş ve 189 tanesi 15 Eylül 2000'de Van Gölü'nde fotoğraflanmıştır. Kızılırmak Deltası'nda azami 60 kuşluk küçük sürüler Kızılırmak Deltası ve Çukurova ve Göksu Deltası'nda görülmüştür. Marmara Bölgesi'nde sadece 7 eski kaydı vardır, bunlardan ikisi Alléon'un topladığı örneklerdir. Ege'den tek kaydı 2 Ekim 2010'da Işıklı Gölü'ndeki bireydir [@balmer2010around].
+
+Yakın zamana kadar üreme döneminde düzenli olarak Murat Nehri vadisinde az sayıda bulunduğu ve burada ürediği iddia edilmiştir. Van yakınındaki bir bataklıkta 30 Mayıs 1969'da kur yapan bir çift gözlenmiş, Bulanık yakınında 10 Haziran 1987'de territoryum savunan bir çift ve çiftlerden birinin kanadı kırık numarası yaptığı gözlenmiş ve sonra ısrarla nehir üzerindeki adalardan birine ısrarla geri döndüğü izlenmiştir. Yapılan kapsamlı aramaya rağmen yuva bulunamamıştır [@eames1989]. 10 Haziran 1987'de Balatos'ta iddaya göre bir bataklıkkırlangıcı ile eşleşmiş bir erişkin gözlenmiş, Murat Nehri Yoncalı'da 23 Temmuz 1987'de 20 erişkin ve gençler idda edilmiş, 13 Ağustos 1989'da iki erişkin ve iki henüz uçamayan yavrular iddia edilmiştir. Son yıllardaki en güncel iddia, 3 Haziran 2009'da Horasan'ın 2 km güneybatısında düz bir nehir adasında iki üreyen çift iddia edilmiş, kuşlar belirgin bir köprü üzerinden izlenmiş ve çiftlerin arasında yaklaşık 130 m olduğu tahmin edilmiştir. Ancak 1999 yılında bataklıkkırlangıcının bu bölgede ürediğinin ortaya çıkması, daha önceki kayıtlardaki tür tayinini şüphe altında bırakmıştır. Bataklıkkırlangıcının tayininde kullanılan kanadında firar hattındaki beyaz şeridin, yazın ortasına doğru hızla yıpranması ile tür tahini zordur ve kara kanatlının tayininde birçok kriterin kullanılması gerekmektedir. Dolayısıyla İç Anadolu'da 1970'lerde ve 1980'lerin ortasından gelen iddiaların hepsi reddedilmiş ve burada dâhil edilmemiştir.
+
+![](images/harita_Glareola nordmanni.png)
 
 **Üreme**
 
-Tüm üreme gözlemleri Doğu Anadolu'dan gelir ve son zamanlardaki değerlendirmelere göre kara kanatlı değil, asıl bataklıkkırlangıcına ait olabilir. **DOA.** Van yakınındaki bir bataklıkta 30 Mayıs 1969'da kur yapan bir çift gözlenmiş, Bulanık yakınında 10 Haziran 1987'de territoryum savunan bir çift ve çiftlerden birinin kanadı kırık numarası yaptığı gözlenmiş ve sonra ısrarla nehir üzerindeki adalardan birine ısrarla geri döndüğü izlenmiştir. Yapılan kapsamlı aramaya rağmen yuva bulunamamıştır (Eames 1989). Bu tip davranışlar büyük ihtimaller yumurtanın değil çok küçük yavruların varlığının habercisidir. Görünüşe göre bir bataklıkkırlangıcı ile eşleşmiş bir erişkin 10 Haziran 1987'de Balatos'ta gözlenmiş, Murat Nehri Yoncalı'da 23 Temmuz 1987'de 20 erişkin ve gençler gözlenmiş, 13 Ağustos 1989'da iki erişkin ve iki henüz uçamayan yavru görülmüştür. Son yıllardaki en güncel iddia, 3 Haziran 2009'da Horasan'ın 2 km güneybatısında düz bir nehir adasında iki üreyen çift iddia edilmiş, kuşlar belirgin bir köprü üzerinden izlenmiş ve çiftlerin arasında yaklaşık 130 m olduğu tahmin edilmiştir. Bu 1980'lerden beri gelen ilk iddiadır.
+Tüm üreme gözlemleri Doğu Anadolu'dan gelir ve son zamanlardaki değerlendirmelere göre kara kanatlı değil, asıl bataklıkkırlangıcına ait olabilir.
 
 **Alttürler ve Sınıflandırma**
 
@@ -84,11 +102,15 @@ Monotipik bir türdür.
 
 ***Rastlantısal konuktur.***
 
-Toplam dokuz güncel kaydı vardır: 23 Eylül 1979'da Boğaziçi'nde iki erişkin ya da ergen [@martins1989], 3 Haziran 1991'de Kulu Gölü'nde bir erişkin fotoğraflanmıştır, 11 Haziran 1991'de Taşucu açıklarında iki genç [@kirwanmartins1994], 17 Eylül 1991'de İstanbul yakınlarında Karaburun açıklarında bir birey [@robel1992], 24 Mayıs 1992'de Finike'nin batısında Kale açıklarında bir erişkin, 10 Haziran 1994'te Sultansazlığı'nda açık fazda bir erişkin [@kirwan1995a] ve 8 Mayıs 1999'da Yumurtalık açıklarında (Çukurova, Akdeniz) ikinci yazında bir birey [@kirwan2003] kaydedilmiştir. Bu kayıtların hiçbirinde tanımlama yoktur. Son olarak bir genç birey Mersin Limanı'nda 21 Aralık 2009'da beş korsanmartı ile beraber ve 29 Nisan 2011'de Sarıyer Keskin Viraj'da (S Bilgin) kaydedilmiştir. Mersin kaydı türün ilk kışlama kaydıdır.
+<iframe src="https://macaulaylibrary.org/asset/117177901/embed" height="552" width="640" frameborder="0" allowfullscreen>
 
-Eylül 1888 sonlarında Terkos Gölü'nde kaydedilen ve tarafından tanımlanan birey açıkça bu türdür [@matheydupraz1920]. Ermenistan'da bir defa kaydedilmiş [@adamian1999] ancak Yunanistan [@handrinos1997] ya da Lübnan'da hiç kaydedilmemiştir [@ramadan2008].
+</iframe>
 
-![](images/harita_Page_213.png)
+Türkiye’de toplam 12 güncel kaydı bulunmaktadır. İlk kayıt 23 Eylül 1979'da Boğaziçi'nde iki erişkin ya da ergen birey olarak kaydedilmiştir [@martins1989]. 3 Haziran 1991'de Kulu Gölü'nde bir erişkin fotoğraflanmış, 11 Haziran 1991'de Taşucu açıklarında iki genç birey gözlenmiştir [@kirwanmartins1994]. 17 Eylül 1991'de İstanbul yakınlarında Karaburun açıklarında bir birey kaydedilmiş [@robel1992], 24 Mayıs 1992'de Finike’nin batısında Kale açıklarında bir erişkin ve 10 Haziran 1994’te Sultansazlığı’nda açık fazda bir erişkin görülmüştür [@kirwan1995a]. 8 Mayıs 1999’da Yumurtalık açıklarında (Çukurova, Akdeniz) ikinci yazında bir birey kaydedilmiş [@kirwan2003], 21-23 Aralık 2009'da Mersin Limanı’nda da Mersin Limanı’nda beş korsanmartı ile birlikte bir genç birey gözlenmiş ve bu, türün Türkiye’deki ilk kışlama kaydıdır. 29 Nisan 2011’de Sarıyer Keskin Viraj’da bir birey kaydedilmiştir (S. Bilgin), 23 Nisan 2010'da Mersin Limanı’nda bir birey (M. Erturhan), 26 Aralık 2016’da yine Mersin Limanı’nda bir birey (M. Erturhan) ve 12 Şubat 2017’de Hatay Milleyha’da bir birey (M. Atahan, M. Gül) gözlenmiştir.
+
+Eylül 1888 sonlarında Terkos Gölü'nde kaydedilen ve tarafından tanımlanan birey açıkça bu türdür [@matheydupraz1920].
+
+![](images/harita_Stercorarius longicaudus.png)
 
 **Üreme**
 
@@ -102,11 +124,15 @@ Muhtemelen nominat alttür görülmektedir; ancak ülkedeki kayıtların hiçbir
 
 *Stercorarius parasiticus*, Parasitic Jaeger
 
-***Yaygın ve az sayıda geçit türüdür.***
+***Yaygın olarak nispeten az sayıda bulunan geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/299380381/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Karadeniz kıyısı boyunca ve Boğaziçi ile Marmara Denizi'nde seyrek ancak neredeyse kesinlikle düzenli bir geçit türüdür. Görünüşe göre Ege ve Akdeniz kıyılarında düzenlidir ve aynı zamanda diğer tüm korsanmartılar gibi ara sıra kara üzerinde de göç eder. Burdur Gölü'nde, üç defa Kulu Gölü'nde ve bir defa Ereğli Sazlığı'nda ve Doğu Anadolu'da Bendimahi, Van Gölü ve Van yakınlarında olmak üzere iç bölgelerde de kaydedilmiştir. İlkbaharda, mart ortasından haziran sonuna kadar ve sonbaharda temmuz ortasından ekim başına kadar ve yoğun olarak eylülde geçiş yapar. Karadeniz kıyısı boyunca düzenli olarak kışlar. Welch ve Welch 1998a, Ocak 1997'de altı lokalitede toplam yedi birey kaydetmiştir. Aralık 1997'de İskenderun Körfezi'nde en az dört ve Fethiye açıklarında 13 birey kaydedilmiştir. Ocak 2004'te Kulu Gölü'nde olası bir kaydı vardır. [@kasparek1992a] 50'ye yakın mevcut kaydı rapor etmiş, belirlenmemiş korsanmartı kayıtlarını dâhil etmeden, bazıları 15 bireyden oluşan toplam 114 kayıt derlemiştir. Ayrıca hepsi Alléon tarafından Marmara'da toplanmış dört tahnit vardır.
 
-![](images/harita_Page_212.png)
+![](images/harita_Stercorarius parasiticus.png)
 
 **Üreme**
 
@@ -120,13 +146,17 @@ Monotipik bir türdür.
 
 *Stercorarius pomarinus*, Pomarine Skua
 
-***Seyrek geçit türüdür.***
+***Yaygın olarak az sayıda bulunan geçit türü ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/616468235/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 2008 yılına kadar en az 25 yayınlanmış ve dört tane önceden yayınlanmamış kaydı vardır. İlkbahar geçişinde mart sonundan mayıs sonuna, sonbahar geçişinde temmuz ortasından ekim ortasına kadar görülür. En kalabalık olarak 13 Ekim 2002'de İstanbul Ormanlı açıklarında altı birey gözlenmiştir. İçsu kayıtları nadirdir. 26 Temmuz 1989'da Bendimahi'de genç bir birey [@kasparek1990a] görülmüştür. Yukarıda listelenen kayıtların çoğu için tanımlayıcı detaylar eksiktir. Buna karşın, makul olan Türkiye'de küt kuyruklu korsanmartının kayıtların gösterdiğinden daha bile düzenli olduğudur.
 
 türün kasım-aralık aylarında Boğaziçi'nde düzenli olduğunu kabul eder [@alleon1880] ve ilkbahar 1888 ve Mayıs 1892 tarihli ve "Marmara" olarak etiketlenmiş iki örneği Sofya Ulusal Doğa Tarihi Müzesi'ndedir. Öte yandan, Boğaziçi, Kadıköy açıkları ve Üsküdar'la Haydarpaşa arasında olmak üzere türü altı defa kaydetmiştir (30 Ekim 1888, 17 Kasım ve 15 Aralık 1890, Ocak 1891 sonu, 3 Aralık 1892 ve 15 Aralık 1893) [@matheydupraz1920]. Geriye bakıldığında o dönemde korsanmartı tanımlaması ile ilgili yeterli bilgi olup olmadığı dikkate alınmalıdır.
 
-![](images/harita_Page_211.png)
+![](images/harita_Stercorarius pomarinus.png)
 
 **Üreme**
 
@@ -142,11 +172,15 @@ Monotipik bir türdür.
 
 ***Rastlantısal konuktur.***
 
-Altı alan kaydı vardır (hepsi ancak görünüşe göre en yeni iki tanesi tanımlanmamış ya da tanımsız olarak yayınlanmıştır): 15 Eylül 1967'de Ahtamar adası yakınlarında, Van Gölü genç bir birey [@vielliard1968resultats], 30 Aralık 1983'te Tuzla Gölü'nde, Çukurova ve 7-8 Ocak 1986'da İskenderun Körfezi'nde birer birey, 9 Ocak 1990'da Ceyhan Deltası açıklarında (Çukurova) [@kasparek1990a], 15 Nisan 1996'da Göksu Deltası açıklarında [@kirwanmartins2000] ve 5 Nisan 2003'te Marmara Denizi'nde bir feribottan kaydedilmiştir. Dördüncü kayıt, 25 Nisan 2011'de Karataş'ta Katalan bir ekip görülen kuştur.
+<iframe src="https://macaulaylibrary.org/asset/625327161/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-Doğu Akdeniz'deki diğer yerlerde de nadirdir. 1958 ile 1993 arasında Yunanistan'da beş defa kaydedilmiş [@handrinos1997], Kıbrıs [@flint1992] ya da Lübnan'da [@ramadan2008]hiç kaydedilmemiş, bir tanesi iç kesimlerde olmak üzere İsrail'de dört defa kaydedilmiştir [@shirihai1996]. Mısır'da en az beş tane kesin olmayan büyük korsanmartı kaydı vardır [@goodman1989].
+</iframe>
 
-![](images/harita_Page_210.png)
+Nadir bir tür olup özellikle Doğu Akdeniz kıyılarında kış aylarında görülür. İlk kayıt 15 Eylül 1967’de Van Gölü’nde, Ahtamar Adası yakınlarında genç bir birey olarak kaydedilmiştir [@vielliard1968resultats]. 30 Aralık 1983’te Tuzla Gölü'nde (Çukurova), 7-8 Ocak 1986’da İskenderun Körfezi’nde, 9 Ocak 1990’da Ceyhan Deltası açıklarında (Çukurova) gözlenmiştir [@kasparek1990a]. 15 Nisan 1996’da Göksu Deltası açıklarında [@kirwanmartins2000] ve 5 Nisan 2003’te Marmara Denizi’nde bir feribottan gözlenmiştir (G. Magnin). 25 Nisan 2011’de Karataş’ta Katalan bir ekip tarafından kaydedilmiştir. Son olarak, 27 Aralık 2019’da Kızılırmak Ağzı’nda bir birey gözlenmiştir (O. Aydın, F. Başbuğ).
+
+Doğu Akdeniz'deki diğer yerlerde de nadirdir.
+
+![](images/harita_Stercorarius skua.png)
 
 **Üreme**
 
@@ -160,13 +194,17 @@ Genellikle modern otoritelerin çoğu tarafından monotipik olduğu düşünül�
 
 *Hydrocoloeus minutus*, Little Gull
 
-***Yaygın ve az sayıda geçit kuşu ve kış konuğudur.***
+***Yaygın olarak çoğunlukla az sayıda bulunan geçit kuşu ve kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/612824277/embed" height="476" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Bütün kıyılarda sıkça yüksek sayılarda rastlanan yaygın ve bol geçit türüdür. Karadeniz Bölgesi'nde en sık ve en yüksek sayılarda Kızılırmak Deltası'nda kaydedilmiş olup 1992 ilkbaharının başında 41.000 tane sayılmıştır [@hustings1994]. Marmara Bölgesi'nde bütün kıyılarda yaygın ve genellikle fazla olmayan sayılarda olup en yüksek sayıda ile İstanbul'da eylülde Eminönü ve Sarıyer arasında 410 tane, Meriç Deltası'nda 2000'e kadar sayılarda ve Büyükçekmece Gölü'nde 1730 tane sayılmıştır. Doğu bölgelerinde nadirdir. Ege Bölgesi'nde genellikle ağustos ortası ile nisan ortası arasında bulunur, ara sıra yazın da kaydedilir. Akdeniz Bölgesi'nde genellikle ağustos sonu ve mayıs başı arasında, ara sıra da yazın, orta sayılarda görülür, ancak bazı alanlarda ilkbaharda yüksek sayılar kaydedilmiştir.
 
 Kıyı bölgelerinde yaygın, ancak iç bölgelerde seyrektir. Karadeniz kıyılarında yaygın ve genellikle fazla olmayan sayılarda bulunur, ağustos ve eylülde Trabzon'da 530 tane, ekimde Samsun ve Trabzon arasında 400'den fazla, Şubat 1997'de bütün Karadeniz kıyısında 1138 tane sayılmıştır [@welch1998a]. Kışın az sayıda bulunur, nüfusu genellikle 1500-2500 bireydir, ancak ara sıra kalabalık sürüler de rastlanır. Sayıları genellikle az olsa da yüksek sayılarda bulunabilir ve en yüksek Büyük Menderes Deltası'nda 320 tane kaydedilmiştir.
 
-![](images/harita_Page_187.png)
+![](images/harita_Hydrocoloeus minutus.png)
 
 **Üreme**
 
@@ -180,15 +218,17 @@ Monotipik bir türdür.
 
 *Rissa tridactyla*, Black-legged Kittiwake
 
-***Nispeten yaygın ve az sayıda kış konuğudur.***
+***Açık denizde nispeten az sayıda bulunan kış konuğudur.***
 
-Önceleri bir rastlantısal görüldüğü düşünülmüş, ancak son zamanlarda gelen kayıtlar eylül sonu ile mayıs başı arasında düzenli kış göçmeni olduğunu göstermiştir. Karadeniz kıyısında düzenli, Ege ve Akdeniz'de daha seyrektir. Ancak balıkçı teknelerinde görev yapanlar ve karaya doğru güçlü rüzgârların ardından kayda değer sayılarda görülebilir. Bu çoğu kuşun açıktan olduğunu ve çok nadiren kıyıya geldiğini göstermektedir.
+<iframe src="https://macaulaylibrary.org/asset/612036957/embed" height="518" width="640" frameborder="0" allowfullscreen>
 
-İç sulardaki bir erişkin ve yedi ergen 23 Eylül 1982'de Birecik'te [@kinzelbach1985] ve bir erişkin 27 Nisan 1992'de Kulu Gölü'nde görülmüştür.
+</iframe>
 
-iki genç kuşun Robert Kolej'deki tahnit müzesinde bulunduğundan ve türün kışın İstanbul Boğazı'nda gözlendiğinden bahseder [@matheydupraz1920].
+Önceleri rastlantısal bir tür olduğu düşünülse de, son kayıtlar eylül sonu ile mayıs başı arasında düzenli bir kış göçmeni olduğunu göstermektedir. Karadeniz kıyılarında düzenli olarak görülürken, Ege ve Akdeniz kıyılarında daha seyrek kaydedilir. Ancak balıkçı teknelerinde çalışanlar ve karaya doğru güçlü rüzgârların etkisiyle kıyıya yaklaşan bireyler sayesinde kayda değer sayılarda gözlenir. Bu durum, çoğu bireyin açık denizde bulunduğunu ve kıyıya nadiren yaklaştığını göstermektedir.
 
-![](images/harita_Page_184.png)
+İç sulardaki kayıtlardan biri, 23 Eylül 1982’de Birecik’te görülen bir erişkin ve yedi ergen bireye aittir [@kinzelbach1985]. Bir diğer kayıt ise 27 Nisan 1992’de Kulu Gölü’nde gözlenen bir erişkindir. Ayrıca, Robert Kolej’deki tahnit müzesinde iki genç bireyin bulunduğu ve türün İstanbul Boğazı’nda kış aylarında gözlendiği belirtilmiştir [@matheydupraz1920].
+
+![](images/harita_Rissa tridactyla.png)
 
 **Üreme**
 
@@ -204,21 +244,39 @@ Türkiye'de nominat alttürü bulunur.
 
 **Rastlantısal konuktur.**
 
-Bir birey 30 Aralık 2021'de *M. Bozdoğan* tarafından Milleyha sahilinde bulunmuştur. Hikayesi...
+<iframe src="https://macaulaylibrary.org/asset/404511861/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
+28 Aralık 2021'de Asi Nehri ağzında (Hatay) bir birey gözlenmiş ve 11 Ocak 2022'ye kadar bölgede kalmıştır (M. Bozdoğan). Kuşun boğazına takılmış plastik bir parça olduğu fark edilmiştir. Beş gün boyunca boynunda plastik ile gözlenen martı, yoğun çaba sonucu yakalanmış ve DKMP Hatay Şubesi ekiplerince plastik parçadan kurtarılmış ve doğaya geri salınmıştır.
+
+![](images/harita_Xema sabini.png){width="600"}
+
+**Üreme**
+
+Türkiye'de yuvalamaz. Avrasya ve Amerika'nın Kuzey Kutup Denizi kıyılarında yuvalar, kışı Güney Yarımküre okyanuslarında açık denizde geçirir.
+
+**Alttürler ve Sınıflandırma**
+
+Monotipik bir türdür.
 
 ## İnce Gagalı Martı
 
 *Chroicocephalus genei*, Slender-billed Gull
 
-***Lokal ve çok sayıda bulunan yaz konuğu, nispeten lokal ve orta sayılarda kış konuğudur.***
+***Lokal olarak bazen çok sayıda bulunan yaz konuğu, geçit türü ve kış konuğudur.***
 
-Birçok alanda 2000 çifte kadar büyük koloniler halinde yuvalar. 1971'de Seyfe Gölü'nde 2100 çift, 1984'de Bolluk Gölü'nde 1900-2000 çift üremiştir. Buna rağmen, Ereğli Sazlığı ve Sultansazlığı gibi daha küçük koloniler bulunur. Son yıllarda sayıları kesinlikle azalmıştır.
+<iframe src="https://macaulaylibrary.org/asset/626967497/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-Ülkenin yer köşesinde, başta kıyısal alanlar ve iç bölgelerdeki sulakalanlarda geçit türüdür. Az sayıda deniz kıyılarında ve baraj göllerinde görülebilir.1977 sonbaharının sonuna doğru Zonguldak Ereğli'de 1500 ve sonbahar 1973'de Ardeşen'de 85'e kadar sayılmıştır.
+</iframe>
 
-Akdeniz Bölgesi'nde temmuz sonundan Ege'de ağustos sonundan, Marmara'da kasım ortasından ve nisana kadar fazla olmayan sayılarda, özellikle güney ve batı kıyılarında kışlar, son sayımlara göre kışlama nüfusu 800-1600 kuştur. En yüksek sayıda Ocak 1989'da Büyük Menderes Deltası'nda kaydedilen 1284 ve Ocak sonunda 1992'de Gediz Deltası'nda kaydedilen 413 kuştur. Ocak 1992'de Çukurova deltalarında yaklaşık 600, Ekim 1970'de Acıgöl'de 1000'den fazla kuştur. Doğu Anadolu'da az sayılarda ağustos başı ile ekim başı arasında Van ve Erçek Göllerinde bulunur.
+Birçok alanda 2000 çifte kadar büyük koloniler halinde yuvalamıştır. 1971’de Seyfe Gölü'nde 2100 çift, 1984’te Bolluk Gölü'nde 1900-2000 çift üremiştir. Ekim 1970'te Acıgöl'de 1000’den fazla birey kaydedilmiştir. Sultansazlığı gibi daha küçük koloniler de bulunmaktadır. Ereğli Sazlığı'nda ise artık ürememektedir. Doğu Anadolu’da ise ağustos başı ile ekim başı arasında Van ve Erçek Gölleri'nde az sayıda birey gözlenmiştir. Son yıllarda üreyen popülasyonun belirgin şekilde azaldığı düşünülmektedir.
 
-![](images/harita_Page_185.png)
+Akdeniz'de temmuz sonundan, Ege'de ağustos sonundan, Marmara'da ise kasım ortasından itibaren görülür ve nisana kadar özellikle güney ve batı kıyılarında düşük yoğunlukta kışlar. Son sayımlara göre kışlayan popülasyonun 800-1600 birey arasında olduğu tahmin edilmektedir. Ocak 1989'da Büyük Menderes Deltası'nda 1284 birey, Ocak 1992'de Gediz Deltası'nda 413 birey ve Çukurova Deltası'nda yaklaşık 600 birey sayılmıştır.
+
+Karadeniz kıyılarında göç sırasında görülür, az sayıda kışlayabilir. 1977 sonbaharında Zonguldak Ereğli’de 1500, 1973 sonbaharında Ardeşen’de 85 bireye kadar sayılmıştır. Karadeniz’de göç sırasında görülen ve kışlayan bireylerin bir kısmının, Ukrayna’daki büyük üreme kolonilerinden gelen kuşlardan oluştuğu düşünülmektedir.
+
+![](images/harita_Chroicocephalus genei.png)
 
 **Üreme**
 
@@ -232,17 +290,19 @@ Monotipik bir türdür.
 
 *Chroicocephalus ridibundus*, Black-headed Gull
 
-***Lokal yaz konuğu ve yaygın ve çok sayıda bulunan geçit türü ve kış konuğudur.***
+***Lokal olarak az sayıda ürer, yaygın olarak ve çok sayıda bulunan kış konuğudur.***
 
-İç ve Doğu Anadolu'da yaygın olarak birçok sulakalanda üremekte olsa da habitat değişimi ve kurutulmasıyla sayıları şüphesiz azalmaktadır. Acıgöl'de yaz kayıtları da bulunsa da bölgede kesin olarak ürediğine dair kayıt yoktur.
+<iframe src="https://macaulaylibrary.org/asset/91257311/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-Önemli üreme alanlarının çoğu bugün tamamen veya kısmen tahrip edilmiştir. Seyfe Gölü'nde azami 120 çift, Ereğli Sazlığı'nda azami 361 çift, Yarma Bataklıkları'nda azami 215 çift, Gönenç Gölü'nde azami 100 çift.
+</iframe>
 
-Ülkenin yer yerinde yıl boyunca bulunsa da kışın çoğunluğu batı ve orta bölgelerinde yoğunlaşır. Ülke çapında kışlayan nüfusun genellikle 90.000 ila 130.000 arasında olduğu düşünülür. Marmara Bölgesi'nde kışın bütün kıyılar ve iç bölgelerde yaygın olup en yoğun bulunduğu Uluabat Gölü'nde Ocak 1996'da yapılan bir sayımla 6200 kuş sayılmıştır. Ege Bölgesi'nde kışın yaygın olup hem kıyılarda hem iç bölgelerde kayda değer sayılarda bulunur. En yüksek sayım Ocak 1970 ve Eylül 1972'de Acıgöl'de görülen 3000 kuştur. Kasım 1971'de Çorak Gölü'nde 2520 tane gözlenmiştir. Kasım 1971'de Seyfe Gölü'nde 1070 tane görülmüştür.
+İç ve Doğu Anadolu'da yaygın olarak birçok sulakalanda ürer. Seyfe Gölü'nde en fazla 120 çift, Ereğli Sazlığı'nda 361 çift, Yarma Bataklıkları'nda 215 çift, Gönenç Gölü'nde ise 100 çifte kadar ürediği kaydedilmiştir. Acıgöl’de yaz kayıtları olsa da ürediğine dair kesin bir kayıt yoktur. Ancak önemli üreme alanlarının çoğu günümüzde tamamen veya kısmen tahrip edilmiştir.
 
-En yüksek sayıların gözlendiği dönemler geçit dönemidir, 24 Eylül 2004'de Sarıyer Barajı'nda 20.000 ve düzenli olarak mart aylarında Mogan Gölü'nde 10.000 tanesi görülür. Karadeniz kıyılarında kışın yaygındır, 1996'da Hopa ile İğneada arasında 17.968 tane sayılmıştır. Doğu Anadolu'daki sulakalanlarda geçit sırasında yaygın ve genellikle fazla olmayan miktarlarda olup birkaç kez sayıları 300'e ulaşmıştır.
+Kış aylarında çoğunluğu batı ve orta bölgelerde çok sayıda yaygın olarak görülür. İstanbul Boğazı kışlayan nüfusu 10.000 bireyden fazladır. Kışlayan nüfusun genellikle 90.000 ila 130.000 birey arasında olduğu tahmin edilmektedir. Marmara Bölgesi'nde kıyılarda ve iç bölgelerde yaygın olup yüksek sayıda bulunduğu sulakalanlardan Uluabat Gölü'nde Ocak 1996'da 6200 birey sayılmıştır. Ege Bölgesi'nde hem kıyılarda hem iç bölgelerde kayda değer sayılarda bulunur. En yüksek kış sayımı Ocak 1970 ve Eylül 1972'de Acıgöl'de 3000 birey olarak kaydedilmiştir. Kasım 1971'de Çorak Gölü'nde 2520, Seyfe Gölü'nde ise 1070 birey görülmüştür.
 
-![](images/harita_Page_186.png)
+En yüksek sayılar göç döneminde kaydedilir. 24 Eylül 2004’te Sarıyer Barajı’nda 20.000 birey, mart aylarında ise Mogan Gölü’nde düzenli olarak 10.000 birey gözlenmiştir. Karadeniz kıyılarında kış aylarında yaygın olup 1996’da Hopa ile İğneada arasında 17.968 birey sayılmıştır. Doğu Anadolu’daki sulakalanlarda göç sırasında yaygındır ancak genellikle büyük gruplar halinde görülmez, birkaç kez 300 bireye kadar ulaşan sürüler kaydedilmiştir.
+
+![](images/harita_Chroicocephalus ridibundus.png)
 
 **Üreme**
 
@@ -256,11 +316,17 @@ Monotipik bir türdür.
 
 *Ichthyaetus ichthyaetus*, Pallas's Gull
 
-***Lokal ve az sayıda kış konuğudur.***
+***Lokal olarak az sayıda bulunan kış konuğudur.***
 
-Özellikle doğu bölgelerinde seyrek bir kış göçmeni ve anlaşıldığı kadarıyla geçit türüdür. Kışlayanların ortalama popülasyonları 200-400 birey arasındadır. Eskiden çok nadir olduğu düşünülmüş, ancak son yıllardaki kış kayıtlarında gerçek bir artış gözlenmiştir. Kayıtların çoğu Karadeniz Bölgesi, İç Anadolu ve Akdeniz Bölgesi'ndeki çeşitli alanlardan gelirken, İç Anadolu'da düzenli olarak küçük barajları, Akdeniz Bölgesi'nde de en düzenli olarak kıyısal delta alanlarında bulunur. Geçmiş dönemlerde çok düşük olarak kaydedilmiş, son yıllarda sayıları daha yüksek çıkmıştır. Yukarıda bahsedilen alanlarda normalde 5-20 birey olarak görülürken Amasya Yedikır Barajında 71 (Ocak 1996), 168 (Aralık 1995), 219 (Ocak 1997) ve 273 (Ocak 1999) tane sayılmıştır. Bu artış sadece gözlem sıklığındaki artışı göstermenin ötesinde türün kışlama durumundaki gerçek bir değişimin de göstergesi olabilir. Trakya gibi en batı ve en doğu bölgelerde son derece nadirdir. Kışlayan kuşlar genellikle aralık başı ile nisan arasında, en erken 26 Kasım, en geç 13 Mayıs'ta, görülür. İki aşırı erken kayıt bulunur. 25 Eylül 1995'de İstanbul Boğazı'nda bir ergen (Escedi 1996) ve 15 Eylül 2005'de Trabzon Araklı'da bir kuş emsalsiz kayıtlardır. 25 Mayıs 1993'de Göksu Deltası'ndaki bir gözlem (Kirwan ve Martins 2000) ya çok geç bir kış göçmeni ya da bir geçit türüdür.
+<iframe src="https://macaulaylibrary.org/asset/293192141/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-![](images/harita_Page_190.png)
+</iframe>
+
+Kayıtların çoğu içsulardan gelir. İç Anadolu’da düzenli olarak küçük barajlarda, Akdeniz’de ise daha çok kıyısal deltalar çevresinde görülür. Kışlayan popülasyonun 200-400 birey arasında olduğu tahmin edilmektedir. Kış kayıtları genellikle aralık başından nisan ayına kadardır. İki olağan dışı erken kayıt bulunmaktadır: 25 Eylül 1995’te İstanbul Boğazı’nda bir ergen birey [@ecsedi1996] ve 15 Eylül 2005’te Trabzon Araklı’da bir birey. 25 Mayıs 1993’te Göksu Deltası’ndaki bir gözlem [@kirwanmartins2000], çok geç bir kış göçmeni ya da geçit yapan bir birey olabilir.
+
+Geçmişte çok düşük sayılarda kaydedilmiş ve nadir olduğu düşünülürken, son yıllardaki kış kayıtları türün gerçek anlamda sayıca arttığını göstermektedir. Önceden Amasya Yedikır Barajı’nda 5-20 birey halinde görülürken, Ocak 1996'da 71 birey, Aralık 1995'de 168 birey, Ocak 1997'de 219 birey ve Ocak 1999'da 273 birey sayılmıştır. Bu artış, yalnızca gözlem sıklığındaki yükselişten kaynaklanmamakta, aynı zamanda türün kışlama davranışında da gerçek bir değişim yaşandığını göstermektedir. Keza, İstanbul’da 2010 öncesinde çok nadir görülürken, 2020’lerde Büyükçekmece ve Terkos göllerinde 20’şer birey kaydedilmiştir.
+
+![](images/harita_Ichthyaetus ichthyaetus.png)
 
 **Üreme**
 
@@ -274,15 +340,19 @@ Monotipik bir türdür.
 
 *Ichthyaetus audouinii*, Audouin's Gull
 
-***Nispeten yaygın ancak az sayıda yerlidir.***
+***Nispeten yaygın olarak az sayıda görülen yerlidir.***
 
-Güney Akdeniz ve Batı Ege kıyılarına seyrek ve oldukça lokal bir yerli kuştur. Kayıtların çoğu nisan başı ile ekim başı arasındadır. Çoğu gözlemde 10'dan az kuş görülür, ancak Fethiye'de Şubat-Mayıs arasında azami 15 kuş gözlenebilir. Göksu Deltası çok geç olarak 1951'de türün ilk kesin kaydının yapıldığı alan olup [@hollom1955], burada düzenli olarak görülür ve üremeyen bireyler de burada temmuz itibariyle toplanırlar.
+<iframe src="https://macaulaylibrary.org/asset/524429301/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-Ürediği ilk kez 1973'de İçel Aydıncık Adaları'nda belgelenmiştir, bu popülasyon sonrada azalmış ve bugün mevcut olmayabilir. Ege kıyılarında son zamanlarda çok küçük sayılarda İzmir Karaburun'da ürediği bulunmuş, Akdeniz açıklarındaki birkaç küçük ve ıssız adada 1970'lerde yapılan gözlemler üreme şüphesi oluşturmuştur [@ost1975]. küçük koloniler halinde üremesi Alaçatı'da olası, Güllük Körfezinde muhtemel, Bodrum Yarımadası'nda muhtemel ve Datça Yarımadası'nda olasıdır [@eken1997c]; ancak bu alanların hiçbirinde ürediği kesinleşmemiştir. Burger ve Gochfled tarafından yapılan yaklaşık 500 çiftlik Türkiye popülasyonu tahmini [@delhoyo1996]aşırı yüksek olup dayanağı zayıftır.
+</iframe>
 
-Marmara Denizi'nin güney kıyılarında ara sıra görülebilir, ancak burada düzenli değil, nadirdir [@kasparek1992a]. İstisnai olarak Karadeniz'de, 23 Mayıs 1995'de Trabzon'da ikinci yazında bir birey ve Ekim 1984'de Gürcistan'da Batum'da görülmüştür (King ve Shirihai 1996). Bir kez iç sularda; 9 Eylül 1961'de Eğirdir Gölü'nde görüldüğü iddia edilmiş [@kumerloeve1961], ancak bu çok olası görülmemektedir.
+Ege ve Akdeniz kıyılarında az sayıda ve lokal olarak görülür. Kayıtların çoğu nisan başı ile ekim başı arasındadır. Çoğu gözlemde 10’dan az birey kaydedilir, ancak Fethiye’de şubat-mayıs arasında en fazla 15 birey gözlenmiştir. Göksu Deltası, türün Türkiye’deki ilk kesin kaydının yapıldığı alandır [@hollom1955] ve burada düzenli olarak görülür. Üremeyen bireyler temmuz itibarıyla bölgede toplanabilir.
 
-![](images/harita_Page_188.png)
+Ürediği ilk kez 1973’te İçel Aydıncık Adaları’nda belgelenmiş ancak bu popülasyon daha sonra azalmıştır. Son yıllarda İzmir Karaburun’da çok küçük sayılarda ürediği tespit edilmiştir. Akdeniz açıklarındaki birkaç küçük ve ıssız adada 1970’lerde yapılan gözlemler üreme ihtimalini düşündürmektedir [@ost1975]. Az sayıda üremesi Alaçatı’da olası, Güllük Körfezi’nde muhtemel, Bodrum Yarımadası’nda muhtemel ve Datça Yarımadası’nda olasıdır [@eken1997c], ancak bu alanların hiçbirinde ürediği kesinleşmemiştir. Edremit Körfezi’nde görülen bireylerin, Ayvalık açıklarındaki bir Yunan adasında yuvaladığı düşünülmektedir. Türkiye popülasyonunun yaklaşık 500 çift olduğu yönündeki tahmin [@delhoyo1996] geçersizdir.
+
+Marmara Denizi’nin güney kıyılarında ara sıra görülse de düzenli değildir ve nadir rastlanır [@kasparek1992a]. Karadeniz’de istisnai olarak 23 Mayıs 1995’te Trabzon’da ikinci yazında bir birey ve Ekim 1984’te Batum’da gözlenmiştir [@king1996]. İç sularda yalnızca bir kayıt vardır; 9 Eylül 1961’de Eğirdir Gölü’nde görüldüğü iddia edilmiştir [@kumerloeve1961], ancak bu gözlem güvenilir kabul edilmemektedir.
+
+![](images/harita_Ichthyaetus audouinii.png)
 
 **Üreme**
 
@@ -296,15 +366,19 @@ Monotipik bir türdür.
 
 *Ichthyaetus melanocephalus*, Mediterranean Gull
 
-***Lokal ve çok sayıda bulunan yaz konuğu, oldukça yaygın ve yer yer çok sayıda bulunan geçit türü ve kış konuğudur.***
+***Lokal olarak yuvalar, yaygın olarak çok sayıda bulunan geçit türü ve kış konuğudur.***
 
-Popülasyonu anlaşıldığı kadarıyla sabittir. İç Anadolu ve Ege Bölgesi'ne lokal yaz konuğudur. Çoğunlukla tuzlu veya acı ve sığ üç gölde, Kulu, Seyfe ve Bolluk göllerinde yuvalar. Ege'de Büyük Menderes ve Gediz deltalarındaki lagünlerde yuvalar. Marmara Denizi lagünlerinde çok az sayıda üremektedir. En büyük üreme kolonileri İç Anadolu ve Ege'de olup, toplam 400-2250 çift ürer.
+<iframe src="https://macaulaylibrary.org/asset/318188251/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-Marmara Bölgesi'nde mart başıyla haziran başı arasında ve temmuz ortasıyla kasım ortası arasında görülür, İstanbul Boğazı, Marmara kıyıları ve batıda Çanakkale Boğazı'nda büyük sürüler kaydedilmiştir. İlkbahar göçü martın son haftası ve nisanın ilk ilk haftasında tepe yapar, 4 Nisan 2003'de İstanbul Boğazı'ndaki bir saatlik vapur seyahati sırasında 500'den fazla görülmüştür. Ege Bölgesi'nde geçit sırasında orta sayılarda olup kışın Küçük Menderes Deltası'nda 250, Çanakkale yakınında 430 bireylik sayımlar vardır [@eken1997d]. Akdeniz Bölgesi'nde mart ortasıyla mayıs başı arasında ve ağustos başıyla kasım sonu arasında yaygın olsa da az sayıda bulunur; aynı bölgede kışın genellikle seyrek ve az sayıda görülebilir. İç Anadolu'da bu tür üreme alanları dışında seyrek göçmendir. Doğu bölgelerimizde de tür genellikle nadirdir. Sonbaharda yüksek sayımlar arasında Tekirdağ'da temmuzda 600, ekimde 1200, Küçükçekmece ve Silivri'de ekimde 6000 ve eylülde 7300 ve Büyükçekmece'de geçit sırasında 10.000'e kadar yükselen sayılarda rastlanır.
+</iframe>
 
-Şubat 1997 yılında Karadeniz Kıyısı boyunca yapılan sayımda 357 tane sayılmış olup [@welch1998a], ülke genelinde ortalama kışlama popülasyonu 2000-3000 bireydir.
+İç Anadolu ve Ege Bölgesi'nde lokal olarak görülen bir yaz konuğudur. Genellikle tuzlu veya acı ve sığ göllerde üreme yapar; başlıca üreme alanları Kulu, Seyfe ve Bolluk gölleridir. Ege’de ise Büyük Menderes ve Gediz deltalarındaki lagünlerde yuvalar. Marmara Denizi lagünlerinde çok az sayıda üremektedir. Üreme popülasyonunun toplam 400-2250 çift arasında olduğu tahmin edilmekte ve sayısının büyük ölçüde korunduğu düşünülmektedir.
 
-![](images/harita_Page_189.png)
+Marmara Bölgesi'nde mart başından haziran başına ve temmuz ortasından kasım ortasına kadar gözlenir. İstanbul Boğazı, Marmara kıyıları ve Çanakkale Boğazı'nda büyük sürüler kaydedilmiştir. İlkbahar göçü martın son haftasında başlar ve nisanın ilk haftasında zirve yapar. 4 Nisan 2003’te İstanbul Boğazı’nda yapılan bir saatlik vapur seyahati sırasında 500’den fazla birey görülmüştür. Ege Bölgesi'nde göç sırasında orta büyüklükte gruplar halinde gözlenir. Kış aylarında Küçük Menderes Deltası’nda 250, Çanakkale yakınlarında ise 430 bireylik sayımlar kaydedilmiştir [@eken1997d]. Sonbahar göçü sırasında Trakya’daki hasat sonrası tarlalarında büyük gruplar halinde toplanır; temmuzda Tekirdağ’da 600, ekimde 1200 birey gözlenmiştir. Küçükçekmece ve Silivri’de ekimde 6000, eylülde 7300 birey sayılmıştır. Büyükçekmece’de geçit sırasında 10.000 bireye kadar ulaşan sürüler kaydedilmiştir.
+
+Kışın çoğunlukla kıyılarda ve açıkta bulunur. Şubat 1997’de Karadeniz kıyısı boyunca yapılan sayımda 357 birey kaydedilmiş olup [@welch1998a], ülke genelinde ortalama kışlama popülasyonunun 2000-3000 birey arasında olduğu tahmin edilmektedir. Akdeniz Bölgesi'nde mart ortasından mayıs başına ve ağustos başından kasım sonuna kadar yaygın olmakla birlikte düşük sayılarda görülür. Aynı bölgede kış aylarında ise genellikle seyrek olarak az sayıda kaydedilmektedir.
+
+![](images/harita_Ichthyaetus melanocephalus.png)
 
 **Üreme**
 
@@ -320,13 +394,17 @@ Monotipik bir türdür.
 
 ***Rastlantısal konuktur.***
 
-28 Mart 1988'de Marmaris'te görülen ilk kışındaki kuş, iyi tanımlanmış ve tek kaydını oluşturmaktadır [@kirwanmartins1994]. Yunanistan'dan 19. yüzyılın ortasından eski bir kaydı bulunmakta [@handrinos1997], ancak Kıbrıs'tan [@flint1992] veya Lübnan'dan [@ramadan2008] kaydı yoktur.
+<iframe src="https://macaulaylibrary.org/asset/196664211/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-![](images/harita_Page_191.png)
+</iframe>
+
+28 Mart 1988'de Marmaris'te görülen ilk kışındaki kuş, iyi tanımlanmış ve tek kaydını oluşturmaktadır [@kirwanmartins1994].
+
+![](images/harita_Ichthyaetus leucophthalmus.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kızıldeniz'de yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -336,11 +414,17 @@ Monotipik bir türdür.
 
 *Larus canus*, Mew Gull
 
-***Karadeniz kıyısında çok yaygın ve bol, diğer bölgelerde lokal ve seyrek kış konuğudur.***
+***Karadeniz kıyısında çok sayıda, diğer bölgelerde az sayıda bulunan kış konuğudur.***
 
-En erken ağustos ortası, en geç mayıs ortası arasında gözlenmiştir. Kışlama popülasyonunun 8000-12.000 olduğu düşünülmüş, bunun büyük çoğunluğu Karadeniz kıyısındadır. Marmara Denizi'nde nispeten düzenli, İstanbul Boğazı ve ilinde boldur, ancak varışı ilk soğuk hava dalgasının geldiği 15 Aralık bulur. Ege'de ara sıra ve çoğunlukla az sayıda görülür, istisnai olarak Büyük Menderes Deltası'nda Şubat 1972'de yaklaşık 200 tane gözlenmiştir. Akdeniz ve İç Anadolu bölgelerinde oldukça seyrek ve azdır, ancak burada da kasım ve şubat arasında bazı büyük baraj göllerinde azami 150 kuş görülebilir. Şubat 1997'de tüm Karadeniz kıyısı boyunca yapılan bir sayımda toplam 5279 tanesi sayılmıştır [@welch1998a].
+<iframe src="https://macaulaylibrary.org/asset/196000191/embed" height="518" width="640" frameborder="0" allowfullscreen>
 
-![](images/harita_Page_192.png)
+</iframe>
+
+Büyük çoğunluğu Karadeniz kıyılarında kışlar. Şubat 1997’de tüm Karadeniz kıyısı boyunca yapılan bir sayımda toplam 5279 birey kaydedilmiştir [@welch1998a]. Marmara Denizi’nde nispeten düzenli olarak görülür, İstanbul Boğazı ve çevresinde daha yaygındır. Genellikle ilk soğuk hava dalgasıyla birlikte 15 Aralık civarında bölgeye ulaşır. Mart ortasında çoğunlukla kuzeye göç etmeye başlar. Kışlayan popülasyonunun 8000-12.000 birey arasında olduğu tahmin edilmektedir.
+
+Ege’de ara sıra ve genellikle düşük sayılarda kaydedilir. Bununla birlikte, Şubat 1972’de Büyük Menderes Deltası’nda yaklaşık 200 birey gözlenmiştir. Akdeniz ve İç Anadolu bölgelerinde oldukça seyrek olup az sayılarda kaydedilir. Bu bölgelerde kasım ile şubat arasında bazı büyük baraj göllerinde en fazla 150 birey gözlenebilir. En erken ağustos ortasında, en geç mayıs ortasında gözlenmiştir.
+
+![](images/harita_Larus canus.png)
 
 **Üreme**
 
@@ -348,17 +432,25 @@ Türkiye'de yuvalamaz.
 
 **Alttürler ve Sınıflandırma**
 
-Hem nominat canus, hem de heinei alttürünün bulunduğu düşünülür ve bu iki alttürün geçiş formları yaygındır [@olsen2003].
+Kışlayan kuşların arasında hem nominat *canus* alttürü, hem de *heinei* alttürü görülür. Bu iki alttürün geçiş formları da yaygındır [@olsen2003].
 
 ## Hazar Martısı
 
 *Larus cachinnans*, Caspian Gull
 
-***Karadeniz kıyısında yaygın ve bol, diğer bölgelerde lokal ve seyrek kış konuğudur.***
+***Karadeniz kıyısında nispeten çok sayıda, diğer bölgelerde az sayıda bulunan kış konuğudur.***
 
-Kışlayanların bir kısmının farklı coğrafi bölgelerden gelen, dolayısıyla farklı fenotip özellikleri gösteren bireyler olduğu düşünülmektedir. özellikle bilhassa Arabistan Yarımadası'nda kışladığını [@olsen2003]. Geçit sırasında her iki form da özellikle batı ve orta bölgelerde yaygın olarak bulunur, ancak doğu bölgelerinde az sayıda rastlanır. İlkbahar geçişi mayıs sonuna kadar devam eder, sonbaharda ağustosta başlar.
+<iframe src="https://macaulaylibrary.org/asset/284929621/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-![](images/harita_Page_196.png)
+</iframe>
+
+Yakın zamana kadar, türün tanınması için gerekli literatür ve fotoğraf materyalinin eksikliği nedeniyle göz ardı edilmiş, ayrıca geçmişte Gümüş Martı ile aynı tür altında sınıflandırıldığı için kaydedilmemiştir. Son yıllarda yapılan bilinçli tanımlar ve kayıtlarla, aslında Karadeniz kıyılarında yaygın ve yüksek sayılarda bulunduğu ortaya çıkmıştır.
+
+Çoğunlukla Karadeniz kıyılarında Gümüş Martılar arasında nispeten az sayıda fark edilir. Ancak doğuya doğru ilerledikçe görülme sıklığı ve kaydedilen sayılar artar. Bazı lokal alanlarda Gümüş Martı’dan daha yüksek sayılarda bulunabilir. Ayrıca iç sularda da sıkça kaydedilmektedir. Marmara Bölgesi göllerinde gittikçe artan sıklıkla keşfedilmektedir.
+
+Kışlayan bireylerin farklı coğrafi bölgelerden geldiği ve dolayısıyla fenotipik olarak değişiklikler gösterebileceği düşünülmektedir [@olsen2003].
+
+![](images/harita_Larus cachinnans.png)
 
 **Üreme**
 
@@ -366,39 +458,51 @@ Türkiye'de yuvalamaz.
 
 **Alttürler ve Sınıflandırma**
 
-michahellis ve cachinnans formlarını tür olarak kabul etmiştir [@olsen2003]. Karadeniz'in batı kıyılarında Romanya'daki kolonilerinde birbirine yakın bölgelerde ancak farklı habitatlarda yuvaladığını [@klein1997] göz önüne alarak burada iki farklı türden bahsedilebileceğini düşünüyoruz.
+Yakın zamana kadar *Larus cachinnans* bilimsel ismini kullanan Gümüş Martı'nın *cachinnans* alttürü olarak sınıflandırılmıştır [@olsen2003]. Ancak Karadeniz’in batı kıyılarında, Romanya’daki kolonilerinde birbirine yakın bölgelerde ancak farklı habitatlarda yuvaladığı gözlemlenmiş ve bu durum iki taksonun farklı türler olarak kabul edilmesine neden olmuştur [@klein1997]. 1990’lar öncesinde ise Kuzey Gümüş Martısı'nın (*Larus argentatus*) bir alttürü olarak değerlendirilmiştir.
 
 ## Kuzey Gümüş Martısı
 
 *Larus argentatus*, European Herring Gull
 
-***Rastlantısal konuktur.***
+***Karadeniz kıyısında az sayıda görülen kış konuğudur.***
 
-İlk kaydı Samsun Kurupelit Limanı'nda iki erişkin birey 30 Ocak ve 4 Şubat 2014 tarihinde tespit edilmiş ve ayrıntılı olarak fotoğraflanmıştır. Hemen ardından dikkatli bakan gözlemciler, 10 Ocak 2015'te İğneada'da ve 19 Ocak ve 4 Şubat 2015 arasında Samsun Marina'da birer erişkin kaydetmiştir.
+<iframe src="https://macaulaylibrary.org/asset/507447471/embed" height="518" width="640" frameborder="0" allowfullscreen>
 
-![](images/harita_Page_195.png)
+</iframe>
+
+İlk kaydı Samsun Kurupelit Limanı'nda iki erişkin birey 30 Ocak ve 4 Şubat 2014 tarihinde tespit edilmiş ve ayrıntılı olarak fotoğraflanmıştır. Hemen ardından dikkatli bakan gözlemciler, 10 Ocak 2015'te İğneada'da ve 19 Ocak ve 4 Şubat 2015 arasında Samsun Marina'da birer erişkin kaydetmiştir. Ardından her yıl az sayıda Gümüş Martı'ların arasında görülmüştür.
+
+![](images/harita_Larus argentatus.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Türkiye'de görülen kuşların olası üreme alanı Baltık Denizi'dir.
 
 **Alttürler ve Sınıflandırma**
 
-Bu bireyin kanat desenlenmesine göre argentatus alttürüne ait olduğunu düşündürmektedir.
+Kanat desenlenmesine göre ilk kaydedilen bireyin *argentatus* alttürüne ait olduğunu düşünülür.
 
 ## Gümüş Martı
 
 *Larus michahellis*, Yellow-legged Gull
 
-***Yaygın ve çok sayıda bulunan yerlidir.***
+***Yaygın olarak çok sayıda bulunan yerli türdür.***
 
-bütün kıyılarda toplam 22 kıyısal üreme alanının olduğunu teyit ederken bunların dışında 15 muhtemel veya olası üreme alanından bahseder [@eken1997c]. Bu koloniler Doğu Karadeniz'de Giresun Adası'nda itibaren bütün kıyılar boyunca dolaşarak Doğu Akdeniz'deki Göksu Deltası açıklarına kadar yayılış gösterir. Çoğu koloni nispeten küçük olup 500 çiftten azdır, ancak İstanbul anakara popülasyonunun 3000-5000 çift, Adalar popülasyonunun azami 3000 çift olduğunu tahmin eder [@eken1997c]. Beyşehir Gölü'nde küçük bir adada toplam 40-50 çiftten oluşmaktadır. Mayıs 1999'da bazı Van Gölü martısı ve iki türün arasında fenotiplerin görüldüğü fotoğraflar çekilmiş, 1964'de aynı yerde yaklaşık 40 çift bulunmuştur [@vauk1973]. Ülkenin birçok yerinde, özellikle de kıyılar boyunca yaygın ve bol sayıda bulunur. Az sayıda iç bölgeler nehirlerde bulunur. Ortalama kışlama popülasyonu 100.000 ila 120.000 birey arasında olup birçok bölgede, özellikle Marmara ve Ege'de, örneğin Gediz Deltası'nda 40.000'i varan sayılarla, kalabalık gruplar görülebilir. Karadeniz kıyısında da kalabalık sürüler bulunur, örneğin Şubat 1997'de tüm Karadeniz sahili boyunca sayılan yaklaşık 34.000 kuş sayılmıştır.
+<iframe src="https://macaulaylibrary.org/asset/627059079/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-![](images/harita_Page_197.png)
+</iframe>
+
+Tüm kıyılarda yaygın ve bol miktarda bulunur. Doğu Karadeniz'de Giresun Adası'ndan başlayarak tüm kıyılar boyunca Doğu Akdeniz'deki Göksu Deltası açıklarına kadar yayılış gösterir. Çoğu koloni 500 çiftten küçüktür ancak İstanbul’daki anakara popülasyonunun 3000-5000 çift, Adalar’daki popülasyonun ise en fazla 3000 çift olduğu tahmin edilmektedir [@eken1997c]. Türkiye'de toplam 22 kıyısal üreme alanı teyit edilmiş olup, bunun yanı sıra 15 muhtemel veya olası üreme alanı belirlenmiştir [@eken1997c].
+
+Kıyı alanlarının dışında Edirne, Çerkezköy ve Bursa ve Uluabat Gölü gibi iç bölgelerde de ürediği bilinmektedir. Beyşehir Gölü’ndeki küçük bir adada toplam 40-50 çiftten oluşan bir üreme kolonisi tespit edilmiştir. Mayıs 1999’da burada Van Gölü Martısı ile melez fenotiplere sahip bireyler görüntülenmiş, aynı bölgede 1964 yılında yaklaşık 40 çift kaydedilmiştir [@vauk1973]. Antalya’daki Oymapınar Barajı’nda bir adada 20-50 çiftten oluşan bir koloni bulunmaktadır.
+
+Ülkenin birçok bölgesinde, özellikle kıyılar boyunca yaygın ve yüksek sayılarda görülür. İç bölgelerde ise daha sınırlı olup genellikle nehir kenarlarında bulunur. Ortalama kışlama popülasyonu 100.000 ila 120.000 birey arasında değişmektedir. Marmara ve Ege bölgelerinde, özellikle Gediz Deltası’nda 40.000 bireye ulaşan büyük gruplar halinde gözlenebilir. Karadeniz kıyılarında da yoğun kışlama popülasyonu bulunmaktadır; Şubat 1997’de tüm Karadeniz kıyısı boyunca yaklaşık 34.000 birey sayılmıştır.
+
+![](images/harita_Larus michahellis.png)
 
 **Üreme**
 
-Kıyıdan uzaktaki hem düz veya alçak, hem de dik ve kayalık olan kayalık ada ve adacıklarda, göllerdeki adalarda ve özellikle İstanbul'da bina çatılarında yuvalar. Yuva bitkisel maddeler, yosunlar ve çerçöpten oluşan büyük bir yığıntı olup orta kısmı çukur ve daha ince malzemeyle astarlıdır. Yumurta sayısı genellikle 2-3'tür: 3 (15 yuvada) 2 (11 yuvada), 1 (3 yuvada). **AKD.** En erken üreme kaydı, 28 Nisan 1972'de Anamur'da yaklaşık bir haftalık genç kuş olup ilk yumurtlama tarihinin 20 Mart olduğunu gösterir. Bu bölgeden diğer kayıtların arasında 5 Temmuz 1971'de Gelindere'de ve 13 Haziran 1992'de Aydıncık açıklarındaki bir adadaki çoğu palazlanmış yavrular olup son kayıt yumurtlama tarihinin mart sonu, nisan başı olduğunu gösterir. Mayıs 1964'de Beyşehir Gölü'ndeki iki yuvada birer yumurta, beş yuvada ikişer yumurta ve kalan 32 yuvada birer yumurta sayılmıştır [@vauk1973]. **EGE.** 8 Mayıs 1950'de Çeşme yakınlarındaki açıktaki bir adada yuvalar [@mcneile1950], 23 Nisan 2003'de Karine Gölü'ndeki adalardaki yuvalarda yumurta ve yeni çıkmış yavrular görülmüş olup, yumurtlama tarihinin 22 Mart civarında olduğunu gösterir. **KAR.** 11 Haziran 1975'de Giresun'da henüz uçmaya başlamış bir genç görülmüş olup, bu gözlem diğer bölgelerdeki tarihlerle örtüşmektedir. Ancak 10-11 Haziran 1975'de Perşembe, Ordu ve Giresun'daki kolonilerdeki erişkinler henüz yuvada oturmaktaydı. **MAR.** Temmuz ortasında İstanbul'da çatıda bulunan palazlanmış ve uçabilen iki yavru yumurtlama tarihinin nisan sonu olduğunu gösterir.
+Kıyıdan uzaktaki hem düz veya alçak, hem de dik ve kayalık olan kayalık ada ve adacıklarda, göllerdeki adalarda ve özellikle İstanbul'da bina çatılarında yuvalar. İstanbul'da çatı üstlerinde yuvalarken, İzmir’de sadece Gediz Deltası’nda zeminde yuvalar. Yuva bitkisel maddeler, yosunlar ve çerçöpten oluşan büyük bir yığıntı olup orta kısmı çukur ve daha ince malzemeyle astarlıdır. Yumurta sayısı genellikle 2-3'tür: 3 (15 yuvada) 2 (11 yuvada), 1 (3 yuvada). **AKD.** En erken üreme kaydı, 28 Nisan 1972'de Anamur'da yaklaşık bir haftalık genç kuş olup ilk yumurtlama tarihinin 20 Mart olduğunu gösterir. Bu bölgeden diğer kayıtların arasında 5 Temmuz 1971'de Gelindere'de ve 13 Haziran 1992'de Aydıncık açıklarındaki bir adadaki çoğu palazlanmış yavrular olup son kayıt yumurtlama tarihinin mart sonu, nisan başı olduğunu gösterir. Mayıs 1964'de Beyşehir Gölü'ndeki iki yuvada birer yumurta, beş yuvada ikişer yumurta ve kalan 32 yuvada birer yumurta sayılmıştır [@vauk1973]. **EGE.** 8 Mayıs 1950'de Çeşme yakınlarındaki açıktaki bir adada yuvalar [@mcneile1950], 23 Nisan 2003'de Karine Gölü'ndeki adalardaki yuvalarda yumurta ve yeni çıkmış yavrular görülmüş olup, yumurtlama tarihinin 22 Mart civarında olduğunu gösterir. **KAR.** 11 Haziran 1975'de Giresun'da henüz uçmaya başlamış bir genç görülmüş olup, bu gözlem diğer bölgelerdeki tarihlerle örtüşmektedir. Ancak 10-11 Haziran 1975'de Perşembe, Ordu ve Giresun'daki kolonilerdeki erişkinler henüz yuvada oturmaktaydı. **MAR.** Temmuz ortasında İstanbul'da çatıda bulunan palazlanmış ve uçabilen iki yavru yumurtlama tarihinin nisan sonu olduğunu gösterir.
 
 **Alttürler ve Sınıflandırma**
 
@@ -408,21 +512,25 @@ michahellis'in Beyşehir Gölü'nde Van Gölü martılarıyla karışık bir kol
 
 *Larus armenicus*, Armenian Gull
 
-***Lokal ve çok sayıda bulunan yarı göçmendir.***
+***Lokal olarak çok sayıda yuvalayan bir yerli ve yarı göçmendir.***
 
-Günümüzde Doğu Anadolu'da, Aktaş, Balık, Çıldır, Nemrut, Sodalı ve Van göllerinde toplam altı kolonide, İç Anadolu'da Tuz Gölü'ndeki 450-500 çiftlik tek kolonide ve Beyşehir Gölü'ndeki küçük kolonide ürer. 2001'de Balık Gölü'nde 400-500 çift, Çıldır Gölü'nde 1100 çifttir [@magninyarar1997]. Beyşehir Gölü'ndeki koloni küçük ve istisnai olup, çok az sayıda gümüş martı ile karışık olarak ürer ve buradaki bazı kuşlar gümüş martılarla melezler olup üreme yetisine sahiptirler. En yüksek sayılar Van Gölü'ndeki koloni 1995'te 3450 çift olarak tahmin edilmiştir [@magninyarar1997]. Nemrut Gölü'nde son zamanlarda keşfedilen koloni 300 çiftten azdır.
+<iframe src="https://macaulaylibrary.org/asset/627922588/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-1999 yazında Van, Tuz ve Beyşehir göllerindeki toplam 3 koloniyi ziyaret ettikten sonra Türkiye popülasyonunun yaklaşık 2400 çift olduğunu tahmin etmişlerdir [@liebers1999]. Popülasyonun bundan çok daha fazla olduğu neredeyse kesindir. Türkiye popülasyonu türün küresel ölçekte son derece önemlidir. Türkiye dışında Ermenistan'da Sevan ve Arpi göllerinde, İran'da Urumiye Gölü'nde ve Gürcistan'da yaklaşık 100-250 çift üremektedir.
+</iframe>
 
-Yüksek sayılarda üremeyen bireylerden oluşan kalabalık sürüler Doğu Anadolu'da, özellikle de Van çevresinde, batıda Diyarbakır [@bertault1988] ve Elazığ'a kadar uzanan bölgede de, görülebilir. 1965'de Hazar Gölü'nde 70-100 çiftlik bir koloni bulunmuştur [@kumerloeve1967a]. Benzer küçük kolonilerin keşfedildiğini beklediğini söyleyebiliriz.
+Aktaş, Balık, Çıldır, Nemrut, Sodalı ve Van göllerinde toplam altı koloni ile İç Anadolu’da Tuz Gölü’ndeki 450-500 çiftten oluşan tek kolonide ürediği bilinmektedir. 2001 yılında Balık Gölü’nde 400-500, Çıldır Gölü’nde 1100 çift kaydedilmiştir [@magninyarar1997]. En büyük popülasyon Van Gölü’ndeki kolonilerde 1995 yılında 3450 çift olarak tahmin edilmiştir [@magninyarar1997]. Son yıllarda keşfedilen Nemrut Gölü’ndeki koloni 300 çiftten azdır. 1965 yılında Hazar Gölü’nde 70-100 çiftlik bir koloni tespit edilmiştir [@kumerloeve1967a]. Beyşehir Gölü’ndeki koloni oldukça küçük ve istisnai olup, burada Gümüş Martı ile karışık şekilde ürer ve bazı bireylerin melez olduğu gözlenmiştir. 1999 yazında Van, Tuz ve Beyşehir göllerindeki koloniler incelendikten sonra Türkiye popülasyonunun yaklaşık 2400 çift olduğu tahmin edilmiştir [@liebers1999], ancak gerçek sayı muhtemelen çok daha yüksektir. Türkiye, bu türün küresel ölçekte önemli bir popülasyonuna sahiptir. Türkiye dışında Ermenistan’daki Sevan ve Arpi göllerinde, İran’daki Urumiye Gölü’nde ve Gürcistan’da üremektedir.
 
-Ortalama kışlama popülasyonu 8000-12.000 arasında olup, 2005 kış ortası sayımlarında 11.585 kuş sayılmıştır. Buna rağmen daha düşük sayımlar da nadir değildir, örneğin 1999 kışında toplam 1450 tanesi sayılabilmiştir. Çoğunluğu Fırat üzerindeki iki baraj gölünde, Karakaya ve Keban göllerinde, kışlamakta olup Karakaya Barajı'nda 2006 kışında 4300'den fazla sayılmıştır. Bu dönem bazıları Akdeniz kıyılarına, örn. Çukurova ve Göksu Deltası'na inerler, ancak buradaki sayılar değişkendir. Doğu'da da Iğdır Ovası gibi uygun ve daha ılıman iklime sahip alanlarda kışlayabilir. Ege ve Marmara kıyılarına çok seyrek olarak ulaşır. Karadeniz kıyılarında çok az sayıda bulunduğu tahmin edilir [@welch1998a], buna rağmen nispeten yüksek sayılarda sonbaharda toplandığı [@kumerloeve1967a] ve muhtemelen yaz ortasında da görüldüğü bilinmektedir.
+Üremeyen bireylerden oluşan büyük sürüler Doğu Anadolu’da özellikle Van çevresinde, batıda Diyarbakır [@bertault1988] ve Elazığ’a kadar uzanan bölgelerde görülebilir.
 
-![](images/harita_Page_198.png)
+Kışlama popülasyonunun 8000-12.000 birey arasında olduğu tahmin edilmektedir ve 2005 kış ortası sayımlarında 11.585 birey kaydedilmiştir. Kışın büyük bölümü Karakaya ve Keban baraj göllerinde yoğunlaşır, 2006 kışında Karakaya Barajı’nda 4300’den fazla birey sayılmıştır. Kış döneminde Akdeniz kıyılarına, özellikle Çukurova ve Göksu deltalarına iner. Doğu’da Iğdır Ovası gibi daha ılıman alanlarda da kışlayabilir. Ege ve Marmara kıyılarında nadiren görülürken, Karadeniz kıyılarında da düşük sayılarda bulunduğu tahmin edilmektedir [@welch1998a]. Ancak sonbaharda nispeten yüksek sayılarda toplandığı [@kumerloeve1967a] ve yaz ortasında da görülebileceği bilinmektedir.
+
+![](images/harita_Larus armenicus.png)
 
 **Üreme**
 
-Doğu Anadolu'daki en azından 2000 m rakımlı göllerinde hem çıplak hem de bitki örtülü adalarda çoğunlukla yerde koloniler halinde yuvalar. Kolonilerinin çoğunlukla kalabalıktır. Küçük adalarda tek çiftler halinde de yuvalayabilir, örn. 2001'de Nemrut Gölü'nde bulunmuş, Haziran 2004'de burada küçük bir adada 12 çiftin yuvaladığı tespit edilmiştir. Yuva boyu değişken olup muhtemelen çevrede bulunan malzemeye göre değişir. Yuva çoğunlukla ot ve bitki yığıntılarından oluşup, ortası çukurlu ve ince malzemeyle astarlıdır. Yumurta sayısı 2-3 olup çoğunlukla üçtür. **DOA.** 9 Haziran 2001'de Balık Gölü'ndeki yuvaların çoğunda yumurta olsa da bazılarında en fazla yaklaşık bir haftalık yavrular da görülmüştür. 30 Mayıs 1971'de Ahtamar Adası'nda yaklaşık 500 çift sayılmış, çoğu yuvada üç yumurta sayılmıştır. 8 Haziran 1975'de 1500 çift sayılmış bazılarında yavru ve yumurtalar da görülmüştür. 1 Haziran 1999'da sadece 15 çift ve yaklaşık 50 boş yuva sayılmış, boş yuvaların çoğunun bir yırtıcı hayvan tarafından tahrip edildiği sanılmıştır. Buradaki kuşların çoğu Çarpanak Adası'na taşınmış, 2 Haziran 1999'da burada yaklaşık 2000 çift sayılmış, yuvalarda çatlamak üzere olan veya çatlamaya hazır olan yumurtalar görülmüştür [@liebers1999]. 17-18 Haziran 1992'de Çıldır Gölü'nde üç adada yaklaşık 900 çift üremiş, 291 yavru sayılmış, bunların çoğu büyük olsa da henüz uçamamaktadır. Doğu Anadolu'daki kolonilerden biraz erken üremekte olduğu söylenebilir. Aynı yerde 28-29 Mayıs 1999'da kuzeybatı kıyısının 7 km açığındaki adalarda iki kolonide toplam 350-370 çift sayılmış, çiftlerin %95'inin yaşları 1 gün ile 3 hafta arasında değişen yavruları görülmüş, kalanının hala kuluçkada olduğu ve çoğu yuvada üç yumurta olduğu tespit edilmiştir [@liebers1999]. Bu kayıtlar ilk yumurtanın mayıs başında koyulduğunu gösterir ve bu Ermenistan'daki kolonilerden gelen verilerle tutarlıdır. Ermenistan'da yumurtadan çıkma dönemi Mayıs sonudur [@adamian1999]. **AKD.** Beyşehir Gölü'nde Van Gölü martıları, gümüş martılarla karışık bir kolonide yuvalamıştır. 23-25 Mayıs 199'da toplam 40-50 çift sayılmış, bunların çoğunun yaklaşık 2 haftalık yavrusu varken üç çiftin yeni telafi yumurtaları koymuş olduğu gözlenmiştir. **İÇA.** 9 Mayıs 1993'de Tuz Gölü'ndeki çoğu yuvada üç yumurta ve bazılarında yumurtadan yeni çıkmış yavrular gözlenmiştir.
+Doğu Anadolu'daki en azından 2000 m rakımlı göllerinde hem çıplak hem de bitki örtülü adalarda çoğunlukla yerde koloniler halinde yuvalar. Kolonilerinin çoğunlukla kalabalıktır. Küçük adalarda tek çiftler halinde de yuvalayabilir, örn. 2001'de Nemrut Gölü'nde bulunmuş, Haziran 2004'de burada küçük bir adada 12 çiftin yuvaladığı tespit edilmiştir. Yuva boyu değişken olup muhtemelen çevrede bulunan malzemeye göre değişir. Yuva çoğunlukla ot ve bitki yığıntılarından oluşup, ortası çukurlu ve ince malzemeyle astarlıdır. Yumurta sayısı 2-3 olup çoğunlukla üçtür. **DOA.** 9 Haziran 2001'de Balık Gölü'ndeki yuvaların çoğunda yumurta olsa da bazılarında en fazla yaklaşık bir haftalık yavrular da görülmüştür. 30 Mayıs 1971'de Ahtamar Adası'nda yaklaşık 500 çift sayılmış, çoğu yuvada üç yumurta sayılmıştır. 8 Haziran 1975'de 1500 çift sayılmış bazılarında yavru ve yumurtalar da görülmüştür. 1 Haziran 1999'da sadece 15 çift ve yaklaşık 50 boş yuva sayılmış, boş yuvaların çoğunun bir yırtıcı hayvan tarafından tahrip edildiği sanılmıştır. Buradaki kuşların çoğu Çarpanak Adası'na taşınmış, 2 Haziran 1999'da burada yaklaşık 2000 çift sayılmış, yuvalarda çatlamak üzere olan veya çatlamaya hazır olan yumurtalar görülmüştür [@liebers1999]. 17-18 Haziran 1992'de Çıldır Gölü'nde üç adada yaklaşık 900 çift üremiş, 291 yavru sayılmış, bunların çoğu büyük olsa da henüz uçamamaktadır. Doğu Anadolu'daki kolonilerden biraz erken üremekte olduğu söylenebilir. Aynı yerde 28-29
+
+Mayıs 1999'da kuzeybatı kıyısının 7 km açığındaki adalarda iki kolonide toplam 350-370 çift sayılmış, çiftlerin %95'inin yaşları 1 gün ile 3 hafta arasında değişen yavruları görülmüş, kalanının hala kuluçkada olduğu ve çoğu yuvada üç yumurta olduğu tespit edilmiştir [@liebers1999]. Bu kayıtlar ilk yumurtanın mayıs başında koyulduğunu gösterir ve bu Ermenistan'daki kolonilerden gelen verilerle tutarlıdır. Ermenistan'da yumurtadan çıkma dönemi Mayıs sonudur [@adamian1999]. **AKD.** Beyşehir Gölü'nde Van Gölü martıları, gümüş martılarla karışık bir kolonide yuvalamıştır. 23-25 Mayıs 199'da toplam 40-50 çift sayılmış, bunların çoğunun yaklaşık 2 haftalık yavrusu varken üç çiftin yeni telafi yumurtaları koymuş olduğu gözlenmiştir. **İÇA.** 9 Mayıs 1993'de Tuz Gölü'ndeki çoğu yuvada üç yumurta ve bazılarında yumurtadan yeni çıkmış yavrular gözlenmiştir.
 
 **Alttürler ve Sınıflandırma**
 
@@ -434,15 +542,19 @@ Monotipik bir türdür. İlk başta Larus taimyrensis'in alttürü olarak tanım
 
 ***Rastlantısal konuktur.***
 
-Sık görülen bir türdür. Kayıtları büyük çoğunluğu İstanbul, Kızılırmak Deltası ve Göksu Deltası'ndan gelir. İlk kez 10 Eylül 2005'te İstanbul'da görülen bir birey, 8 Kasım 2011'e kadar defalarca görülmüş, hatta 13 Ekim 2010'da iki erişkin ve bir genç gözlenmiştir. İç sularda 1979'da Eylül sonunda bir tane Keban Barajında [@vanderven1980birds]ve bir tane 14 Mayıs 1997'de Hirfanlı Barajı'nda [@kirwan2003] görülmüştür .
+<iframe src="https://macaulaylibrary.org/asset/187492391/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-Kıyılarda rastlanır. ilk kez Gonzelbach tarafından İzmir'de ve Schrader de Mersin'de 23 Nisan'da 1880'lerin başında kaydedilmiş olup bu tarih ve yer, modern kayıtlarla uyumludur [@kumerloeve1961]. 19. yüzyılın sonu veya 20 Yüzyılın başında erişkin bir erkek İstanbul Boğazı'nda toplanmış [@matheydupraz1920], aynı yazara göre bu bölgeden 1888 ile 1894 arasında bazıları birçok birey ve biri Temmuz'da üç bireylik bir gruptan olan toplam 10 kayıt bulunmaktadır. Bir ergenin 23 Temmuz 1966'da Bursa Gemlik'te görüldüğü bahsedilmiş ancak detaylar verilmemiştir [@ganso1962].
+</iframe>
 
-![](images/harita_Page_193.png)
+Türkiye'ye ulaşan bireylerin yıllarca aynı lokasyonlarda gözlenmesinden dolayı hemen hemen her yıl az sayıda kaydedilir. Kayıtların büyük çoğunluğu İstanbul, Kızılırmak Deltası ve Göksu Deltası’ndan gelmektedir. İlk kez 10 Eylül 2005’te İstanbul’da Kadıköy Mendirek'te görülen bir birey, 8 Kasım 2011’e kadar birçok kez gözlenmiş, hatta 13 Ekim 2010’da iki erişkin ve bir genç birey kaydedilmiştir. İç sularda 1979 yılında eylül sonunda Keban Barajı’nda bir birey [@vanderven1980birds] ve 14 Mayıs 1997’de Hirfanlı Barajı’nda bir birey [@kirwan2003] görülmüştür.Kıyı bölgelerinde de rastlanmaktadır.
+
+Tür ilk kez Gonzelbach tarafından İzmir’de, Schrader tarafından ise 23 Nisan’da Mersin’de 1880’lerin başında kaydedilmiş olup bu tarih ve yer, modern kayıtlarla uyumludur [@kumerloeve1961]. 19. yüzyılın sonlarında ya da 20. yüzyılın başında erişkin bir erkek birey İstanbul Boğazı’nda toplanmış [@matheydupraz1920] ve aynı yazar, 1888 ile 1894 yılları arasında bölgeden toplam 10 kayıt bulunduğunu, bunlardan bazılarının çok sayıda bireyi içerdiğini, Temmuz ayında ise üç bireylik bir grup kaydedildiğini belirtmiştir. 23 Temmuz 1966’da Bursa Gemlik’te bir genç bireyin gözlendiği bildirilmiş ancak detaylar verilmemiştir [@ganso1962].
+
+![](images/harita_Larus marinus.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Yayılış alanı Kuzey Atlantik kıyılarıdır.
 
 **Alttürler ve Sınıflandırma**
 
@@ -454,13 +566,17 @@ Monotipik bir türdür.
 
 ***Rastlantısal konuktur.***
 
-Güncel tek kaydı, 12 Aralık 2014'de Rize'de ilk kışındaki genç bir kuş bulunmuş ve ayrıntılı olarak belgelenmiştir. Bundan önceki tek kayıt bir tahnit örneği olup, genç bir dişi 23 Şubat 1874'de İstanbul Boğazı'nda toplanmıştır [@matheydupraz1920]. Aynı kaynakta Alléon'un İstanbul Boğazı'nda iki erişkin gördüğünü iddia ettiğinden de bahsedilir. Yakın çevrede sadece bugünkü İsrail ve Ürdün topraklarında 1914'te tek bir birey kaydı vardır [@andrews1995; @shirihai1996].
+<iframe src="https://macaulaylibrary.org/asset/239153621/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-![](images/harita_Page_194.png)
+</iframe>
+
+12 Aralık 2014’te Rize’de ilk kışındaki genç bir birey türün tek güncel kaydını oluşturur. 23 Şubat 1874’te İstanbul Boğazı’nda toplanmış olan genç dişi birey [@matheydupraz1920] tek tahnit örneğini oluşturur. Aynı kaynakta, Alléon’un İstanbul Boğazı’nda iki erişkin birey gördüğünü iddia edilir.
+
+![](images/harita_Larus hyperboreus.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kuzey Kutup Denizi kıyılarında yaşar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -470,13 +586,17 @@ Türkiye'de vurulmuş örneğin tahnitini incelenememiştir. Yayılış alanı d
 
 *Larus fuscus*, Lesser Black-backed Gull
 
-***Yaygın ve yer yer çok sayıda bulunan geçit türü, yaygın ve nadir kış konuğudur.***
+***Yaygın olarak nispeten az sayıda sayıda bulunan geçit türü ve az sayıda kış konuğudur.***
 
-Kıyı boyunca yaygın ve az sayıda bir geçit kuşu olup ara sıra yüksek sayılarda gözlenir. Akdeniz Bölgesinde şubat sonundan mayıs sonuna kadar orta sayılarda bulunur, birkaç sefer 200'den fazla bireyden oluşan gruplara rastlanmıştır. İç Anadolu'da çok seyrek olup hep az sayıda rastlanmıştır. Karadeniz kıyısı boyunca ağustos ortasından mayıs sonuna kadar oldukça yaygın olup genellikle nispeten küçük sayılarda bulunurlar. İç bölgelerde küçük sayılarda gözlenmiştir. Daha yüksek sayılarda özellikle sonbahar geçişinde İstanbul Boğazında düzenli olarak kaydedilir, tek günde bazen 1750 kuş sayılmıştır. Doğu Anadolu'da seyrektir.
+<iframe src="https://macaulaylibrary.org/asset/148213751/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-Kışlama nüfusunun 30-90 arasında olduğu tahmin edilir. 1999 Kış Ortası Su Kuşu Sayımlarında sadece tek kuş kaydedilmiş olsa da bu tür için uygun birçok alanda sayım yapılmamıştır. Marmara Bölgesi'nde İstanbul Boğazı ve çevresi dışında nispeten seyrek ve az sayıda rastlanır. Örneğin Şubat 1997'de bütün Karadeniz kıyısı boyunca yapılan sayımlarda toplam sekiz kuş sayılmıştır.
+</iframe>
 
-![](images/harita_Page_199.png)
+Özellikle kıyı bölgelerinde az sayıda geçen bir türdür. İlkbaharda mart sonu ile mayıs sonu arasında nadiren görülür ve genellikle 200'den fazla bireyden oluşan gruplara rastlanır. İstanbul Boğazı'nda sonbahar geçişinde daha yüksek sayılarda düzenli olarak kaydedilir ve tek bir günde 1750 kuşa kadar ulaşabilen sayımlar yapılmıştır. İç Anadolu'da nadiren rastlanır ve görüldüğünde sayılar genellikle düşüktür. Doğu Anadolu'da ise seyrek olarak kaydedilir.
+
+Kışlama nüfusunun 30 ila 90 birey arasında olduğu tahmin edilmektedir. 1999 Kış Ortası Su Kuşu Sayımlarında yalnızca bir birey kaydedilmiş olmasına rağmen bu tür için uygun birçok alan kapsam dışı kalmıştır. Marmara Bölgesi'nde, İstanbul Boğazı ve çevresi dışında nadiren görülür. Şubat 1997'de tüm Karadeniz kıyısı boyunca yapılan sayımlarda toplam sekiz birey kaydedilmiştir. Ege ve Akdeniz bölgelerinde ise daha fazla sayıda görülür.
+
+![](images/harita_Larus fuscus.png)
 
 **Üreme**
 
@@ -484,19 +604,23 @@ Türkiye'de yuvalamaz.
 
 **Alttürler ve Sınıflandırma**
 
-Baltık Denizi kıyıları, Avrupa Rusya'sının kuzeybatısında üreyen ve başlıca Kuzeydoğu ve Doğu Afrika'da kışlayan [@olsen2003] nominat fuscus düzenli olarak bulunduğu kaydedilen alttürdür. Nadir olarak intermedius alttürü bulunabilir, nitekim geçit sırasında İsrail'de görülmüştür [@shirihai1996]. Daha doğuda yuvalayan ve Sibirya martısı olarak da değerlendirilen heuglini alttürü kışın güney ve batı kıyılarında oldukça nadir olarak görülebilir.
+Nominat *fuscus* alttürü, özellikle göç sırasında en düzenli görülen alttürdür. Baltık Denizi kıyıları ve Avrupa Rusya’sının kuzeybatısında ürer, kışı ise Kızıldeniz ve Doğu Afrika kıyılarında geçirir [@olsen2003]. Türkiye, bu alttürün göç rotası üzerindedir. Bunun dışında, Batı Avrupa’da yaşayan *intermedius* ve *graelsii* alttürleri kışın Ege ve Akdeniz kıyılarında görülür; benzer şekilde İsrail’de de kaydedilmiştir [@shirihai1996]. Daha doğuda üreyen ve "Sibirya martısı" olarak da bilinen *heuglini* alttürü ise kışın Türkiye’nin güney ve batı kıyılarında nadiren az sayılarda gözlenebilir.
 
 ## Küçük Sumru
 
 *Sternula albifrons*, Little Tern
 
-***Lokal ve yer yer çok sayıda bulunan yaz konuğudur.***
+***Lokal olarak nispeten çok sayıda üreyen yaz konuğudur.***
 
-Başta sahiller ve iç kesimlerdeki lagünlerde, genellikle nisan ortası ile eylül sonu arasında görülür. En büyük koloniler Meriç Deltası (200 çift) Büyük Menderes Deltası (300 çift), Gediz Deltası (205 çift) Seyfe Gölü (500 çift) ve Çukurova'da (yaklaşık 300 çift) bulunur. Kızılırmak Deltası'nda 1992'de çoğu nehir kıyısında olmak üzere 40-45 çift kaydedilmiştir. Güneydoğu Anadolu'da 1973'te, Birecik'te 34 çift gözlenmiş, ancak sonrasında üreme kanıtına rastlanmamıştır. Türün bu bölgede ürediği ancak 1990'ların sonunda, başta Dicle olmak üzere nehir boyunda birkaç noktada keşfedilmiştir.
+<iframe src="https://macaulaylibrary.org/asset/455861171/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-Geçit sırasında, özellikle mayıs ve eylül aylarında daha yaygın yayılışlıdır. Genellikle az sayıda görülse de sonbaharda Karadeniz'in doğusu ile Akdeniz'de, belirgin sayılarla kaydedildiği olmuştur.
+</iframe>
 
-![](images/harita_Page_204.png)
+Başta sahiller ve iç kesimlerdeki lagünlerde, genellikle nisan ortasından eylül sonuna kadar görülür. En büyük üreme kolonileri Meriç Deltası’nda (200 çift), Büyük Menderes Deltası’nda (300 çift), Gediz Deltası’nda (205 çift), Seyfe Gölü’nde (500 çift) ve Çukurova’da (yaklaşık 300 çift) bulunmaktadır. Kızılırmak Deltası’nda 1992’de, çoğu nehir kıyısında olmak üzere 40-45 çift kaydedilmiştir. Güneydoğu Anadolu’da 1973’te Birecik’te 34 çift gözlenmiş, ancak daha sonra üreme kanıtına rastlanmamıştır. Türün bu bölgede ürediği ancak 1990’ların sonunda, özellikle Dicle Nehri boyunca birkaç noktada tespit edilmiştir.
+
+Göç sırasında özellikle mayıs ve eylül aylarında daha yaygın olarak görülür. Genellikle küçük gruplar halinde kaydedilse de sonbaharda Karadeniz’in doğusu ve Akdeniz kıyılarında belirgin sayılara ulaşabilir.
+
+![](images/harita_Sternula albifrons.png)
 
 **Üreme**
 
@@ -504,25 +628,29 @@ Sahiller ile iç kesimlerdeki göl ve nehirlerde bulunan adalarda ve kum tepeler
 
 **Alttürler ve Sınıflandırma**
 
-Türkiye'de nominat alttürü bulunur. Çok yakın bir geçmişe kadar genellikle Sterna cinsi içinde sınıflandırılmıştır, ancak kısa süre önce elde edilen genetik bulgular, bu tür ile birlikte S. antillarum ve S. saundersi'nin de kendi cinsleri içinde değerlendirilmeleri gerektiğini öngörmektedir (Ibis 147: 821-826) [@collinson2006].
+Türkiye'de nominat alttürü bulunur. Çok yakın bir geçmişe kadar genellikle *Sterna* cinsi içinde sınıflandırılmıştır.
 
 ## Gülen Sumru
 
 *Gelochelidon nilotica*, Gull-billed Tern
 
-***Lokal ve çok sayıda bulunan yaz konuğu, nispeten yaygın geçit türüdür.***
+***Lokal olarak nispeten az sayıda bulunan yaz konuğu ve geçit türüdür.***
 
-Çeşitli sulakalan tiplerinde bulunur, bazen sudan uzakta rastlanabilir. Kulu Gölü'nde azami 1000 çift ve son yıllarda azami 450 çift, Seyfe Gölü'nde azami eskiden 1000, son zamanlarda 500 çift üremektedir. Ege Bölgesi'nde birçok küçük kolonisi bulunur. Doğu Anadolu'da en büyük koloni Bulanık Ovası'nda yuvalayan azami 300 çifttir. Az sayılarda Van Gölü havzasındaki diğer alanlarda yuvalar.
+<iframe src="https://macaulaylibrary.org/asset/619012901/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-Eskiden Ereğli Sazlığı'nda azami 200 çift, Karapınar Ovası'nda 80 çift üremiştir, buradaki sulakalanların kurutulması ve doğa bozunumu nedeniyle artık ürememektedir. 50 çiftten az sayıda birkaç alanda daha üremiş ve üremektedir.
+</iframe>
 
-Ülke çapında genellikle az sayıda ve yaygın geçit türüdür. Meriç Deltası'nda mayıs başı ve ağustos sonu arasında görülür. Akdeniz Bölgesi'nde mart başından itibaren bulunur, sonbaharda ağustos ortası ve ekim arasında bulunur. Karadeniz Bölgesi'nde nadir ilkbahar ve sonbahar göçmenidir. Nadiren tek bireyler Ege ve Akdeniz ve hatta Karadeniz bölgelerinde kışlayabilir.
+Bozkır göllerinde, tuzlalarda ve lagünlerde ürer. Kulu Gölü'nde geçmişte 1000 çifte kadar yuvaladığı bildirilmiş, son yıllarda ise maksimum 450 çift kaydedilmiştir. Seyfe Gölü'nde eskiden 1000 çifte kadar ulaşan popülasyon, günümüzde 500 çifte kadar gerilemiştir. Ege Bölgesi'nde birçok küçük koloni bulunmaktadır. Doğu Anadolu’da en büyük koloni, Bulanık Ovası’nda yuvalayan maksimum 300 çifttir. Van Gölü Havzası’ndaki diğer alanlarda ise daha az sayıda üremektedir.
 
-![](images/harita_Page_200.png)
+Geçmişte Ereğli Sazlığı’nda maksimum 200 çift, Karapınar Ovası’nda ise 80 çift ürediği bilinmektedir. Ancak, bu alanlardaki sulakalanların kurutulması ve habitat kaybı nedeniyle artık ürememektedir. 50 çiftten az sayıda birkaç alanda daha ürediği veya üremeye devam ettiği tahmin edilmektedir.
+
+Genellikle az sayıda ve yaygın bir geçit türüdür. İlkbahar göçü mart başından itibaren görülmeye başlar, nisanın ikinci haftasında en yüksek sayılara ulaşır. Sonbahar göçü ise ağustos ortasından ekim sonuna kadar devam eder. Karadeniz Bölgesi'nde nadir bir ilkbahar ve sonbahar göçmenidir. Nadiren de olsa tek bireyler kıyı bölgelerinde kışlayabilir.
+
+![](images/harita_Gelochelidon nilotica.png)
 
 **Üreme**
 
-Tuzlu ve acı göllerdeki adalarda, nehirlerdeki kum ve çakıl adalarında koloniler halinde yuvalar. Koloniler genelde 80-300 çift arasında, azami Kulu Gölü'nde 2 Temmuz 1971'de yuvalayan 1000 çift sayılmıştır [@kasparek1987a]. Kolonileri bazen Akdeniz martısı, ince gagalı martı ve karabaş martı, sumru ve küçük sumru gibi diğer türlerle mesafeli bir birliktelik içindedir. Yuvası çıplak zemine sığ bir çukur olup yakındaki otlar ve bitki örtüsü ile cılız olarak astarlanır. Yumurta sayısı 2-3, çoğunlukla 3 yumurta koyar, nadiren tek yumurta koymuştur. İlk yumurtalar nisan sonu ve mayıs başında konur, ilk yavrular mayıs ortasında yumurtadan çıkar; iri ve uçmaya hazır yavrular haziran sonu itibariyle görülür. Bu tarihler ana kolonilerde az çok sabittir. **İÇA.** İçinde yumurta olan yuvalar haziran ortasında Seyfe Gölü'nde, haziran sonunda Bolluk Gölü ve hatta temmuz ortasında Kulu Gölü'nde görülmüş ve bunların çoğunun telafi çabaları olduğu sanılmıştır. **DOA.** **EGE.** Üreme tarihleri kararlıdır, erişkinler mayıs ortasında kuluçkada olurlar ve yeni palazlanana yavrular haziran sonu ve temmuz başında görülürler.
+Tuzlu ve acı göllerdeki adalarda, nehirlerdeki kum ve çakıl adalarında koloniler halinde yuvalar. Koloniler genelde 80-300 çift arasında, azami Kulu Gölü'nde 2 Temmuz 1971'de yuvalayan 1000 çift sayılmıştır [@kasparek1987a]. Kolonileri bazen Akdeniz martısı, ince gagalı martı ve karabaş martı, sumru ve küçük sumru gibi diğer türlerle mesafeli bir birliktelik içindedir. Yuvası çıplak zemine sığ bir çukur olup yakındaki otlar ve bitki örtüsü ile cılız olarak astarlanır. Yumurta sayısı 2-3, çoğunlukla 3 yumurta koyar, nadiren tek yumurta koymuştur. İlk yumurtalar nisan sonu ve mayıs başında konur, ilk yavrular mayıs ortasında yumurtadan çıkar; iri ve uçmaya hazır yavrular haziran sonu itibariyle görülür. Bu tarihler ana kolonilerde az çok sabittir. **İÇA.** İçinde yumurta olan yuvalar haziran ortasında Seyfe Gölü'nde, haziran sonunda Bolluk Gölü ve hatta temmuz ortasında Kulu Gölü'nde görülmüş ve bunların çoğunun telafi çabaları olduğu sanılmıştır. **EGE.** **DOA.** Üreme tarihleri kararlıdır, erişkinler mayıs ortasında kuluçkada olurlar ve yeni palazlanana yavrular haziran sonu ve temmuz başında görülürler.
 
 **Alttürler ve Sınıflandırma**
 
@@ -532,13 +660,17 @@ Türkiye'de nominat alttürü bulunur.
 
 *Hydroprogne caspia*, Caspian Tern
 
-***Lokal ve az sayılarda yaz konuğu, nispeten yaygın geçit türü ve lokal kış konuğudur.***
+***Lokal olarak nispeten az sayıda bulunan yaz konuğu ve yaygın olarak görülen geçit türüdür. Az sayıda kışlar.***
 
-Tuzlu sulakalanlarda bulunur. Ege'de Gediz ve Büyük Menderes Deltası'nda, İç Anadolu'da da Tuz Gölü'nde yuvalar. Tuz Gölü'ndeki koloni azami 25 çiftten birkaç çifte azalmıştır. Van Gölü havzasında ve Bulanık Ovasında az sayılarda düzensiz olarak yuvalar. Son zamanlarda Güney Keban Baraj Gölü'ndeki adalarda 2000 yılında 25 çiftin yuvaladığı saptanmıştır (Eken vd. 2006).
+<iframe src="https://macaulaylibrary.org/asset/354727431/embed" height="520" width="640" frameborder="0" allowfullscreen>
 
-Geçit sırasında ülke çapında daha yaygın ancak gene de az sayılarda görülür. Özellikle kıyısal alanlarda, nadiren iç sularda bulunur. Finlandiya'da halkalanmış bir birey Ege kıyılarında bulunmuştur [@kasparek1992a]. Karadeniz kıyısında oldukça nadirdir. İlkbaharda oldukça nadir, sonbaharda ağustos ekim arasında seyrektir. Kışın ise az sayılarda Ege ve Akdeniz'deki nehir deltalarında, en sık olarak da Adana sulakalanlarında bulunur [@eken1997d]. Adana Tuzla Gölü'nde 20 Ocak 2005'de 23 tane sayılmıştır.
+</iframe>
 
-![](images/harita_Page_201.png)
+Tuzlu sulakalanlarda bulunur. Ege'de Gediz ve Büyük Menderes Deltası'nda, İç Anadolu'da ise Tuz Gölü'nde yuvalar. Tuz Gölü'ndeki koloni, geçmişte 25 çifte kadar ulaşırken, günümüzde birkaç çifte kadar azalmıştır. Van Gölü Havzası ve Bulanık Ovası’nda az sayıda ve düzensiz olarak ürediği bilinmektedir. Güney Keban Baraj Gölü’ndeki adalarda ise 2000 yılında 25 çiftin yuvaladığı saptanmıştır [@eken2006].
+
+Geçit sırasında ülke genelinde daha yaygın görülse de sayıları düşüktür. Genellikle kıyısal alanlarda rastlanır, iç sularda ise nadirdir. Finlandiya'da halkalanmış bir birey, Ege kıyılarında kaydedilmiştir [@kasparek1992a]. Karadeniz kıyısında oldukça nadir bir türdür. İlkbaharda çok seyrek görülür, sonbaharda ise ağustos-ekim ayları arasında rastlanabilir. Kışın, Ege ve Akdeniz'deki nehir deltalarında az sayıda kaydedilir, en sık Adana’daki sulakalanlarda görülür [@eken1997d]. 20 Ocak 2005'te Adana Tuzla Gölü'nde 23 birey sayılmıştır.
+
+![](images/harita_Hydroprogne caspia.png)
 
 **Üreme**
 
@@ -552,15 +684,19 @@ Monotipik bir türdür.
 
 *Chlidonias hybrida*, Whiskered Tern
 
-***Yaygın ve çok sayıda bulunan yaz konuğu ve geçit türü, lokal ve az sayıda kış konuğudur.***
+***Yaygın olarak çok sayıda bulunan yaz konuğu ve geçit türüdür. Az sayıda kışlar.***
 
-Genellikle nisan sonundan ağustos sonuna ya da eylüle dek görülür. Batı ve iç bölgelerdeki sulakalanlarda, çoğunlukla yüksek sayıda kaydedilir. Meriç Deltası'nda 500 çift, Sultansazlığı'nda ise 400 çift barındıranlarına rastlanmıştır. 1998'de Uluabat Gölü'nde, hepsi nilüfer yapraklarının üzerinde olmak üzere en az 660 yuva kaydedilmiş, bir koyda sık nilüferler arasında bir arada üreyen 392 çift gözlenmiştir [@welch1998b]. Söz konusu nokta, uzun süreden beri ve düzenli olarak kullanılan bir üreme noktasıdır.
+<iframe src="https://macaulaylibrary.org/asset/620177971/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-Ülke genelinde geçit sırasında sık görülür, en yüksek sayılara batı ve orta bölgelerde rastlanır. Bahar geçişi en azından nisan sonundan haziran başına dek sürer. Akdeniz'de en erken 30 Mart'ta görülmüştür. Sonbahar geçişi ise ağustosun ortasında başlar ve eylül sonuna dek devam eder. Geçişin ender olarak ekim ortasına dek sürdüğü gözlenmiştir.
+</iframe>
 
-Kışın az sayıda Ege ve Akdeniz kıyılarındaki lagün ve göllerde görülebilir.
+Batı ve iç bölgelerdeki sulakalanlarda, genellikle yüksek sayılarda kaydedilir. Meriç Deltası'nda 500 çift, Sultansazlığı'nda ise 400 çift ürediği bilinmektedir. 1998’de Uluabat Gölü’nde, tamamı nilüfer yaprakları üzerinde olmak üzere en az 660 yuva tespit edilmiş, sık nilüferlerin bulunduğu bir koyda 392 çiftin bir arada ürediği gözlenmiştir [@welch1998b]. Bu noktanın uzun süredir düzenli olarak kullanılan bir üreme alanı olduğu düşünülmektedir. Üreme alanlarında nisan sonundan ağustos sonuna dek görülür.
 
-![](images/harita_Page_207.png)
+Ülke genelinde geçit sırasında sık görülür ve en yüksek sayılar batı ve orta bölgelerde kaydedilir. İlkbahar göçü nisan sonundan haziran başına kadar sürer, Akdeniz’de ise en erken 30 Mart’ta görülmüştür. Sonbahar göçü ağustos ortasında başlar ve eylül sonuna kadar devam eder. Nadiren ekim ortasına kadar sürebilir.
+
+Kış aylarında az sayıda birey Ege ve Akdeniz kıyılarındaki lagün ve göllerde kaydedilmektedir.
+
+![](images/harita_Chlidonias hybrida.png)
 
 **Üreme**
 
@@ -574,13 +710,17 @@ Türkiye'de nominat alttürü bulunur.
 
 *Chlidonias niger*, Black Tern
 
-***Çok lokal yaz konuğu, yaygın ve az sayıda geçit türüdür.***
+***Birkaç alanda üreyen yaz konuğudur, yaygın olarak nispeten az sayıda görülen geçit türüdür.***
 
-Marmara'nın bazı bölgelerinde ve muhtemelen İç Anadolu'da ürer. Herhangi bir kanıt olmamasına rağmen, Doğu Anadolu'da da ürediği tahmin edilmiştir [@kasparek1992a]. Meriç Deltası'nda üreyen koloni 250 çiftten oluşmaktadır.
+<iframe src="https://macaulaylibrary.org/asset/618986811/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-Genellikle makul sayılarla görülmesine ve ülkenin doğu bölgelerinde yine de açıkça seyrek olmasına rağmen, göç sırasında daha yaygın yayılışlı ve epey daha boldur. Öncelikle nisan-mayıs ve ağustos-ekim arasında kaydedilen geçit, eylülde en yoğundur. Akdeniz'de ise geçit kimi zaman temmuz başında başlar. Bu bölgede, Burdur Gölü'nde 2000'in üzerinde bireyin birlikte görüldüğü de olmuştur. Çoğunlukla nisan ortası ile ekim ortası arasında kaydedilmiştir. Kızılırmak Deltası'ndan 18 Aralık 2005'e ait yakın zamanlı bir kış kaydı vardır [@balmer2006].
+</iframe>
 
-![](images/harita_Page_209.png)
+Bilinen ana üreme alanı Meriç Deltası’nda 250 çiftlik bir koloni, Uluabat Gölü'nde 1-5 çiftlik bir nüfus bulunmaktadır. Marmara’daki diğer alanlarda ve muhtemelen İç Anadolu’da da ürediği tahmin edilmektedir. Doğu Anadolu'da ürediğine dair herhangi bir kanıt bulunmamakla birlikte, bu olasılık değerlendirilmiştir [@kasparek1992a].
+
+Göç sırasında daha yaygın olarak görülür ve sayıca daha fazladır. Ülkenin doğusunda nispeten seyrek olmasına rağmen, genellikle makul sayılarda kaydedilir. İlkbahar göçü nisan-mayıs ayları arasında gerçekleşir. Sonbahar göçü temmuz başında başlar, ağustos-ekim ayları arasında gözlenir ve en yoğun geçiş eylülde gerçekleşir. Burdur Gölü’nde 2000’in üzerinde bireyin bir arada görüldüğü kayıtlar bulunmaktadır. Ayrıca, Kızılırmak Deltası’nda 18 Aralık 2005 tarihli bir kış kaydı mevcuttur [@balmer2006].
+
+![](images/harita_Chlidonias niger.png)
 
 **Üreme**
 
@@ -594,17 +734,23 @@ Türkiye'de nominat alttürü bulunur.
 
 *Chlidonias leucopterus*, White-winged Tern
 
-***Çok lokal ve az sayıda yaz konuğu, oldukça yaygın ve çok sayıda bulunan geçit türüdür.***
+***Lokal olarak nispeten az sayıda üreyen yaz konuğu, oldukça yaygın olarak çok sayıda bulunan geçit türüdür.***
 
-Özellikle doğu bölgeleri boyunca sulakalanlarda yaz boyunca görülür [@kasparek1992a], İç Anadolu ve Doğu Anadolu'da üremenin pek de nadir olmadığını düşünmüştür. Nitekim 2010 yılında 17 Haziran 2010'da Erzurum Ovası'nda yaklaşık 400 kuşun ürediği düşünülmüş, kuşlar gagalarında yiyecekle belirli noktaları ziyaret ettiği ve bataklıkta uzun vakit geçirdiği gözlenmiştir. Ancak gözlemciler koloniye ulaşamamıştır. Ardından aynı gözlemciler Haziran ortasında Doğubayazıt'ta 5000 kuş ve Çaldıran Ovası'nda 1000 kuş gözlemişler.
+<iframe src="https://macaulaylibrary.org/asset/618611566/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-Her iki mevsimde de, ancak özellikle bahar geçişi sırasında boldur. Bahar geçişi nisan ortasından haziran başına kadar sürer. Özellikle güneyde ve doğuda en yoğun geçiş nisan sonundan mayıs ortasına kadar kaydedilir. Göçmenler kuzeyde genellikle güneye göre iki haftaya kadar daha geç görülürler. Erişkin olmayanlar erişkinlere göre daha geç geçiş yapma eğilimindedirler. En yoğun geçiş eylül sonu olmak üzere, sonbaharda temmuz ortasından ekim ortasına dek kaydedilir. İç Anadolu'da 25 Ekim'de, Akdeniz'de ise 21 Ekim'de gözlenen bireyler bu mevsime ait en geç kayıtlardır. Ülkenin batı ve orta bölgelerinde sürülerin nadiren 100 bireyden fazladır. Doğuda birkaç bin civarındaki sayımlara bile düzenli olarak rastlanmaktadır [@berk1993]: 13 Mayıs 1993'te Erzurum Ovası'nda 15.000-20.000 [@faldborg1994]ve 6 Mayıs 2004'te Sodalı Gölü'nde 11.500 birey kaydedilmiştir.
+</iframe>
 
-![](images/harita_Page_208.png)
+Özellikle doğu bölgelerindeki sulakalanlarda yaz boyunca gözlenir [@kasparek1992a]. İç ve Doğu Anadolu'da üremenin sanıldığı kadar nadir olmadığı düşünülmüştür. Nitekim 17 Haziran 2010'da Erzurum Ovası'nda yaklaşık 400 bireyin ürediği tahmin edilmiş, gagalarında yiyecek taşıyan kuşların belirli noktalara gidip geldiği ve bataklıkta uzun süre kaldığı gözlenmiştir. Ancak koloniye ulaşılamamıştır. Aynı gözlemciler haziran ortasında Doğubayazıt'ta 5000, Çaldıran Ovası'nda ise 1000 birey kaydetmiştir. Benzer şekilde Sultan Sazlığı'nda da ürediği gözlenmiştir.
+
+Her iki mevsimde de gözlense de özellikle bahar göçü sırasında yoğundur. İlkbahar göçü nisan ortasından haziran başına kadar sürer, en yoğun geçiş nisan sonu ile mayıs ortasında, özellikle güney ve doğu bölgelerinde kaydedilir. Kuzeydeki bireyler genellikle güneye göre iki hafta daha geç görülür, genç bireyler ise erişkinlerden daha geç göç eder. Büyük sayılara düzenli olarak rastlanır [@berk1993]. Örneğin 13 Mayıs 1993'te Erzurum Ovası'nda 15.000-20.000 [@faldborg1994], 6 Mayıs 2004'te Sodalı Gölü'nde 11.500 birey sayılmıştır. Sonbahar göçü temmuz ortasından ekim ortasına kadar devam eder, en yoğun geçiş eylül sonunda gerçekleşir. İç Anadolu'da 25 Ekim, Akdeniz'de ise 21 Ekim'deki gözlemler sonbahar göçünün en geç kayıtlarıdır. Batı ve orta bölgelerde sürüler nadiren 100 bireyi aşar.
+
+Nadiren tam erişkin kıyafetinde kışı geçiren bireylere giderek artan sıklıkla rastlanmaktadır.
+
+![](images/harita_Chlidonias leucopterus.png)
 
 **Üreme**
 
-Düzensiz ürediği düşünülür. **İÇA.** 5 Temmuz 1969'da Mogan Gölü'nde tamamen tüylenmiş 1 genç, 31 Temmuz 1969'da ise Temelli'de 3 genç gözlenmiştir ki, bu gençlerin bu noktada yumurtadan çıkmış olmaları mümkündür. 19 Haziran 1975'te de Seyfe Gölü'nde 1 çift, 2 erişkin ve 3 yavru kaydedilmiştir [@husband1984]. **KAR.** 16 Haziran 1983'te Yeniçağa Gölü'nde 2 erişkin ve 1 tüylenmiş yavru kaydedilmiş [@kilic1987], 17 Temmuz 1992'de ise Kızılırmak Deltası'nda gençleri beslemekte olan erişkinler gözlenmiştir [@hustings1994]. **DOA.** 17 Temmuz 1986'da Haçlı Gölü'nde 3'ü genç olmak üzere toplam 9 birey gözlenmiştir ancak bu gençlerin Türkiye'de yumurtadan çıktığına dair herhangi bir kanıt yoktur. 4 Haziran 2002'de ise Doğubayazıt yakınındaki Saz Gölü'nde, küçük kolonilere ait olduğu düşünülen 150 birey gözlenmiştir. Aynı yerde 28 Mayıs 2003'te yaklaşık 100 erişkin kaydedilmiştir, ancak söz konusu iki gözlemde de üremeyi gösteren kesin bir kanıt elde edilememiştir. 10 Haziran 2005'te üreme için uygun habitatın bulunduğu Malatya yakınındaki Karakaya Barajı'nda, yaklaşık 20 erişkin gözlenmiştir. Yine aynı yerde 18 Temmuz 2005'te, 10-15 tanesi gençlerden oluşan 35'in üzerinde birey kaydedilmiş, gençlerin bir kısmının erişkinler tarafından beslendiği de not edilmiştir. Türün ürediğine dair kesin kanıt olmadığı için gözlenen bu bireylerin söz konusu alanlarda sadece kısa süre ile kalan geçit kuşları oldukları düşünülmektedir. Üreme kolonilerinde kuşlar 2-3 ay boyunca kalırlar. Bu süre içinde gürültülü ve dikkat çekici oldukları için fark edilmemeleri mümkün değildir.
+Haziran ve temmuz ayında yavrulara rastlanabilir. Düzensiz ürediği düşünülür. **İÇA.** 5 Temmuz 1969'da Mogan Gölü'nde tamamen tüylenmiş 1 genç, 31 Temmuz 1969'da ise Temelli'de 3 genç gözlenmiştir ki, bu gençlerin bu noktada yumurtadan çıkmış olmaları mümkündür. 19 Haziran 1975'te de Seyfe Gölü'nde 1 çift, 2 erişkin ve 3 yavru kaydedilmiştir [@husband1984]. **KAR.** 16 Haziran 1983'te Yeniçağa Gölü'nde 2 erişkin ve 1 tüylenmiş yavru kaydedilmiş [@kilic1987], 17 Temmuz 1992'de ise Kızılırmak Deltası'nda gençleri beslemekte olan erişkinler gözlenmiştir [@hustings1994]. **DOA.** 17 Temmuz 1986'da Haçlı Gölü'nde 3'ü genç olmak üzere toplam 9 birey gözlenmiştir ancak bu gençlerin Türkiye'de yumurtadan çıktığına dair herhangi bir kanıt yoktur. 4 Haziran 2002'de ise Doğubayazıt yakınındaki Saz Gölü'nde, küçük kolonilere ait olduğu düşünülen 150 birey gözlenmiştir. Aynı yerde 28 Mayıs 2003'te yaklaşık 100 erişkin kaydedilmiştir, ancak söz konusu iki gözlemde de üremeyi gösteren kesin bir kanıt elde edilememiştir. 10 Haziran 2005'te üreme için uygun habitatın bulunduğu Malatya yakınındaki Karakaya Barajı'nda, yaklaşık 20 erişkin gözlenmiştir. Yine aynı yerde 18 Temmuz 2005'te, 10-15 tanesi gençlerden oluşan 35'in üzerinde birey kaydedilmiş, gençlerin bir kısmının erişkinler tarafından beslendiği de not edilmiştir. Türün ürediğine dair kesin kanıt olmadığı için gözlenen bu bireylerin söz konusu alanlarda sadece kısa süre ile kalan geçit kuşları oldukları düşünülmektedir. Üreme kolonilerinde kuşlar 2-3 ay boyunca kalırlar. Bu süre içinde gürültülü ve dikkat çekici oldukları için fark edilmemeleri mümkün değildir.
 
 **Alttürler ve Sınıflandırma**
 
@@ -616,9 +762,15 @@ Monotipik bir türdür.
 
 ***Rastlantısal konuktur.***
 
-Altı kaydı vardır. Kayıtların ayrıntıları şöyledir: 27 Mayıs 1915'te Marmara Denizi'nden alınan iki erişkin [@matheydupraz1920]; 4 ve 5 Eylül 1959'da Boğazlar'da gözlenen, sırasıyla, 1 ve 2 birey [@ballance1961]; 25 Mayıs 1969'da Van Gölü yakınındaki Ahlat'ın 2 km batısında fotoğraflanan 4 birey [@ost1972]; 1 Mayıs 1970'te Ağrı ilindeki Taşlıçay ve Yoncalı ilçeleri arasında gözlenen 2 birey [@ost1975]. Yakın tarihli kayıtlar ise, 27 Nisan 1996'da, Dalyan'da İztuzu kumsalı açıklarında gözlenen birkaç birey ile [@kirwanmartins2000], 12 ile 27 Mayıs 2005 arasında Bodrum yakınındaki Tuzla Milas'ta en fazla 4 olarak sayılan bireylerdir. 1971 yılı Temmuz sonunda Karadeniz'den bildirdiği kayıtlar [@renkhoff1972] ve kanıtsız görülmüş ve reddedilmiştir [@kasparek1992a]. Tür, Kıbrıs ve İsrail'de de rastlantısaldır [@porter1996]. Yunanistan'da en az sekiz kere kaydedilmiştir [@handrinos1997].
+<iframe src="https://macaulaylibrary.org/asset/455137841/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-![](images/harita_Page_206.png)
+</iframe>
+
+Türün Türkiye'de altı kaydı bulunmaktadır. İlk kayıt, 27 Mayıs 1915'te Marmara Denizi'nde alınan iki erişkin bireydir [@matheydupraz1920]. Sonraki kayıtlar, 4 ve 5 Eylül 1959'da Boğazlar'da gözlenen bir ve iki birey [@ballance1961], 25 Mayıs 1969'da Van Gölü yakınındaki Ahlat’ın batısında fotoğraflanan dört birey [@ost1972] ve 1 Mayıs 1970'te Ağrı’daki Taşlıçay ve Yoncalı arasında kaydedilen iki bireydir [@ost1975]. Daha yakın tarihli gözlemler ise 27 Nisan 1996’da Dalyan’daki İztuzu kumsalı açıklarında [@kirwanmartins2000] ve 12-27 Mayıs 2005’te Bodrum yakınlarındaki Tuzla Milas’ta en fazla dört bireyin gözlenmesidir.
+
+1971 yılı temmuz sonunda Karadeniz’den bildirilen kayıtlar [@renkhoff1972] kanıt yetersizliği nedeniyle reddedilmiştir [@kasparek1992a]. Tür, Kıbrıs ve İsrail’de rastlantısal olarak kaydedilmiş olup [@porter1996], Yunanistan’da ise en az sekiz kez görülmüştür [@handrinos1997].
+
+![](images/harita_Sterna paradisaea.png)
 
 **Üreme**
 
@@ -632,19 +784,23 @@ Monotipik bir türdür
 
 *Sterna hirundo*, Common Tern
 
-***Yaygın ve çok sayıda bulunan yaz konuğu ve geçit türüdür.***
+***Yaygın olarak nispeten çok sayıda üreyen yaz konuğu ve geçit türüdür.***
 
-Kıyı kesimlerinde ve başta Manyas Gölü'nde (500 çift), Gediz Deltası'nda (2150 çifte kadar), Göksu Deltası'nda 100 çifte kadar), İç Anadolu (kolonilerin çoğunda 50-100 çift) ve Doğu Anadolu olmak üzere ülkenin iç kesimlerindeki çeşitli sulakalanlarda bulunur.
+<iframe src="https://macaulaylibrary.org/asset/79942711/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-Sonbahar başta olmak üzere geçit sırasında daha bol ve daha yaygın yayılışlıdır. Sonbahar geçişi en azından ağustos başından ekim ortasına kadar sürer. Geçişin en yoğun olduğu dönem, Doğu Karadeniz'de de bazen yüksek sayılarla kaydedildiği eylül ayıdır. Geçiş daha nadiren kasım ortasına dek gözlenir. Mart ortasında başlayan bahar geçişinde aynı bollukta görülmez.
+</iframe>
 
-Çoğunlukla Karadeniz'den seyrek kış kayıtları vardır. Aralık sonu ile şubat başı ve ortasında Akdeniz'de kaydedilmiş kuşların da, geç ya da erken göçmenlerden çok kışlayan bireyler olmuş olması mümkündür.
+Kıyı kesimlerinde ve iç bölgelerdeki çeşitli sulakalanlarda bulunur. En büyük üreme kolonileri Manyas Gölü'nde (500 çift), Gediz Deltası'nda (2150 çifte kadar) ve Göksu Deltası'nda (100 çifte kadar) kaydedilmiştir. En önemli üreyen popülasyon, 1996 yılında tahminen 2150 çift olarak hesaplanan Gediz Deltası'ndakidir [@eken1997a]. İç Anadolu'daki kolonilerin çoğunda 50-100 çift arasında ürediği bilinmektedir. Doğu Anadolu'da da bazı sulakalanlarda ürediği tahmin edilmektedir.
 
-![](images/harita_Page_205.png)
+Bahar göçü mart ortasında başlar ancak bu dönemde daha az sayıda görülür. Sonbahar göçü ise daha yoğun olup ağustos başından ekim ortasına kadar sürer. En yüksek geçiş, Doğu Karadeniz'de bazen büyük sayılara ulaştığı eylül ayında kaydedilmiştir. Daha nadir olarak kasım ortasına kadar gözlenebilir.
+
+Nadiren kışın görülebilir. Aralık sonu ile şubat başı arasında Akdeniz'de kaydedilen bireylerin de geç ya da erken göçmenlerden ziyade kışlayan kuşlar olması mümkündür.
+
+![](images/harita_Sterna hirundo.png)
 
 **Üreme**
 
-Koloniler genellikle 80 çiftten daha az olsa da, 1966'da Manyas Gölü'nde kaydedildiği gibi 500 çifte kadar büyüklerine de rastlanmıştır. En önemli üreyen popülasyon, 1996 yılında tahminen 2150 çift olarak hesaplanan Gediz Deltası'ndakidir [@eken1997a]. Nadiren yalnız, bazen Gülen Sumru ve Küçük Sumru gibi diğer türlerle yakın ilişki içinde ürer. Hem kıyı, hem de iç kesimlerdeki göllerde, su basmış bölgelerde, nehir kıyılarında ve kıyıya yakın adalarda; çoğunlukla kum, çamur ve çakıldan oluşan alçak adalarda yuvalar. Uluabat Gölü'nde yüzen bitkilerin içinde yuvaladığı da kaydedilmiştir [@welch1998b]. Genellikle yerde, astarsız ya da yakındaki bitkilerle astarlanmış bir çukurda yuvalar. Türkiye'de gözlenen yumurta sayısı 3, nadiren 2. **İÇA.** 2 Haziran 1971'de Seyfe Gölü'nde 60 çiftten oluşan kolonide yapılan gözlemde yumurtaların yaklaşık 10 Mayıs'ta koyulduğunu gösterir şekilde 48 çiftin yuvasında yumurta, geri kalan çiftlerin yuvalarında da yavruların olduğu kaydedilmiştir [@husband1984]. 26 Temmuz 1971'de Yarma'da hala kuluçkada olan çiftler gözlenmiştir. 29 Mayıs 1999'da Çavuşçu Gölü'ndeki bir adada 100 çiftin yuvaladığı gözlenmiştir. **MAR.** 19 Haziran 1973'te Büyükçekmece'de, yumurtaların mayıs başında koyulduğunu gösterir şekilde 4 tüylenmiş yavru gözlenmiştir. 2 Haziran 1966'da Uluabat Gölü'nde yaklaşık 30 çiftten oluşan bir kolonide içinde yumurta bulunan 4 yuva kaydedilmiştir. Ayrıca, 14 Mayıs ve ardında içinde yumurta bulunan yuvalar kaydedilmiş, 11 Temmuz 1966'da ise Kocaçay Deltası'nda tüylenmiş yavru gözlenmiştir [@ertan1996]. **EGE.** 14 Mayıs 2007'de Karine Gölü'nde yapılan gözlemde, üremenin hala ilk aşamalarda olduğunu gösterir şekilde yalnızca bir yumurtası olan tamamlanmamış kuluçkaya sahip 2 yuva kaydedilmiş; 27 Haziran 1999'daki gözlemde ise çiftlerin çoğunun farklı gelişim seviyesinde yavruya sahip olduğu, ancak birkaç yuvada halâ yumurta bulunduğu kaydedilmiştir. [@mcneile1950], 23 Mayıs 1950'de Aliağa yakınındaki bir adacıktan 2 yumurta toplamıştır. **AKD.** Göksu Deltası'nda erişkinlerin 15 Mayıs'tan itibaren kuluçkaya yattıkları gözlenmiş, 19 Mayıs 1999'da ise Akgöl'de yaklaşık 100 bireyin kum şeridi üzerinde kuluçkada olduğu kaydedilmiş, temmuz başında ise tüylenmiş yavrular gözlenmiştir. **DOA.** Mayıs sonunda Erçek Gölü'nde, haziran başında ise Malatya'daki Murat Nehri'nde ve Karakaya barajındaki çakıl adalarında, kuluçkada olan erişkinler gözlenmiştir. **KAR.** 10 Haziran 1975'te Fatsa'da, açıktaki bir küçük adacıkta üremekte olan 30-50 çift kaydedilmiştir. Geç tarihlerde kaydedilen yumurtalı yuvalar büyük olasılıkla kaybedilen kuluçkaların yerine yenisinin yapıldığını göstermektedir.
+Koloniler genellikle 80 çiftten daha az olsa da, 1966'da Manyas Gölü'nde kaydedildiği gibi 500 çifte kadar büyüklerine de rastlanmıştır. Nadiren yalnız, bazen Gülen Sumru ve Küçük Sumru gibi diğer türlerle yakın ilişki içinde ürer. Hem kıyı, hem de iç kesimlerdeki göllerde, su basmış bölgelerde, nehir kıyılarında ve kıyıya yakın adalarda; çoğunlukla kum, çamur ve çakıldan oluşan alçak adalarda yuvalar. Uluabat Gölü'nde yüzen bitkilerin içinde yuvaladığı da kaydedilmiştir [@welch1998b]. Genellikle yerde, astarsız ya da yakındaki bitkilerle astarlanmış bir çukurda yuvalar. Türkiye'de gözlenen yumurta sayısı 3, nadiren 2. **İÇA.** 2 Haziran 1971'de Seyfe Gölü'nde 60 çiftten oluşan kolonide yapılan gözlemde yumurtaların yaklaşık 10 Mayıs'ta koyulduğunu gösterir şekilde 48 çiftin yuvasında yumurta, geri kalan çiftlerin yuvalarında da yavruların olduğu kaydedilmiştir [@husband1984]. 26 Temmuz 1971'de Yarma'da hala kuluçkada olan çiftler gözlenmiştir. 29 Mayıs 1999'da Çavuşçu Gölü'ndeki bir adada 100 çiftin yuvaladığı gözlenmiştir. **MAR.** 19 Haziran 1973'te Büyükçekmece'de, yumurtaların mayıs başında koyulduğunu gösterir şekilde 4 tüylenmiş yavru gözlenmiştir. 2 Haziran 1966'da Uluabat Gölü'nde yaklaşık 30 çiftten oluşan bir kolonide içinde yumurta bulunan 4 yuva kaydedilmiştir. Ayrıca, 14 Mayıs ve ardında içinde yumurta bulunan yuvalar kaydedilmiş, 11 Temmuz 1966'da ise Kocaçay Deltası'nda tüylenmiş yavru gözlenmiştir [@ertan1996]. **EGE.** 14 Mayıs 2007'de Karine Gölü'nde yapılan gözlemde, üremenin hala ilk aşamalarda olduğunu gösterir şekilde yalnızca bir yumurtası olan tamamlanmamış kuluçkaya sahip 2 yuva kaydedilmiş; 27 Haziran 1999'daki gözlemde ise çiftlerin çoğunun farklı gelişim seviyesinde yavruya sahip olduğu, ancak birkaç yuvada halâ yumurta bulunduğu kaydedilmiştir. [@mcneile1950], 23 Mayıs 1950'de Aliağa yakınındaki bir adacıktan 2 yumurta toplamıştır. **AKD.** Göksu Deltası'nda erişkinlerin 15 Mayıs'tan itibaren kuluçkaya yattıkları gözlenmiş, 19 Mayıs 1999'da ise Akgöl'de yaklaşık 100 bireyin kum şeridi üzerinde kuluçkada olduğu kaydedilmiş, temmuz başında ise tüylenmiş yavrular gözlenmiştir. **DOA.** Mayıs sonunda Erçek Gölü'nde, haziran başında ise Malatya'daki Murat Nehri'nde ve Karakaya barajındaki çakıl adalarında, kuluçkada olan erişkinler gözlenmiştir. **KAR.** 10 Haziran 1975'te Fatsa'da, açıktaki bir küçük adacıkta üremekte olan 30-50 çift kaydedilmiştir. Geç tarihlerde kaydedilen yumurtalı yuvalar büyük olasılıkla kaybedilen kuluçkaların yerine yenisinin yapıldığını göstermektedir.
 
 **Alttürler ve Sınıflandırma**
 
@@ -654,15 +810,21 @@ Orta Asya'da bulunan tibetana alttürüne benzer kuşların Ortadoğu'da görül
 
 *Thalasseus sandvicensis*, Sandwich Tern
 
-***Lokal ve az sayıda üreyen, tüm yıl görülen yaygın ve çok sayıda bulunan konuktur.***
+***Lokal olarak az sayıda ürer. Yaygın olarak nispeten çok sayıda tüm yıl görülür.***
 
-1980'lerin ortasında Gediz Deltası'nda az sayıda ürediği keşfedilmiştir. Son zamanlarda da Hersek Lagünü'nde 6 çiftin ürediği saptanmıştır. Bunun dışında, kıyı bölgelerinde oldukça yaygın ve seyrek olmayan geçit türüdür. Ülkenin ortasında ve batısında çok az sayıda kışlar. Marmara'da eylül sonundan nisan başına kadar kaydedilir. En yüksek sayıda bireyin gözlendiği kayıtların ayrıntıları şöyledir: Ocak 1972'de Büyükada ile Yalova arasında yaklaşık 450 birey; Mart 1974 ve Kasım 1970'de Büyükçekmece'de sırasıyla 231 ve 150 birey ve Ocak 1987'de Kavak Deltası'nda 170 birey. Karadeniz'de eylül sonundan nisan başına kadar, genellikle az sayıda kaydedilir. Kızılırmak Deltası ile Samsun civarında ise düzenli görülür ancak genellikle 100 bireyden az kaydedilir. Ege'de genellikle ekim sonundan mayıs sonuna kadar görülür. Çoğunlukla az sayıda kaydedilir ancak 1972'de Büyük Menderes Deltası'nda yaklaşık 100 birey gözlenmiştir. Akdeniz'de kasım başından mart sonuna dek görülür. Genellikle az sayıda kaydedilse de yaklaşık 50 bireyin gözlendiği de olmuştur.
+<iframe src="https://macaulaylibrary.org/asset/55951391/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
-![](images/harita_Page_203.png)
+</iframe>
+
+Ege ve Marmara kıyılarında lokal olarak az sayıda yuvalar. İlk kez 1980'lerin ortasında Gediz Deltası'nda ürediği keşfedilmiş, son yıllarda Hersek Lagünü'nde 6 çiftin ürediği belirlenmiştir. Bunun dışında, Enez Lagünleri, Büyükçekmece Lagünü ve Kocaçay Deltası'nda da düzensiz olarak üreyebilir.
+
+Kış aylarında tüm kıyılarda yaygın olarak görülür. Karadeniz'in kuzeyinde üreyen kuşlar da güneye inerken Karadeniz kıyısı boyunca geçit sırasında rastlanır. Eylül sonundan nisan başına kadar gözlenebilir. Karadeniz kıyılarında genellikle az sayıda bulunurken, Kızılırmak Deltası ve Samsun civarında daha düzenli görülür, ancak genellikle 100 bireyden az kaydedilir. Ege’de ekim sonundan mayıs sonuna kadar gözlenir ve çoğunlukla az sayıdadır. Akdeniz’de kasım başından mart sonuna kadar kaydedilse de zaman zaman 50 bireye kadar ulaşan gruplar da gözlenmiştir. En yüksek sayılar şu kayıtlarda bildirilmiştir: Ocak 1972’de Büyükada ile Yalova arasında yaklaşık 450 birey, Mart 1974 ve Kasım 1970’te Büyükçekmece’de sırasıyla 231 ve 150 birey, Ocak 1987’de Kavak Deltası’nda 170 birey ve 1972’de Büyük Menderes Deltası’nda yaklaşık 100 birey.
+
+![](images/harita_Thalasseus sandvicensis.png)
 
 **Üreme**
 
-**EGE.** Gediz Deltası'nda 1984-88 yıllarında, deltanın tuzlu lagünlerinde yer alan, Akdeniz martısının (Larus melanocephalus) da ürediği adalarda ürediği doğrulanmıştır. 1996 Mayıs'ının başında, sözü geçen kolonide, 53 çift kara gagalı sumru ve 97 çift Akdeniz martısı kaydedilmiştir [@eken1997a]. **MAR.** Son yapılan araştırmada Yalova Hersek Lagünü'nde birkaç çiftin ürediği tespit edilmiştir. Türkiye'de veri yoktur, ancak diğer bölgelerde kolonilerin yoğun olduğu ve yuvaların birbirine 0,5 m'den daha yakın olduğu bilinmektedir. Yere, astarsız sığ bir deliğe yuvalar. Olağan kuluçka sayısı ikidir, ancak nadiren yılda bir kere de kuluçkaya yatabilir. Yumurtalar çoğunlukla mayısta koyulur.
+Türkiye'de veri yoktur, ancak diğer bölgelerde kolonilerin yoğun olduğu ve yuvaların birbirine 0,5 m'den daha yakın olduğu bilinmektedir. Yere, astarsız sığ bir deliğe yuvalar. Olağan kuluçka sayısı ikidir, ancak nadiren yılda bir kere de kuluçkaya yatabilir. Yumurtalar çoğunlukla mayısta koyulur.**EGE.** Gediz Deltası'nda 1984-88 yıllarında, deltanın tuzlu lagünlerinde yer alan, Akdeniz martısının (Larus melanocephalus) da ürediği adalarda ürediği doğrulanmıştır. 1996 Mayıs'ının başında, sözü geçen kolonide, 53 çift kara gagalı sumru ve 97 çift Akdeniz martısı kaydedilmiştir [@eken1997a]. **MAR.** Son yapılan araştırmada Yalova Hersek Lagünü'nde birkaç çiftin ürediği tespit edilmiştir.
 
 **Alttürler ve Sınıflandırma**
 
@@ -674,16 +836,21 @@ Türkiye'de nominat alttürü bulunur.
 
 ***Rastlantısal konuktur.***
 
-Üç kaydı vardır: 28 Mayıs 1973'te Göksu Deltası'nda oldukça iyi şekilde gözlenen ancak, yüzeysel tanımlı, ilk yaşını süren bir birey [@witt1976beobachtungen]; 5 Haziran 2003'te yine Göksu Deltası'nda bu kez denizde hızla uçarken gözlenen, ancak hakkında ayrıntılı bilgi olmayan bir birey; 13 Mart 2004'te Küçük Menderes Deltası'nda gözlenen ve kısa tanımı mevcut birey [@balmer2004b]. Dördüncü kayıt, Belek Eleri sahilinde 26 Aralık 2004'de görülen bir kuş olup ayrıntılı tarifi mevcuttur (A.-A. Weller).
+<iframe src="https://macaulaylibrary.org/asset/528363761/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
-Tür üremeksizin Eilat'da (İsrail) düzenli ancak nadir bahar ve yaz konuğu olarak kaydedilir [@shirihai1996]. Önceden Lübnan sahili açıklarındaki bir adada üremiştir [@ramadan1999].
+</iframe>
 
-![](images/harita_Page_202.png)
+Türkiye'de ilk olarak 28 Mayıs 1973'te Göksu Deltası'nda ilk yaşındaki bir birey gözlenmiş, ancak tanımlaması yüzeysel kalmıştır [@witt1976beobachtungen]. 5 Haziran 2003'te yine Göksu Deltası'nda deniz üzerinde hızla uçarken görülen bir birey kaydedilmiş, ancak ayrıntılı tanımı yapılmamıştır. 13 Mart 2004'te Küçük Menderes Deltası'nda gözlenen bireyin kısa bir tanımı mevcuttur [@balmer2004b]. Dördüncü kayıt ise 26 Aralık 2004'te Belek Eleri sahilinde ayrıntılı şekilde tanımlanan bir bireye aittir (A.-A. Weller). Sonra 24 Ocak - 4 Şubat 2023 tarihleri arasında Mersin Taşkıran Plajı’nda iki birey (T. Uca), 18 Kasım 2023'te Mersin Limanı mendireğinde bir birey (M. Erturhan) ve 24 Şubat 2024'te Mersin ODTÜ Deniz Bilimleri Enstitüsü’nde bir birey (K. Özkan) gözlenmiştir.
+
+Tür, üremeksizin İsrail'in Eilat bölgesinde düzenli ancak nadir bir bahar ve yaz konuğu olarak kaydedilmektedir [@shirihai1996]. Tarihsel olarak Lübnan sahili açıklarındaki bir adada ürediği bilinmektedir [@ramadan1999].
+
+![](images/harita_Thalasseus bengalensis.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye’de yuvalamaz. Akdeniz’deki en yakın üreme alanı Libya kıyılarındadır ve bu, türün Akdeniz’de bilinen tek üreme alanıdır.
 
 **Alttürler ve Sınıflandırma**
 
 Türkiye kayıtları alttür düzeyinde tanımlanmamıştır. Akdeniz'de yuvalayan *emigratus* alttürünün bulunması olasıdır.
+

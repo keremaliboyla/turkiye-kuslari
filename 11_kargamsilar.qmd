@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kargamsılar"
 ---
 
@@ -12,7 +12,7 @@ Muhtemelen Karadeniz ve Trakya'da çok bol bulunur. Yaprak döken ormanlarda ve 
 
 Geçiş sırasında daha yaygın ve sayıca fazladır. İlkbahar geçişi mayısta en yoğundur; nisan ortasından itibaren kaydedilir. Kumerloeve (1970a) 2 Nisan'daki bir kayıttan bahsetmektedir. İlkbahar geçişi en azından kuzeyde ciddi olarak haziran başına kadar devam edebilir. Sonbaharda nispeten azdır; sonbahar göçü İstanbul Boğazı'nda açıkça ağustos sonu ile eylül ortasında zirve yapar ve genellikle eylül sonunda tamamlanır, Kızılırmak Deltası'nda 15 Ekim tarihli geç bir kayıt vardır.
 
-![](images/harita_Page_282.png)
+![](images/harita_Oriolus oriolus.png)
 
 **Üreme**
 
@@ -30,7 +30,7 @@ Monotipik bir türdür.
 
 Görünüşe göre sadece Ege'nin güneyinde, Akdeniz ve Güneydoğu Anadolu'nun en azından bazı yerlerinde ve İç Anadolu'nun ağaçsız, yarı bozkır alanlarında büyük ölçüde yoktur. Özellikle Doğu Anadolu'da ve Toroslar'ın doğusunda deniz seviyesinden en az 2300 m'ye kadar, çoğunlukla açık ormanlarda ve tarlaların olduğu çalılık alanlarda bulunur. Geçiş sırasında ülke genelinde daha yaygın, bol ve hatta bazen çok boldur. İlkbahar geçişi nisan başı ile mayıs sonu arasında ve yoğun olarak nisan sonu ve mayıs ortasına kadar sürer. Sonbaharda, çoğunluğu eylül boyunca olmak üzere ağustos ortasından ekim sonuna kadar geçer. Güneyde en geçi 17 Kasım'da olmak üzere kasımda da bir düzine civarında kaydı vardır.
 
-![](images/harita_Page_273.png)
+![](images/harita_Lanius collurio.png)
 
 **Üreme**
 
@@ -48,7 +48,7 @@ Roselaar (1995), batı ve güneydeki kuşları nominat collurio ve Doğu Anadolu
 
 Aksi belirtilmediği sürece kayıtların hepsi bir bireye aittir. 17 Ağustos 1972'de Erzurum yakınlarında (OST 1975), 25 Temmuz 1977'de Eceabat'ta (Çanakkale) (Louette vd. 1977), 16 Mayıs 1991'de Tirebolu'nun 12 km güneybatısında Espiye'de bir erkek ([@kirwanmartins1994]), 3 Mayıs 1998'de Kızılırmak Deltası'nda yakalanıp fotoğraflanan bir erkek, 24 Kasım 2007'de Gelemen'de (Samsun) fotoğraflanan ilk kışında bir birey (Balmer ve Betton 2008)
 
-![](images/harita_Page_275.png)
+![](images/harita_Lanius phoenicuroides.png)
 
 **Üreme**
 
@@ -72,7 +72,7 @@ Aksi belirtilmediği sürece kayıtların hepsi bir bireye aittir 31 Ağustos 19
 
 Son taksonomik revizyon öncesi alttür seviyesinde tanımlanmayan kuşların kayıtları: 13 Mayıs 1969'da Silifke yakınlarında bir dişi (OST 1972), 9 Temmuz 1981'de (olağandışı bir tarihte) Halfeti'nin güneyinde (Güneydoğu Anadolu), 15 Eylül 1982'de Uluabat Gölü'nde, 11 Mayıs 1984'te Diyarbakır ve Kâhta arasında (Kasparek 1990a), 16 Mayıs 1987'de Birecik'te ([@kirwanmartins1994]), 6 Ağustos 1987'de Manyas Gölü'nde, 28 Ağustos 1988'de Doğubayazıt ve Adilcevaz arasında (Kasparek 1990a), 30 Eylül 2006'da Birecik'te (Balmer ve Betton 2007a).
 
-![](images/harita_Page_274.png)
+![](images/harita_Lanius isabellinus.png)
 
 **Üreme**
 
@@ -90,7 +90,7 @@ Kryukov (1995), cristatus grubundaki örümcekkuşlarının arasındaki etkileş
 
 Türkiye'de bir kez kaydedilmiştir. 24 Eylül 1987'de Birecik'te ilk kışındaki bir erkek fotoğraflanmış, yakalanmış ve örnek olarak alınmıştır (Shirihai ve Golan 1994). Bu örnek Tring Doğa Tarihi Müzesi'ndedir (kayıt no. 1988.23.1). Yakın Doğu'daki diğer kayıtlar şöyledir: Kasım 1982'den 1983 Şubat'ının üçüncü haftasına kadar Sede Boqer'de (İsrail) batı erythronotus ırkından erişkin bir erkek kaydı aynı yazarlar tarafından tanımlanmış (Shirihai ve Golan 1994), 11-13 Nisan 2004'te Akaba'da (Ürdün) bir birey fotoğraflanmış (Dufourny 2006), Ekim 2004'te ve Kasım 2006 ile Nisan 2007 arasında Kuveyt'te yalnız bireyler gözlenmiştir (Balmer ve Betton 2007a, b).
 
-![](images/harita_Page_276.png)
+![](images/harita_Lanius schach.png)
 
 **Üreme**
 
@@ -108,7 +108,7 @@ Toplanmış olan örnek özellikle yayılış alanının batısında bulunan ery
 
 Çoğunluğu ekim sonundan itibaren gözlenir, ancak Doğu Anadolu'da ve Marmara'da bazen eylülün ikinci yarısında da kaydedilir. Mart ortası ve sonuna kadar ya da daha nadir olarak nisana kadar kalır. En düzenli olarak gözlendiği bölgeler Marmara, Karadeniz ve İç Anadolu'dur; Ege ile Akdeniz'de ise nispeten az kaydı vardır. Özellikle gençlerin, sonbaharda kara alınlı örümcekkuşu ile karıştığı ortadadır, örneğin Helbig (1984) ve Kumerloeve'nin (1961) bahsettiği Samsun ve Gelibolu'da (Çanakkale) mayıstaki iki kayıt da belirsiz olarak nitelendirilebilir.
 
-![](images/harita_Page_278.png)
+![](images/harita_Lanius excubitor.png)
 
 **Üreme**
 
@@ -118,13 +118,8 @@ Türkiye'de yuvalamaz.
 
 Bulgaristan'da üreyen L. e. homeyeri'nin Türkiye'de en sık rastlanan form olması beklenirken (Lefranc ve Worfolk 1997) ülkedeki örnekler nominat excubitor alttürüdür. 19 Ekim 1871'de Pendik'ten alınan bir dişi örnek (BB0792) ve 28 Ekim 1872'de Karanski'den (Marmara'da bilinmeyen bir lokalite) alınan bir erkek örnek (BB0791) Manchester Müzesi'ndedir. Robson tarafından, 12 Kasım 1864'te alınmış lokalitesi belli olmayan bir erkek örnek (BM 88.5.1930.391), 19 Ekim 1871'de Pendik'ten alınan bir erkek örnek (BM 72.11.4.19301) ve 22 Ekim 1871'de Haranköy'den alınan bir dişi örnek (BM 98.9.1920.572) Tring Doğa Tarihi Müzesi'ndedir. Olağandışı erken bir tarihte, 23 Eylül 1898'de alınan örnek dâhil sonbaharda İstanbul civarından alınan, Sofya Ulusal Doğa Tarihi Müzesi'ndeki altı Alléon örneğinin tümü de excubitor alttürüdür. Arazide gözlenenlerin sadece üçünün ırkı belirlenmiştir. Ankara, Eskişehir ve İstanbul'da gözlenen bu bireylerin üçü de nominat excubitor alttürüdür (B Demirci, E. Yoğurtçuoğlu). Mathey-Dupraz (1921), bir L. meridionalis (İng. Southern Grey Shrike) örneğinin Robert Koleji'ndeki (Bebek, İstanbul) koleksiyonda bulunduğundan bahsederek türü nadir olarak tanımlar ve Türkiye'de başka bir kayıttan bahsetmez. Bu örnekle ilgili hiçbir ayrıntı verilmemiştir ve görünüşe göre artık mevcut değildir (Kirwan 1997a). Meridionalis kompleksinin tür statüsüne yükseltilmesinin ardından (örneğin Clement 1995, Grant ve Mackworth-Praed 1952, Isenmann ve Bouchet 1993, Panov 1983, Panov 1995, Snow ve Perrins 1998), bu kayıt yeni bir öneme sahip olmuştur, ancak öte yandan daha detaylı bilgi olmadan onaylanamaz.
 
-## Doğu Örümcekkuşu
-
-*Lanius pallidirostris* alttürünün
-
+Doğu Örümcekkuşu *Lanius pallidirostris* alttürünün 
 4 kaydı vardır. İlk kez 8 Eylül 2010'da Trabzon Yorma'da fotoğraflanmıştır. Ardından 4 Kasım 2010'da Rize Limanı'nda, 11 Eylül 2011'de tekrar Yorma'da, 30 Mart 2015'te ise Antalya Sahilin'de fotoğraflanmıştır.
-
-![](images/harita_Page_279.png)
 
 **Üreme**
 
@@ -144,7 +139,7 @@ Marmara, Ege, Akdeniz ve Karadeniz'de daha lokal olmakla beraber tüm bölgelerd
 
 Geçit sırasında, özellikle Doğu Anadolu'da olmak üzere ülke genelinde daha yaygın ve boldur. Genel olarak, ilkbahar geçişi mart sonundan en az mayıs sonuna kadar gerçekleşir, mayıs ortasında zirve yapar ve muhtemelen hazirana da sarkar (Albrecht 1986, Hustings ve van Dijk 1994). Karadeniz'e nisan sonundan önce nadiren ulaşır. İç Anadolu'da geçiş mayısın ilk haftası en yoğundur (Schekkerman ve van Roomen 1993). Sonbahar geçişi ise temmuz sonundan ekim ortasına hatta daha çok ekim başına kadar gerçekleşir, ağustos sonu ile eylül ortası arasında zirve yapar.
 
-![](images/harita_Page_277.png)
+![](images/harita_Lanius minor.png)
 
 **Üreme**
 
@@ -162,7 +157,7 @@ Monotipik bir türdür.
 
 Görünüşe göre büyük oranda habitat kaybı nedeniyle son yıllarda popülasyonu en az %10 azalmıştır (Perktaş 2004). Çok lokal olarak Marmara'da, genellikle kıyılardan çok iç kesimlerde olmak üzere Ege ve Akdeniz'de, muhtemelen oldukça lokal olarak İç Anadolu'nun bitişik alanlarında ve yaygın olarak Güneydoğu Anadolu'nun kuzey sınırı boyunca ürer (Kirwan 1998a). Karadeniz ve Doğu Anadolu'nun büyük bölümünde yoktur. Son zamanlarda yapılan bir arazi çalışmasıyla İliç ve Kemaliye'de (Erzincan) üreyen bir popülasyon ortaya çıkarılmışsa da bu bölgelerde çoğunlukla nadir bir geçit türüdür. Ayrıca, uygun iklim koşulları nedeniyle Kelkit Vadisi'nde de olması beklenebilir. Mayıs ortasından itibaren açık meşe ya da çam ormanlarından narenciye bahçelerine ve zeytinliklere kadar yarı ağaçlık habitatlarda en az 2000 m'ye kadar ancak daha çok 1100 m'nin altında ürer. İlkbaharda mart ortasından itibaren hafif bir geçiş başlar, nisan ortasından mayıs başına kadar zirve yapar. Doğu Anadolu'da ve Karadeniz'de mayısın ikinci yarısında ve bazen haziran başında da göçmenler kaydedilir. Sonbahar geçişi ağustos ortası ve ekim sonu arasında kaydedilmiş olup, en yoğun olarak eylülde gerçekleşir.
 
-![](images/harita_Page_281.png)
+![](images/harita_Lanius nubicus.png)
 
 **Üreme**
 
@@ -180,7 +175,7 @@ Monotipik bir türdür.
 
 Ege'de, daha lokal olarak Marmara'da, daha az sayıda Akdeniz'de, İç ve Doğu Anadolu'nun Akdeniz'e komşu bölgelerinde ve bol olarak Güneydoğu Anadolu'nun büyük bölümünde ürer. Diğer yerlerde muhtemelen çok lokal olarak üreyen bir türdür. Genellikle çok çeşitli ova habitatında, özellikle narenciye bahçeleri ve zeytinlikler olmak üzere tarımsal alanlardaki çalılık ve yarı ağaçlık alanlarda mayıs başından itibaren ürer. Marmara ve Ege'de deniz seviyesinden 800 m'ye kadar, Akdeniz'de 1200 m'ye kadar ve Doğu ve Güneydoğu Anadolu'da 500- 2000 m'de ürer ([@roselaar1995]). Geçiş sırasında özellikle ilkbaharda daha bol ve yaygındır. İlkbaharda çoğunlukla nisan ortasında geçiş yapar, mart ortası ile mayıs başına kadar kaydedilir. Sonbaharda ise ağustos başı ve ekim sonu arasında kaydedilmiş olup yoğun olarak eylül ayında geçiş yapar. Sonbahar geçişi daha seyrektir.
 
-![](images/harita_Page_280.png)
+![](images/harita_Lanius senator.png)
 
 **Üreme**
 
@@ -198,7 +193,7 @@ Trakya ve Marmara'daki diğer yerlerde ve Ege boyunca güneyde Bodrum civarına 
 
 İç, Doğu ve Güneydoğu Anadolu'da uygun habitatların bulunmadığı yerlerde görülmez. Deniz seviyesinden en az 2000 m'ye kadar yaprak döken ormanlar, makiler, zeytinlik ve turunçgil bahçelerinde epey yaygın şekilde görülmesinin yanında Toros Dağları ve Kuzeydoğu Anadolu Dağları boyunca uzanan iğne yapraklı ormanlar başta olmak üzere her türlü ormanlık alanda ürerler. Bazı kışlar nispeten az sayıda göçmen kuzey ve batı bölgelerine inerler, örneğin 24 Eylül -- 3 Ekim 1980 tarihleri arasında Borçka'da günde göç eden yaklaşık 100 birey sayılmıştır.
 
-![](images/harita_Page_283.png)
+![](images/harita_Garrulus glandarius.png)
 
 **Üreme**
 
@@ -218,7 +213,7 @@ Ferdinandi ve graceus alttürleri Roselaar (1995) tarafından kabul edilse de ar
 
 Yerli olarak bilinmesine rağmen bazı bölgelerde kısmi göçler yaparlar. Üremek için telefon direkleri ve insan yapımı diğer habitatları kullandıkları İç ve Doğu Anadolu'nun ağaçsız geniş bozkır ve yarı bozkır alanlarında bile bulunurlar. Genellikle deniz seviyesinden 3000 m'ye kadar dağınık ağaç, çalı ve fundalıkların bulunduğu açık tarımsal arazilerde bulunurlar. Sinop'tan Sarp'a kadar Karadeniz Bölgesi'nde neredeyse bulunmamakla birlikte Kızılırmak Deltası'nda nadir üreyen bir kuş olarak tanımlanmış [@dijksen1985], 1992'de 3 ay boyunca alanda yapılan yoğun gözlemler sonucunda sadece tek bir birey gözlenmiştir. Güneydoğu Anadolu Bölgesi'nde ise başta güney kısımları olmak üzere birçok alanında bulunmaz. Güney Ege ve Akdeniz kıyılarında ise yerli olup olmadığı bilinmektedir. Kışın özellikle de iç ve doğu bölgelerde kısıtlı yayılış gösterir ve 450 bireye varan büyük gruplar halinde birlikte geceler.
 
-![](images/harita_Page_284.png)
+![](images/harita_Pica pica.png)
 
 **Üreme**
 
@@ -238,7 +233,7 @@ Dağınık ağaç ya da çalıların bulunduğu açık tarım arazileri, fundal�
 
 Hem Rigler (1852) hem de Mathey-Dupraz (1921) türü İstanbul çevresinin kuş listesine dâhil etmiş, daha sonra ise 1889-94 yılları arasında İstanbul'daki kuş pazarlarında sonbahar aylarında düzenli olarak satıldığını kaydetmişlerdir. Fakat Kumerloeve (1961) bu gibi türlerin kaynağını sorgulamıştır.
 
-![](images/harita_Page_285.png)
+![](images/harita_Nucifraga caryocatactes.png)
 
 **Üreme**
 
@@ -256,7 +251,7 @@ Türkiye'de yuvalamaz.
 
 Genellikle 1800 m üzerindeki dağlık bölgelerde, nadiren de Karadeniz Bölgesi'nde 700 m yüksekliklerde görülür. Dağ eteklerinde, bozkırlarda ve kış aylarında sarı gagalı dağ kargasından yaygındır. Kışın 1999 Şubat ayının ortasında Demirkazık (Niğde) bölgesinde 1000 m'de büyük gruplar halinde geceleme noktalarında toplanırlar. Süphan Dağı'nda (Bitlis) 3000 m'ye kadar görülmüşlerdir. Bunun yanında Van Gölü'nde Ahdamar Adası gibi diğer uygun habitatlarda da mevcutturlar. Genelde doğu bölgelerinde geniş yayılış gösterseler de, batıda Uludağ'a kadar uzanır. Güneydoğu Anadolu'da ise çok yerel popülasyonlar bulunur. Güneyde deniz kıyısında nadiren tespit edilmiştir.
 
-![](images/harita_Page_286.png)
+![](images/harita_Pyrrhocorax pyrrhocorax.png)
 
 **Üreme**
 
@@ -274,7 +269,7 @@ Türkiye'nin her yerinde bulunan docilis alttürüdür. Bu form himalayanus altt
 
 Toros Dağları boyunca ve İç Anadolu'nun güney şeridinde, daha yaygın olarak Doğu Anadolu ve Doğu Karadeniz'in dağlık kısımlarında yüksek rakımlarında bulunan az sayıda yerli türdür. Tüm bu bölgelerde yer yer yüksek sayılarda kaydedilmiştir. Bunun yanında, genelde az sayılarda Uludağ'dan düzenli kayıtları vardır. Ege'deki durumu ise tam bilinmemekte, nadiren İzmir'in doğusundaki dağlarda görülmektedirler. Genellikle 2500 m üzerindeki alanlarda ürese de, Güneydoğu Anadolu'da 1500 metre, Doğu Anadolu'da Munzur bölgesinde 1400 m'deki alçak rakımlarda ürediği tespit edilmiştir. Kış aylarında yayılma eğilimi az olup nadiren alçak bölgelere iner.
 
-![](images/harita_Page_287.png)
+![](images/harita_Pyrrhocorax graculus.png)
 
 **Üreme**
 
@@ -294,7 +289,7 @@ Bazı bölgelerde yarı göçmen olabilir. Akdeniz Bölgesi'nde boyunca pek bulu
 
 Kuzeyde İstanbul Boğazı ve diğer noktalarda yapılan sayımlarda göç ettiklerine dair herhangi bir veri bulunmamasına rağmen, sonbahar ve kış aylarında daha yaygın ve yüksek sayılarda görülür. Sonbaharda dikkat çekecek sayıda kuş güneye doğru yer değiştirirler; büyük sürüler nadiren temmuz sonundan genellikle ağustos sonundan nisan başına kadar üremediği kıyı kısımları dâhil batı ve orta bölgelerde toplanırlar. Tür genellikle birkaç bin birey halinde geceler, Kasım 1970'de Edirne'de istisnai olarak 40.000 tanesi bir arada kaydedilmiştir (OST 1975).
 
-![](images/harita_Page_288.png)
+![](images/harita_Corvus monedula.png)
 
 **Üreme**
 
@@ -316,7 +311,7 @@ Tarım arazileri ve yerleşim yerlerinin etrafındaki kavaklıklarda küçük ü
 
 Göç döneminde ve kışın daha geniş bir yayılış gösterir, ancak üreme bölgeleri çevresindeki yoğunluğunu korur. Güneydoğu Anadolu Bölgesi'ne de yayılır. Akdeniz Bölgesi'nde nadiren görürler. Üreme sonrası özellikle geceleme alanlarında 10.000'lere varan sayılarda toplanabilir. 17-18 Ekim 1983'te Karasu'da (Sakarya) batıya doğru ilerleyen istisnai 21.260 birey gözlenmiştir (Kasparek 1992a). Kışın bu bölgede dikkat çeken yüksek sayılar dışarıdan göç aldığını gösterebilir. 1966 yılında boğazda yapılan sayımlar ekim başından en az kasımın ilk haftasını sonuna kadar türün göç hareketleri olduğunu göstermiştir (Porter 1983). Göç belki de aralık ortasına kadar devam edebilir. Türkiye'nin kuzeyinde geri göç ise marttan nisan başına kadar devam eder.
 
-![](images/harita_Page_289.png)
+![](images/harita_Corvus frugilegus.png)
 
 **Üreme**
 
@@ -338,7 +333,7 @@ Sonbahar sonu ve kış aylarında nadiren 400'e varan büyük sürüler oluştur
 
 OST (1972, 1975) raporlarında simsiyah renkli doğu alttür orientalis'in kayıtları vardır: Ekim 1968'de Pozantı'nın kuzeyinde bir sardonius alttürü ile beraber, Ağustos 1971'de Van'da yaklaşık 20 tane ve Nisan 1972'de Kadınhanı'nda bir tanesi kaydedilmiştir. Fakat Roselaar (1995) bu taksonun genç ekin kargalarıyla kolaylıkla karıştırılabileceğini ve yayılış bölgesinde göçmen olmadığını bildirmiştir. Türkiye dışında orientalis alttürü kaydı Ekim 2005'te Lübnan'dan gelmiştir. British Ornithologists' Union (İngiliz Ornitologlar Birliği) Kayıt Komitesi (Parkins vd. 2003) leş kargası taksonunun kara ve gri bireylerinin eş seçiminde kendi rengine meyilli olması, ötüş ve ekolojilerindeki farklılık ve melez bireylerin kondisyonlarının düşük olması nedeniyle kara leş kargası ve gri leş kargasının farklı iki tür olarak alınmasına karar vermiştir.
 
-![](images/harita_Page_290.png)
+![](images/harita_Corvus cornix.png)
 
 **Üreme**
 
@@ -356,7 +351,7 @@ Taksonomik durumu karışıktır. Roselaar (1995) Karadeniz, Marmara, Ege, Akden
 
 Tek kayıt mevcuttur: 9 Temmuz 1985'te Mardin Cizre yakınlarında Dicle nehri kıyısında bir çöplükte beslenirken 7 kuş görülmüştür. Bu kayıt bugüne kadar türün en kuzeyde yapılmış kaydıdır (Jakobsen 1986). Türle ilgili tecrübeli gözlemcinin tanımlaması oldukça detaylı olsa da iki türü birbirinden ayırmak için kullanılan en önemli bilgi olan kanat/kuyruk oranı tanımlamada verilmemiştir. Gözlemciler türün Ortadoğu bölgesinde enselerinde kahverengilik olan kuzgun ile kolayca karışabileceğinin farkında olmalıdırlar. Bu iki türün İran'ın bazı bölgelerinde melezleştikleri bilinmektedir (Porter vd. 1996). Diğer yandan Roselaar güney İran, İsrail ve Türkmenistan bölgelerinde türün melezleştiğini gösterir çok az delil olduğunu rapor etmiştir (Cramp ve Perrins 1994 makalesinde).
 
-![](images/harita_Page_291.png)
+![](images/harita_Corvus ruficollis.png)
 
 **Üreme**
 
@@ -374,7 +369,7 @@ Somali yarımadasında bulunan edithae formu tür seviyesinde değerlendirilirse
 
 22 Mart 2005 tarihinde Belen Geçidi'nde bir bireyin kaydedilmiş ve türle ilgili tecrübeli gözlemciler tarafından çok iyi tanımlanmıştır. Kısa kuyruklu kuzgun İsrail ve Ürdün'de ürer, fakat Lübnan'dan da bilinen kaydı yoktur (Ramadan-Jaradi ve Ramadan-Jaradi 1998). 1975 senesinde Suriye'de Palmyra'daki bir kaydı diğer yazarların dikkatinden kaçmıştır (Baumgart vd. 1995; Serra vd. 2005).
 
-![](images/harita_Page_293.png)
+![](images/harita_Corvus rhipidurus.png)
 
 **Üreme**
 
@@ -392,7 +387,7 @@ Gözlenen kuşun alttürü tespit edilmemiş, fakat Türkiye'ye ulaşan alttür�
 
 İç Anadolu'da çok az yerde bulunurken, Güneydoğu ve Doğu Anadolu'nun büyük bölümünde yoktur. Farklı irtifalar arasında göçmendir. Genelde en az 3000 m'ye kadar olan plato ve dağlık alanlarda, sıklıkla ormanlı bölgelerde ürerler. Lokal olarak kalabalık sürüler oluşturur; nitekim Mayıs 1969'da Uludağ'da 100 bireyin üzerinde kayıt edilmiştir (OST 1972). Sonbahar sonu ve kışın daha alçaklara inerler, düzenli olarak dağılırlar. Üreme dönemi dışında üreme döneminde bulunmadıkları kıyı bölgelerine inerler ve 50 kuşluk sürüler oluşturabilirler.
 
-![](images/harita_Page_292.png)
+![](images/harita_Corvus corax.png)
 
 **Üreme**
 
@@ -402,4 +397,3 @@ Gözlenen kuşun alttürü tespit edilmemiş, fakat Türkiye'ye ulaşan alttür�
 
 Roselaar (1995) laurencei alttürünün Ege, Akdeniz ve İç Anadolu bölgelerinde nominat corax Kuzeydoğu Anadolu'da, Karadeniz ve Marmara boyunca, oradan da Van'ın güneyine kadar yayılış gösterir. Roselaar (1995) hepsi Kuzeydoğu Anadolu'dan toplanmış (Rize, Verçenik) toplam üç tahnit incelemiştir. Bu coğrafi varyasyonun alttür seviyesinde tanımlanması tartışmaya çok açıktır. Ne Vaurie (1959a) ne de Madge ve Burn laurencei alttürünü kabul etmiştir.
 
-## 

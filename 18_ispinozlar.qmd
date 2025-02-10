@@ -1,4 +1,4 @@
----
+﻿---
 title: "İspinozgiller"
 ---
 
@@ -12,7 +12,7 @@ title: "İspinozgiller"
 
 Geçit sırasında daha yaygındır. Ekimin ilk üç haftasında yüksek sayılar ülkenin kuzeyinde geniş cephede geçit yapar. 24 Eylül ve 8 Kasım 1966'da İstanbul Boğazı'nda 8865 tanesi, 18 Ekim 1980'de İstanbul Küçük Çamlıca'da 727 tanesi geçmiştir. Göçü ağustos başında başlar, en azından kasımın ilk haftasına kadar sürer, hatta güneyde daha uzun sürer. En erken 20 Ağustos'ta, en geç 8 Kasım'da izlenmiştir. İlkbahar göçü mart ve nisanda kaydedilmiş, Erzurum'da 16 Mart - 16 Nisan arasında önemli sayılarda gözlenmiştir. Özellikle Marmara, Ege, Akdeniz ve daha seyrek olarak Karadeniz bölgelerinde her türlü uygun habitatta ekim başından nisana kadar büyük sayılarla kışlar. Bu mevsimde nadiren çok yüksek yoğunlukta kaydedilir, 1990-91 kışında Antalya'da yüzlercesi görülmüştür.
 
-![](images/harita_Page_447.png)
+![](images/harita_Fringilla coelebs.png)
 
 **Üreme**
 
@@ -30,7 +30,7 @@ Yaygın ve nispeten çok sayıda bulunan kış konuğu ve geçit türüdür.
 
 Ülkenin her tarafında genellikle seyrek ara sıra ve lokal olarak kalabalık sürüler halinde bulunan kış konuğudur. Doğu Anadolu'dan az kaydı vardır, ancak düzenli olarak Malatya'da kışlar. Güneydoğu Anadolu'da düzensiz olarak görüldüğü tahmin edilir. Çoğunlukla İstanbul Boğazı, Trakya ve Kuzeydoğu Anadolu'ya genellikle eylül sonu ile kasım sonu arasında varır. Trakya, Batı ve Orta Anadolu'nun her yerinde kışlar, çoğunlukla Kuzey, Batı ve İç Anadolu'da yoğunlaşır. Düzensiz olarak yüksek sayılarda tespit edilmiş, 1966-67 ve 1988-89 kışlarında 1000'i aşan kalabalık sürüler sık görülmüştür. İç Anadolu'da 1976 başında istisnai yüksek sayılarda tespit edilmiştir. 1500 m'ye kadar bütün habitatlarda kaydedilmiştir. Geri dönüş mart sonunda başlar, bu zamana kadar orta ve güney bölgelerde çoğu ayrılmış olur, birkaç tanesi nisana kadar kalır, en geç 21 Nisan'da görülmüştür. Çok nadiren yazın kalabilir, bununla ilgili tek kayıt Erzurum'da haziran başına kadar kaldığını belirten [@mcgregor1917].
 
-![](images/harita_Page_448.png)
+![](images/harita_Fringilla montifringilla.png)
 
 **Üreme**
 
@@ -48,7 +48,7 @@ Monotipik bir türdür.
 
 Marmara, Karadeniz Bölgesi'nin batısı ve İç Anadolu'nun kuzeyinde bulunur. Trakya'da yer yer çok bol olabilir. Üreme dönemi Ege Bölgesi'nde bulunur, ancak üremesiyle ilgili bir kanıt olmasa da en azından kuzey Ege'de kesinlikle ürediği düşünülür. Danford (1878) bu türün Toroslar'ın Akdeniz tarafında ürediğini kaydetmiştir. Ancak bunu destekleyen sadece iki kayıt vardır, biri Toroslar'ın doğusunda erken bir temmuz kaydı ([@roselaar1995]), diğeri de mayıs ortasında Mut'un doğusundan gelen bir gözlemdir. Doğu Anadolu ve Karadeniz illerinde de uygun habitatlarda, ağustosta Tunceli'de (Heblig 1984) ve temmuzda Trabzon'da kaydedilmiştir. Özellikle ekimden itibaren tüm ülkede geçit sırasında kaydedilir, İstanbul Boğazı ve Borçka gibi göç gözlem noktalarında nispeten az sayıda görülür. Trakya, Batı ve Orta Anadolu'nun her yerinde kuşlar. Çoğu kış kaydı Marmara, Ege ve Akdeniz'in kıyı bölgelerinden ve hemen ardından gelir ve buralarda çeşitli ormanlık alanlarda yer yer çok boldur. Bu mevsimde İç Anadolu ve istisnai olarak Doğu Anadolu'da da görülmüştür ve bu bölgelerde irtifa göçü yaptığı düşünülür.
 
-![](images/harita_Page_449.png)
+![](images/harita_Coccothraustes coccothraustes.png)
 
 **Üreme**
 
@@ -66,7 +66,7 @@ Doğu ve Güney Balkanlar'daki kuşların nominat coccothraustes ve Güney Kafka
 
 Karadeniz Bölgesi'nde 2500 m yüksekliğe kadar yaygındır. Çok yerel olarak Marmara ve Kuzey Ege'de dağlık ibreli ve ara sıra karışık ormanlarda sayıda bulunur. Trakya'daki durumu belli değildir. İç Anadolu'nun kuzey sınırında, kış aylarında düzenli olarak gözlenir. Kuzeydoğu Toroslar'ın en ucunda son zamanlardan gelen haziran ve temmuz kayıtları mevcuttur. Ekim ve şubat arasında batı ve orta bölgelerimizde, özellikle de kıyı bölgelerinde, çok daha yaygın olup küçük sayılar halinde görülür. Ankara'da mayıs sonuna kadar kalmıştır. Bu dönemde istisnai olarak Birecik'te de rastlanmıştır.
 
-![](images/harita_Page_450.png)
+![](images/harita_Pyrrhula pyrrhula.png)
 
 **Üreme**
 
@@ -84,7 +84,7 @@ Kuzeydoğu Anadolu'daki alttürü rossikowi olup, Batı Karadeniz Bölgesi için
 
 Yüksek ve nispeten kurak dağlık alanlarda bulunur. Bunun yanında Doğu Karadeniz'in doğu ve iç bölgelerinde, lokal olarak Doğu Toroslar'da ve eteklerinde, İç Anadolu'da Tuz Gölü'nün doğusundaki dağlık bölgelerde yer yer boldur. Eber Gölü bölgesinden üreme döneminden, Mayıs 1967 ve 1992'den gelen iki kayıt, bu bölgede ana yayılışının kenarında bir popülasyonun üreyebileceğini gösterir. Buna ilaveten daha da güney ve batıdan üreme dönemi kayıtları mevcuttur. Genellikle seyrek bitkili kayalık yamaçlarda, en azından Ağrı Dağı'nda 4200 m'ye kadar yükseklikte, Doğu Anadolu'da sıkça 1600 m'nin üstündeki tarım arazilerinde ve daha batıda düzenli olarak en azından 900 m'ye kadar nispeten alçak bölgelerde ürer. Üreme genellikle nisanda ve muhtemelen doğuda biraz daha geç başlar. Kış aylarında İç Anadolu'nun bozkır arazilerinde nadiren görülebilir. Tek tük Ege'de, daha istisnai olarak Marmara'da batıda Biga'da (Çanakkale) görülmüştür (OST 1969). Buna rağmen çoğunluk Doğu Anadolu'da 2000 m'ye kadarki yüksekliklerde bulunur.
 
-![](images/harita_Page_451.png)
+![](images/harita_Rhodopechys sanguineus.png)
 
 **Üreme**
 
@@ -104,7 +104,7 @@ Kuzey'de Doğubayazıt'a kadar çıkarken, Akdeniz Bölgesi sınırına girebili
 
 Kayıtları şu şekildedir: 24 Mayıs 1974'de Iğdır Tuzluca'da iki erkek ve iki dişi, Tuzluca ve Kağızman arasında birçok kuş, 6 Haziran 1987'de altı tane Tuzluca ve Kağızman arasında Gaziler yakınında görülmüştür. 13 Haziran 1977'de Nemrut Dağı'nda (Tatvan) muhtemelen bir tane kaydedilmiştir (Krieger 1988). 28 Haziran 1977'de Yeşilce'nin 5 km güneyinde beşi genç toplam yedi kuş (Gaziantep) görülmüş, aynı yerde Haziran 1996, Mayıs 1997, 1999 ve 2000'de başka kuşlar gözlenmiştir (Kirwan ve Martins 2000a, Kirwan vd. 2000). 10 Mayıs 1979'da bir çift Alanya ve Manavgat arasında, 17 Ağustos 1987'de bir erkek Nemrut Dağı'nda (Tatvan) (Krieger 1988), 24 Nisan 1988'de bir kuş Silifke ile Mersin arasında, 17 Mayıs 1989'da bir kuş Birecik ve Cizre arasında, 16-17 Haziran 1990'da Birecik'te bir kuş ([@kirwanmartins1994]), 17 Mayıs 1992'de aynı yerde üç tane (Kirwan ve Martins 2000a), 8 Temmuz 1997'de Doğubayazıt'ta bir kuş, 31 Temmuz 2 Ağustos 1998 arasında aynı yerde iki kuş (Kirwan vd. 2000), 24 Haziran 2004'de iki genç (Balmer ve Betton 2005a), 10 Ağustos 1998'de Nemrut Dağı'nda (Tatvan) üç dişi veya ilk kışındaki gençler, 29 Nisan 1999'da Çınar Göksu Barajı'nda (Diyarbakır) iki tane (Karakaş ve Kılıç 2002), 13 Haziran 1999'da Göksu Delta'sında iki erkek (Kirwan vd. 2000), 30 Mayıs 2005'de Erciş'in (Van) 26 km batısında, Van Gölü'nün kuzey kıyılarında bir çift, 26 Mayıs 2005'de Pervari'de (Siirt) öten bir erkek, 1 Nisan 2008'de Mileyha'da (Antakya) bir kuş görülmüştür. Küçük alamecek ve doğu alameceğinin her ikisi de Tuzluca ve Doğubayazıt çevresinde görülmesi türlerin birbirleriyle karıştırılması ihtimalini düşündürse de her iki türün de gözlem kayıtları nitelikli tariflerle desteklenmiştir. Azerbaycan'da iki türün bir arada yan yana ürediği teyit edilmiştir (Clement vd. 1993).
 
-![](images/harita_Page_452.png)
+![](images/harita_Bucanetes githagineus.png)
 
 **Üreme**
 
@@ -126,7 +126,7 @@ Son zamanlarda yoğun olarak gelen kayıtlar, geçmişteki kayıt kıtlığıyla
 
 Bugünkü doğu sınırımızın kuzeyinde yetersiz belgelenmiş tarihi kayıtlar vardır. Mayıs 1911 ve 1912'de Bobrinskij (1916) türü bugünkü Türkiye, Ermenistan ve Azerbaycan sınırına yakın Bulgan (Nahçivan) yakınlarında gözlemiştir. Ardından Behe (Bohme) (1926) 1915 ilkbaharında Iğdır Tuzluca'da küçük bir sürü bulmuştur. Ermenistan'ın güneyinde Türkiye sınırına yakında bulunduğu ve çok büyük olasılıkla ürediği tespit edilmiştir (Beddard vd. 2002, Ananian ve Bussutil 2003). Kumerloeve (1961) bu kayıtlardan kısaca ve bahsetmiş, ancak son zamanlarda gelen yoğun kayıtlar bu tarihi kayıtların değerini yükselmiştir. Türün Türkiye ve Batı Palearktik'teki durumu Barthel vd. (1992), Kirwan ve Konrad (1995) ve Kirwan vd. (2000) tarafından değerlendirilmiştir.
 
-![](images/harita_Page_453.png)
+![](images/harita_Bucanetes mongolicus.png)
 
 **Üreme**
 
@@ -152,7 +152,7 @@ Mevcut durumda mongolicus türünün tip örneği için Bucanetes dışında ge�
 
 Çoğunlukla nisan sonundan itibaren gelirken en kuzeydeki üreme alanlarına varışı 3 hafta gecikebilir. En erken 2 Nisan'da kaydedilmiştir. Eylül sonu ve ekim başı ayrılır, en geç 12 Ekim'de kaydedilmiştir. Ülkenin kuzeyi boyunca ürer ve batıda Uludağ'a kadar gelir. Trakya'da Bulgaristan sınırında tek kayıt vardır ve burada düzenli üremeyebilir. Karadeniz Bölgesi'nde en bol ve yaygın olarak bulunur, İç Anadolu'nun kuzeyinde oldukça lokaldir, bölgenin diğer kısımlarında da, örneğin Sultansazlığı'nda birkaç kez olacak şekilde, üreme tespit edilmiştir. Doğu Anadolu'da güneyde Hakkâri Dağları'na kadar uygun habitatın olduğu yerde bol ilen Hakkâri Dağları'nda nispeten lokaldir. Akdeniz Bölgesi'nin kuzeyinde haziran başında bir kez kaydedilmiştir (Deppe 1990). Kumerloeve'ye göre (1966c, 1975c) bu türün ülkenin batısına yayılımı geçen yüzyılın ortalarında gerçekleşmiştir. Güneydoğu Anadolu'da bile üreyebilir, baharın sonuna doğru buradaki uygun habitatlarda kayıtların olduğunu bilsek de üremesi onaylanmamıştır. Üreme habitatı karışık ormanlar, tıraşlanmış veya yeniden dikilmiş ormanlar ve bahçeler olup 400 m'den Uludağ'da en azından 2700 m'ye kadar orta veya yüksek irtifada bulunur. Geçit sırasında daha yaygındır. Batıda çok nadir de olsa ülkenin her bölgesinde kaydedilir. Üreme alanlarından ayrılmaya ağustosun ikinci yarısından itibaren başlar, eylül boyunca devam eder. Doğu Anadolu'da 23 Ağustos'ta geçitte, en geç 3 Ekim'de rastlanmıştır. İstisnai olarak kışlar, bir kere 26 Aralık 2004'de Göksu Deltası'nda kaydedilmiştir.
 
-![](images/harita_Page_454.png)
+![](images/harita_Carpodacus erythrinus.png)
 
 **Üreme**
 
@@ -172,7 +172,7 @@ Kısmen göçücü veya irtifa göçmenidir. Başlıca ülkenin batı yarısınd
 
 Geçit sırasında özellikle de sonbaharda daha yaygındır, eylül sonu ile kasım başı arasında İstanbul Boğazı ve Akdeniz kıyılarında yüksek sayılar halinde kaydedilir. Geçişin 25 Eylül'de başlar, ağırlıkla ekimin ikinci yarısı olur. Mart ve nisan ayındaki ilkbahar geçişi daha belirsizdir. Çoğunlukla ülkenin batı bölgelerinde, özellikle Ege ve Akdeniz'de, bunun yanında Marmara, Karadeniz ve az sayılarda İç Anadolu'da kışlar. Bu mevsim diğer ispinozlarla karışık sürüler oluşturur.
 
-![](images/harita_Page_455.png)
+![](images/harita_Chloris chloris.png)
 
 **Üreme**
 
@@ -190,7 +190,7 @@ Roselaar (1995) saka ve floryanın ülkenin farklı yerlerinde bulunan formları
 
 İlk kez Weigold (1913) tarafından 1911'in Nisan ortasında Urfa'nın kuzeyindeki Maşık'ta belgelenmiş, ardından Clarke tarafından komşu Suriye'de Halep'te keşfedilmiştir (Kumerloeve 1966c). Bundan sonra 1964'e kadar yayımlanmış kayıt bulunmaz. Yerli tür olduğu zannedilse de yayılış bölgesinin kalanında olduğu gibi yarı göçmen olabilir. Mevcut kayıtlar sonbaharda bir miktar dağılma görüldüğünü düşündürür. Evvelden Hartert ve Steinbacher (1932-38) tarafından Suriye ve Irak'ta kış göçmeni olarak kaydedilmiş olması kışın Türkiye'den göç verdiğini düşündürür. Nisan başı ve ortasından eylül sonuna kadar özellikle lokal olarak ve küçük sayılarda, düzenli olarak görülür. Genellikle kurak tarım arazileri ve kayalık arazilerde, çoğunlukla 1000 m'nin altında bulunur, yer yer 2000 m'ye kadar çıkar. Batıda Gaziantep, doğuda Cizre ve kuzeyde Adıyaman'a kadar bulunur. Akdeniz Bölgesi sınırlarında da üremesi muhtemeldir. Son zamanlarda çok lokal olarak Van Gölü çevresi, Doğubayazıt yakınları ve Van Kuh Dağı'nda 2100 m rakımdan gelen birkaç kayıt, yayılış bölgesinin daha geniş olduğunu veya genişlemekte olduğunu gösterir. Birkaç kez ağustosta Birecik ve Halfeti'de yüzlerce kuştan oluşan sürüler halinde toplanmıştır. Doğu Akdeniz'de Doğu Toroslar'da temmuz ve ağustosta iki ayrı lokaliteden gelen üç güncel kayıt, üreme sonrası dağılmayı yansıtabilir. Diğer yandan Mayıs 1967'de Kayseri civarında görülmesi, burada üreyebileceğini gösterir. Daha da ilginci Kumerloeve Tuz Gölü'nün doğu kıyılarında yanında yavrusu olan erişkinler gözlediğini iddia etmesidir (Kumerloeve 1970). Roselaar (1995) bu kayıtlardaki kuşların son yıllarda İç Anadolu'daki uygun habitatlarda bol olan (Eken ve Magnin 1999) alamecek Rhodopechys sanguineus olabileceğini, Kirwan vd. (2000) bir ihtimal doğu alameceği Bucanetes mongolicus olabileceğini iddia etmişlerdir.
 
-![](images/harita_Page_456.png)
+![](images/harita_Rhodospiza obsoleta.png)
 
 **Üreme**
 
@@ -208,7 +208,7 @@ Monotipik bir türdür. Rhodospiza cinsi geçmişte sıkça Rhodopechys alttür�
 
 Yayılış bölgesinin batısında oldukça lokaldir. Doğu Karadeniz Bölgesi, Doğu Anadolu'nun hemen hemen her yerinde ve Güneydoğu Anadolu'nun en doğusunda, çoğunlukla yüksek irtifada çıplak ve kayalık bölgelerde bulunur. Doğu Anadolu'nun en güneyinde 1000 m rakıma kadar bulunur. Batıda İç Anadolu'nun doğu ve kuzey sınırlarında ve muhtemelen Akdeniz Bölgesine kadar ulaşır. Akdeniz Çoğunlukla 1750 ile 3000 m arasında bulunmakla beraber Büyük Ağrı gibi yüksek dağlarda en azında 4500 m'ye kadar çıkar. Genellikle kar çizgisinin çevresinde yuvalar ve üremeye mayıs ortasında başlar. Üreme sonrası 400 kuşluk sürüler oluşabilir. Akdeniz Bölgesi'nde üreme dönemi sonunda 1000 m'ye kadar iner. Genellikle Ekim ve Nisan başı arasında kışı geçirmek üzere alçak bölgelere iner ve Doğu Anadolu'da 2000 m yüksekliğe kadar çoğunlukla en fazla 200 kuşluk sürüler halinde yaygın ve bol olarak bulunur. Bu dönem batıya doğru biraz yayılır, 900 m'ye kadar inebilir ve çok nadiren Ankara çevresinde görülebilir.
 
-![](images/harita_Page_457.png)
+![](images/harita_Linaria flavirostris.png)
 
 **Üreme**
 
@@ -226,7 +226,7 @@ Türkiye, Kafkaslar, Kuzey Irak ve Kuzey İran'da brevirostris alttürü bulunur
 
 Dağlık yerlerde muhtemelen irtifa göçünde bulunur. Özellikle ve genellikle 3000 m yüksekliğe kadar bulunur, yer yer 4200 m'ye ulaşır ve ovalarda nadirdir. Güneydoğu Anadolu'da yayılışı batı ve kuzeybatı kısımlarıyla sınırlıdır. Genellikle nisandan itibaren ürer. Geçit sırasında çok daha yaygın ve boldur; İstanbul Boğazı'nda 11 Ağustos ve 20 Kasım arasında, Marmara Denizi kıyılarında daha da geç kaydedilir. Kışın özellikle Trakya, Batı ve Orta Anadolu'nun ovalık bölgelerinde ekim ile mart arasında kaydedilir ve sıkça 2000 kuşluk kalabalık sürüler oluşturur.
 
-![](images/harita_Page_458.png)
+![](images/harita_Linaria cannabina.png)
 
 **Üreme**
 
@@ -246,7 +246,7 @@ Deniz seviyesinden alpin çayırlara kadar değişken irtifada çalılıklarda y
 
 Ortadoğu'nun başka yerlerinde, İsrail'de kesin bir kaydı yoktur (Porter vd. 1996). Kıbrıs'tan beş kaydı olup hepsi kış ayında 1966 ile 1974 arasında yakalanmış veya vurulmuş kuşlardır (Flint ve Stewart 1992). Kıbrıs kayıtları göçmen kuşların Türkiye'de görülme olasılığını gösterir. Kumerloeve (1957d) bu türü Ekim ve Kasım 1941'de komşu Bulgaristan'da iki kez kaydetmiştir.
 
-![](images/harita_Page_459.png)
+![](images/harita_Acanthis flammea.png)
 
 **Üreme**
 
@@ -264,7 +264,7 @@ Türkiye'den gelen bütün kayıtların nominat flammea alttürüne ait olduğu 
 
 Saf ve karışık ibreli ormanlarda çok yerel bulunan, ancak genellikle az sayıda yerlidir. Karadeniz Bölgesi'nde özellikle doğuda yoğunlaşır ve bölgenin kalanında daha seyrektir. Güney Marmara'da başta Uludağ'da olup kalanında düzensizdir. İç Anadolu'nun kuzey sınırında yoğunlaşırken Ankara Beynam Ormanı'nda lokal bir popülasyon hala kalmış olabilir. Akdeniz Bölgesi'nde Toroslar boyunca bulunur. Üreme dönemi 2500 m'ye kadar çıksa da genellikle daha alçaklarda, örneğin Toros'larda 800-900 m'de bulunur. Sonbahar ve kış ayları özellikle de düzensiz gelişen ve muhtemelen yurtdışından da gelen kuşların dâhil olduğu akınların gerçekleştiği yıllar daha yaygındır. Diğer bölgelerdeki ilkbahar gözlemleri geçit yapan popülasyonlara ait olabilir.
 
-![](images/harita_Page_460.png)
+![](images/harita_Loxia curvirostra.png)
 
 **Üreme**
 
@@ -284,7 +284,7 @@ En yüksek sayılarda Marmara, Ege ve Akdeniz'de nispeten lokal olarak Doğu ve 
 
 Geçit sırasında yaygındır, ara sıra büyük sayılar halinde bulunur. Sonbaharda 14 Ağustos'tan itibaren ağustos ortası ile kasım başı arasında, çoğunluğu ise ekimin ikinci yarısında geçer. Bu dönemde florya ile karışık 12.000 bireyden oluşan bir grup gözlenmiştir. İlkbahar geçidi şubat sonundan nisan başına kadar sürer, bu sürede yoğunlaştıkları bir dönem yoktur. Kışın çoğunlukla Trakya, Batı ve Orta Anadolu'da bulunur, sıkça 500 kuşu bulan kalabalık ve sıkça ispinoz, florya, ketenkuşu ve hatta büyük baştankara ile karışık sürüler oluşturur.
 
-![](images/harita_Page_461.png)
+![](images/harita_Carduelis carduelis.png)
 
 **Üreme**
 
@@ -304,7 +304,7 @@ Genellikle 1700 m -- 2800 m arasında alçak çalılıklarda, bazen tek tük ağ
 
 Ekim sonu ve mart ortasında ve istisnai olarak nisanın ilk haftasına kadar çok daha yaygın olup, daha alçağa, hatta Akdeniz Bölgesi'nde deniz seviyesine kadar iner. Kışın istisnai olarak İstanbul Boğazı, Bodrum ve İzmir Bölgesi'nde görülmüş, Orta Karadeniz Bölgesi'nde haziran başına kadar deniz seviyesinde gözlenmiştir [@hustings1994]. Bu mevsimde İç Anadolu'nun bozkırlarında daha yaygın, ancak lokal olarak yayılış gösterir, örneğin Ankara çevresinde çok nadirdir.
 
-![](images/harita_Page_462.png)
+![](images/harita_Serinus pusillus.png)
 
 **Üreme**
 
@@ -322,7 +322,7 @@ Monotipik bir türdür.
 
 Dağlık bölgelerde yarı göçmen veya irtifa göçmenidir. Ege Bölgesinin çoğu, Marmara, Akdeniz Bölgesi ve Karadeniz Bölgesi'nin her yerinde bulunur. İç Anadolu'nun kuzey, batı ve güney kıyılarında lokal olarak bulunur. Güneydoğu Anadolu'nun batı kısımlarında son derece lokaldir. 2000 m kadar yükseklikteki ibreli ve karışık ormanlarda, açık ormanlarda ve yüksek çalılıklarda ürer. Geçit sırasında sonbaharda ağustos ortasından ekim başına kadar, ilkbaharda mart başından nisan sonuna kadar daha yaygındır. En son 25 Nisan'da görülmüştür. Çoğunlukla Trakya, Batı ve Orta Anadolu'da kışlar ve Güneydoğu Anadolu'nun batısına kadar uzanır. Nitekim kasım ve nisan arasında Birecik'ten kayıtları bulunur. Kışın Karadeniz Bölgesi dâhil olmak üzere kıyı bölgelerinde sıkça ve bazen 500'ü bulan yüksek sayılarda bulunur.
 
-![](images/harita_Page_463.png)
+![](images/harita_Serinus serinus.png)
 
 **Üreme**
 
@@ -340,7 +340,7 @@ Monotipik bir türdür.
 
 Marmara, Karadeniz ve Ege, Akdeniz ve İç Anadolu'nun yakın bölgelerinde 800-2500 m yükseklikteki ibreli ve ara sıra karışık dağ ormanlarında küçük sayılarda yuvalar. Son zamanlarda yazın Batı Toroslar'da Akseki'de gözlenmiştir. Eylül sonu ile nisan başında daha yaygındır. Genellikle batı ve güney bölgelerinde, az sayıda da Trakya ve Karadeniz Bölgesi'nin alçak kısımlarında ve deniz seviyesinde kışlar. Bu dönem Doğu Anadolu'nun batı kısımlarına ulaşır ve Güneydoğu Anadolu'dan (Birecik, Diyarbakır ve Halfeti) üç kaydı vardır. Haziran başında Kızılırmak Deltası'ndaki bir kaydı oldukça istisnaidir. Geçit sırasında seyrek olarak Trakya, Batı ve Orta Anadolu'da bulunur. Sonbaharda İstanbul Boğazı'nda eylül sonu ve kasım başı (en erken 26 Eylül ve en geç 6 Kasım) oldukça boldur; 1966'da Küçük Çamlıca'dan çoğunluğu ekimin ikinci ve üçüncü haftasında olmak üzere toplam 2810 tanesi geçmiştir. Bazı yıllar geçit kasım sonuna kadar devam eder. İlkbahar geçidi en azından nisan sonuna kadar devam eder.
 
-![](images/harita_Page_464.png)
+![](images/harita_Spinus spinus.png)
 
 **Üreme**
 
@@ -358,7 +358,7 @@ Monotipik bir türdür.
 
 Yer yer çok yoğun olarak ürediği İç ve Doğu Anadolu'da yarı göçmendir. Karadeniz ve Güneydoğu Anadolu'da nispeten lokaldir; Güneydoğu'da uygun habitatlar muhtemelen artmaktadır. Kızılırmak Deltası'nda 1500-2000 çiftin ürediği tahmin edilse de Karadeniz Bölgesi'nin kalanında çok daha seyrek olduğu ortadadır. Tarım araziler, çalılık yarı bozkırlar ve benzer açık alanlarda 2300 m'ye kadar bulunur. Üreme sonrası ağustos sonu ve ekim arası yüzlerce kuştan oluşan, ara sıra sayısı 1000'i bulan kalabalık sürüler oluşturur. Kışlayan sürülerde ülke dışından gelen göçmenlerin de bulunduğu düşünülür. Buna rağmen ana göç gözlem noktalarında geçit yaptığına dair fazla kanıt yoktur. Ara sıra Orta Doğu'nun kalanında kışlamak üzere güneye doğru göçen kuşların kalabalık sürüleri sonbahar sonunda güney kıyılarından gözlenebilir. Kışın sadece ülkenin batı ve orta bölgelerinde bulunduğu düşünülür. 21 Ocak 1992'de Eşmekaya'da (Aksaray) 1500 tanesi kalabalık bir sürüde görülmüştür.
 
-![](images/harita_Page_465.png)
+![](images/harita_Emberiza calandra.png)
 
 **Üreme**
 
@@ -378,7 +378,7 @@ Roselaar (1995) ve Byers vd. (1995) Türkiye'de bulunan alttürlerin ülkenin ne
 
 Genellikle üreme zamanı dağlık bölgelerdeki çalılar ve parçalanmış karışık ormanlarda orta irtifalarda bulunur. Geçit kuşu olarak bütün Türkiye'de ve kış konuğu olarak ekim başından mart sonu ve nisan başına kadar Trakya, Batı ve Orta Anadolu'da çok bol olmayacak şekilde nispeten yaygındır. Kışlaklarında en erken 6 Ekim'de en geç 18 Nisan'da görülmüştür. Doğu Anadolu'da birkaç göçmen kaydedilmiş olup ve Malatya ve Elazığ bölgesinde kışladığı bilinir.
 
-![](images/harita_Page_466.png)
+![](images/harita_Emberiza citrinella.png)
 
 **Üreme**
 
@@ -400,7 +400,7 @@ Görünüşe göre hepsi 19. yüzyılda, çoğu 1861 ile 1871 arasında İstanbu
 
 Ortadoğu'nun başka yerlerindeki durumuna baktığımızda; İran'da az sayıda ve düzenli, Kuzey ve Orta İsrail'de az sayıda, ancak görünüşe göre düzenli kış konuğudur [@shirihai1996]. Ürdün'den iki kaydı bulunur [@minshull1996; @andrews1999]. Irak için rastlantısal konuk olarak sayılmış (Hollom vd. 1988), Kıbrıs'tan hepsi güncel ve belgeli olan eylül, kasım ve ocak-şubat aylarında toplam 3 kaydı bulunmakta [@flint1992] ve en kalabalığı 31 Aralık 1993'de Trodos Dağlarında kaydedilen 12 kuşluk sürüdür (Dutch Birding 26: 68). Suudi Arabistan'da 24 Ağustos 1979'da Doğu Eyaleti'ndeki İmhoff'da bir dişi veya genç görülmüş [@bundy1989], Lübnan'da ise toplam dört kaydı vardır [@beale2000; @ramadan2008].
 
-![](images/harita_Page_467.png)
+![](images/harita_Emberiza leucocephalos.png)
 
 **Üreme**
 
@@ -418,7 +418,7 @@ Türkiye'den gelen ve incelenen örnekler beklendiği gibi nominat alttüre ait 
 
 Trakya'da çok lokal olarak, İç Anadolu'nun bozkırında sadece güneydeki izole dağlarda ve Güneydoğu Anadolu'nun sadece kuzeybatı ucunda üreme zamanı bulunur. Batı bölgelerinde nispeten seyrektir. Dağlık arazide kayalık ve çalılarla kaplı ve bazen seyrek ağaçlı yamaçlarda bulunur. Bunun dışında Doğu Karadeniz Dağları'nda özellikle açık kızılçam (Pinus brutia) ormanında da bulunur. Üreme sezonunda özellikle 800 ile 2600 m arasında, nadiren daha alçakta, örneğin Karadeniz Bölgesi'nde 500 m ve Toroslar'da 600 m'de bulunur. Kışın daha yaygındır, deniz seviyesine kadar iner, çoğunlukla batı ve güney bölgelerinde kışlar.
 
-![](images/harita_Page_468.png)
+![](images/harita_Emberiza cia.png)
 
 **Üreme**
 
@@ -438,7 +438,7 @@ Tring Doğa Tarihi Müzesi'nde Türkiye'den gelen ve hordei olarak isimlendirile
 
 Başlıca Doğu ve Güneydoğu Anadolu'nun ağaçsız dağlık bölgelerinde bulunur. Kuzeyde Üst Aras Vadisi, batıda Tunceli'de Munzur Dağları'na kadar ulaşır. Yerel olarak Siverek'te bulunur, ancak tür buradan daha kuzeydoğuda bulunmaz. Çoğunlukla nisan sonu ve mayıs başı gelirler. Genellikle 1800 m'nin üstünde bulunan kurak ve dağlık arazide ürer, en azında 3000 m'ye kadar çıkar. Nadiren 1000 m kadar alçakta üreyebilir. Alçak rakımlı bazı bölgelerde Kirazkuşuyla yayılışları kesişir, ancak iki tür bir arada barınamaz [@martens1979]. Çoğu yerde yüksek yoğunlukta üreyebilir. Son zamanlarda türün bilinen yayılış bölgesinin [@kirwan1990] oldukça batısında olan Aladağlar'da (Niğde) Mayıs 1990'da gözlendiği iddia edilmiş, ancak bu gözlem muhtemelen diğer kirazkuşlarıyla karıştırılmasının sonucu olup, bu çok sık ziyaret edilen alanda türün bulunduğuna dair başka tek bir iddia bulunmamaktadır. Diğer yandan 9 Mayıs 2001'de Toprakkale'nin güneyindeki bir boğazda geçitteki bir kuşun bulunması kesin bir kayıttır [@balmer2002a], diğer bir gözlem ise 15 Nisan 1996'da Göksu Deltası'nda bulunan bir erkek bireydir (J-P. Paul). Sonbahar göçü hakkında çok az şey bilinir. Kuşların üreme alanlarında en azından kesinlikle eylül sonuna kadar kalmaktadırlar. Buna rağmen [@kumerloeve1969a] kasım başında Doğubayazıt'ın doğusunda küçük bir sürünün gözlendiğinden bahseder. Tür Batı ve Orta Hindistan'da kışlar [@sibley1990].
 
-![](images/harita_Page_469.png)
+![](images/harita_Emberiza buchanani.png)
 
 **Üreme**
 
@@ -458,7 +458,7 @@ Türkiye'de cerrutii alttürü bulunur. Toplam 3 alttür tanımlanmış olsa da 
 
 İlkbahar geçidinde genellikle nisanın birinci haftası ve istisnai olarak mart ortasından itibaren güney kıyılarında kaydedilmiştir. Batı İç Anadolu'daki güncel bir kaydı [@bradshaw1994] ve istisnai olarak Karadeniz Bölgesi'nde, 14 ve 18 Nisan 1992'de semenowi alttürünün Kızılırmak Deltası'nda [@hustings1994] kaydı vardır. Bu kayıtlar Almanya, Helgoland'dan Haziran 1877'de [@gatke1896] ve Danimarka Skagen'dan 2005 Mayıs sonunda (Dutch Birding 27: 280) gelen kayıtlarla türün dünya üzerindeki en kuzeydeki üçüncü kayıtlarını oluşturmaktadır. İlkbahar geçidi haziran başına kadar devam edebilir. Üreme alanlarından hareket ise ağustos başında başlar. Bazı kuşlar kuzeye doğru normal yayılışının dışındaki alanlara dağılırlar. Munzur Dağlarında ağustos sonu görülen semenowi alttüründen olan erkek büyük ihtimalle bir göçmendir. Türkiye'den hareket genellikle eylül ortasında sonlanır, ancak başıboş kuşların 25 Ekim'e kadar, gözlendiği iddia edilir [@kasparek1985]. Tring Doğa Tarihi Müzesinde Meinertzhagen'ın koleksiyonundan semenowi alttürüne ait erkek bir örneğin (1965.M.16238) etiketinde toplanma tarihi 23 Ekim, toplanma yeri Şam olarak geçmektedir.
 
-![](images/harita_Page_470.png)
+![](images/harita_Emberiza cineracea.png)
 
 **Üreme**
 
@@ -478,7 +478,7 @@ Kurak ve çalılık alanlar, tarım alanları ve kayalık alanlarda yüksek böl
 
 Hem ilkbahar, hem de sonbahar geçişinde bütün bölgelerden çok daha yaygın ve bol sayıda kaydedilir. Ara sıra, örn. Ardeşen'de Eylül 1973'de olduğu gibi, 100 bireyi aşan kalabalık sürülerin geçidi görülebilir. İlkbahar göçmenleri mart sonundan itibaren gelirler, en istisnai kayıt 16 Mart'tadır. Ancak yoğun geçişleri nisan ortasından önce olmaz. Geçiş mayıs ortasına kadar devam eder, güney bölgelerimiz buna istisna değildir. Sonbahar geçişi ağustos sonu ve eylülün ilk yarısı tepe yapar, bazıları eylül sonuna kadar kalırlar. En geç kayıt 31 Ekim'dedir.
 
-![](images/harita_Page_471.png)
+![](images/harita_Emberiza hortulana.png)
 
 **Üreme**
 
@@ -496,7 +496,7 @@ Monotipik bir türdür.
 
 Başlıca Marmara Bölgesi'nin güney ve batı kısımları, Ege, Akdeniz ve Doğu Anadolu Bölgelerinde bulunur. Trakya'da ve İç Anadolu'nun güney sınırında lokal olarak, Güneydoğu Anadolu'nun doğusu ve Doğu Anadolu'nun güneyinde ise çok lokal olarak bulunur. Yazın Batı Karadeniz'de görülmüştür. Kendisine özgü bir habitatı vardır; Akdeniz bitki örtüsünün veya açık çam ormanının bulunduğu çıplak ve kayalık yamaçlarda bulunur. Ara sıra deniz kıyısındaki genellikle 200-800 m rakımlı, seyrek olarak 1200 m'ye kadar yüksekliklerde farklı diğer habitatlarda da bulunabilir. İlkbaharda mart ortasından itibaren gelmeye başlarlar. İlk kayıt 16 Mart'tır. Sonbahar göçü genellikle ağustos ortasında başlar, ancak eylülün üçüncü haftasından sonra nadire kaydedilir. Son kayıt 20 Eylül'dür. Geçiş zamanı özellikle de sonbaharda belki biraz daha yaygındır, tayinde şüpheler olsa da Doğu Anadolu'nun doğusundan kasım başında kaydedilmiştir [@kumerloeve1967a].
 
-![](images/harita_Page_472.png)
+![](images/harita_Emberiza caesia.png)
 
 **Üreme**
 
@@ -514,7 +514,7 @@ Monotipik bir türdür.
 
 Batı Karadeniz Bölgesi, Marmara Bölgesi ve Ege Bölgesinin kuzey ve iç kısımlarında yaygın ve tahminen eskisi kadar bol olmayan bir yerlidir. Güney Ege'de nadirdir. Kalan bölgelerde daha lokal olup İç Anadolu ve Toroslar'ın alçak kısımlarında seyrek olarak bulunur. Üreme döneminde alçak irtifadaki makilikler, sık çalılık ve ormanlık alanlar, baltalıklar ve meşeliklerde bulunsa da en sık görüldüğü habitat çalılık ormanlarla kaplı alçak tepelerdir. Bu habitatlar Türkiye'deki kuş gözlemcilerinin dikkatini nadiren çektiği için türün gerçek durumu bulanıktır. Ara sıra kışın ve belki göç zamanı az sayıda Akdeniz Bölgesi'nde de gözlenmiştir. Görünüşe göre Akdeniz Bölgesi'nde eskiden daha boldur.
 
-![](images/harita_Page_473.png)
+![](images/harita_Emberiza cirlus.png)
 
 **Üreme**
 
@@ -536,7 +536,7 @@ Son zamanlarda G. Trommer 10 Kasım 1968'de Tatvan'da 7 kuş gözlemiş [@kumerl
 
 Küçük çinte Ortadoğu ülkelerinde rastlantısal konuk veya olası çok nadir geçit kuşudur. İran, İsrail, Ürdün, Kuveyt, Lübnan, Umman ve Birleşik Arap Emirlikleri'nde [@hollom1988; @ullman1991] kaydı vardır. Kıbrıs'ta Ekim 1957'deki bir gözlem yayımlanmış, ancak Flint ve Stewart (1992) tarafından değerlendirilerek reddedilmiştir.
 
-![](images/harita_Page_474.png)
+![](images/harita_Emberiza pusilla.png)
 
 **Üreme**
 
@@ -558,7 +558,7 @@ Günümüzde fotoğraflarla belgelenmiş iki kayıt vardır. Ekim 2004'de Gazian
 
 Ortadoğu'nun kalanında, İran ve İsrail'de bu tür nadir bir geçit kuşu ve Mısır, Kuveyt, Umman, Suudi Arabistan (Doğu Eyaleti), Suriye, Birleşik Arap Emirliklerinde [@hollom1988], Ürdün (Teeb ve Hamidan 2002) ve Lübnan'da [@beale2000; @ramadan2008] rastlantısal konuk olarak listelenir.
 
-![](images/harita_Page_475.png)
+![](images/harita_Emberiza rustica.png)
 
 **Üreme**
 
@@ -576,7 +576,7 @@ Türkiye'de toplanmış örnek materyal bekleneceği gibi Kuzey İskandinavya'da
 
 Karadeniz Bölgesi'nin çoğunda, özellikle Doğu Karadeniz'de ürememektedir. Her türlü tarım arazisi ve çalılık arazilerde üreyen tipik kuşlardandır. Genellikle 2400 m'nin altında olsa da yer yer 2900 m'ye kadar, hatta göç sırasında daha da yukarıda görülür. Üreme alanlarına Güneydoğu Anadolu, Akdeniz ve Ege'de nisan ortasında, orta ve kuzey bölgelere ise genellikle mayıs başında gelir. Bunun yanında en azından mayıs ortasında kadar Türkiye'nin kuzey ve batısında üreyen kuşların geçidi belirgindir. En erken iki kez 28 Mart'ta görülmüştür. Genellikle göç sırasında küçük gruplar halinde bulunur, ara sıra yüzlerce bireyden oluşan sürüler görülebilir. Erkeklerin daha önce vardıkları düşünülür. Üreme genellikle mayıs başı ve ortasında başlar. Geriye göç ağustos sonunda başlar ve eylül sonunda tamamlanır. En geç kayıt 31 Ekim'de Van Gölü'nden gelir.
 
-![](images/harita_Page_476.png)
+![](images/harita_Emberiza melanocephala.png)
 
 **Üreme**
 
@@ -594,7 +594,7 @@ Monotipik bir türdür.
 
 İk kez.
 
-![](images/harita_Page_477.png)
+![](images/harita_Emberiza bruniceps.png)
 
 **Üreme**
 
@@ -614,7 +614,7 @@ Karadeniz Bölgesi'nde 1992 ilkbaharında Kızılırmak Deltası'ndaki çalışm
 
 Geçiş dönemi, özellikle de sonbaharda yaygın ve genellikle boldur. Kışın batı ve orta bölgelerinde çoğu sulakalanda ekim sonundan mayısa kadar bulunur; bazen 250'i bulan kalabalık sürüler özellikle akşamüstü gözlenebilir.
 
-![](images/harita_Page_478.png)
+![](images/harita_Emberiza schoeniclus.png)
 
 **Üreme**
 
@@ -636,7 +636,7 @@ Kış göçmenlerinin çoğunluğu nominat forma veya intermediate grubuna ait d
 
 Bunun dışında Braun (1901) türün İstanbul Boğazı'nda olduğundan ayrıntı vermeden bahseder. 18 Eylül 1987'de Çarşamba'nın kuzeyinde Kadılık'ta kısaca görülen ve duyulan kuşun kaydı [@kirwanmartins2000] gerekli ayrıntılardan yoksundur. Türün başka bir Ortadoğu ülkesinden kaydı yoktur [@porter1996], ancak Bulgaristan'da kaydedilmiş olup İtalya'da az sayıda (Snow ve Perrins 1998), Ukrayna'da ise yüksek sayılarda [@byers1995]düzenli olarak bulunmaktadır.
 
-![](images/harita_Page_479.png)
+![](images/harita_Calcarius lapponicus.png)
 
 **Üreme**
 
@@ -656,7 +656,7 @@ Son zamanlarda toplam sekiz kayıt bulunmakta olup bunların dördü Kızılırm
 
 19\. yüzyıldaki kayıtları temel alan [@braun1901], [@matheydupraz1920] ve daha sonraki yazarlar tarafından İstanbul Boğazı'nda düzensiz kış konuğu ve geçit kuşu olarak değerlendirilmiştir [@kasparyan1956; @kumerloeve1961]. Ancak bu iddiayı destekleyebilecek tek bir örnek bulunmuş olup, eskiden Robert Kolej'in müzesinde bulunmaktaydı [@kirwan1997a]. Görünüşe göre bu tür 1905-06 kışında İstanbul'daki kuş pazarlarında satılmaktaydı [@braun1908].
 
-![](images/harita_Page_480.png)
+![](images/harita_Plectrophenax nivalis.png)
 
 **Üreme**
 
@@ -665,3 +665,4 @@ Türkiye'de yuvalamaz.
 **Alttürler ve Sınıflandırma**
 
 Türkiye'de toplanmış bir örnek artık bulunmamaktadır. Ancak bahsedilen kuşların alttürü neredeyse kesin olarak *vlasowae* olmalıdır. Bu alttür en Kuzeydoğu Avrupa Rusyası'ndan Sibirya'da Çukotski Yarımada'sına kadar üreme yayılışı gösterir, kışın güneye iner ve batıda Macaristan ve Romanya'ya kadar uzanır [@byers1995].
+

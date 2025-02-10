@@ -1,4 +1,4 @@
----
+﻿---
 title: "Deniz ve Göl Kuşları"
 ---
 
@@ -34,7 +34,7 @@ Kış aylarında, eylül sonu ile nisan başı arasında Marmara, Ege ve Akdeniz
 
 Türkiye'de üreyen flamingoların çoğunun ülke sınırlarında kaldığı, kışın gelen göçmen kuşlarla sayılarının arttığı düşünülse de, Türkiye'de üreyen kuşların bir kısmı da başka ülkelere gitmektedir. 2003-2009 yılları arasında Gediz Deltası'nda yavru olarak halkalanan flamingolar, Batı Akdeniz, Kuzey Afrika, Doğu Akdeniz ve Arap Yarımadası'nda toplam 16 farklı ülkede tespit edilmiştir. Bu kuşlardan bazıları, Gediz Deltası dışında Fransa, İtalya ve Cezayir'deki kolonilerde başarıyla üremiştir. Aynı şekilde, Fransa, İspanya ve İtalya'da doğan flamingolar da Türkiye'de yıl boyunca gözlemlenmiş ve Gediz Deltası'nda başarılı şekilde üremiştir [@johnson1989; @balkiz2009].
 
-![](images/harita_Page_056.png)
+![](images/harita_Phoenicopterus roseus.png)
 
 **Üreme**
 
@@ -83,7 +83,7 @@ Bataklık sulakalanlarda nispeten az sayıda ürer. Üreme sonrası toplanmalara
 
 Kışın çoğunlukla batı ve orta kesimlerdeki tatlı su gölleri, bataklıklar, göletler, kıyısal sulakalanlar ve az sayıda denizde görülür. En yüksek sayılara batı ve güney bölgelerinde, özellikle Bafa Gölü, Büyük Menderes Deltası, Köyceğiz Gölü ve Göksu Deltası'nda rastlanır. Marmara Bölgesi'nde kışın yaygındır. 3 Şubat 1991'de Küçükçekmece Gölü'nde 1120 birey sayılmıştır. Zonguldak Ereğli’de, kuşların ekim ayının ikinci yarısında gelip mart sonuna kadar kaldıkları gözlenmiştir. İç Anadolu ve Doğu Anadolu’dakiler kışın Ege ve Akdeniz bölgelerine iner, mart ayında üreme bölgelerine geri dönerler. İç Anadolu ve Göller Bölgesi'nde ılıman geçen kışlarda yüksek sayılarda toplanır. 11 Şubat 2005'te Sarıyar Barajı'nda 538, 20 Ocak 2005'te Eğirdir Gölü'nde 1155 birey sayılmıştır.
 
-![](images/harita_Page_051.png)
+![](images/harita_Phoeniconaias minor.png)
 
 **Üreme**
 
@@ -112,7 +112,7 @@ Karadeniz ve Marmara kıyıları dışında çok nadir görülür. 29 Ocak 1997'
 
 Tek bir yaz kaydı vardır: Üreme giysisindeki bir kuş, 1 Temmuz 1985'te Çaldıran'da gözlenmiştir.
 
-![](images/harita_Page_054.png)
+![](images/harita_Podiceps auritus.png)
 
 **Üreme**
 
@@ -138,7 +138,7 @@ Kışın Marmara ve Karadeniz bölgelerinde az sayıda, nadiren içsularda gör�
 
 Yirminci yüzyılın ilk yarısından gelen kayıtlar, bu türün eskiden daha yaygın olduğunu göstermektedir. 1945-46 yıllarında Mogan Gölü'nde yaklaşık 20 çift üremiştir. Ancak Mogan Gölü'ndeki son üreme 1998 yılında kaydedilmiştir. Son yıllarda sulakalanların kurutulması nedeniyle İç Anadolu'da sayıları azalmıştır.
 
-![](images/harita_Page_052.png)
+![](images/harita_Podiceps grisegena.png)
 
 **Üreme**
 
@@ -165,7 +165,7 @@ Türkiye'de nominat alttürü bulunur.
 
 Üreme dönemi sonrasında ve kışın daha yaygındır, yüksek sayılarda görülür. Kışlayan bireyler ekim başında gelir ve nisan sonuna kadar kalırlar. Kıyısal bölgelerde, Kızılırmak ve Yeşilırmak deltaları, Küçükçekmece Gölü, Büyük Menderes Deltası'nda yoğunlaşır. Bu alanlarda sert geçen kışlarda binlercesine rastlanabilir. Karadeniz kıyılarında yüksek sayılarda gözlenmiştir. Büyük baraj gölleri önemli sayılar barındırır; Sarıyar'da 5500, Karakaya'da 12.000 ve Keban'da 10.000 kuş sayılmıştır. Kış Ortası Su Kuşu Sayımları'nda, 2005 yılında sayılan yaklaşık 31.000 kuş en yüksek değerdir.
 
-![](images/harita_Page_053.png)
+![](images/harita_Podiceps cristatus.png)
 
 **Üreme**
 
@@ -192,7 +192,7 @@ Türkiye'de nominat alttürü bulunur.
 
 Önemli sayılarda kışlar. Karadeniz ve Marmara kıyılarında, lokal olarak korunaklı koylar ve limanlarda ekim ortası ile nisan ortası arasında düzenli olarak görülür (Albrecht 1986). Kışlama bölgelerinde mayıs başına kadar kalabilir. Yüksek sayılarda Göller Bölgesi'nde bulunabilir. Burdur Gölü'nde düzenli olarak 5000 birey, Ocak 1970'de ise 18.662 birey sayılmıştır. İç Anadolu'da az sayıda kışlar. Son yıllarda yapılan Kış Ortası Su Kuşu Sayımlarında, ülke toplamı 2000 kuşun altına inmiştir.
 
-![](images/harita_Page_055.png)
+![](images/harita_Podiceps nigricollis.png)
 
 **Üreme**
 
@@ -221,7 +221,7 @@ Ekim sonu ile haziran başı arasında az sayılarda Orta ve Doğu Karadeniz kı
 
 Büyük ihtimalle İstanbul çevresinden toplanmış iki tahnit, İstanbul’da Saint Joseph Müzesi’nde sergilenmektedir [@kirwan1997a].
 
-![](images/harita_Page_045.png)
+![](images/harita_Gavia stellata.png)
 
 **Üreme**
 
@@ -245,7 +245,7 @@ Karadeniz ve Marmara kıyılarında eylül başı ile nisan arasında yaygın ve
 
 Üremeyen kuşlar nadiren Orta ve Doğu Karadeniz kıyılarında yaz aylarında görülebilir, bazı bireylerde kur davranışı bile gözlenmiştir. Van Gölü'nde Haziran 1978, Haziran 1983, Temmuz 1987 ve Temmuz 1995'te görülmüş, son kayıt suyun sodalı özelliği nedeniyle tüyleri beyazlaşmış bir bireye aittir.
 
-![](images/harita_Page_046.png)
+![](images/harita_Gavia arctica.png)
 
 **Üreme**
 
@@ -269,7 +269,7 @@ Dört güncel kaydı bulunmaktadır. Yaz giysisinde bir kuş, 13 Mayıs 1964'te 
 
 İstanbul Robert Kolej'de bulunduğu söylenen bir tahnitin [@matheydupraz1920; @kasparek1990a], 1996’daki envanter çalışmasında bulunamadığı belirtilmiştir [@kirwan1997a]. Ancak, Robert Kolej'deki birçok tahnitin 1992’den sonra zarar gördüğü veya yok olduğu bilinmektedir. Şans eseri, Kasparek 1986'daki ziyaretinde bu tahnitin bir fotoğrafını çekmeyi başarmıştır.
 
-![](images/harita_Page_047.png)
+![](images/harita_Gavia immer.png)
 
 **Üreme**
 
@@ -293,7 +293,7 @@ Yakın zamana kadar yalnızca birkaç kaydı bulunan nadir bir konuk olduğu dü
 
 2010 yılı öncesi kayıtlar şu şekildedir: 15 Mart 1972'de İzmir Karaada açıklarında 6 birey, 3 Mart 1972'de Kaş açıklarında 1 birey, 29 Nisan 1988'de Kaş'ın 10 km batısında 3 birey [@haass1990], ve 17 Mart 1992'de aynı bölgede 7 birey tespit edilmiştir [@eken1997c]. Karadeniz’den de kayıtlarının bulunduğuna değinilmiştir [@hollom1988].
 
-![](images/harita_Page_050.png)
+![](images/harita_Hydrobates pelagicus.png)
 
 **Üreme**
 
@@ -339,7 +339,7 @@ Mart başından ekim ortasına kadar oldukça yaygın bir yaz konuğudur ve say�
 
 Kışın, mevcut kayıtlara kıyasla sanıldığından daha yaygın olabilir. İzmir ve Mersin açıklarında yapılan araştırmalarda teknelerde bulunan kuş gözlemcisi bilim insanları tarafından yüzlercesi gözlenmiştir. Kışı çoğunlukla Batı Afrika kıyılarında geçirir.
 
-![](images/harita_Page_048.png)
+![](images/harita_Calonectris borealis.png)
 
 **Üreme**
 
@@ -354,7 +354,7 @@ Monotipik bir türdür. Cabo Verde adalarında üreyen *edwardsii* ve Azorlar, M
 
 ## Külrengi Yelkovan
 
-Ardenna grisea, Sooty Shearwater
+*Ardenna grisea*, Sooty Shearwater
 
 ***Rastlantısal konuktur.***
 
@@ -363,6 +363,8 @@ Ardenna grisea, Sooty Shearwater
 </iframe>
 
 Bir kaydı bulunur. 1 birey “Milleyha ve sahil şeridi” alanında (Hatay) 13 Ocak 22 tarihinde *A. Gümüş, A. Ilbeyi, E. Yogurtcuoglu* tarafından kaydedildi.
+
+![](images/harita_Ardenna grisea.png)
 
 **Üreme**
 
@@ -384,7 +386,7 @@ Türkiye'de görülen birey Kızıldeniz ve Hint Okyanusunda bulunan/Atlantik k�
 
 Karadeniz, Ege ve Akdeniz kıyılarında yıl boyunca görülse de sayıları mevsimsel olarak değişiklik gösterir. Kış sonunda ve ilkbahar başında Karadeniz ve İstanbul Boğazı'nda on binlercesi bir arada bulunur. İstanbul Boğazı'ndan geçen kalabalık sürüler, uzun zamandır araştırma konusu olmuştur. 18-22 Nisan 1966'da İstanbul Boğazı'nda saatte 6800, Çanakkale Boğazı'nda ise saatte 8200 kuşun her iki yöne uçtuğu kaydedilmiştir. 3 Şubat 2011'de İstanbul Boğazı'nda dört saatlik gözlemde toplam 55.683 birey sayılmıştır. Aynı yazarlar tarafından Şubat 2012'de dört saatte 75.000, Şubat 2014'te ise 90.000 kuş sayılmıştır. Ege kıyılarında kışın daha az sayıda olduğu düşünülmektedir [@eken1997d]. Akdeniz'de ise nispeten seyrek olarak görülür ve daha çok mart ile ekim ayları arasında gözlenir.
 
-![](images/harita_Page_049.png)
+![](images/harita_Puffinus yelkouan.png)
 
 **Üreme**
 
@@ -415,7 +417,7 @@ Sonbahar göçü ağustos başından kasım başına kadar devam eder, en yoğun
 
 Kızılırmak Deltası, Gediz Deltası ve Çukurova sulakalanlarında, ortalama 20 kuşluk küçük gruplar halinde kışlar [@kirwan1993d; @eken1997d; @demirci2002; @demirci2003].
 
-![](images/harita_Page_059.png)
+![](images/harita_Ciconia nigra.png)
 
 **Üreme**
 
@@ -449,7 +451,7 @@ Temmuz ortasında üreme sonrası toplanmalar başlar. Dönüş göçü temmuz s
 
 Az sayıda birey, ılıman bölgelerde kışlayabilir.
 
-![](images/harita_Page_060.png)
+![](images/harita_Ciconia ciconia.png)
 
 **Üreme**
 
@@ -476,7 +478,7 @@ Türkiye’de üç kez gözlemlenmiş bir Afrika göçmenidir. 7-20 Mayıs 1962'
 
 1996'dan önce İsrail'de 18 kayıt bulunmaktadır [@shirihai1996]. Abu Simbel, Nasır Gölü ve Güney Mısır'da düzenli bir kış ziyaretçisidir [@goodman1989]. Bir genç birey, Ağustos-Eylül 1995'te Sharm el Sheikh'te fotoğraflanmıştır (Birding World 8: 292, 335). Haziran-Temmuz 2002'de Bulgaristan'da da gözlenmiştir [@ragyov2003].
 
-![](images/harita_Page_058.png)
+![](images/harita_Mycteria ibis.png)
 
 **Üreme**
 
@@ -498,7 +500,7 @@ Monotipik bir türdür.
 
 Özellikle Doğu Akdeniz kıyılarında seyrek görülen, muhtemelen açık denizlerde daha yüksek sayılarda bulunan bir kış konuğudur. Gözlemlerin çoğu, sık gözlem yapılan Göksu Deltası ve Çukurova kıyılarından gelmektedir. Nadiren ve az sayıda ağustos ile kasım arasında, daha sık olarak aralık ve nisan ayları arasında gözlenir. Kaydedilen en kalabalık grup 10 kuşluktur. Bir kez aralık ayında Rize’de gözlenmiştir [@kirwan2003]. Türkiye'deki ilk kayıt, 5 Mart 1965'te İskenderun Körfezi'nde ölü bulunan bir bireye aittir. Bu kuş, Temmuz 1964'te İskoçya'da Bass Kayalıkları'nda yavru iken halkalanmıştır [@ost1969].
 
-![](images/harita_Page_076.png)
+![](images/harita_Morus bassanus.png)
 
 **Üreme**
 
@@ -519,6 +521,8 @@ Monotipik bir türdür. Geçmişte tüm sümsükler hep beraber Sula cinsi altı
 </iframe>
 
 Bir kaydı bulunur. 1 birey Üsküdar Harem Otogarı'nda (İstanbul) 27 Nisan 24 tarihinde *Andre Yarborough* tarafından kaydedildi.
+
+![](images/harita_Sula leucogaster.png)
 
 **Üreme**
 
@@ -546,7 +550,7 @@ Bu kuşların büyük çoğunluğu İsrail'de, kuzeyde Hula Bataklıkları ve Ü
 
 İsrail'de bu popülasyona ait son birey 1957'de gözlenmiştir [@shirihai1996]. 31 Mayıs 2004'te Taberiya Gölü'nde (Celile Denizi) gözlenen birey [@ottens2006], son güncel kayıt olsa da Afrika'dan veya Irak'tan gelen bir konuk olarak değerlendirilmektedir.
 
-![](images/harita_Page_080.png)
+![](images/harita_Anhinga rufa.png)
 
 **Üreme**
 
@@ -575,7 +579,7 @@ Batı ve orta kesimlerdeki birçok küçük koloni son yıllarda küçülmüş y
 
 Sonbahar ve kış döneminde daha yaygın ve boldur. Azami 250 kuşluk küçük gruplar birçok alanda gözlenebilir. Önemli kışlama alanları ve azami sayıları şu şekildedir: Gediz Deltası'nda 1000 birey, Marmara Gölü'nde 300 birey, Meriç Deltası'nda 20.000 birey, Uluabat Gölü'nde 2000 birey ve Kızılırmak Deltası'nda 1000 birey sayılmıştır. İç Anadolu'da da kayda değer sayılarda kışlayabilir. Diğer üreme alanlarındaki sayılar, bu bölgelerdeki kuşlar veya dışarıdan gelen bireylerle artar.
 
-![](images/harita_Page_077.png)
+![](images/harita_Microcarbo pygmeus.png)
 
 **Üreme**
 
@@ -604,7 +608,7 @@ Demirköprü Barajı'nda 1966 yılında yaklaşık 300 çiftlik bir koloni ürem
 
 Sonbahar ve kış döneminde çok daha yaygın olarak gözlenir. Küçükçekmece Gölü, İstanbul Boğazı ve Meriç Deltası'nda 10 bine yakın gruplar görülür. Ege Bölgesi'nde Marmara Gölü, Köyceğiz Gölü, Büyük Menderes Deltası ve İç Anadolu'da Sarıyar Barajı'nda binlerce birey gözlemlenebilir. Bu alanlarda, üremeyen bireylerin yazı geçirdiği de bilinmektedir.
 
-![](images/harita_Page_079.png)
+![](images/harita_Phalacrocorax carbo.png)
 
 **Üreme**
 
@@ -629,7 +633,7 @@ Türkiye'de *sinensis* alttürü bulunur.
 
 Küçük kayalık adalarda, deniz mağaralarında ve deniz yarlarında Karabatak ve Gümüş Martı ile karışık kolonilerde ürer. Doğu Karadeniz kıyılarında bilindiğinden daha yaygın olabilir. Toplamda 12 alanda ürediği tespit edilmiştir. Şile Adaları'nda 175 çift, Ayvalık Adaları'nda 100-150 çift, Foça Adaları'nda 59 çift, Ildır Adaları'nda 84 çift ve Akkuş Adası'nda 90 çift bulunmaktadır [@eken1997c]. Eken'in çalışmasında Türkiye popülasyonu 600-2500 çift olarak tahmin edilmiştir, bu da önceki 50-350 çiftlik tahminin [@kasparek1996] çok üzerindedir. Üreme dönemi dışında daha yaygındır ve yer yer kalabalık sürüler oluşturur. Aliağa’da 29 Aralık 2001'de 97, Kadıköy’de 1979-80 kışında 300’den fazla, 2003 sonbaharında ise İstanbul Riva açıklarında 600 kuşluk sürüler görülmüştür. İstanbul Haydarpaşa Mendirekleri'nde 2005 yılından itibaren yuvalamaya başlamıştır. Üreme sonrası dağılma çok geniş çaplı değildir. Daha önceki iddiaların aksine [@vielliard1968resultats] içsu kaydı bulunmamaktadır.
 
-![](images/harita_Page_078.png)
+![](images/harita_Gulosus aristotelis.png)
 
 **Üreme**
 
@@ -660,7 +664,7 @@ Avrupa ile Afrika arasındaki göçmen popülasyon dar bir göç koridorunu taki
 
 Kışın nadirdir, ara sıra batı ve orta bölgelerde, genellikle kıyısal sulakalanlarda kaydedilir. En yüksek kış sayımı Ocak 1974 ve Aralık 1975'te Göksu Deltası'nda 14 birey, Ocak 1995'te ise 16 bireydir. İç bölgelerden altı kışlama kaydı bulunmaktadır.
 
-![](images/harita_Page_073.png)
+![](images/harita_Pelecanus onocrotalus.png)
 
 **Üreme**
 
@@ -685,7 +689,7 @@ Monotipik bir türdür.
 
 İki genç birey, 11 Mayıs 2011'de Göksu Deltası'nda bir leylek sürüsü içinde fotoğraflanmıştır. Bu tür, İsrail'de 1939 ile 1989 yılları arasında 5 kez kaydedilmiştir. Mısır-Sudan sınırındaki Nasır Gölü'nde ise düzenli olarak gözlenir.
 
-![](images/harita_Pelecanus_rufescens.png)
+![](images/harita_Pelecanus rufescens.png)
 
 **Üreme**
 
@@ -711,7 +715,7 @@ Geçmiş kayıtlara göre 25 sulakalanda ürediği görülmüştür; bunların 1
 
 Kışın batı ve orta kesimlerde yaygın olup, kışlayan popülasyonun büyük kısmı kıyısal sulakalanlarda yoğunlaşır [@crivelli1991]. Kışlayan popülasyon, 1970 ile 2000 yılları arasında artmıştır [@sarigul2001]. Kışlayan tepeli pelikanlar, Yunanistan ve Romanya popülasyonlarından göç almaktadır. Toplam kışlayan nüfus yaklaşık 2500 bireye ulaşmıştır [@onmus2011]. Ana kışlama alanları Bafa Gölü, Büyük Menderes Deltası, Gediz Deltası, Marmara Gölü, Manyas Gölü ve Ulubat Gölü’dür. Bu alanlarda her yıl 200 ila 600 kuş kışlar. Diğer sulakalanlarda ise 20-50 birey sayılabilir. Eskiden Kızılırmak Deltası'nda 90, Göksu Deltası'nda ise 375 birey sayılmıştır.
 
-![](images/harita_Page_075.png)
+![](images/harita_Pelecanus crispus.png)
 
 **Üreme**
 
@@ -738,7 +742,7 @@ Kızılırmak Deltası'nda 240 çifte yakın bir popülasyonun ürediği belirle
 
 Geçit döneminde ve kışın batı ve orta kesimlerde az sayıda rastlanır. Soğuk geçen kış aylarında bile İç Anadolu’da kışlayabilir. Üreme alanlarında sayıları, göç yoluyla gelen bireylerle artış gösterir.
 
-![](images/harita_Page_064.png)
+![](images/harita_Botaurus stellaris.png)
 
 **Üreme**
 
@@ -765,7 +769,7 @@ Bataklık sulakalanlarda ürer, hatta çok küçük alanları bile kullanabilir.
 
 Mart sonu itibariyle az sayıda birey görülmeye başlar. Ana göç dalgası mayısın ilk yarısında gerçekleşir ve mayıs sonuna kadar devam eder, bu sırada 2100 metre irtifaya kadar çıkar. İç bölgelerdeki varış tarihi, kıyısal alanlara göre 10-14 gün gecikir. Dönüşü ağustos ortasında başlar, eylül ortasında zirve yapar ve ekim boyunca devam eder. İstisnai olarak kasım ayında da görülebilir.
 
-![](images/harita_Page_065.png)
+![](images/harita_Ixobrychus minutus.png)
 
 **Üreme**
 
@@ -794,7 +798,7 @@ Geçit döneminde daha bol ve yaygın olarak gözlenir. İlkbahar geçişi mart 
 
 Kışın düzensiz aralıklarla kaydedilir. Önemli kışlama kayıtları şöyledir: 3 Ocak 1999'da Iğdır Ovası'nda 113 birey [@dogalhayati1999], 3 Şubat 2002'de Manyas Gölü'nde 83 birey [@demirci2002] ve 20 Ocak 1997'de Yeşilırmak Deltası'nda 31 birey [@welch1998a] gözlenmiştir. Karakaya Barajı'nda üreyen koloninin kışın alanda kaldığı ve kışlayan en kalabalık topluluğu oluşturduğu düşünülmektedir. Ocak 2005 ve Ocak 2006'da en az 210 kuş sayılmıştır.
 
-![](images/harita_Page_066.png)
+![](images/harita_Nycticorax nycticorax.png)
 
 **Üreme**
 
@@ -823,7 +827,7 @@ Türkiye'de nominat alttürü bulunur.
 
 Orta sayılarda, ağırlıklı olarak Ege ve Akdeniz bölgelerinde kışlar. Marmara ve Karadeniz bölgelerinde ise kışın daha seyrek gözlenir. Ilıman kışlarda İç Anadolu'daki sulakalanlarda az ve orta sayılarda kalabilir. 3 Mayıs 1997'de Mogan Gölü'nde fotoğraflanan koyu renkli birey, Türkiye'deki ilk kaydıdır [@boyla1998a].
 
-![](images/harita_Page_072.png)
+![](images/harita_Egretta garzetta.png)
 
 **Üreme**
 
@@ -890,7 +894,7 @@ Bataklık sulakalanlarda yuvalar. Bilinen önemli üreme alanları arasında; Me
 
 İlkbaharda kuşlar mart ortasında gelmeye başlar, yoğun geçiş nisan sonu ile mayıs ortası arasında gerçekleşir. İç Anadolu'ya varış genellikle nisan ortası, daha kuzeyde ise nisan sonuna denk gelir. Başıboş kuşlar mayıs sonu, hatta haziran ortasına kadar gözlenebilir. Üreme alanlarından ayrılışları temmuz sonu ile ağustos başında başlar ve eylül sonu ile ekim başına kadar devam eder. Bu dönemde 150 bireylik gruplar görülebilir. Karadeniz kıyısındaki sulakalanlarda rastlanan sürüler, kuzeyden göç aldığını gösterir. Kasım ortasına kadar geç kalan bireyler de gözlenebilir.
 
-![](images/harita_Page_067.png)
+![](images/harita_Egretta gularis.png)
 
 **Üreme**
 
@@ -921,7 +925,7 @@ Diğer alanlarda düzensiz ziyaretçi ve az sayıda üreyen yerli ya da yaz gö�
 
 Kışlayan bireylerin çoğu güney kıyılarında bulunur. Kış Ortası Su Kuşu Sayımları (KOSKS) sırasında, Ocak 1996'da toplam 9, Ocak 1999'da ise toplam 13 birey sayılmıştır. Ancak KOSKS’un bu türün gerçek sayılarını yansıtmadığı, çünkü bu türün sulakalanlara bağlı olmadığı söylenebilir. Ortalama kış sıcaklıklarının düşük olması, bu türün yayılması ve yerleşmesine engel olabilir.
 
-![](images/harita_Page_068.png)
+![](images/harita_Bubulcus ibis.png)
 
 **Üreme**
 
@@ -950,7 +954,7 @@ Geçit sırasında ülke genelinde yaygın ve bol miktarda gözlenir. İlkbahar 
 
 Kışın büyük topluluklar halinde kaydedilir. Özellikle orta ve batıdaki kıyı bölgelerinde yüksek sayılarda bulunur, yerli topluluklar kuzeyden gelen göçlerle desteklenir. Kızılırmak Deltası, Meriç Deltası, Marmara Gölü, Büyük Menderes Deltası ve Akyatan Gölü'nde 200-400 kuşluk gruplar kışlar. İç bölgelerde daha az görülür, ılıman kışlarda genellikle 100 kuşluk gruplar sayılabilir.
 
-![](images/harita_Page_071.png)
+![](images/harita_Ardea alba.png)
 
 **Üreme**
 
@@ -977,7 +981,7 @@ Genellikle ormanlık alanlarda, sulakalanların çevresinde ve nehir boylarında
 
 İlkbahar geçişi mart ortası ile mayıs sonu arasında gerçekleşir [@albrecht1986], sonbahar geçişi ise ağustos ile ekim ortasında gözlenir. Göç sırasında Karadeniz kıyısında göçmen sürüler sıkça görülür. 1971 Eylül'ünde İstanbul Boğazı'nda güneye uçan 550 birey sayılmıştır. Orta ve batı bölgelerinde, özellikle kıyısal alanlarda kayda değer sayılarda kışlar.
 
-![](images/harita_Page_069.png)
+![](images/harita_Ardea cinerea.png)
 
 **Üreme**
 
@@ -1004,7 +1008,7 @@ Kızılırmak Deltası'nda 1992 yılında 475-500 çiftin yuvaladığı tespit e
 
 İlkbahar geçişinde, güney bölgelerinde mart ortasından itibaren, iç bölgelerde ve Karadeniz Bölgesi'nde ise yaklaşık 2-3 hafta sonra görülmeye başlanır. En yoğun dönem mayıs başı olup, geçişi mayıs ortasına kadar devam eder. Sonbaharda ülke genelinde daha yaygın ve kalabalık gruplar halinde gözlenir. Yoğun olarak ağustos sonu ile eylül başı arasında geçiş yapar, geç kalan bireyler ise kasım ortasına kadar görülebilir. Sonbahar göçü sırasında Güneydoğu Anadolu'da nehir vadilerini takip eder. İstisnai olarak, Kızılırmak Deltası'nda 30 Ağustos 1982'de 1400 birey gözlenmiştir.
 
-![](images/harita_Page_070.png)
+![](images/harita_Ardea purpurea.png)
 
 **Üreme**
 
@@ -1033,7 +1037,7 @@ Geniş bataklık sulakalanlarda genellikle küçük koloniler halinde ürer. Ço
 
 Göç sırasında bazı bölgelerde yüksek sayılarda gözlenir. 26 Temmuz 2004'te Meriç Deltası'nda 1200, 27 Nisan 1992'de Kızılırmak Deltası'nda 590 birey sayılmıştır. İlkbahar göçü mart ortasından haziran başına kadar sürer ve nisanın ikinci yarısında zirve yapar. Sonbahar göçü ise ağustos başından ekim başına kadar devam eder ve çoğu birey eylül ortasında ülkeyi terk eder. Kış aylarında ise nadiren az sayıda görülebilir.
 
-![](images/harita_Page_062.png)
+![](images/harita_Plegadis falcinellus.png)
 
 **Üreme**
 
@@ -1072,7 +1076,7 @@ Fas'taki son yabani kolonideki kuşların sayısının azalması ve 2002'de Suri
 
 Birecik dışında, Amik Gölü (Antakya) bölgesinde de iki örnek toplanmıştır [@chantre1883]. Bu kuşlar muhtemelen Suriye veya Birecik'ten göç eden bireylerdir. Ayrıca, 22 Ağustos 1995'te Uludağ'da kökeni belirsiz bir genç birey kaydedilmiştir [@jetz1995]. Bu kuşun, Avusturya’dan gelen yarı evcil bir kuş veya Birecik’ten dağılmış yarı yabani bir birey olabileceği düşünülmektedir.
 
-![](images/harita_Page_061.png)
+![](images/harita_Geronticus eremita.png)
 
 **Üreme**
 
@@ -1099,7 +1103,7 @@ Düzenli olarak ürediği başlıca alanlar Manyas Gölü, Uluabat Gölü, Kız�
 
 Göç sırasında genellikle küçük gruplar halinde görülür. İlkbahar göçü nisan başı ile mayıs sonu arasında yoğunlaşırken, sonbahar göçü ağustos başından ekim başına kadar sürer. İstanbul Boğazı'nda nadiren gözlenirken, Belen Boğazı'nda 6 Ağustos-21 Eylül 1976 tarihleri arasında toplam 816 kuş kaydedilmiştir [@sutherland1981a]. İç Anadolu'daki bazı sulak alanlarda sonbaharda kalabalık sürüler görülebilir. Kışın Ege ve Akdeniz kıyı bölgelerinde en fazla 60 bireylik gruplar kaydedilmiştir.
 
-![](images/harita_Page_063.png)
+![](images/harita_Platalea leucorodia.png)
 
 **Üreme**
 
@@ -1111,3 +1115,4 @@ Göç sırasında genellikle küçük gruplar halinde görülür. İlkbahar gö�
 **Alttürler ve Sınıflandırma**
 
 Türkiye'de nominat alttürü bulunur.
+

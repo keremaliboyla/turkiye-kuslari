@@ -13,27 +13,27 @@ book:
   chapters:
     - index.qmd
     - 00_onsoz.qmd
-    - 00_turkiye_ornitoloji_tarihi.qmd
+    # - 00_turkiye_ornitoloji_tarihi.qmd
     - 00_bilgi_bosluklari.qmd
     - 01_ordekgiller.qmd
     - 02_tavukgiller.qmd
-    - 03_deniz-ve-gol-kuslari.qmd
-    - 04_yirticilar.qmd
+    # - 09_karakuslari.qmd   # 16 Şub
     - 05_bataklik-kuslari.qmd
     - 06_cilibitlar.qmd
     - 07_cullukgiller.qmd
-  # - 08_martilar.qmd
-  # - 09_karakuslari.qmd
-  # - 10_otucu-oncesi.qmd
-  # - 11_kargamsilar.qmd
-  # - 12_toygarlar.qmd
-  # - 13_civginlar.qmd
-  # - 14_otlegenler.qmd
-  # - 15_tirmasiklar.qmd
-  # - 16_sinekkapanlar.qmd
-  # - 17_serceler.qmd
-  # - 18_ispinozlar.qmd
-  # - ekler.qmd
+    # - 08_martilar.qmd      # 2 Şub
+    - 03_deniz-ve-gol-kuslari.qmd
+    - 04_yirticilar.qmd
+# buraya 09_karakuslari'ndan baykuşlar gelecek
+    # - 10_otucu-oncesi.qmd  # 2 Mar
+    # - 11_kargamsilar.qmd   # 2 Mar
+    # - 12_toygarlar.qmd     # 16 Mar
+    # - 13_civginlar.qmd     # 16 Mar
+    # - 14_otlegenler.qmd    # 30 Mar
+    # - 15_tirmasiklar.qmd   # 30 Mar
+    # - 16_sinekkapanlar.qmd # 13 Nis
+    # - 17_serceler.qmd      # 13 Nis
+    # - 18_ispinozlar.qmd    # 27 Nis
     - references.qmd
 
 bibliography: references.bib
@@ -47,5 +47,9 @@ format:
       gutter-width: 1.5rem
     theme: cosmo
     number-depth: 1
-
+  # pdf:
+  #   toc: true
+  #   number-sections: true
+  #   colorlinks: true
+    
 editor: visual

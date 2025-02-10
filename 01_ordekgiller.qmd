@@ -18,7 +18,7 @@ title: "Ördekgiller"
 
 Geçiş sırasında tüm bölgelerde görülen ve ekimden itibaren mart sonuna kadar kalan bir kış göçmenidir. Kışlayan sürüler genellikle kıyısal bölgelerde yoğunlaşır. Son yıllarda görülen sürüler 300 bireyden azdır. KOSKS verilerine göre eskiden daha bol bulunduğu bilinmektedir. Ülke genelinde ortalama 5000 birey, en yüksek ise 1967'de 11.200 birey olarak sayılmıştır. Alanlarda yapılan sayımlarda Kızılırmak Deltası'nda 5000 birey, Meriç Deltası'nda 4500 birey ve Hotamış Sazlığı'nda 1500 birey tespit edilmiştir.
 
-![](images/harita_Page_002.png)
+![](images/harita_Anser%20anser.png)
 
 **Üreme**
 
@@ -45,7 +45,7 @@ Ekim sonu ile nisan başı arasında lokal olarak görülen bir kış konuğudur
 
 Kış ortası su kuşu sayımlarında (KOSKS) ülke genelinde en yüksek sayı 1968-69 kışında 98.600 birey olarak kaydedilmiştir. 1987'de ise toplam 84.000 birey sayılmıştır. Ancak daha sonra kışlayan birey sayısında ciddi bir düşüş yaşanmıştır. 1990'lı yıllarda genellikle 20.000-30.000 arasında değişen sayılar kaydedilmiş 1993'te 11.822 [@dogalhayati1993], 1999'da 3956 [@dogalhayati1999] ve 2005'te 3891 birey [@caglayan2005] tespit edilmiştir. Kışın soğuk geçtiği 11 Şubat 2006'da Büyükçekmece'de 15.000 birey sayılmıştır, bu da son yıllardaki en yüksek sayıdır. Dolayısıyla Türkiye'de kışlayan nüfusun 1970'lerde 100.000'ler seviyesinden 2010'larda 5000 civarına indiği söylenebilir.
 
-![](images/harita_Page_003.png)
+![](images/harita_Anser%20albifrons.png)
 
 **Üreme**
 
@@ -71,7 +71,7 @@ Doğu Anadolu'da 20 Kasım 2004'te Haçlı Gölü'nde uydudan izlenen bir birey 
 
 2000 öncesindeki kayıtlara bakıldığında; 29 Aralık 1997'de Göksu Deltası'nda bir birey [@kirwan2003], 23 Ocak 1993'te Göksu Deltası'nda bir birey [@dogalhayati1993], 6 Nisan 1990'da Seyfe Gölü'nde 12 birey [@kirwanmartins1994], 24 Aralık 1986'da Bafa Gölü'nde bir erişkin ve iki genç birey [@kasparek1988a] ve 16 Şubat 1967'de Kocabaş Çayı'nın ağzında (Çanakkale) iki birey [@ost1969] kaydedilmiştir. 1945 ile 1965 yılları arasında ve ekim ile ocak aylarında, çoğunluğu Büyükçekmece ve Küçükçekmece Göllerinden gelen 12 kayıt vardır. Ancak bu kayıtlar, tür tanımını destekleyecek belgeden yoksundur [@kumerloeve1970a].
 
-![](images/harita_Anser_erythropus.png){width="600"}
+![](images/harita_Anser%20erythropusythropus.png){width="600"}
 
 **Üreme**
 
@@ -97,7 +97,7 @@ Monotipik bir türdür.
 
 *Tarla Kazı* olarak tanımlanmış kuşlar, Ege, Akdeniz ve İç Anadolu'daki sulakalanlarda ara sıra yüksek sayılarda kaydedilmiştir. 1870'ler ve 1880'lerde Mersin'de toplanan bireyler [@schrader1891] ilk kayıtlar arasındadır. 1966-2000 yılları arasında çoğunlukla ocak ile mart ayları arasında 15 kez kaydedilmiştir. 2 Mart 1965'te Ereğli ve Karapınar arasında 90 birey [@kumerloeve1970a], 15-16 Ekim 1969'da Karamık Sazlıkları'nda 13 birey [@ost1972], 30 Nisan 1988'de Seyfe Gölü'nde, 30 Ocak 1992'de Marmara Gölü'nde 61 birey, 9 Ocak 1993'te Büyükçekmece Gölü'nde 64 birey [@dogalhayati1993] ve 24 Ocak 1993'te Göksu Deltası'nda bir birey [@dogalhayati1993] kaydedilmiştir. Türkiye'deki kışlayan Sakarca sayılarındaki sert düşüş, muhtemelen *Tarla Kazı* olarak tanımlanmış kuşlar için de geçerlidir.
 
-![](images/harita_Anser_serrirostris.png){width="600"}
+![](images/harita_Anser%20serrirostrisrrirostris.png){width="600"}
 
 **Üreme**
 
@@ -119,7 +119,7 @@ Tayga Kazı, yakın zamana kadar Tarla Kazı olarak bilinen bir türden ayrılan
 
 Batı Avrupa'nın Atlantik kıyılarında kışlayan bir türdür. Türkiye ile yakın coğrafyasında rastlantısal bir konuktur. 6 Nisan 1981'de Küçük Menderes Deltası'nda iki birey gözlenmiştir [@beaman1986]. 3-4 Eylül 1973'te Ardeşen açıklarında koyu karınlı *bernicla* alttürüne ait iki birey kaydedilmiştir [@ost1975]. 1969 yılında Acıgöl'den gelen bir iddia ise kabul edilmemiştir [@dijksen1988]. 7 Şubat 1945'te Büyükçekmece'de bir birey Prenses Zeyneb Halim tarafından vurulmuştur, ancak kuşun gövdesi korunamamıştır [@kumerloeve1970a]. Ocak 1889'da kışın soğuk geçtiği bir yılda İstanbul Maltepe'de düzenli olarak, Şubat 1891'de ise büyük sürüler halinde İstanbul Kadıköy'de görülmüştür [@matheydupraz1920].
 
-![](images/harita_Page_005.png)
+![](images/harita_Branta%20bernicla.png)
 
 **Üreme**
 
@@ -141,7 +141,7 @@ Bir kayıtta kuşun alttürü *bernicla* olarak tanımlanmıştır. Keza, Kuzeyb
 
 5 Ocak 2003'te Büyükçekmece Gölü'nde bir birey gözlenmiş ve detaylı olarak belgelenmiştir. 1946/47 kışında Sakarya Deltası'nda bir birey, 1961 sonbahar/kışında ise başka bir birey vurulmuştur. İkinci kuşun tahniti Eylül 1964'te Ankara'da bulunmuş, ancak sahibi tahniti satmaya yanaşmamıştır [@kumerloeve1966d]. Bu iki kaydın belgeleri yetersizdir [@kumerloeve1970a].
 
-![](images/harita_Page_006.png)
+![](images/harita_Branta%20leucopsis.png)
 
 **Üreme**
 
@@ -169,7 +169,7 @@ Türkiye'de düzenli kışladığı bilinen bir alan yoktur; ana kışlama alan�
 
 Türkiye'de açıklama gerektiren bir yaz veya üreme kaydı vardır. 5 Ağustos 1982'de Erçek Gölü'nde 14 erişkin ve 8 yavru kaydedilmiştir [@kasparek1983]. Bu kayıt ya hatalı bir gözlem olarak kabul edilmeli ya da avcılar tarafından yakalanıp evcilleştirilen kuşların üremesinin bir sonucu olarak yorumlanmalıdır.
 
-![](images/harita_Page_007.png)
+![](images/harita_Branta%20ruficollis.png)
 
 **Üreme**
 
@@ -195,7 +195,7 @@ Geçmişte, birkaç alanda yüzlerce çiftlik bir üreme nüfusu bulunuyordu. Ma
 
 Kış aylarında Karadeniz, Marmara ve Ege Bölgelerinde yaygın olarak en yüksek sayılarda gözlenir. Toplam kışlama popülasyonu 1000-10000 birey arasında değişmektedir. Meriç Deltası ve Gala Gölü kışlayan nüfusun büyük kısmının toplandığı alanlardır. 1993'te 1244, 1999'da 8900 ve 2003'te 2000 birey kaydedilmiştir [@dogalhayati1993; @dogalhayati1999]. Kışın sert geçtiği yıllarda bu sayı artmakta olup, 1999'da ülke genelinde toplamda 9088 birey kaydedilmiştir.
 
-![](images/harita_Page_008.png)
+![](images/harita_Cygnus%20olor.png)
 
 **Üreme**
 
@@ -222,7 +222,7 @@ Monotipik bir türdür.
 
 Türkiye'de kışlayan kuşların üreme alanları ve göç koridorları tespit edilmiştir [@article]. 2015-2017 yıllarında GPS ve GMS vericileriyle yapılan çalışmada, yuvalama alanlarının Yamalo-Nenets Özerk Bölgesi'ndeki Yamal olduğu belirlenmiştir. Göç sırasında Ob Koyu, Turgay Ovaları, Kuzey Hazar Kıyıları ve Azov Denizi gibi durak alanları üzerinden göç ettikleri ortaya çıkmıştır.
 
-![](images/harita_Page_009.png)
+![](images/harita_Cygnus%20columbianus.png)
 
 **Üreme**
 
@@ -244,7 +244,7 @@ Türkiye'de Eski Dünya'da yaşayan *bewickii* alttürü bulunur; bu alttür, ga
 
 Ekim sonu ile nisan başı arasında yaygın olarak az sayıda görülen bir kış konuğudur. Ocak ve şubat aylarında en yüksek sayıya ulaşır. Trakya'da Meriç Deltası hem Türkiye'deki ana toplama bölgesidir, üstelik türün Balkanlar'daki en önemli kışlama alanıdır. 25 Ocak 1998'de Meriç Deltası'nda 1200 birey kaydedilmiş, bu Türkiye'deki en yüksek sayıdır [@boyla1998a]. Türkiye'ye gelen kuşlar, Ukrayna ve Kırım ile Batı Karadeniz Bölgesi arasındaki deniz üzeri göç rotasını kullanır [@brazil2003]. Doğuda, 30 Ekim 1995'te Sodalı Gölü'nde 164 birey [@adizel1998], 1992'de Diyarbakır Kabaklı Barajı'nda 133 birey kaydedilmiştir [@dogalhayati1992].
 
-![](images/harita_Page_010.png)
+![](images/harita_Cygnus%20cygnus.png)
 
 **Üreme**
 
@@ -270,7 +270,7 @@ Monotipik bir türdür.
 
 1906 ve 1928 yılları arasında Kıbrıs'ta nadir görülen bir kış göçmeni olarak kaydedilmiş ve 1958, 1962 ve 1989 yıllarında bireyler gözlenmiştir. Eskiden Suriye ve Filistin'de ürediği düşünülmüş [@vaurie1965], ancak sonrasında Suriye'de hiçbir güvenilir kaydın olmadığına karar verilmiştir [@kumerloeve1967a; @baumgart1995].
 
-![](images/harita_Page_011.png)
+![](images/harita_Alopochen%20aegyptiaca.png)
 
 **Üreme**
 
@@ -296,7 +296,7 @@ Ege Bölgesi, Göller Bölgesi, İç ve Doğu Anadolu'da geniş ve tuzlu sulakal
 
 Kışlayan toplam nüfus genellikle 1000-5000 birey arasında değişir. Ana kışlama alanı olan Yumurtalık Lagünü'nde, 16 Şubat 2006'da 5390 birey kaydedilmiştir. Acıgöl'de ise 1969-70 yıllarında 3450 birey, 1968-69 yıllarında 4900 birey, 2004 yılında 1802 birey ve 2005 yılında 2928 birey sayılmıştır. Diğer alanlarda daha küçük gruplar halinde kışlar.
 
-![](images/harita_Page_012.png)
+![](images/harita_Tadorna%20tadorna.png)
 
 **Üreme**
 
@@ -325,7 +325,7 @@ Temmuz ve eylül ayları arasında tüy değişimi için bazı sulakalanlarda b�
 
 Kış aylarında daha yaygın olarak görülür. En yüksek kış sayımında Türkiye genelinde 10.115 birey kaydedilmiş olup [@caglayan2005], genellikle 4000-4500 birey sayılmıştır. Ocak-Şubat 1993'te sadece 711 birey, 18 Ocak 2004'te Sarıyar Barajı'nda 5636 birey ve 18 Şubat 2006'da 7641 birey kaydedilmiştir. İç Anadolu'da üreme sonrası toplanan sürülerde bir azalma gözlenirken, baraj göllerinin sayısında artış olmuştur. Kış sayımı toplamlarının yaz sonu toplamlarından düşük olması, türün dağınık şekilde kışladığını veya kış aylarında güneye göç ettiğini göstermektedir. Toplam kışlayan nüfusun 2600 ile 28.500 birey arasında değiştiği tahmin edilmektedir [@emirogullari_inprep].
 
-![](images/harita_Page_013.png)
+![](images/harita_Tadorna%20ferruginea.png)
 
 **Üreme**
 
@@ -352,7 +352,7 @@ Kızılırmak Deltası, bu türün Türkiye'deki en önemli üreme alanıdır ve
 
 İç Anadolu'daki ilkbahar göçü marttan nisan başına kadar belirgin bir şekilde gözlenir. Akdeniz'deki kıyısal sulakalanlarda ise nadiren 1000'den fazla birey kaydedilir. Kış ortası sayımlarda 1967'de Manyas Gölü'nde 5000, 1969'da Akşehir Gölü'nde 7500 ve 1971'de Hotamış Sazlığı'nda 2490 birey sayılmıştır. 1967-1973 yılları arasında ülke genelinde çoğunlukla 3000'den fazla birey kaydedilirken, 1986-2005 yılları arasında bu sayı 1000-1500 seviyelerine düşmüştür. Son yıllarda ise yeniden artış göstermiş ve 2020 kışında Kızılırmak Deltası'nda 10.000'den fazla birey sayılmıştır.
 
-![](images/harita_Page_014.png)
+![](images/harita_Mareca%20strepera.png)
 
 **Üreme**
 
@@ -379,7 +379,7 @@ Ege, Akdeniz ve İç Anadolu'nun sulakalanlarında kalabalık sürüler halinde 
 
 İç Anadolu’da mart sonu ve nisan başı arasında yüksek sayılarda göç eder. Bazı göçmen bireyler mayıs sonuna kadar bölgede kalır. Nadiren de olsa, İç ve Doğu Anadolu’da üremeden yazı geçiren bireyler gözlenebilir.
 
-![](images/harita_Page_015.png)
+![](images/harita_Mareca%20penelope.png)
 
 **Üreme**
 
@@ -405,7 +405,7 @@ Sonbaharda göç alır ve popülasyonu artar. Kışlayan gruplar nisan başına 
 
 1960'lı ve 1970'li yıllarda kışlayan popülasyonun 100.000'ler seviyesinde olduğu bildirilmiştir. 1967 yılında Kızılırmak ve Yeşilırmak Deltası'nda yaklaşık 52.000, Büyük Menderes Deltası'nda 42.000; 1968 yılında Manyas ve Uluabat Gölleri'nde 42.000; 1969 yılında Büyük Menderes Deltası'nda 80.000, Akyatan Lagünü'nde 40.000 ve Amik Gölü'nde 30.000; 1970 yılında ise Meriç Deltası'nda 34.500 ve Sultansazlığı'nda 30.000 birey kaydedilmiştir.
 
-![](images/harita_Page_016.png)
+![](images/harita_Anas%20platyrhynchos.png)
 
 **Üreme**
 
@@ -434,7 +434,7 @@ Tüm bölgelerde yaygın olarak kaydedilen bir geçit türüdür. Göçmen grupl
 
 Ülkenin batı ve orta bölgelerinde kışlar. 2000 ile 2020 yılları arasında ülke çapında kışlayan kuş sayısı genellikle 5000 bireyin altında kalmıştır; ancak kışın soğuk geçtiği 2005 yılında 13.576 birey sayılmıştır. 1990'lı yıllarda daha yüksek sayılar kaydedilirdi; örneğin, 1993'te toplam 7898 birey, 1999'da ise 13.114 birey kaydedilmiştir. Daha önceki yıllarda yapılan sayımlarda; 1967'de Büyük Menderes Deltası'nda 23.000, Kızılırmak Deltası'nda 8000 birey ve 1993'te 4564 birey sayılmıştır. 1967-1973 yılları arasında İç Anadolu'daki alanlarda 3000'den fazla bireyden oluşan sürüler olağandı.
 
-![](images/harita_Page_017.png)
+![](images/harita_Spatula%20clypeata.png)
 
 **Üreme**
 
@@ -466,7 +466,7 @@ Genellikle eylül ortasından nisan başına kadar batı ve orta bölgelerde gö
 
 Ülke genelinde kışlayan nüfus 10.000 bireyden azdır. 1986'da toplam 25.700 birey, 1992'de 11.070 birey ve 1999'da 13.573 birey kışlamıştır. Kışlama popülasyonunda çarpıcı bir azalma belgelenmiştir. 60'li yıllarda düzenli olarak 100.000'in üzerinde sayılırdı. Örneğin, 1967'de Büyük Menderes Deltası'nda 60.000 birey, Emir Gölü'nde 70.000 birey, 1969'da Akyatan Gölü'nde 100.000 birey ve Gâvur Gölü'nde 50.000 birey kaydedilmiştir. Bilhassa ılıman geçen kışlarda daha yüksek sayılarda kaydedilebilir. Eski tarihlerde bazı alanlardaki sayımların sonuçlarının güvenilirliği sorgulanabilir, örneğin, 1970'de Sultansazlığı'ndaki sayılan 160.000 birey muhtemelen abartılı bir tahmindir. Bu ve diğer ördek türlerinin önemli sayılarda kışladığı birkaç sulakalan kısmen ya da tamamen kurutulmuş durumdadır. Diğer yandan son yıllarda oluşan baraj göllerinde kışlamaya başlamıştır.
 
-![](images/harita_Page_018.png)
+![](images/harita_Anas%20acuta.png)
 
 **Üreme**
 
@@ -495,7 +495,7 @@ Türkiye'de nominat alttürü bulunur.
 
 Nadiren Marmara, Ege ve Akdeniz'de az sayıda kışlar. Olağandışı yumuşak geçen 1968-69 kışında Göksu Deltası'nda 3000 birey ve Gâvur Gölü'nde 5000 birey sayılmıştır. Güncel tarihlerde; Ocak 2002'de Güllük Deltası'nda 65 birey, Şubat 2002'de Bafa Gölü'nde 58 birey, Aralık 2002'de Çukurova'da 89 birey, 4 Aralık 2010'de Karkamış Barajı'nda iki birey kışlamıştır.
 
-![](images/harita_Page_019.png)
+![](images/harita_Spatula%20querquedula.png)
 
 **Üreme**
 
@@ -524,7 +524,7 @@ Geçiş sırasında eylül başından nisan başına kadar ülkenin batı ve ort
 
 Kışın hem iç bölgelerde hem de kıyısal sulakalanlarda yüksek sayıda bulunur. Ülke çapında kışlayan nüfus 100.000 birey seviyesindedir. Son yıllarda kışlayan nüfusta düşüşler yaşanmış, örneğin 1988'de 21.000 birey ve 1989'da 13.400 birey sayılmıştır. Bu düşüş, aslında diğer yüzey ördeklerinde olduğu gibi 1960'lardan beri süre gelmektedir. 1968-69'da toplam 270.400 birey ve 1969-70'de 326.700 birey sayılmıştır. Son sayımda sadece Sultansazlığı'nda 200.000 birey gözlenmiştir. Alanda sayılan ancak türü tespit edilemeyen 400.000 ördeğin de çamurcun olabileceği düşünülürse, alandaki kışlayan çamurcun sayısı 600.000 birey olabilir.
 
-![](images/harita_Page_020.png)
+![](images/harita_Anas%20crecca.png)
 
 **Üreme**
 
@@ -555,7 +555,7 @@ Mart başından ekim başına kadar kaydedilen bir yaz konuğu idi. Göksu Delta
 
 Amik Gölü'nün kurutulmasından önce muhtemelen önemli sayılarda bulunuyordu [@kumerloeve1963a]. Konya havzasındaki Yarma Sazlıkları, Gönenç Gölü ve Karapınar Ovası'nda [@grimmett1989] muhtemelen üremiştir. Mogan Gölü ve Eber Gölü gibi diğer birkaç alanda da üremiş olabilir. Bu alanlar ekolojik özelliklerini kaybettikleri ve türe uygun üreme habitatları barındırmadıkları için artık üremeye elverişli değildir. Üreme sonrası toplanan bireyler, o yıllarda toplam ülke nüfusu hakkında fikir verebilir. Ağustos 1967'de Çukurova'da 2000 birey ve Göksu Deltası'nda 450 birey sayılmıştır.
 
-![](images/harita_Page_021.png)
+![](images/harita_Marmaronetta%20angustirostris.png)
 
 **Üreme**
 
@@ -582,7 +582,7 @@ Monotipik bir türdür.
 
 Ülke genelinde geçiş sırasında doğu bölgeleri dışında daha yaygındır. Çoğu zaman yüzeyi donmaya daha az eğilimli olan baraj göllerini tercih eder. Ocak 1967'de 12.000 birey sayılmış, bunun 7000'i bugün kurutulmuş olan Amik Gölü'ndendir. Türkiye genelinde 1992'de 5249, 1996'da 6522 ve 1999'da 6228 birey sayılmıştır. 2000'li yıllarda toplam sayıda artış görülmüş, sadece Beyşehir Gölü'nde Şubat 2003'te 10.000 birey ve Ocak 2005'te 20.000 birey sayılmış, son sayımda hem toplam hem de alan rekoru kırılmıştır.
 
-![](images/harita_Page_022.png)
+![](images/harita_Netta%20rufina.png)
 
 **Üreme**
 
@@ -612,7 +612,7 @@ Monotipik bir türdür.
 
 Kışın ve geçiş dönemlerinde ülke genelinde yaygın ve boldur. Son yıllarda ortalama 67.000 bireyden fazla sayılmaktadır. 1996 yılında Beyşehir Gölü'nde 47.000, Uluabat Gölü'nde 42.000 ve ülke genelinde toplamda 250.000 birey sayılmıştır, bu en yüksek kayıtlardandır. 1999'da Eğirdir Gölü'nde 40.000, ülke genelinde ise 137.000 kuş sayılmıştır. 18 yıllık Kış Ortası Su kuşu sayımlarının ortalaması 93.000 kuştur. İstisna olarak 1968-69 kışında 355.000 bireyin kışladığı tahmin edilmiştir. Ekim ortasından itibaren yüksek sayılar gözlemlenir; Göksu Deltası'nda Ekim 1978'de 40.000, Ekim 2002'de Sodalıgöl'de 100-130.000, Kulu Gölü'nde Kasım 1970'de 45.000 ve Kasım 1971'de 28.000 birey kaydedilmiştir.
 
-![](images/harita_Page_023.png)
+![](images/harita_Aythya%20ferina.png)
 
 **Üreme**
 
@@ -641,7 +641,7 @@ Türkiye popülasyonu muhtemelen dünyadaki en önemlilerinden biridir ve 1000 i
 
 Geçiş sırasında az ve orta sayılarda bulunur ve ülke genelinde biraz daha yaygındır. Az sayıda kışlar, 1992 yılında 105 birey, diğer yıllarda 50 bireyden az sayılmıştır. 1990'ların ortalarından itibaren kış kayıtlarında bir artış gözlenmiş, bu durum muhtemelen gözlemci sayısının artmasına bağlanmıştır. Eskiden batı ve orta bölgelerde daha çok sayıda kışlamış, 1968-74 yıllarında 50 ile 450 birey arasında kaydedilmiştir. Marmara Gölü'nde kaydedilen 860 birey en yüksek kayıttır. Doğu ve Güneydoğu Anadolu'da 2005 yılında sayılan 44 birey bahsedilmeye değerdir.
 
-![](images/harita_Page_024.png)
+![](images/harita_Aythya%20nyroca.png)
 
 **Üreme**
 
@@ -668,7 +668,7 @@ Monotipik bir türdür.
 
 Ülkenin batı ve orta bölgelerinde eylül başından nisan başına kadar kaydedilen yaygın ve bol bulunan bir geçiş türü ve kış konuğudur. Karadeniz'de denizde kışlar. Kış ortası sayımlarında; 1968-69 kışında 20.800 birey, 1996'da en yüksek sayı olan 58.271 birey, 1992'de yaklaşık 13.000 birey, 1993'te 16.965 birey (sadece Eğirdir Gölü'nde 10.478 birey) ve 1999'da 18.512 birey kaydedilmiştir. Son yıllarda ise ülke toplamı genellikle 5000-10.000 birey arasındadır. En önemli kışlama alanları Sapanca Gölü ve Eğirdir Gölü'dür.
 
-![](images/harita_Page_025.png)
+![](images/harita_Aythya%20fuligula.png)
 
 **Üreme**
 
@@ -697,7 +697,7 @@ Karadeniz ve Marmara Bölgesi'nde hemen hemen her yıl az sayıda görülmektedi
 
 Türün ilk yaz kaydı 30 Mayıs 1992'de Sodalı Gölü'nde kaydedilen iki erkektir [@kirwanmartins1994]. Öte yandan, 19 Nisan 1981'de Kulu Gölü'nde gözlenen iki birey, 12 Nisan 1990'da Göksu Deltası'nda gözlenen yaklaşık 20 birey [@kirwanmartins2000] olağandışı geç kayıtlardır.
 
-![](images/harita_Page_026.png)
+![](images/harita_Aythya%20marila.png)
 
 **Üreme**
 
@@ -723,7 +723,7 @@ Türkiye'de üremez, en yakın üreme kolonisi Ukrayna kıyılarındadır. Güve
 
 Şubat 1929'un ilk yarısında Tarabya ile Beykoz arasında (İstanbul Boğazı) gözlenen bir erişkin erkek [@kumerloeve1970a], tanım olmadığı için burada kabul edilmemiştir.
 
-![](images/harita_Page_027.png)
+![](images/harita_Somateria%20mollissima.png)
 
 **Üreme**
 
@@ -751,7 +751,7 @@ Gürcistan'da yuvalamaya devam eden bireyler Karadeniz kıyılarına az sayıda 
 
 4 Şubat 1917'de İstanbul Zeytinburnu açıklarında gözlenen iki birey ülke için ilk kayıttır.
 
-![](images/harita_Page_028.png)
+![](images/harita_Melanitta%20fusca.png)
 
 **Üreme**
 
@@ -778,7 +778,7 @@ Karadeniz'de çoğunlukla eylül ve mart arasında çok az sayıda kaydedilen k�
 
 9 Nisan 1967'de Kocaçay Deltası'nda kaydedilen bir birey ülke için kabul edilebilir ilk kayıttır [@ost1969]. Öncesinde Ege'de nadir bir kış göçmeni olduğundan [@kruper1875] ve İstanbul Boğazı ile Ceyhan Deltası'ndaki şüpheli kayıtlardan [@kumerloeve1961] bahsedilmiştir.
 
-![](images/harita_Page_029.png)
+![](images/harita_Melanitta%20nigra.png)
 
 **Üreme**
 
@@ -802,7 +802,7 @@ Monotipik bir türdür.
 
 İstisnai olarak, Van Gölü'nden 1977 ile 1987 arasında mayıs ve haziran aylarında yaz kayıtları mevcuttur. 10 Haziran 1977'de Gevaş'ın batısında Horkum'da iki birey ve Tatvan ile Ahlat arasında üç birey [@beaman1986], 22 Mayıs 1985'te Van'ın güneybatısında bir erkek [@martins1989], 9 Haziran 1987'de Van Sazlığı'nda bir erkek ve 22 Haziran 1987'de Van'ın 10 km güneyinde bir birey [@kirwanmartins1994] kaydedilmiştir.
 
-![](images/harita_Page_030.png)
+![](images/harita_Clangula%20hyemalis.png)
 
 **Üreme**
 
@@ -826,7 +826,7 @@ Karadeniz, Marmara ve Ege'nin kıyı bölgelerinde ve daha nadir olarak iç böl
 
 1977 ile 1993 yılları arasında Doğu Anadolu'da, çoğunluğu Van Gölü'nde olmak üzere, bir dizi yaz kaydı vardır ve bu kayıtlarda bazen birden fazla birey gözlenmiştir. Bu kayıtlar, yakınlarda üreyen bir popülasyonun ihtimalini düşündürmüştür [@kasparek1992a].
 
-![](images/harita_Page_031.png)
+![](images/harita_Bucephala%20clangula.png)
 
 **Üreme**
 
@@ -854,7 +854,7 @@ Ancak ne tuhaftır ki, türün ilk keşfi Strickland tarafından İzmir'den alı
 
 11 Haziran 1969'da Eymir Gölü'nde (Ankara) bir erkek [@ost1972], 27 Haziran 1987'de Göründü'de (Van) bir dişi [@kirwanmartins1994] ve 27 Mayıs 1995'te Uluabat Gölü'nde bir erkek ve iki dişi [@kirwanmartins2000] olmak üzere yazın üç defa kaydedilmiştir.
 
-![](images/harita_Page_032.png)
+![](images/harita_Mergellus%20albellus.png)
 
 **Üreme**
 
@@ -878,7 +878,7 @@ Monotipik bir türdür. Türkiye'de tanımlanmıştır.
 
 Doğu Anadolu'da şubat ve martta iki defa, yazın ise üç kere gözlenmiştir; 11 Haziran 1970'de Pasinler ile Horasan arasında Aras Nehri üzerinde bir çift, 7 Haziran 1986'da Van Gölü'nde bir birey ve 29 Haziran 1988'de Bendimahi Deltası'nda bir dişi ya da genç birey kaydedilmiştir. Kurutulmadan önce Sevan Gölü (Ermenistan) havzasında üreyen bir tür olduğu düşünülmüş, ancak ürediğine dair bir kanıt elde edilmemiştir [@adamian1999].
 
-![](images/harita_Page_033.png)
+![](images/harita_Mergus%20merganser.png)
 
 **Üreme**
 
@@ -902,7 +902,7 @@ Kıyısal alanlarda ekim sonu ve nisan sonu arasında kaydedilen kış göçmeni
 
 20-21 Mayıs 1994'te Göksu Deltası'nda geç kalmış bir birey kaydedilmiştir (Birdquest Newsletter 23: 59). Tek yaz kaydı 11 Haziran 1964'te Amik Gölü'nde (Antakya) kaydedilen yedi veya sekiz bireydir [@kumerloeve1966-67].
 
-![](images/harita_Page_034.png)
+![](images/harita_Mergus%20serrator.png)
 
 **Üreme**
 
@@ -930,7 +930,7 @@ Mart ile mayıs başı arasında birçok alanda geçiş sırasında gözlenir. 2
 
 Kışın Akdeniz'deki birkaç sulak alanda yüksek sayıda, İç Anadolu'da genellikle daha az sayıda kaydedilir. Batı ve orta bölgelerindeki diğer yerlerde ise daha nadiren, özellikle sert hava koşullarında kaydedilir. Karadeniz Bölgesi'nde düzensiz olarak yüksek sayılarda kışlar. Bir dönem dünya popülasyonunun %50'sinden fazlasının Burdur Gölü'nde kışladığı düşünülmüştür; buradaki sayımlarda 1987'de 6400, 1988'de 9230, 1989'da 6700 ve 1991'de 10.927 birey kaydedilmiştir [@green1992]. Ancak 1992 sonrasında sayılarda azalma görülmüş; 1992'de 3264, 1993'de 3010 ve 1994'de 3337 birey sayılmıştır. Bu sayımlar son derece hassas olup, eş zamanlı üç ekip tarafından ideal hava koşullarında gerçekleştirilmiştir. Burdur Gölü'nde 1993'te 1991'e göre daha az genç bireyin sayılması, daha düşük üreme başarısını gösterebilir. Bir ihtimal, Kazakistan ve çevre ülkelerdeki üreyen nüfustaki azalış, Türkiye'deki kışlama nüfusunun azalmasını açıklayabilir. Bu azalmada şüphesiz kaçak avcılığın da payı vardır; 1992-93 kışında Burdur Gölü'nde 1000'den fazlasının vurulduğu tahmin edilmiştir. Ayrıca son yıllarda Burdur Gölü'nün kuruma sürecinin başlaması ve tuzluluğun artması da bir etken olabilir.
 
-![](images/harita_Page_035.png)
+![](images/harita_Oxyura%20leucocephala.png)
 
 **Üreme**
 

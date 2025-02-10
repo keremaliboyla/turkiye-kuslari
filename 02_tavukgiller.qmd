@@ -14,6 +14,8 @@ title: "Tavukgiller"
 
 Relikt bir popülasyon, 19. yüzyılın sonuna kadar İstanbul çevresinde devam etmiştir [@kasparek1990a], ancak anlaşıldığı kadarıyla avlanma sonucunda soyu tükenmiştir. Türkiye'de yaşadığı ilk iki bilim insanı tarafından tespit edilmiştir [@rigler1852; @tchihatchef1864]. Son olarak İstanbul Alemdağ çevresinde bulunduğu düşünülmüş [@reiser1904] ve şehirde satılan, nereden geldiği bilinmeyen ölü erkek bireyler tespit edilmiştir [@matheydupraz1920]. Aynı dönemde Bulgaristan popülasyonunun da ciddi oranda azaldığı kaydedilmiştir [@elwes1870]; bu durum muhtemelen avcılığa bağlanmaktadır. Tür burada da uzun süreden beri tükenmiş durumdadır. Genel olarak türün küresel yayılış alanı kuzey ve batıya doğru daralmıştır [@hagemeijer1997; @madge2002; @handrinos1997]. Yunanistan'da 1935 yılından bu yana Selanik ve Rodop Dağları çevresinden dört kayıt bulunmaktadır.
 
+![](images/harita_Lyrurus%20tetrix.png)
+
 **Üreme**
 
 Türkiye'de yuvalamaz. Kuzey Avrasya'daki orman kuşağında yuvalayan yerli bir türdür.
@@ -42,7 +44,7 @@ Türkiye popülasyonunun muhtemelen %90'ının görüldüğü Kaçkar Dağları'
 
 Türkiye popülasyonu, yaylaların tatil konutlarına dönüşmesi sonucunda artan yol inşaatları nedeniyle yaşam alanlarının terkedilmesinden etkilenmekte ve nesli tehlike altına girmektedir. Daha az ölçüde avlanma baskısından (özellikle sonbahar döneminde görülen bir problem) ve tür için bir tehdit kaynağı olarak listelenen aşırı otlatma bugün kaydedilir ölçekte değildir; ancak, bu durumun izlenmesi gereklidir. Türün popülasyonlarının dengede ya da azalmakta olup olmadığını ortaya koymak için türün popülasyonu ve yayılışı ile ilgili tarihsel bilgiler yetersiz düzeydedir; ancak, popülasyonların azalmasından şüphelenilmektedir.
 
-![](images/harita_Page_037.png)
+![](images/harita_Lyrurus%20mlokosiewiczi.png)
 
 **Üreme**
 
@@ -69,7 +71,7 @@ Monotipik bir türdür. Rusca literatürde çoğunlukla *Lyrurus* cinsi altında
 
 Geçtiğimiz 20 yıl içerisinde tarımın yoğunlaşması, aşırı otlatma ve avlanma nedeniyle popülasyonu önemli derecede azalmıştır. Trakya'da yabani nesli tükenmiş olup, çeşitli kurum ve kuruluşlar tarafından nüfusu takviye amaçlı genetik yapısı farklı olan yetiştirilmiş kuşlar salınmış, ancak bu kuşlar yeni bir nüfus oluşturamamıştır. Belki de Bulgaristan'daki yabani kuşların Türkiye'ye kendiliğinden gelmesi beklenmelidir.
 
-![](images/harita_Page_042.png)
+![](images/harita_Perdix%20perdix.png)
 
 **Üreme**
 
@@ -96,7 +98,7 @@ Türkiye'deki yerli popülasyonun yayılış alanı büyük ihtimalle Batı ve O
 
 Doğal nüfusu neredeyse tamamen kaybolmuştur; yabani kuşların çoğunun soyu av için salınan kuşlara dayanır. Toplam stoktaki yerli kuşların varlığı çok sınırlıdır ve saf yerli kan, devamlı olarak av için salınan yabancı ve karışık kuşların içinde eriyip gitmiştir. Bugün doğal popülasyondan geriye kalanların Sinop bölgesinde ve yakın zamana kadar Kızılırmak Deltası ve çevresinde bulunması olasıdır. İç Anadolu, Ege ve Akdeniz'de görülen sülünler, şüphesiz doğaya salınan kuşlardan türemiştir.
 
-![](images/harita_Page_044.png)
+![](images/harita_Phasianus%20colchicus.png)
 
 **Üreme**
 
@@ -125,7 +127,7 @@ Doğu Akdeniz'deki popülasyonu dikkate alınarak mevcut durumu ve ekolojisi der
 
 Eskiden Güneydoğu Marmara ile Ege Bölgesi'nin güney kıyılarının bazı bölümlerinde yerli olarak kaydedilmiştir [@kumerloeve1963c]. Ancak, her iki bölgede 19. yüzyıl içinde ortadan kalkmıştır. İstanbul Boğazı çevresinden 1850'li yıllardan gelen tek bir kayıt vardır. Göller Bölgesi ile Anti-Toroslara kadar kuzeyde, 600 metreye kadar oldukça lokal olarak kaydedilmiştir [@kumerloeve1961]. Ekim 2003 tarihinde Tavas, Denizli çevresinden muhtemelen tutsak bir bireyin kaçması sonucu güncel bir kayıt gelmiştir. 1960'lı yıllarda Köyceğiz Gölü'ndeki kayıtlar, Batı Akdeniz'deki son kayıtlardır. 1990'lı yıllara kadar Akdeniz bölgesindeki yayılışı İçel, Adana, Osmaniye ile sınırlıydı. Sayıları artan kuşların yavaş yavaş Batı Akdeniz'e doğru ilerlediği kaydedilmiştir. Örneğin Antalya Havaalanı arazisinde 2010'dan beri kaydedilmektedir.
 
-![](images/harita_Page_041.png)
+![](images/harita_Francolinus%20francolinus.png)
 
 **Üreme**
 
@@ -152,7 +154,7 @@ Yüksek dağların yerlisidir. Üç önemli popülasyon Doğu Karadeniz Bölgesi
 
 Eski kayıtlarda, en batıda Geyik Dağı, Alanya'nın kuzeyi ve Antalya'nın dağlık alanlarında gözlenmiştir [@kumerloeve1961]. Daha batıda Akdağlar ve Beydağları'ndaki sürekli kar örtüsüne sahip zirveler de uygun yüksekliğe sahip alanlardır.
 
-![](images/harita_Page_038.png)
+![](images/harita_Tetraogallus%20caspius.png)
 
 **Üreme**
 
@@ -179,7 +181,7 @@ Monotipik bir türdür. Eskiden Hakkari ve Zagros Dağları'ndaki kuşların *se
 
 İlk zamanlarda çoğunlukla Suriye sınırına 50 km mesafedeki 15 lokaliteden bilinirdi. Ancak, Güneydoğu Anadolu'da yürütülen kapsamlı bir biyoçeşitlilik araştırması, uygun habitatların bulunduğu alanlarla birlikte türün hemen hemen 50 coğrafi yerde bulunduğunu göstermiştir [@zeydanli2005gap]. Çoğunlukla az sayıda gözlenir, ancak sonbaharda 40 bireylik gruplar kaydedilmiştir.
 
-![](images/harita_Page_040.png)
+![](images/harita_Ammoperdix%20griseogularis.png)
 
 **Üreme**
 
@@ -208,7 +210,7 @@ Monotipik bir türdür.
 
 Tarım arazilerinde yaşayan diğer kuşlar gibi, tarımın yoğunlaşması, tahıl dışındaki ürünlerin çoğalması ve yasadışı avcılık sonucunda sayıları ülke çapında azalmıştır. Göçmen kuşlar aşırı av baskısı altındadır ve özellikle Karadeniz bölgesinde yasadışı teyp kullanarak yakalama faaliyetleri devam etmektedir.
 
-![](images/harita_Page_043.png)
+![](images/harita_Coturnix%20coturnix.png)
 
 **Üreme**
 
@@ -235,7 +237,7 @@ Yaygın, Trakya ve Batı Karadeniz kıyı şeridinde nadir, Türkiye genelinde i
 
 Geçmişte özellikle Hatay ve Doğu Karadeniz kıyı şeridi gibi bölgelerde oldukça bol olarak kaydedilmiş, ancak son zamanlarda belirgin bir azalma göstermiştir.
 
-![](images/harita_Page_039.png)
+![](images/harita_Alectoris%20chukar.png)
 
 **Üreme**
 
@@ -264,7 +266,7 @@ Türkiye’deki eski yayılışını detaylandıran bir çalışmaya göre, geç
 
 Ülkedeki popülasyonun çoğunluğu yerli bireylerden oluşsa da az sayıda göç almaktadır. Güneydoğu Anadolu’da kışlayan bireylerin ise Karadeniz’in kuzeyinden geldiği düşünülmektedir. Ege, Marmara ve güney kıyı şeridinde sonbahardan ilkbahara kadar daha geniş bir alanda kaydedilmiştir.
 
-![](images/harita_Page_112.png)
+![](images/harita_Otis%20tarda.png)
 
 **Üreme**
 
@@ -295,7 +297,7 @@ Yaklaşık 100 yıl aradan sonra tekrar görülmüştür. İlk kayıt, 17 Aralı
 
 Eski üreyen popülasyona ait kayıtlar, 1912 yılı veya daha öncesinde Kars civarından gelmektedir [@satunin1912]. Ayrıca 1917 öncesinde Aras Vadisi’nde çok küçük bir popülasyonun bulunduğu belirtilmiştir [@glutzvonblotzheim1973]. 1910 yılında Amik Gölü yakınlarında bulunan genç bir bireyin, Aharoni tarafından muhafaza edilemediği, ancak o dönemde bu bölgede muhtemelen üremenin olduğuna dair bilgiler aktarılmıştır [@kumerloeve1963a]. 1981 yılında yapılan değerlendirmeler, Doğu Anadolu'nun ücra bölgelerde hala hem uygun üreme habitatlarının bulunduğunu, hem de buralarda ara sıra kışlayabileceğini öne sürmüştür [@goriup1985].
 
-![](images/harita_Page_113.png)
+![](images/harita_Chlamydotis%20macqueenii.png)
 
 **Üreme**
 
@@ -321,7 +323,7 @@ Türün tarihsel yayılışı ve durumu [@kasparek1989a] tarafından karşılaş
 
 Geç sonbaharda Karadeniz kıyısı boyunca nadir de olsa az sayıda birey göç geçişi yapar. 26 Ekim 2010’da Rize’de, 9 Kasım 2009’da İstanbul’da, 15 Kasım 2009’da Trabzon’da [@balmer2010around] ve Aralık 2005’te Kızılırmak Deltası’nda kaydedilmiştir. Kış mevsiminde ise az sayıda birey Karadeniz, Marmara, Ege ve Akdeniz kıyılarında görülebilir.
 
-![](images/harita_Page_114.png)
+![](images/harita_Tetrax%20tetrax.png)
 
 **Üreme**
 

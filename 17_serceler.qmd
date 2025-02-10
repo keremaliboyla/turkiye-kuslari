@@ -1,4 +1,4 @@
----
+﻿---
 title: "Serçeler"
 ---
 
@@ -12,7 +12,7 @@ Batıda ve güneyde daha az ve lokaldir, hatta görünüşe bakılırsa Güneydo
 
 Geçiş sırasında ülke genelinde yaygın ve boldur. Üreyen feldegg'e ek olarak Türkiye'de güvenilir şekilde yedi ırk kaydedilmiştir: flava, thunbergi, lutea, cinereocapilla, beema ve superciliaris. Hepsi, geçiş sırasında nispeten düzenlidir, ancak son dördü genellikle çok az sayılarda kaydedilir. Dumbrowskii de şüpheli olarak bildirilmiştir (Kumerloeve 1961). Feldegg ve daha az olmakla birlikte superciliaris, genellikle erken ilkbaharda (mart ortası ile nisan ortası arasında) baskın ırklardır. Flava ve thunbergi (daha nadir) ise martın üçüncü haftasından itibaren gözlense de mayısın ikinci yarısında bollaşır. En yüksek sayılar genellikle nisanın ikinci haftası görülür. Mart sonundan itibaren gözlense de beema kayıtlarının çoğu nisanın ortası ve sonundadır, mayısta da epeyce görülür. Tüm ırkların çok yüksek sayılarda kaydedildiği tarihler 10 Mart ile 25 Mayıs arasındadır. Güncel veri çok az olduğundan ilkbahar fenolojisini açıklığa kavuşturmak için bu formlara çok dikkat edilmesi gerekir. Sonbahar geçişleri temmuz ortası ile ağustos başında başlar ve eylül ortasında zirve yaparak ekim boyunca azalır (en geç 19 Kasım). Genellikle çok yüksek sayılarda kaydedilir: Örneğin, 4 Ekim 1968'de şimdi kurutulmuş olan Aynaz Bataklıkları'nda (Çukurova) 40.000 birey sayılmıştır (OST 1972) ve 30 Eylül ile 2 Ekim arasında Mersin'de saatte 3000 bireye kadar doğuya uçtukları gözlenmiştir (OST 1978). Muhtemelen bu mevsimde çok düzensiz olsa da Batı ve Orta Anadolu'daki ovalarda ara sıra kışın da kaydedilir (aralık-ocak).
 
-![](images/harita_Page_434.png)
+![](images/harita_Motacilla flava.png)
 
 **Üreme**
 
@@ -32,7 +32,7 @@ Islak mera ve çayırlarda, tatlı su bataklıklarında, kıyılardaki tuzlu su 
 
 Geçit sırasında da düzenli olarak gözlenir. Özellikle ilkbaharda ve çoğunlukla Doğu Anadolu'dan artan bir şekilde batıdan da olmak üzere martın ortasından ya da sonundan itibaren (en erken 26 Mart) nisan ortasında zirve yaparak mayısın ortasına ya da sonuna kadar geçit yapar. Kasparek (1992a), tüm geçiş kayıtlarını analiz etmiş ve 19 Nisan'ı medyan olarak belirlemiştir. Türkiye'den geçişinin derecesi, ilkbahar 1992'de Kızılırmak Deltası'nda 127 gözlem kaydeden Hustings ve van Dijk (1994) tarafından gösterilmiştir. Görünüşe göre sonbaharda daha azdır (gerçi muhtemelen gözlemci tercihlerini yansıtıyor olabilir), belirgin bir zirve yapmadan ağustos başından ekim ortasına kadar geçiş yapar. Geçit sırasında 3500 m'de (Süphan Dağı, Muş) kaydedilmiştir. Hepsi son yıllara ait üç kış kaydı vardır: 19 Aralık 2004'te Göksu Deltası'nda, 24 Aralık 2005'te Büyük Menderes Deltası'nda ve 27 Ocak 2008'de Nizip'te (Gaziantep) kaydedilmiştir.
 
-![](images/harita_Page_435.png)
+![](images/harita_Motacilla citreola.png)
 
 **Üreme**
 
@@ -52,7 +52,7 @@ Yüksek kesimlerde yaygın ve oldukça bol olan yerli ve yarı göçmendir. Bat�
 
 Sonbahar geçişi ağustos ortasında başlar, eylül sonu ile ekim başında zirve yaparak ekim sonuna kadar devam eder. Sonbaharda ve kışın daha yaygındır ve daha yüksek sayılarda kaydedilir. Üreyen bireyler kışın alçak yerlere inerler, ekim başından mart sonuna kadar, daha nadir olarak nisan sonuna kadar sıklıkla deniz seviyesinde bulunurlar. Çoğunlukla Karadeniz, Marmara, Ege ve Akdeniz'de kışlar ve İstanbul ve Ankara gibi birçok büyük şehirde bol miktarda kışlayan bir türdür, hatta yapılaşmanın en yoğun olduğu yerlerde bile görülür.
 
-![](images/harita_Page_436.png)
+![](images/harita_Motacilla cinerea.png)
 
 **Üreme**
 
@@ -70,7 +70,7 @@ Tepelik ve dağlık alanlarda, seddeler ve toprak duvarları ve kayalık kıyıl
 
 İç ve Güneydoğu Anadolu'da çok lokal, Ege'de az sayıda ürer. Üreme sezonunda en az 2900 m'ye kadar görülür. Geçit sırasında çok daha yaygın ve lokal olarak çok boldur, örneğin, 4 Nisan 1992'de Kızılırmak Deltası'nda 500 birey kaydedilmiştir [@hustings1994]. İlkbahar geçidi mart başında başlar, mart sonunda ve nisan ortasında zirve yaparak nisan sonuna kadar devam eder. Sonbahar geçişi ağustos ortasında başlar, eylülün son günlerinde ve ekim başlarında zirve yaparak kuzeyde ekim sonuna ve güneyde kasım başı ve ortasına kadar devam eder. Boğazlardan (İstanbul ve Çanakkale) hem ilkbaharda hem de sonbaharda geniş bir cephe üzerinden yüksek sayılarda geçiş yapar (Boyd 1916, Huxley 1949, Nisbet ve Smout 1957). Çoğunlukla Marmara, Ege ve Akdeniz kıyılarında özellikle sulakalanlarda kışlar. Batı ve Orta Anadolu'daki diğer yerlerden nispeten az sayıda kışlama kaydı vardır.
 
-![](images/harita_Page_437.png)
+![](images/harita_Motacilla alba.png)
 
 **Üreme**
 
@@ -90,7 +90,7 @@ Az sayıda görülen, çok seyrek bir geçit kuşu ve zaman zaman görülen kı�
 
 Daha sonra, yayınlanmış en az 29 kayıt olmuştur (birkaç tanesi birden fazla bireye aittir) ve bu kayıtlar türün zaman zaman az sayılarda geçit yapıyor olabileceğini göstermektedir. İlkbahar kayıtları (20 Mart-4 Haziran) daha fazladır. Sonbaharda, 12 Eylül-12 Kasım arasında, 5 kayıt vardır ve bunlara Gallner'in (1976) Ağustos sonundaki olası gözlemi ve 1 Aralık 1969'da güney kıyılarındaki kış kaydı sayılabilecek gözlem dâhil değildir. Kayıtların çoğu, düzenli olarak izlenen kıyı deltalarındandır: 7 kayıt Göksu Deltası'ndan ve dikkate değer 13 bireye ait 10 kayıt da Kızılırmak Deltası'nda olup, bunlardan biri hariç hepsi 1998 ilkbaharındandır. Sonbaharda, bu bölgeden sınırlı sayıda sistematik gözlem vardır. Kıbrıs'ta seyrek bir geçit kuşu ve kış göçmeni olarak addedilir, ancak Ortadoğu'daki durumu oldukça belirsizdir (Hollom vd. 1988, Porter vd. 1996).
 
-![](images/harita_Page_438.png)
+![](images/harita_Anthus richardi.png)
 
 **Üreme**
 
@@ -108,7 +108,7 @@ Türkiye'den hiçbir örnek incelenmemiş olmasına rağmen tüm kayıtlar muhte
 
 zz
 
-![](images/harita_Page_439.png)
+![](images/harita_Anthus godlewskii.png)
 
 **Üreme**
 
@@ -126,7 +126,7 @@ zzz
 
 Ege, Trakya, İç Anadolu ve Doğu Anadolu'da en boldur. Karadeniz'de bariz bir şekilde lokal olup Kızılırmak Deltası'ndaki uygun habitatlarda Haziran 1992 başlarında tek tük kaydedilmiştir [@hustings1994]. Bozkır, yarı bozkır ve ekili alanlarda, genellikle 3000 m'ye kadar yaylalarda ve ayrıca daha lokal olarak deniz seviyesinde ürer. İlkbaharda mart ortasından mayıs ortasına, sonbaharda kuzeyde temmuz sonu, diğer bölgelerde ağustos ortasından ekim ortasına ya da sonuna kadar olmak üzere geçiş sırasında daha yaygın ve lokal olarak kalabalıktır; Karadeniz Bölgesi'nde bile geniş çapta kaydedilir. İstisna olarak 12 Kasım'da Akdeniz ve 28 Kasım'da Karadeniz Bölgesi'nde kaydedilmiştir (Ogilvie 1954). Zaman zaman kıyılarda kışladığı gözlenmiştir, örneğin 19 Ocak 1969'da Milet'te, 20 Şubat 1972'de Alanya'da, 4 Ocak 1973'te Kızılırmak Deltası'nda ve 21 Aralık 2007'de Göksu Deltası'nda yalnız kuşlar kaydedilmiştir.
 
-![](images/harita_Page_440.png)
+![](images/harita_Anthus campestris.png)
 
 **Üreme**
 
@@ -146,7 +146,7 @@ Roselaar'a (1995) göre boehmei Türkiye genelinde bulunur. Öte yandan, Alströ
 
 **Üreme**
 
-![](images/harita_Page_441.png)
+![](images/harita_Anthus pratensis.png)
 
 Türkiye'de yuvalamaz.
 
@@ -164,7 +164,7 @@ Marmara, Karadeniz Bölgesi ve muhtemelen Ege, İç Anadolu ve Doğu Anadolu'da 
 
 Geçit sırasında ülke genelinde bol ve yaygındır, bazen çok yüksek sayılar kaydedilir. Örneğin, 5 Ekim 1973'te İzmit ve Çamlıca arasında (Karadeniz Bölgesi) saatte 900 bireyin güneye doğru uçtuğu gözlenmiştir. İlkbaharda, mart ortasından hatta daha çok mart sonundan haziran başına kadar, nisanın ikinci yarısında zirve yaparak geçiş yapar. Mayıs ortasında, güney ve orta bölgelerden geçiş büyük oranda tamamlanmış olur. Sonbahar geçişi kuzeyde temmuz sonunda, genelde ağustos ortasında başlar ve eylülün ikinci yarısında ve ekim başında zirve yapacak şekilde ekimin ikinci yarısına kadar sürer. Geç kalan bireyler, ekim boyunca ve zaman zaman kasım ortasına kadar düzenli olarak bildirilmiştir. Kışladığı bildirilmiştir (Kumerloeve 1961, 1970a) ancak 17 Haziran 1969'da Büyük Menderes Deltası'nda gözlenen bir birey ile bu mevsimden sadece bir tane yeni kayıt vardır (OST 1972).
 
-![](images/harita_Page_442.png)
+![](images/harita_Anthus trivialis.png)
 
 **Üreme**
 
@@ -184,7 +184,7 @@ Nominat trivialis hem üreyen hem de geçit yapan bir alttür olarak vardır ([@
 
 Şubat 1989'da Kıbrıs'ta (Flint ve Stewart 1992) ve Ocak 1992'de İran'da (Scott 1994) kaydedilmiştir. Kayıtların çoğu İsrail (Shirihai 1996) ve Birleşik Arap Emirlikleri'nden (Richardson 1990) olup Ortadoğu'nun kalanında seyrektir (Porter vd. 1996).
 
-![](images/harita_Page_443.png)
+![](images/harita_Anthus hodgsoni.png)
 
 **Üreme**
 
@@ -204,7 +204,7 @@ Türkiye'den tek kayıt muhtemelen Himalaya alttürü hodgsoni değil de yunnane
 
 **Üreme**
 
-![](images/harita_Page_444.png)
+![](images/harita_Anthus cervinus.png)
 
 Türkiye'de yuvalamaz.
 
@@ -220,7 +220,7 @@ Monotipik bir türdür (Alström ve Mild 2003).
 
 Oldukça y
 
-![](images/harita_Page_445.png)
+![](images/harita_Anthus rubescens.png)
 
 **Üreme**
 
@@ -240,7 +240,7 @@ Genellikle az sayılardadır. Üreme sezonunda, Trakya ve Güneydoğu Anadolu ha
 
 Sonbaharda ve kışın, genellikle ekim ortasından mart sonuna kadar deniz seviyesine iner. Yeniçağa Gölü'nde 1 Eylül kadar erken de kaydedilmiştir (Kılıç ve Kasparek 1987) Nisanın ilk haftasından sonra kıyı bölgelerinde nadiren kaydedilir; 1990'da 3 Mayıs'a kadar Çukurova'da kalmıştır. Ancak İç Anadolu'daki kışlama alanlarında nisan ortasına kadar kalır. Kışın, Batı ve Orta Anadolu'daki sulakalanlarda daha yaygındır ve kuzeyde daha nadirdir. Kuzeydeki kıyı bölgelerinden geçiş olduğuna dair çok az kanıt olmasına rağmen muhtemelen başka yerlerden göçle gelen bireylerle kışın sayıları artar.
 
-![](images/harita_Page_446.png)
+![](images/harita_Anthus spinoletta.png)
 
 **Üreme**
 
@@ -258,7 +258,7 @@ Yüksek dağlarda, ağaç sınırı ile kalıcı kar sınırı arasında 1800 m'
 
 Kızılırmak Deltası'nda 1992 ilkbaharında tahminen 1500-3000 üreyen çift kaydedilmiştir (Hustings ve van Dijk 1993). En az 2700 m yüksekliklere kadar ürediği bilinir, yükseklerde genellikle söğüt serçesiyle karışık küçük koloniler oluşturur. Gözlemcilerin dikkatini çeken bir tür olmadığı için, mevcut durumu ve yayılışı iyi bilinmemektedir. Ağaç serçesi ve bu tür arasındaki melezleşme sadece iki defa kaydedilmişken, söğüt serçesiyle olan belirgin melezleşme oldukça yaygın olup, birçok alanda gözlenmiştir. Sonbahar ve kışın yapmış oldukları göç hareketlerinin sınırları çok az bilinmesine rağmen, bu mevsimlerde söğüt serçeleriyle büyük ve karışık sürüler oluştururlar. Bu mevsimde Toroslar'da özellikle 2000 m altına indiği bilinmektedir. Doğudaki bazı bölgelerde yerleşimlerden uzakta da bulunur.
 
-![](images/harita_Page_421.png)
+![](images/harita_Passer domesticus.png)
 
 **Üreme**
 
@@ -278,7 +278,7 @@ Doğuda seyrek ve lokaldir. Örneğin 2 Nisan 1964'te Siirt'te 300 çiftlik bir 
 
 Beraber oldukları zamanlar olan göç dönemlerinde daha yaygındırlar. Sürüler binlerle ifade edilir. Örneğin Eylül 1972'de Uluabat Gölü'nde 50.000-100.000 bireylik bir sürünün büyük bölümü bu tür olarak değerlendirilmiş, daha sonra aynı yerde 22 Eylül 1990'da Robel ve Bräuning en az 15.000 bireylik bir koloni kaydetmiştir. Bahar göçü mart ve nisan bazen mayısta sonbahar göçü ise ağustostan kasım başına kadar sürer. Genellikle güney ve batıda düzensiz olarak az sayılarda kışlarlarken, İç Anadolu'da düzenli aralıklarla görülürler. Bu mevsimde çok nadiren büyük sürüler halinde kaydedilmiştir.
 
-![](images/harita_Page_422.png)
+![](images/harita_Passer hispaniolensis.png)
 
 **Üreme**
 
@@ -304,7 +304,7 @@ Summers-Smith (1988) ve Roselaar'a (1995) göre Türkiye'de bulunan popülasyon,
 
 Summers-Smith (1998-1990) bu türün kışlama alanlarından da bahsetmiştir. Kıbrıs'ta bulunan küçük popülasyonun göçmen olduğu ve İsrail'de bulunan popülasyonun ise kısmi göç yaptığı bilinmektedir. Üreme mevsimi dışında Türkiye'den türün tek kaydı Tarsus'tan gelir (OST 1972). Birecik bölgesinden kasım sonu ve aralık başı kaydedilmiş olsa da daha sonra kış boyunca görülmemiş, ardından en erken 6 Nisan'da kaydedilmiştir. Çukurova bölgesinde bulunanlar mart başı gibi bölgeye gelmektedir (Kivit vd. 1990), fakat diğer yıllarda nisana kadar gelmemişlerdir. Eylül sonuna kadar türün bölgede kaldığı bilinse de kış aylarında ne zaman gittikleri tam olarak bilinmemektedir. Türün kışın doğu Arabistan'da büyük sayılarda görülmesi (Hirschfield ve Symens 1992), Türkiye ve Irak popülasyonlarının kışın nereye gittiğini açıklayabilir.
 
-![](images/harita_Page_423.png)
+![](images/harita_Passer moabiticus.png)
 
 **Üreme**
 
@@ -322,7 +322,7 @@ Muhtemelen Türkiye'deki üreme bölgelerinde bulunan tüm alttürler mesopotami
 
 Yerleşim bölgelerinin etrafındaki tarım arazilerinde yer yer 1750 m varan yüksekliklerde ürer. Tıpkı Doğu Asya'da olduğu gibi, tür ileride Ankara gibi şehirleşmiş alanlarda da üreyecektir (Kiziroğlu vd. 1989). Kış aylarında orta ve batı bölgelerde daha yaygındır. Akdeniz Bölgesi'nde Kaş'ta eylül ayında bir kaydı bulunmaktadır. Üreme döneminde Birecik'te ve Doğu Anadolu'nun en doğusunda Aras vadisinde (Iğdır) kaydedilmiştir.
 
-![](images/harita_Page_424.png)
+![](images/harita_Passer montanus.png)
 
 **Üreme**
 
@@ -342,7 +342,7 @@ Bu bölgelerde bazı yıllar oldukça yaygın olabilir, fakat nadiren 60'lı say
 
 Geç gelen bir göçmendir; genellikle mayıs başı veya ortasında, bazı yıllar da nisanın son haftasında gelir, en erken Belen Geçidi'nde 10 Nisan'da kaydedilmiştir. Ağustos sonunda ülkeyi terk ederler, Birleşik Arap Emirlikleri'nde sonbahar göçü eylül ve ekimde gerçekleşir (Richardson 1990); fakat sonbahar göçüyle ilgili çok az kayıt mevcuttur. En geç sonbahar kaydı 13 Eylül tarihine aittir. İlkbahar geçidinde Çukurova'da kaydedilmiştir. Bilinen üreme alanının dışında görülen kuşlar ya üreme bölgesinin mevsimsel şartlar nedeniyle değişiklik göstermesi ya da ilk defa Kumerloeve (1975c) tarafından belgelendiği gibi akıncı veya göçebe bireylerin sabit yayılış bölgesinin dışına yayılması olarak açıklanabilir. Hem açık çayırlıklarda hem de yarı bozkır alanlarda, kısmen çalılıklarla kaplanmış yamaçlarda, fakat en çok kayalık yamaçlarda, ara sırada bağlarda ve diğer tarım arazilerinde görülürler. Bazı çekirdek alanlar, örneğin Gaziantep yakınlarında Yeşilce'de bulunan meyvelikler ve kayalık yamaçlar, son on yılda değişik yoğunlukta da olsa düzenli olarak kullanılmaktadır; bu alan ilk defa 1935 yılında Bird (1937) tarafından bulunmuştur. Türün ulusal ve küresel ölçekteki mevcut durumu ve yayılışının netleştirilmesi gerekmektedir.
 
-![](images/harita_Page_425.png)
+![](images/harita_Carpospiza brachydactyla.png)
 
 **Üreme**
 
@@ -360,7 +360,7 @@ Monotipik bir türdür. Türün taksonomik konumu adeta bilmece gibidir ve molek
 
 Ülkenin orta ve doğu bölgelerinde orta ya da yüksek irtifalarda genellikle 2500 m'ye kadar yerleşik zaman zaman 3000 m'ye kadar kayalık ve yüksek alanlarda ve kurak bozkırlarda görülür. Batıya gittikçe daha lokaldir. Nisan sonunda dağınık koloniler halinde ürer, haziran başı gibi de yavrular yumurtadan çıkar. Kurak bozkırlarda tıpkı serçe gibi kasaba ve köylerde ürediği görülmüştür. Kışın çoğunlukla alçak bölgelere göçer, bazen de kıyıya kadar inip tepeli toygarlarla karışık 500 bireye varan gruplar oluşturur (Uhlig ve Uhlig 1999a). Genelde bu mevsimde batı ve orta bölgelerde daha yaygın ve sık görülürler. Buna rağmen 1000 m'nin üstündeki bölgelerde de büyük gruplar halinde kaydedilmiştir. Türe ait kayıtların çoğu Batı, Güney ve İç Anadolu'dandır.
 
-![](images/harita_Page_426.png)
+![](images/harita_Petronia petronia.png)
 
 **Üreme**
 
@@ -378,7 +378,7 @@ Roselaar (1995) türün Türkiye'deki alttür durumunu karışık bir şekilde a
 
 Nisan sonundan temmuz ortalarına kadar kaydedilmiştir, ancak daha uzun kalıyor olabilir. 1977 senesinde türün sayısının arttığı, Halfeti ve Birecik dolaylarında ürediği keşfedilmiştir (Beaman 1986). 1996'da Fırat'ın batısında Gaziantep Yeşilce'de videosu çekmiştir. Daha yakın tarihlerde ise Cizre, Mardin, Batman ve Sason'da ve Mayıs 2004'te Antakya Kırıkhan'ın kuzeyinde ve Temmuz 2004'te Erzincan'ın İliç ilçesi yakınlarında uygun bir habitatta kaydedilmiştir. Yayılış bölgesinde uygun habitatların hepsinde görülür. Genellikle Antep fıstığı bahçelerinde ya da meşeliklerde ürer, çoğunlukla dikkat çekmez ve bilinen yayılış bölgesi yeni yeni belgelenmekte ve Güneydoğu Anadolu'nun tarımsal gelişmesiyle genişlemiştir. Akdeniz Bölgesi'nde birçok alanda kaydedilmeye başlamıştır.
 
-![](images/harita_Page_427.png)
+![](images/harita_Gymnoris xanthocollis.png)
 
 **Üreme**
 
@@ -396,7 +396,7 @@ Türkiye'de bulunan alttürün, İran ve Irak sınırlarına kadar uzanan transf
 
 Doğu Anadolu, Doğu Karadeniz Dağları'nın büyük bir bölümü, Güneydoğu Anadolu'nun kuzeybatı sınırı, Akdeniz'de Toroslar ve İç Anadolu'da Afyon'daki Sultan Dağları'na kadar görülür. Batıda 950 m'de, doğuda ise 4500 m'ye kadar olan yükseklerde ürer. Doğuda çoğunlukla 2200 m üzerinde olsa da, düzenli olarak 1500 m'ye iner. Üreme sonrası sürüler en az 400 bireylik gruplar oluştururlar. Kış aylarından üreme alanlarının yakınındaki düşük rakımlı bölgelere inerler. Mart 2006'da Bursa'da kaydedilmiş bir sürü kaydı mevcuttur.
 
-![](images/harita_Page_428.png)
+![](images/harita_Montifringilla nivalis.png)
 
 **Üreme**
 
@@ -416,7 +416,7 @@ Doğu Karadeniz kıyıları, Marmara, Ege (muhtemelen çok lokal olarak Bozdağ'
 
 Kış durumu ve yayılışı hâlâ çok az bilinmekte, görünüşe göre bu mevsimde irtifa göçü yapar ve muhtemelen sınırlı olarak kuzey-güney doğrultusunda da bir hareketi vardır. Akdeniz Bölgesi'nde, 200 m kadar düşük rakımlarda kaydedilmiştir (Uhlig vd. 1996).
 
-![](images/harita_Page_429.png)
+![](images/harita_Prunella collaris.png)
 
 **Üreme**
 
@@ -428,7 +428,7 @@ Roselaar'a (1995) göre doğudakiler muhtemelen Güney Marmara ve Batı Karadeni
 
 ## Sibirya Dağbülbülü
 
-Prunella montanella
+*Prunella montanella*
 
 Siberian Accentor
 
@@ -436,7 +436,7 @@ Rastlantısal konuktur.
 
 İki kaydı vardır. 2 Kasım 2006'da Rumelifeneri'nde (İstanbul) fotoğraflanmış, diğeri de 12 Ekim 2007'de Erzurum yakınlarında Gelinkaya'da (Erzurum) gözlenmiştir. Sekiz Avrupa ülkesinde rastlantısal olarak kaydedilmiştir (Snow ve Perrins 1998) ve Lübnan'da da bir kaydı vardır (Porter vd. 1996).
 
-![](images/harita_Page_430.png)
+![](images/harita_Prunella montanella.png)
 
 **Üreme**
 
@@ -454,7 +454,7 @@ Muhtemelen nominat montanella bulunur.
 
 Ağaç seviyesinin üstünde ürer. Aladağlar, Güneydoğu Anadolu'da ve Doğu Karadeniz Bölgesi'nde 1900-2700 m'de ve doğuda 2100-3000 m'de (istisna olarak 4000 m'de), taşlık ve çalılarla kaplı yamaçlarda bulunur. En batıdaki sınırı Bolkar ve Melendiz dağları gibi gözükmektedir (Eken ve Magnin 1999), ancak görünüşe göre güneydoğunun en uç kesimlerinde, Hakkâri civarında, örneğin Başkale ve Karabel Geçidi yakınlarında bol sayıda bulunur. En azından bir kısmı kışın daha alçak yerlere iner, düzenli olarak Birecik'te ve Hatay'da kaydedilir. Türkiye'deki kuşlar muhtemelen İsrail'in kuzeyinde ekim kasım ayları arasında kışlayan az sayıdaki bireyin de kaynağıdır (Shirihai 1996). Yakın zamanda, ağustos başı gibi erken bir tarihte Lübnan'da kaydedilmesi (Barra 2003) bazı kuşların Türkiye'deki üreme alanlarını çok erken terk ettiğini düşündürmektedir. Muhtemelen hem yazın hem de kışın mevcut kayıtların gösterdiğinden daha yaygındır.
 
-![](images/harita_Page_431.png)
+![](images/harita_Prunella ocularis.png)
 
 **Üreme**
 
@@ -472,7 +472,7 @@ Monotipik bir türdür.
 
 2015 tarihinde Kızılırmak Deltasında halkalama istasyonunda bir tane yakalanmış, fotoğraflanmıştır. (Arzu)
 
-![](images/harita_Page_432.png)
+![](images/harita_Prunella atrogularis.png)
 
 **Üreme**
 
@@ -492,7 +492,7 @@ Batı ve Doğu Karadeniz'in büyük bölümündeki açık karışık ya da ibrel
 
 Kış aylarında Batı ve Orta Anadolu'nun alçak rakımlarda oldukça yaygın olup (Jetz 1995) Güneydoğu Anadolu'nun uç kesimlerine kadar ulaşır. Göçmenler Marmara, Ege, Akdeniz ve az sayıda İç ve Doğu Anadolu'da (Süphan Dağı) düzenli olarak görülür. Kısmen göçmen olan popülasyonlar ise lokal olarak Ege ve İç Anadolu'ya kadar yayılırlar. Güneyde mayıs başından önce olan kayıtlar muhtemelen geç göçmenlere ait olsa da, az sayıda ve lokal olarak Toroslar'da ürer; nitekim Aladağlar'da (Akdeniz), mayıs sonu ve ağustos sonu kayıtları ürediğini düşündürmektedir. Doğu Anadolu'daki geniş dağlık bölgelerde türün varlığı araştırılmalıdır. Diğer yandan üreme sezonunda Güneydoğu Anadolu'dan hiçbir kayıt yoktur.
 
-![](images/harita_Page_433.png)
+![](images/harita_Prunella modularis.png)
 
 **Üreme**
 

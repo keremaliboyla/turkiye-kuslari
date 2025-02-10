@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ağaçkakanlar ve benzerleri"
 ---
 
@@ -12,7 +12,7 @@ Nisan sonundan itibaren en az 3000 m'ye kadar son derece geniş bir habitat çe�
 
 Geçiş sırasında daha yaygındır. İlkbaharda mart başında, yoğun olarak mart sonunda devam eder, mayıs ortasına kadar sürer. Üreme genellikle temmuz sonunda tamamlanır ve dönüş geçişi de hemen başlar. 28 Temmuz'da Karadeniz'de daha kuzeyden gelen ilk göçmenler gözlenmiştir. Kuzey ve iç bölgelerde ekim başında, güneyde ekim ortasında çoğu gitmiş olur ancak geç kalan bireyler güneyde nadiren kasım başına kadar kaydedilebilir. 31 Ocak 1998'de Ağyatan Gölü'nün güneyinde (Çukurova) ve 2 Ocak 2002'de Seyhan Nehri'nde gözlenen bireyler olmak üzere en az iki kış kaydı vardır. 14 Kasım 2010'da Kozak Yaylası, Bergama'daki kayıt en geç sonbahar geçişidir.
 
-![](images/harita_Page_250.png)
+![](images/harita_Upupa epops.png)
 
 **Üreme**
 
@@ -34,7 +34,7 @@ Geçiş sırasında, özellikle sonbaharda ağustos ortasından ekim sonuna kada
 
 Nisan başından mayıs sonuna kadar süren ilkbahar geçişi üreme durumunu ve yayılışını anlamayı güçleştirebilir. Mayıs ortasında Kızılırmak Deltası, İstanbul Riva ve Ankara Mogan Gölü'nde kaydedilmiştir.
 
-![](images/harita_Page_248.png)
+![](images/harita_Merops persicus.png)
 
 **Üreme**
 
@@ -54,7 +54,7 @@ Güneyin bazı kısımlarında nadir ve daha lokaldir. Deniz seviyesinden en az 
 
 Ülke çapında yaygın ve çok bol olduğu geçiş dönemlerinde önemli sayılarda kaydedilir. İlkbaharda, nisan ortasından haziran başına kadar geçiş yapar ancak İç Anadolu'da genellikle mayıs ortasında tamamlanır. Öte yandan, Karadeniz'e çok nadir olarak nisan sonundan önce ulaşır ve mayıs ortasında en yüksek sayılar kaydedilir [@albrecht1986; @hustings1994]. Sonbaharda, ağustos ortasından eylül sonuna kadar geçiş yaptığı bildirilmiştir. 1966'da İstanbul Boğazı'nda 13 Ağustos'tan 24 Eylül'e kadar kaydedilmiş, düzenli olarak ekim sonuna kadar, Trakya'da ve güneyde de nadiren kasım ortasına kadar gözlenir. Tüm ana gözlem noktalarında bol olan bir geçit türüdür. Örneğin, 1976 yılında ağustos sonu ve eylülde Belen Geçidi'nde toplam 1928 birey sayılmıştır [@sutherland1981b] ve V. van den Berk vd. (yayınlanmamış) 24 Eylül - 3 Ekim 1980 tarihleri arasında Borçka'dan geçit yapan binlerce kuş kaydedilmiştir. İlkbahar gözlemleri, örneğin Mayıs 2004'te, bu çarpıcı sayıların aslında Doğu Anadolu'daki birçok yerde sıradan olabileceğini göstermektedir.
 
-![](images/harita_Page_249.png)
+![](images/harita_Merops apiaster.png)
 
 **Üreme**
 
@@ -90,7 +90,7 @@ Monotipik bir türdür.
 
 Ülke genelinde geçiş sırasında daha yaygın ve genellikle daha boldur. İlkbaharda marttan mayıs sonuna kadar geçer, Karadeniz'de muhtemelen nisan ortasındaki iki haftada zirve yapar. Sonbaharda ağustos sonundan itibaren, kıyı alanlarında eylül sonuna kadar geçiş yapar. 20 Ekim-18 Kasım arasında en yoğun olmakla birlikte aralık sonuna kadar Ereğli'den geçiş yaptığını kaydetmiştir [@albrecht1986]. Kışın büyük oranda Batı ve Orta Anadolu ile sınırlıdır. Başta Göksu Deltası, Çukurova Deltası ve Kızılırmak Deltası olmak üzere bazı kıyı alanlarında çoğu kez önemli sayılarda kaydedilir. Bu lokalitelerde toplamda 1000-2000 birey kaydedilmiştir. Rusya'da halkalanmış bir birey Kızılırmak Deltası'nda tekrar yakalanmış ve 2003'te muhtemelen daha kuzeyden gelen bir sonbahar göçmeni Kızılırmak Deltası'nda halkalandıktan sadece üç gün sonra Akyatan'da (Çukurova Deltası) tekrar yakalanmıştır [@gursoy2004].
 
-![](images/harita_Page_246.png)
+![](images/harita_Merops nubicoides.png)
 
 **Üreme**
 
@@ -112,7 +112,7 @@ William Sherard'ın 18. yüzyılın başlarında İzmir'den aldığı örnekler 
 
 Bilinen üreme alanları dışındaki birkaç kayıt çoğunlukla Ağustos sonu ile Şubat sonu arasında olmak üzere üreme sezonu dışında Ege ve Akdeniz bölgelerinde sınırlı ve muhtemelen düzensiz bir yayılış yaptığını düşündürmektedir. Her ikisi de şüpheli olan gözlemciler [@rigler1852] ve [@wahby1930oiseaux] tarafından İstanbul kuşları arasında listelenmiştir. Kesin olarak, 17 Aralık 2001'de, Avanos'ta Kızılırmak Deltası kıyısında (Nevşehir, İç Anadolu) bir birey kaydedilmiştir.
 
-![](images/harita_Page_245.png)
+![](images/harita_Halcyon smyrnensis.png)
 
 **Üreme**
 
@@ -132,7 +132,7 @@ Ege'nin güneyinde ve Akdeniz'deki sulakalanlarda ve kıyısal ovalardaki nehirl
 
 Genellikle aynı bölgelerde kışın daha yaygındır. Bu mevsimde daha geniş çapta dağıldığını gösteren sınırlı sayıda kayıt vardır: Ocak 1969'da Karacabey'de (Balıkesir, Marmara), Aralık 1970'de Denizli'nin batısında [@ost1972; @ost1975], Burdur Gölü'nde ve Tuz Gölü'nde kaydedilmiştir [@kasparek1992a; @kumerloeve1961].
 
-![](images/harita_Page_247.png)
+![](images/harita_Ceryle rudis.png)
 
 **Üreme**
 
@@ -152,7 +152,7 @@ En az 2000 m'ye kadar açık, ağaçlık alanlarda ya da aslında seyrek ağaçl
 
 Geçiş sırasında ülke geneline yaygındır. İlkbaharda, güney kıyılarında mart sonundan itibaren gözlenirken nisan sonu ile mayıs başında zirve yapar ve kuzeye ancak bu dönemde ulaşır. Sonbaharda, ağustos başından ekim sonuna kadar gözlenir. Çoğunluğu, kuzey ve batı bölgelerinden eylül ortasında ayrılmış olsa da Akdeniz ve İç Anadolu'da kasım sonuna kadar kaydedilir.
 
-![](images/harita_Page_244.png)
+![](images/harita_Coracias garrulus.png)
 
 **Üreme**
 
@@ -174,7 +174,7 @@ Bunun ardından Giaour Keui (Gavurköy) ve Bereketlu (Bereketli) arasında bir t
 
 bu örnek kaydından bahsetmez [@kumerloeve1961]ve Danford'un kayıtlarını sorgular. ise örnek kaydını teyit eder [@dresser1878]. Bu durumda örnek kaydını tek kayıt olarak almak doğrudur
 
-![](images/harita_Page_243.png)
+![](images/harita_Coracias benghalensis.png)
 
 **Üreme**
 
@@ -196,7 +196,7 @@ Genellikle açık ağaçlık alanlarda, plantasyonlarda ve meyve bahçelerinde �
 
 Kışın, nadir olarak kıyı alanlarında görülür. Aralık ve Şubat arasında İzmir ile Antakya arasında görülebilir. Kışın territoryum davranışına girmiş gibi davranan biri Kasım ortasında Side'de, biri 24 Kasım'da Samandağ'da (Antakya, Akdeniz) ve diğeri de 25 Kasım'da Birecik'te kaydedilmiştir. Kışın bulunduğu en yüksek yer, deniz seviyesinden 700 m yükseklikte Antalya Kemer'den Gedelme'de 26 Aralık 2007'de görülmüştür (A.-A. Weller).
 
-![](images/harita_Page_251.png)
+![](images/harita_Jynx torquilla.png)
 
 **Üreme**
 
@@ -214,7 +214,7 @@ Muhtemelen nominat alttürü vardır (sonbaharda Orta Anadolu üzerinden geçiş
 
 Ege ve Akdeniz'in büyük bölümünde oldukça yaygın ve nispeten bol, Marmara ve Batı Karadeniz'de daha lokaldir. Kızılırmak Deltası'nda ilkbahar 1992'de 20-30 çift ürediği tahmin edilmiştir ki bu türün üreme yoğunluğu ile ilgili son derece az olan tahminlerden biridir. Doğu Anadolu'nun batısındaki ve Karadeniz'in doğusundaki varlığı [@kumerloeve1961; @kumerloeve1970a] tarafından belgelenmiştir. Kısmen ornitolojik araştırmaların yetersiz oluşundan kısmen de uygun habitatların muhtemelen azalmasından dolayı Doğu Anadolu'nun batısında son yıllarda ondan az kayıt elde edilmiştir. 1993 ilkbaharında Karadeniz'in doğusunda bu türe rastlamamıştır [@faldborg1994]. Yaprak döken, nadiren karışık, ormanlarda ve zeytinliklerde bulunur. İbreli ormanlarda nadirdir. Meşe en uygun habitatının önemli bir unsuru gibi görünmektedir. Tipik olarak deniz seviyesinden güneyde ve batıda 800 metreye kadar, Doğu Karadeniz'de ve diğer yerlerde nadiren daha yüksekte (1400 metreye kadar) kaydedilir. Kumerloeve ve Niethammer tarafından şüpheli şekilde Ilgaz Dağları'nda 1900 metre civarında kaydedilmiştir.
 
-![](images/harita_Page_253.png)
+![](images/harita_Dendrocopos medius.png)
 
 **Üreme**
 
@@ -232,7 +232,7 @@ Hem kuzeyden güneye hem de doğudan batıya olmak üzere ortanca ağaçkakanın
 
 Çoğu yerde nadir olsa da İzmit Kartepe ve Kocaçay Deltası'nda lokal olarak en bol ağaçkakandır. Birkaç eski ve yeni kayıt neredeyse kesinlikle benzer türlerle karıştırıldığını gösterir; lilfordi formunun farklı görünmesi ve rehber kitaplarda ve diğer popüler yayınlarda nadiren resmedilmesi gözlemcilerin gözlerinden kaçmasına yol açabilir. Doğu Karadeniz'deki karışık ya da ibreli ormanlarda tespit etmek son derece zordur. Nitekim ilkbahar 1993'te Çamlıhemşin'de (Rize) sadece bir tane kaydedebilmiştir [@faldborg1994]. Toroslar'ın bazı kesimlerinde genellikle 300 ile 1200 metre arasında kaydedilir. Diğer yerlerde tipik olarak 1500 metrenin üstünde görülür. Utangaç, nadir ve çoğu kez göze çarpmayan bir tür olduğu için muhtemelen mevcut kayıtların gösterdiğinden daha geniş bir yayılışı vardır.
 
-![](images/harita_Page_254.png)
+![](images/harita_Dendrocopos leucotos.png)
 
 **Üreme**
 
@@ -250,7 +250,7 @@ Türkiye'de bulunan lilfordi alttürü, böğründeki ve dış kuyruk tüylerind
 
 Dağlık ibreli ormanlarda yaygın ancak genellikle az sayıda bulunur. En bol olduğu bölgeler Karadeniz ve Marmara'dır. Genellikle 1000 metrenin üstünde görülür, ancak Doğu Karadeniz'de 300 metreden itibaren görülür. Bitlis'e kaydedilmiştir [@berk1993]. Muhtemelen Marmara ve Trakya'da deniz seviyesine kadar iner ancak bu bölgelerde yaz sonu ve sonbahardaki alaca ağaçkakan ile aynı alanlarda elde edilen kayıtlar üreme sonrası dağılımı yansıtabilir.
 
-![](images/harita_Page_256.png)
+![](images/harita_Dendrocopos major.png)
 
 **Üreme**
 
@@ -268,7 +268,7 @@ Türkiye'ye endemik olan *paphlagoniae* alttürü bulunur. Bu alttür ve Winkler
 
 Alçak yüksekliklerde orta yüksekliklere kadar en yaygın ağaçkakan türüdür. Meyve bahçeleri, zeytinlikler, seyrek ağaçların bulunduğu tarım alanları ve yerleşimlerin çevresindeki kavaklıklar dâhil olmak üzere daha açık alanlarda bulunur. Alçak rakımlarda sadece ibreli ormanlarda bulunmasına rağmen her çeşit ağaçlık alanda ürer. Deniz seviyesinden kuzeyde ve batıda 2100 metreye kadar kaydedilir. Orman ağaçkakanı ile diğer bölgelere göre daha geniş ölçüde örtüştüğü Toroslar'da nadiren 900 metrenin üstünde bulunur. 1000-2000 metrede (genellikle bu sınırın alt kenarında) orman ağaçkakanı ile yer değiştirir. Görünüşe bakılırsa güneybatı Ege'de ve muhtemelen kuzey Trakya'nın bazı kısımlarında ortanca ağaçkakan ile yer değiştirir. Istranca Dağları'nın Bulgaristan tarafında neredeyse tamamen orman ağaçkakanı ile yer değiştirmiştir [@milchev1994]. Nisan-Mayıs 1993'te gerçekleştirilen yoğun arazi çalışması boyunca Rize Çamlıhemşin'de hiç kaydedilmemiştir [@faldborg1994].
 
-![](images/harita_Page_255.png)
+![](images/harita_Dendrocoptes syriacus.png)
 
 **Üreme**
 
@@ -286,7 +286,7 @@ Türkiye'de nominat alttürü bulunur.
 
 Kocaçay Deltası'nda 200 çiftten daha fazlası bulunabilir [@ertan1996]. Nisan-Mayıs 1993'te Çamlıhemşin, Rize çevresindeki düşük rakımlarda bol sayıda üreyen bir tür olarak tanımlanmıştır [@faldborg1994] ve 1992'de Kızılırmak Deltası'nda 75-125 çift tahmin edilmiştir [@hustings1994] genellikle az sayılarda bulunur. Güneydoğu Anadolu'da yakın zamanda Diyarbakır yakınlarında [@karakas2002] ve daha önceleri de Siirt'in güneyindeki dağlık bölgede [@goriup1983] kaydedilmiştir. Doğu Anadolu'da çoğunlukla yaprak döken, bazen de karışık ormanlarda ve meyve bahçelerinde bulunur. Alçak ve orta yüksekliklerde bulunduğu kesin olsa da yükseklik sınırı belirsizdir. Türkiye'de 1000 metrenin üzerinde sadece nadir olarak kaydedilir ancak Ermenistan ve Kafkaslar'da 2000 metrede bulunur [@kumerloeve1961].
 
-![](images/harita_Page_252.png)
+![](images/harita_Dryobates minor.png)
 
 **Üreme**
 
@@ -306,7 +306,7 @@ Yoğun olarak Batı Karadeniz ve Trakya'da bulunur, deniz seviyesinden 2300 metr
 
 Krüper ve Hartlaub (1875) ve [@matheydupraz1920] aynı zamanda , 1850-1900 yılları arasında İstanbul Boğazı civarında bulunduğuna işaret ederler [@matheydupraz1920]ve bu bölgeden en az bir tahnit mevcuttur [@kirwan1997a]. İlk kayıtlar, Şubat 1910'da İstanbul'dan iki örnek ve Ağustos 1934'te Bolu, Mengen yakınlarında Elemen'den üç, Ekim 1934'te Bolu'dan bir ve 15 Mayıs 1949'da İstanbul'un kuzeybatısında Büyükdere'den bir örnek toplanmış, ancak bunların Bulgaristan'dan geldiği farz edilmiştir [@kumerloeve1961]. Nisan 1969'da İstanbul Belgrad Ormanları; 12 Mayıs 1967'de Kırklareli Demirköy; 29 Nisan 1972'de Ankara Kızılcahamam ve 31 Ocak 1917'de Ergene Nehri üzerinde Kırklareli Mandra yakınlarında benzer şekilde hatalı sayılmıştır. Yakın zamana kadar Türkiye'den gelen kayıtlar şüpheli görülmüş ve varlığı kabul edilmemiştir [@berg1988]. Ardından kuzeybatı bölgelerindeki varlığı anlaşılmış, 18 Haziran 1964'te Adana Pozantı'da, 13 Nisan 1965'te Mersin Gülek'te, 30-31 Ağustos 1971'de Zigana Geçidi'nde ve Istavri yakınlarındaki diğer bölgelerdeki kayıtlara şüpheli bakılmıştır [@berg1988] . 1988-1990'da Istranca Dağları'nın Bulgaristan tarafında gerçekleştirdiği üreyen kuş sayımlarında 5 kilometrelik karelerin %35'inde bulunduğunu tespit etmiştir [@milchev1994].
 
-![](images/harita_Page_259.png)
+![](images/harita_Picus canus.png)
 
 **Üreme**
 
@@ -324,7 +324,7 @@ Türkiye'de nominat alttürü bulunur.
 
 Ülkenin büyük bölümünde hem yaprak döken hem de hatta belki daha sık olarak ibreli ormanlarda nispeten lokal olan yerli bir türdür. Çoğunlukla 700-1900 metre arasında olmak üzere deniz seviyesinden Doğu Karadeniz Dağları'nda ve Toroslar'da ara sıra 2200 metreye kadar görülür. Bazı yerlerde kayıtların gösterdiğinden daha bol olabilir. , Istranca Dağları'nın Bulgaristan tarafından gerçekleştirdiği üreyen kuşlar araştırmasında sayım yaptığı 5 km'lik karelerin %91'inde türe rastlamıştır [@milchev1994]. Sonbaharda Van Gölü Havzası'nda iki kaydı vardır ([@ven1980birds1]; L. J. Dijksen ve L. C. van Beckhoven). Güneydoğu Anadolu'da doğuda Siirt'e kadar üç kez kaydedilmiştir.
 
-![](images/harita_Page_258.png)
+![](images/harita_Picus viridis.png)
 
 **Üreme**
 
@@ -342,7 +342,7 @@ Nominat alttürden biraz daha küçük, soluk ve daha az sarı olan Picus viridi
 
 En çok Doğu Karadeniz'de Sümela ve Borçka'da, Batı'da düzenli olarak Uludağ, Yalova, Yenice Ormanları, Ilgaz Dağları ve çevresinde kaydedilmiştir. Ülkenin kuzeyinde çoğunlukla 900 metreden en az 2000 metreye kadar görülür, ancak Kocaçay Deltası [@ertan1996] ve Trakya'da deniz seviyesine kadar iner. 1988-90 yıllarında Bulgaristan'da gerçekleştirilen üreyen kuş sayımlarında 5 km'lik karelerin %28'inde kaydedilmiştir [@milchev1994]. Toroslar'daki durumu belirsizdir. bu yayılışın orta bölgesinde "nadir ama ara sıra gözlenen" olarak tanımlamıştır [@danford1877] ancak o günden bu yana çok az gözlemci tarafından kaydedilmiştir. Bu bölgedeki en yeni kayıtlar 1993 ve 1998 yıllarında Gidengelmez Dağları'nda elde edilmiştir. Mayıs 2008'de Osmaniye'nin güneyinde Zorkun Yaylası'nda bir çam ormanında 700 metrede keşfedilmiştir.
 
-![](images/harita_Page_257.png)
+![](images/harita_Dryocopus martius.png)
 
 **Üreme**
 
@@ -366,7 +366,7 @@ Mart ortasından itibaren kaydedilse de, genellikle üremenin başladığı nisa
 
 Türkiye'nin batı ve kuzey bölgeleri, Marmara, Ege ve Akdeniz ile Kuzey Anadolu'da neredeyse kesin olarak azalmaktadır. Bu bölgelerde kolonilerin bir kısmı son 10-30 yıl içerisinde ortadan kalkmıştır. Kalanlar yaygın ve bol olarak İç ve Doğu Anadolu'dadır.
 
-![](images/harita_Page_260.png)
+![](images/harita_Falco naumanni.png)
 
 **Üreme**
 
@@ -386,7 +386,7 @@ Açık tarım alanları, bozkırlar ve tepelik-dağlık alanlardan (4000 m ye ka
 
 Göç geçişi muhtemelen Türkiye'nin doğu yarısında daha yoğundur. İstanbul Boğazı ve Belen Geçidi'nde sadece küçük sayılarda, ağustos ortası (12'si) ve ekim başlarında kaydedilmiştir. Bununla birlikte Borçka'da, 11-25 Ekim 1977'de 450 birey sayılmıştır (Beaman 1977). 1976'da aynı yerde 17 Ağustos-10 Ekim tarihleri arasında sadece 30 birey kaydedilmiştir. Bu durum göçün yoğun kısmının sonbahar sonunda olduğunu göstermektedir.
 
-![](images/harita_Page_261.png)
+![](images/harita_Falco tinnunculus.png)
 
 **Üreme**
 
@@ -404,7 +404,7 @@ Türkiye'de nominat alttürü bulunur.
 
 İlkbaharda nisan başlarında az sayıda görülür. Nisan ortasından sonuna kadar sayısı artar ve genellikle mayıs sonunda zirve yapar. Mayıstan sonra sayısı hızlı bir şekilde düşer. Bununla birlikte geç kalan bireyler en azından haziran ortasına kadar görülür. Her ne kadar üremesiyle ilgili kesin kanıtlar olmasa da, Güneydoğu Anadolu hariç, başta Batı ve Orta Karadeniz olmak üzere tüm bölgelerden ve bir kısmı uygun üreme habitatlarında olan yaz kayıtları vardır (haziran sonu-temmuz ortası). Sonbahar göçü ağustos başlarından (9'u) ekim sonuna kadar sürmekle birlikte (gecikenler bazen güney kıyılarında kasım başına kadar görülür), ağustos sonuna kadar az sayıda görülür ve eylül sonu/ekim başında zirveye ulaşır. Borçka'da sık görülmemiş, ancak İstanbul Boğazı çevresinde daha bol görülür. Boğazda en yüksek sayıda 1972 sonbaharında 391 birey kaydedilmiştir ve bunların 150'si 29 Eylül'de görülmüştür. 1971'de ise 20'den az kaydedilmiştir. Bu gözlem noktasında temmuz sonundan bir kayıt mevcuttur. 19. yüzyılda boğazdan daha yüksek sayılarda geçtiği kaydedilmiştir (Nisbet ve Smout 1957). İstisnai olarak 22-23 Mayıs 1993'de kuzey ve batıdaki çeşitli noktalarda görülen birkaç bin bireyin dışında, Türkiye'nin doğuda Kızılırmak Deltası ile batıda Marmara Bölgesi'ndeki göller arasında kalan kesimlerinde, oldukça sık olarak 100 bireyin üzerinde sürüler kaydedilmiştir.
 
-![](images/harita_Page_262.png)
+![](images/harita_Falco vespertinus.png)
 
 **Üreme**
 
@@ -426,7 +426,7 @@ Monotipik bir türdür.
 
 Tüm Ege ve Akdeniz kıyıları boyunca, genellikle 10 bireyi geçmeyen küçük gruplar halinde, tahminen üreme döneminden önceki yaz ziyaretinde ve göçte düzenli olarak kaydedilir. İstisnai yüksek sayılar 25 Haziran 1994'de Muğla'da 22 birey, 1990 Mayıs sonunda Uluabat gölü ile Yeniköy arasında 29 birey, 1973 Haziran sonunda Manyas Gölü'nde 30 birey ve 1988 başlarında Bodrum'da maksimum 112 bireydir [@ristow1995]. Nisan başından ekim sonuna kadar kaydedilir ancak esas dönemi nisan sonu ile haziran ortası arasıdır. Daha çok kıyı sulakalanları ve bunların çevrelerinde (örneğin Göksu Deltası), akarsu habitatları, kayalıklar ve aynı zamanda daha az olarak iç kesimlerde (buralardan 2 halka geri bildirimi vardır, bkz. [@ristow1995]. İç Anadolu'da yazın nadiren eylül sonuna kadar kaydedilir. Genellikle ovalarda ve deniz seviyesinden 1000 m ye kadar olan dağ eteklerinde görülür fakat nadiren Demirkazık'ta olduğu gibi 2000 m'nin üzerinde görülebilir. Bunun gibi iki kayıt Sivrikaya ve Doğu Anadolu'dan da mevcuttur (aşağıda değinilmiştir). Bu geniş yayılışlı kayıtlar üreme öncesinde dağılıma işaret eder. İstanbul Boğazı'nda ilkbahar ve yaz başlarında seyrektir ancak ağustos sonundan, en azından ekim başına kadar düzenli görülür. Bu kuşlar tahminen Marmara'da üreyen popülasyondan gelmektedir. Karadeniz Bölgesi'nde 4 kayıt ile nadirdir, en doğuda Rize'de görülmüştür. 3 yeni kayıt Doğu Anadolu'dandır ve Kars Tuzluca'da 2 Ekim 1980'de 4 bireylik bir grubu da içerir. Güneydoğu Anadolu'da 10 kaydı vardır, bunlar Birecik, Cizre, Diyarbakır ve Gaziantep'ten gelir.
 
-![](images/harita_Page_263.png)
+![](images/harita_Falco eleonorae.png)
 
 **Üreme**
 
@@ -444,7 +444,7 @@ Monotipik bir türdür.
 
 24 Mayıs 1973'de Birecik'te, biri açık diğeri koyu donlu iki birey kaydedilmiştir. Bireyler iyi bir şekilde tanımlanmıştır [@mertens1974]. Diğer iki kayıt daha yenidir ve aynı lokalitededir. Bunlardan biri 15 Haziran 1999 ve diğeri 6 Temmuz 2001'dedir [@kirwan2003]. Buna ek olarak koyu donlu bir Ada Doğanı da Birecik yakınlarında 4 Temmuz 1976 akşamı yarasa avlarken görülmüştür [@beaman1986; @kasparek1986]. Daha önce Eylül 1962'de Kıbrıs'ta [@flint1992] ve Malta'da da üç kez kaydedilmiştir [@sultana1975]. Bilinen en yakın üreme alanı İsrail'in güneyindedir [@cramp1980].
 
-![](images/harita_Page_264.png)
+![](images/harita_Falco concolor.png)
 
 **Üreme**
 
@@ -466,7 +466,7 @@ Başlıca yırtıcı göçü izleme noktalarında ekim sonlarında nadir olarak 
 
 Genellikle, eylül ortasından nisan ortasına kadar kaydedilir. Bununla birlikte bazen mayıs başı Trakya'da, istisnai olarak 20 Temmuz gibi erken bir zamanda Boğaziçi'nde kaydedilmiştir. Uygun sulakalanlarda, özellikle Karadeniz ve İç Anadolu'da görülür. Toroslar'ın güneyinde göreceli olarak nadirdir.
 
-![](images/harita_Page_265.png)
+![](images/harita_Falco columbarius.png)
 
 **Üreme**
 
@@ -488,7 +488,7 @@ Daha çok nisan ortasından ekim başına kadar görülür fakat mart ortasında
 
 İlkbahar göçü mart ortasından mayıs ortasına kadar sürer (mayıs sonuna kadar az sayıda geçiş görülebilir). Genellikle ana göç izleme alanlarında düşük sayılarda kaydedilmiştir. 1976 sonbaharında Borçka'da 189 birey [@andrews1977]; 2002 sonbaharında Batum'da 910 birey sayılmıştır.
 
-![](images/harita_Page_266.png)
+![](images/harita_Falco subbuteo.png)
 
 **Üreme**
 
@@ -508,7 +508,7 @@ Türkiye'de üreyen bir tür olarak ilk kez 1933 yılında [@kumerloeve1935] Ilg
 
 Tüm ülkede göç döneminde ve kışın daha yaygın ancak nadirdir. Ana göç izleme alanlarında eylül ortasından ekim ortasına kadar kaydedilir. Kışın daha sık şekilde kıyısal alanlarda ve sulakalanların çevresinde bulunur.
 
-![](images/harita_Page_267.png)
+![](images/harita_Falco biarmicus.png)
 
 **Üreme**
 
@@ -528,7 +528,7 @@ Arap ülkelerine doğancılar için yumurta ve yavruların toplanmasından dolay
 
 Göç döneminde, daha çok sonbahar ve kışın, tüm ülkede biraz daha yaygındır. Üç ana göç izleme noktasında ağustos ortasından en azından ekim ortasına kadar kaydedilir.
 
-![](images/harita_Page_268.png)
+![](images/harita_Falco cherrug.png)
 
 **Üreme**
 
@@ -548,7 +548,7 @@ Yaygındır ve lokal olarak yerli ve kısmen göçmendir. Ege, Karadeniz ve Akde
 
 Üreme dönemi dışında dağınık ve daha yaygındır ayrıca batı bölgelerindeki kıyısal ovalarda sık sık görülür. Muhtemelen daha kuzeyden kış ziyaretçileri gelir. Bununla birlikte ana göç izleme noktalarında az da olsa gözlenmiştir (22 Ağustos-21 Ekim arasında).
 
-![](images/harita_Page_269.png)
+![](images/harita_Falco peregrinus.png)
 
 **Üreme**
 
@@ -566,7 +566,7 @@ Tüm ülkede üreyen yerli popülasyon brookei alttürüne aittir. Uzun mesafe g
 
 Türkiye'de artık iyice yerleştiği düşünülen bir egzotik türdür. İlk kez Ankara'da 20 Şubat 1998'de küçük bir grup yeşil papağanların içinde geceleyen bir kuş belgelenmiştir [@boyla1998]. Ardından İstanbul'da hem 2003 hem de 2004'de ürediği tespit edilmiş, bunun dışında güneybatıda ve Güneydoğu'da Diyarbakır'da Mayıs 2004'de gözlenmiştir. Birçok gözlemci bir yeşil bir papağan gözlediğinde düşünmeden yeşil papağan olduğunu varsaydığı için sanıldığından çok daha yaygın olabilir.
 
-![](images/harita_Page_271.png)
+![](images/harita_Psittacula eupatria.png)
 
 **Üreme**
 
@@ -584,7 +584,7 @@ Hangi alttürün olduğu bilinmemektedir. Mevcut fotoğraflar boyun desenleri bu
 
 Ülkemizde ilk kez Haziran 1990'da Göksu Deltası'nda ve Eylül 1991'de İstanbul'da [@kasparek1992a], ancak bunun ardından 1975 ve 1976'da Ankara'da erken kayıtlarının olduğu ortaya çıkmıştır [@kasparek1996]. Ardından Boyla vd. ülkede bu kaçak türün durumunu ortaya koyan kapsamlı bir değerlendirme yapmış ve türün İstanbul'da en azından 1990 Mart'ından itibaren olduğunu, İzmir'de belki de 1950'lerden beri görüldüğünü belgelemiştir. Bunun ardından çok hızlı şekilde sayılarının arttığı ve yayılış alanının genişlediği belgelenmiş [@kirwan2003], bugün tür batı ve orta bölgelerindeki bütün büyük şehirlerde görülmektedir. İstanbul'da azami 450, İzmir'de 250 kuşluk sürülere rastlanırken Ankara'da en yüksek sayı 35 kuştur. Kırsal bölgelerde de birkaç kaydı bulunmaktadır. Akdeniz ve Güneydoğu Anadolu'da doğuda Diyarbakır ve Cizre'ye kadar birçok yerleşimde bulunur.
 
-![](images/harita_Page_272.png)
+![](images/harita_Psittacula krameri.png)
 
 **Üreme**
 
@@ -593,3 +593,4 @@ Hangi alttürün olduğu bilinmemektedir. Mevcut fotoğraflar boyun desenleri bu
 **Alttürler ve Sınıflandırma**
 
 Alttürleri ayrıntılı olarak incelenmemiştir. Ortadoğu'daki çoğu popülasyonun çoğunlukla doğal olarak Hindistan Yarımadası'nda yaşayan borealis alttürü olduğu düşünülür [@juniper1998].
+

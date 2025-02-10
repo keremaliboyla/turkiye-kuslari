@@ -20,7 +20,7 @@ Geçit sırasında daha yaygın olmakla birlikte seyrek olarak görülür. 240 k
 
 Batıda Gediz ve Büyük Menderes Deltası, Fethiye bölgesi, Göksu Deltası ve Çukurova sulakalanlarında az sayılarda kışlayabilir. 6 Şubat 1917'de Kırklareli Alpullu'da görülmüştür [@gengler1920].
 
-![](images/harita_Page_081.png)
+![](images/harita_Pandion%20haliaetus.png)
 
 **Üreme**
 
@@ -47,7 +47,7 @@ Güneydoğu Anadolu'ya yeni yerleşen bir yaz konuğudur. 1999 yılından itibar
 
 Ocak 1876'da [@danford1877], Mersin Zebil'de (şimdiki adıyla Sebil) muhtemelen bir çift olan iki birey kaydedilmiştir. 11 Nisan 1935'te Adana'da iki birey [@bird1937] tarafından gözlemlenmiştir. İstanbul Boğazı'nda 14 ve 21 Ekim 1931'de, Mart ve 6 Nisan 1933'te birer birey, 17 Nisan 1953'te ise iki birey kaydedilmiştir [@kumerloeve1958b]. 17 Nisan 1968'de bir birey Uluabat Gölü'nde gözlenmiştir [@ost1972]. 1 Ağustos 1984'te Niğde'nin 20 km batısında bir erişkin [@martins1989], 28 Mart 1998'de bir birey Diyarbakır'da kaydedilmiş [@kirwan2003], 24-25 Nisan 2006'da iki yaşında bir birey Göksu Deltası'nda fotoğraflanmıştır [@vandenBerg2006]. Ayrıca, iki birey 12 Nisan 1998'de Yamansız (Antalya) bölgesinde gözlenmiştir (A. Erdoğan).
 
-![](images/harita_Page_082.png)
+![](images/harita_Elanus%20caeruleus.png)
 
 **Üreme**
 
@@ -72,7 +72,7 @@ Türkiye'de Hindistan kökenli vociferus nominat alttürü olduğu iddia edilmi�
 
 Genellikle 1500-4000 metre yüksekliklerde dağlık alanlarda oldukça yaygın yerli bir türdür. Üremeyen ve genellikle ergen bireyler, düzensiz bir şekilde düşük rakımlarda da görülür ya da üreme mevsimi dışında gözlenir. Uygun habitatların olmadığı yerlerde bile görülebilir. Tür eskiden daha yaygındı. "Toros Dağları'nda bu tür o kadar yaygındı ki görmediğimiz tek bir gün bile olmadı" [@danford1877]. Bugün artık kayıtların gelmediği eski üreme alanlarına referans verilmektedir [@kumerloeve1961]. Muhtemelen batıdaki en önemli üreme alanı olan Uludağ'ın doğu yamacında 2000 metrenin üzerinde 1-3 çift [@jetz1995], Doğu Karadeniz Dağları'nda 20 çift üremektedir [@magninyarar1997].
 
-![](images/harita_Page_083.png)
+![](images/harita_Gypaetus%20barbatus.png)
 
 **Üreme**
 
@@ -101,7 +101,7 @@ Roselaar (1995) Türkiye'nin *aureus* alttürünün yayılış alanında olduğu
 
 Türün eskiden daha yaygın olduğu bilinmektedir. İstanbul'da bir defasında yuvaladığı kaydedilmiştir: her yıl İstanbul ve çevresinde 1000 civarında yavrunun büyütüldüğünü tahmin etmiş [@alleon1869] ve 20. yüzyılda türün güney Anadolu'da şehirlerin çevresinde yaygın olduğunu belirtmişlerdir [@bird1937, @hollom1955]. Türün popülasyonunun 20. yüzyılın başlarında azalmaya başladığı ve 1960'ların başında bugünkü düşük seviyeye ulaştığı iddia edilmiştir [@kasparek1992a].
 
-![](images/harita_Page_084.png)
+![](images/harita_Neophron%20percnopterus.png)
 
 **Üreme**
 
@@ -132,7 +132,7 @@ Sonbahar göçünde ilk bireyler ağustos ayının ilk yarısında gelmeye başl
 
 Borçka'da detaylı sayımların yapıldığı ve yayınladığı tek yıl 1976 olup [@andrews1977], sayılan birey sayısı toplamda 138.000 ve tek günde 4 Eylül 1976 tarihinde 37.000 bireydir. Buradaki geçiş ağustos sonunda en yüksek seviyeye ulaşır ve kısmen eylüle sarkmıştır. 5 Eylül 1988'de Hopa üzerinde 20.000 birey kaydedilmiştir. Belen Geçidi, özellikle de son yıllarda, sistematik olarak çok az sayılmıştır. 15.791 bireyin sayıldığı 1976 yılı sonbaharında en kapsamlı sayımlar yapılmıştır. Bu alanda en çok geçişin olduğu dönem ise şüphesiz ki eylül ortasıdır. Bir günde sayılan azami birey sayısı ise 5170'dir [@sutherland1981a]. 31 Aralık 2000 tarihine ait Hatay'dan bir kış raporu mevcuttur.
 
-![](images/harita_Page_085.png)
+![](images/harita_Pernis%20apivorus.png)
 
 **Üreme**
 
@@ -161,7 +161,7 @@ Son yıllarda türün çeşitli bölgelerde gözlemleri artarak devam etmiştir.
 
 Orta Doğu'da yaygın olduğunun ortaya çıkması, son yıllarda bölgedeki önemli ornitolojik keşiflerden biridir [@shirihai2000]. 21. yüzyıl öncesine ait tüm kayıtlar özetlenmiştir: Mısır'da bir birey kaydedilmiş olup, bu bireylerin çoğunun Afrika'da kışladığını göstermektedir. İsrail'de 17, Umman'da 1, Suudi Arabistan'da 2, Birleşik Arap Emirlikleri'nde ise çoğu kışın olmak üzere en az 12 birey kaydedilmiştir. Ayrıca Lübnan'dan iki yeni kayıt mevcuttur [@ramadan2008]. Türle ilgili farkındalığın artmasıyla, 2002'den bu yana birçok yeni kayıt ortaya çıkmıştır. İsrail'de 2002 ilkbaharında maksimum sayıda birey gözlemlenmiş, Ürdün'den ilk kayıtlar alınmış ve Birleşik Arap Emirlikleri'nde yaklaşık 18 kayıt kaydedilmiştir [@balmer2002b].
 
-![](images/harita_Page_086.png)
+![](images/harita_Pernis%20ptilorhynchus.png)
 
 **Üreme**
 
@@ -187,7 +187,7 @@ Bazen Çanakkale ve İstanbul Boğazı'nda, sonbahar göçü sırasında ağusto
 
 Türkiye'de üreyen popülasyonunun 20. yüzyılda ciddi oranda azaldığı ve muhtemelen azalmaya devam ettiği düşünülmektedir. Dolaylı kanıtlara göre, Toroslar ve 1970'lerin başında ufak bir popülasyona sahip olan Ankara Beynam Ormanı'nda türün yok olduğu düşünülmektedir. Beynam civarındaki yok oluşun sebebi avcılık ve zirai ilaç kullanımıdır. Türkiye'de üreyen çift sayısının 50'den az olduğu tahmin edilse de [@kasparek1992a], 9 Ekim 2005'te İç Anadolu'nun kuzeydoğusunda Beypazarı ve Kıbrısçık arasında görülen 40 çift bu tahminin düşük olduğunu göstermektedir. Son yıllarda Doğu Anadolu'daki üreme yayılışı daha iyi anlaşılmıştır. Eskiden bulunduğu Ilgaz Dağları ise son zamanlarda az ziyaret edilmiştir. Bu gibi sağlıklı alanlarda türün güçlü popülasyonları bulunabilir.
 
-![](images/harita_Page_088.png)
+![](images/harita_Aegypius%20monachus.png)
 
 **Üreme**
 
@@ -218,7 +218,7 @@ Balkanlar ve İsrail'de yuvalayan kuşlar, ülke üzerinden kuzeybatı-güneydo�
 
 Batı ve orta bölgelerde az sayıda kışlayan bireyler bulunur. Türün çoğu, kışın daha yüksek yerlerden alçak kesimlere iner. Hala bazen İzmir çevresinde kış aylarında gözlenirler.
 
-![](images/harita_Page_087.png)
+![](images/harita_Gyps%20fulvus.png)
 
 **Üreme**
 
@@ -243,7 +243,7 @@ Türkiye'de nominat alttürü bulunur.
 
 İki kere kaydedilmiştir. 1 birey İstanbul Şamlar Köyü'nde 2 Mayıs 2015 tarihinde *F. Karacan* tarafından genç bir birey, 13 Nisan 2022 tarihinde ise Sinop Abalı'da *B. Özünlü* tarafından başka genç bir birey kaydedilmiştir. Bu birey 10 gün konaklamıştır. Tür İsrail'de daha önce kaydedilmiştir.
 
-![](images/harita_Page_090.png)
+![](images/harita_Terathopius%20ecaudatus.png)
 
 **Üreme**
 
@@ -269,7 +269,7 @@ Bahar göçü mart ortasından mayıs sonuna kadar sürer. 1993 yılında, 1 Mar
 
 Sonbahar göçü sırasında ağustos ortasından ekim sonuna kadar gözlenir. Özellikle İstanbul Boğazı ve Belen Geçidi'nde yaygın olarak görülürler. İstanbul Boğazı'nda 1971 yılında toplam 2342, sadece 26 Eylül'de ise 850 birey sayılmıştır. 2008 yılında yapılan en kapsamlı sayımda, 22 Eylül - 10 Ekim arasında toplam 4562 birey kaydedilmiştir [@fulop2014autumn], aynı sezon 24 Kasım 2008'de iki geç birey daha görülmüştür (Sandgrouse 31: 100). Belen Geçidi'nde 1976 yılında toplam 727, sadece 18 Eylül'de ise 114 birey sayılmıştır [@sutherland1981a]. 18 Eylül - 13 Ekim 1994 tarihleri arasında Çukurova üzerinden geçen 837 birey kaydedilmiş, 2007 yılında ise 26 ve 28 Eylül arasında Çukurova Bölgesi'nde 1193 birey gözlenmiştir. Diğer göç izleme noktalarına göre tür burada daha az sayıda görülmüştür: Borçka'da 1976 sonbaharında maksimum 243 birey [@andrews1977], 1994 ilkbaharında ise Hopa yakınlarında 395 birey sayılmıştır.
 
-![](images/harita_Page_089.png)
+![](images/harita_Circaetus%20gallicus.png)
 
 **Üreme**
 
@@ -301,7 +301,7 @@ Sonbahar göçü ağustos ortasından ekim başına kadar sürer; kasım ortası
 
 Arada bir kış aylarında kalabilir. 24 Ocak 1993'te Meriç Deltası'nda bir birey, Ocak-Şubat 2001'de İğneada'da iki birey gözlenmiştir. 9 Kasım 2008'de Kızılırmak Deltası'nda geç kalmış bir birey kaydedilmiştir [@balmer2009around].
 
-![](images/harita_Page_091.png)
+![](images/harita_Clanga%20pomarina.png)
 
 **Üreme**
 
@@ -328,7 +328,7 @@ Monotipik bir türdür. Yeni yapılan genetik çalışmalarla küçük ve büyü
 
 Sulakalanlarda ekim sonundan mart sonuna, bazen de nisan ayına kadar görülen bir kış konuğudur. Göksu Deltası'nda 10-50 birey, Kızılırmak Deltası'nda az sayıda kışlar. Eskiden Antakya'da Amik Gölü [@kumerloeve1967] ve Meriç Deltası'nda düzenli olarak görüldüğü bilinmektedir. Açık renkli formu olan *fulvescens* donunun 2 Şubat 2008 tarihinde Terkos Gölü'nde düzenli kaydedilmiştir.
 
-![](images/harita_Page_092.png)
+![](images/harita_Clanga%20clanga.png)
 
 **Üreme**
 
@@ -352,7 +352,7 @@ Monotipik bir türdür. Yeni yapılan genetik çalışmalarla küçük ve büyü
 
 Göç sırasında Türkiye genelinde daha yaygındır ve sayıca daha fazladır. İlkbahar göçü mart sonu ile haziran başı arasında gerçekleşir ve nisan sonlarında en yoğun dönemine ulaşır. Sonbahar göçü ise ağustos ortasında başlar ve ekim ortasına kadar sürer, en yoğun geçiş eylül sonunda görülür. Sonbaharda sayıca daha fazla kaydedilir. İstanbul Boğazı'nda 1971 yılında 525 birey sayılmış, sadece 26 Eylül'de 131 birey kaydedilmiştir. Borçka'da 1976 yılında 473 birey sayılmıştır. Belen Geçidi'nde 1976 yılında toplam 588 birey sayılmış, en yoğun gün olan 17 Eylül'de 126 birey gözlenmiştir. Göç eden bireylerin çoğunluğunda (yaklaşık %70) açık renkli don yaygındır, üreyen bireyler arasında ise koyu renkli don daha yaygındır, ancak açık renkli bireyler yine de çoğunluktadır. Kışın ise 1 Ocak 2008 tarihinde İstanbul Belgrad Ormanı'nda kaydedilmiştir.
 
-![](images/harita_Page_093.png)
+![](images/harita_Hieraaetus%20pennatus.png)
 
 **Üreme**
 
@@ -379,7 +379,7 @@ Monotipik bir türdür.
 
 1960'ların ikinci yarısına kadar bu türün tüm kayıtları şüpheyle karşılanmıştır. Sonrasında, özellikle doğu bölgelerinde az sayıda ve düzenli olarak göç ettiği kabul edilmiştir. İlkbaharda nisan başından mayıs ortasına kadar, sonbaharda ise ağustostan ekim sonuna kadar devam eden göç hareketleri gözlenmiştir. 11-25 Ekim 1977 tarihlerinde Borçka'da toplam 434 birey sayılmış [@beaman1977], 1976 sonbaharında ise 271 birey kaydedilmiştir [@andrews1977]. Trakya, Akdeniz bölgesi ve İç Anadolu'dan toplam 5 kış kaydı bulunmaktadır.
 
-![](images/harita_Page_094.png)
+![](images/harita_Aquila%20nipalensis.png)
 
 **Üreme**
 
@@ -408,7 +408,7 @@ Türkiye'de muhtemelen *orientalis* alttürü bulunur [@roselaar1995].
 
 Kış aylarında batı, güney ve iç bölgelerde daha yaygın olarak görülür. Bu alanlarda daha çok kıyı bölgelerinde veya sulakalanlarda görülür. 1991/92 kışında Göksu Deltası'nda 5 birey kaydedilmiştir [@berk1992].
 
-![](images/harita_Page_095.png)
+![](images/harita_Aquila%20heliaca.png)
 
 **Üreme**
 
@@ -436,7 +436,7 @@ Genellikle 1500 metre üzerinde ürer, ancak üreme dönemi dışında alçak ra
 
 İstanbul Boğazı'nda [@alleon1869; @reiser1904; @ost1975] ve Borçka'da [@andrews1977; @beaman1977] düzensiz şekilde eylül ortasından ekim sonuna kadar gözlenir. Borçka'daki göç izleme noktasında ağustos başında [@ballance1961] ve şubat sonunda kayıtlar mevcuttur.
 
-![](images/harita_Page_096.png)
+![](images/harita_Aquila%20chrysaetos.png)
 
 **Üreme**
 
@@ -464,7 +464,7 @@ Kış aylarında Trakya'da görülen bireyler belirgin bir şekilde nominat tür
 
 Karadeniz kıyılarının doğu yarısı, İç Anadolu ve Doğu Anadolu'dan üreme dönemlerinde elde edilen kayıtların çoğu, başta genç bireyler olmak üzere başıboş bireylere aittir. 1966'dan önceki kayıtların çoğunun genç Arı Şahini ile karıştırıldığı düşünülmektedir. En azından bazı yayınlanmış kayıtlar, hatalı tanımlamalardan kaynaklanmıştır. Örneğin, İstanbul Boğazı'nda bu türü çok seyrek gördüğümüz halde, geçmişte oldukça yaygın olduğunu yazmışlardır [@braun1903; @matheydupraz1920]. 1980'den bu yana elde edilen kayıtların tamamı, ki bunlardan sekizi yalnızca 1994 senesine aittir, eylül sonu ile ekim başı arasında Borçka-Hopa bölgesinden elde edilmiştir [@mrslik1995] (Kok ve Onengae 1995).
 
-![](images/harita_Page_097.png)
+![](images/harita_Aquila%20fasciata.png)
 
 **Üreme**
 
@@ -494,7 +494,7 @@ Sazlarla kaplı geniş bataklıklarda yerleşik olarak ürer ve genellikle az ve
 
 Kış aylarında batı ve orta bölgelerde, özellikle büyük nehir deltalarında oldukça yaygındır. Kışın daha sert geçtiği Malatya'da bile az sayılarda kışladığı tespit edilmiştir.
 
-![](images/harita_Page_102.png)
+![](images/harita_Circus%20aeruginosus.png)
 
 **Üreme**
 
@@ -524,7 +524,7 @@ Eylül başında gelir ve nisan sonuna kadar kalır. Genellikle 1500 metreden da
 
 Ürediğinden şüphelenir. 3 Ağustos 1968'de Van'ın Erciş ilçesi yakınlarındaki Altındere Düzlüklerinde, sel suları altında kalmış bir bölgede tüyleri yeni çıkmış iki yavruyla bir çift kaydedilmiştir [@kumerloeve1969a]. Ayrıca, 10 Haziran 1968'de Doğu Anadolu'da yeri tespit edilemeyen bir alanda uygun üreme habitatında bir erkek ve Aktaş Gölü'ndeki adada bir yuva tespit edilmiştir [@bilgin2002]. Kuzeydoğu, Doğu ve Güney Anadolu'da yazlayan bireylere ait beş yeni kayıt bulunmaktadır. Temmuz ayında bir kez İç Anadolu'da gözlenmiştir. Tür, Ermenistan'da üremezken [@adamian1999], komşu Gürcistan'da üremektedir [@massa2004].
 
-![](images/harita_Page_103.png)
+![](images/harita_Circus%20cyaneus.png)
 
 **Üreme**
 
@@ -550,7 +550,7 @@ Bahar göçü, mart ortasından mayıs sonuna kadar devam eder ve nisan ortalar�
 
 Kışın, Çukurova ve Göksu Deltası'nda düzenli olarak en fazla 5 kuş görülmektedir. Diğer kıyı bölgelerinde, Marmara, Karadeniz, Akdeniz ve İç Anadolu'dan da kayıtlar bulunmaktadır.
 
-![](images/harita_Page_104.png)
+![](images/harita_Circus%20macrourus.png)
 
 **Üreme**
 
@@ -580,7 +580,7 @@ En sık görüldüğü dönemler göç dönemleridir. İlkbahar göçü mart son
 
 Kışın, Aralık 2001'de Göksu Deltası'nda (Kuşçu Bülteni 10:7) ve 19 Aralık 2010'da İstanbul Riva civarında gözlenmiştir.
 
-![](images/harita_Page_105.png)
+![](images/harita_Circus%20pygargus.png)
 
 **Üreme**
 
@@ -606,7 +606,7 @@ Accipiter badius, Shikra
 
 İlk olarak, 1 Eylül 2006'da Hopa'nın 4 km doğusunda bir atmacacının ağına genç bir kuş takılmış ve türün teşhisi ayrıntılı fotoğraflar üzerinden yapılmıştır [@smith2012]. İkinci kez, 28 Ağustos 2012'de Aras Halkalama İstasyonu'nda bir genç birey yakalanmıştır. Türün Ermenistan'da, Erivan bahçelerinde ürediği ispatlanmıştır [@ananian2010]. Sonra 1 birey, 10 Haziran 2020 tarihinde Trabzon Sancak Mahallesinde *H. Keleş* tarafından kaydedilmiştir. 2 birey ise 9 Nisan 2023 tarihinde Girnavas Nusaybin'de *Ö. F. Durdu* tarafından kaydedilmiştir.
 
-![](images/harita_Page_098.png)
+![](images/harita_Accipiter%20badius.png)
 
 **Üreme**
 
@@ -630,7 +630,7 @@ Marmara, Karadeniz Bölgesi ve İç Anadolu'da Aksaray Hasan Dağı'nda yuvalad�
 
 Göç dönemlerinde batı ve orta bölgelerde nispeten yaygındır. İlkbahar göçü nisan başından mayıs ortasına kadar devam ederken, sonbahar göçü ağustos sonundan ekim başına kadar sürer. En yüksek sayılar sonbaharda eylül ayının ikinci yarısında kaydedilmektedir. İstanbul Boğazı'nda 1971 yılında toplamda 5707 birey, yalnızca 15 Eylül'de 2243 birey sayılmıştır. 1978 yılında toplamda 6516 birey kaydedilmiş, en yüksek günlük sayı ise 18 Eylül'de gerçekleşmiştir. Belen Geçidi'nde 1976 sonbaharında 2951 birey gözlenmiş [@sutherland1981a], 16-18 Eylül 1991 tarihlerinde ise 1914 birey kaydedilmiştir. İstanbul Boğazı'nda sonbaharda 7750 bireyden bir günde 6625 birey gözlenmiştir [@kasparek1992a]. Detaylı verilerin bulunduğu 1976 yılında Borçka'da toplamda 290 birey kaydedilmiştir [@andrews1977]. 29 Nisan - 25 Mayıs 1993 tarihleri arasında Rize Fırtına Deresi ağzında toplamda 1945 birey gözlenmiş ve sadece 30 Nisan'da 1286 birey kaydedilmiştir [@faldborg1994]. 1994 ilkbaharında Artvin Hopa'da toplamda 1092 birey gözlenmiş ve 2 Mayıs'ta 797 birey kaydedilmiştir. 1995 ilkbaharında aynı bölgede iki hafta içinde 1163 birey kaydedilmiştir [@peske1995]. Bu durum, bölgeden göç eden birey sayısının önceki tahminlerden çok daha fazla olduğunu göstermektedir.
 
-![](images/harita_Page_099.png)
+![](images/harita_Accipiter%20brevipes.png)
 
 **Üreme**
 
@@ -661,7 +661,7 @@ Sonbahar göçü ağustos sonundan ekim ortasına kadar sürer ve en yoğun geç
 
 Borçka ve Arhavi bölgelerinde lisanslı olarak sürdürülen atmacacılık geleneğinde, yoğun şekilde Kızıl Sırtlı Örümcekkuşu (*Lanius collurio*) kullanılarak atmacalar yakalanmaktadır. 1987 sonbaharında bu bölgede atmacacılık geleneği ve yöntemleri üzerine bir inceleme gerçekleştirilmiştir [@magnin1989].
 
-![](images/harita_Page_100.png)
+![](images/harita_Accipiter%20nisus.png)
 
 **Üreme**
 
@@ -688,7 +688,7 @@ Deniz seviyesinden 2000 metre yüksekliklere kadar olan orman ve koruluklarda ü
 
 İlkbahar göçünde, İstanbul Boğazı'nda 1993 ilkbaharının başında 19 birey kaydedilmiş, Borçka-Hopa bölgesinde 1995 ilkbaharında en fazla 52 birey sayılmıştır. Sonbahar göçü sırasında, ağustos ortasından ekim sonuna kadar gözlemlenebilir. İstanbul Boğazı'nda eylül ayında az sayıda birey kaydedilmiştir. Kış aylarında ise tür, kıyısal sulakalanlar ve daha açık arazide görülebilir.
 
-![](images/harita_Page_101.png)
+![](images/harita_Accipiter%20gentilis.png)
 
 **Üreme**
 
@@ -720,7 +720,7 @@ Göç gözlem noktalarında, İstanbul Boğazı, Borçka ve Belen Geçidi'nde na
 
 Türün tespiti zordur. Genellikle soluk renkli genç kara çaylaklar ve kışın göç sırasında görülen *lineatus* alttürü ile karıştırılır, bu nedenle birçok kayıt geçersizdir. Örneğin, Kızılırmak Deltası'nda 1992'de yüzlerce bireyin varlığı iddia edilmiş [@hustings1994], 21 Eylül 1968'de Van ile Sero arasında yaklaşık 150 bireyin görüldüğü bildirilmiştir. Kuzeydoğu ve Doğu Anadolu'daki durumu ve yayılışıyla ilgili değerlendirmeler geçerli olmayabilir [@kumerloeve1967].
 
-![](images/harita_Page_106.png)
+![](images/harita_Milvus%20milvus.png)
 
 **Üreme**
 
@@ -748,7 +748,7 @@ Sonbahar göçü ağustos ortasında başlar, ekim sonuna kadar devam eder. İst
 
 Güneydoğu Anadolu'da düzenli ve kalabalık sürüler halinde kışlar [@Biricik2011]. Gaziantep'te 23 Haziran 2001'de 400, Gaziantep'in 25 km güneydoğusunda en az 600 birey kaydedilmiştir. Ceylanpınar'da 1000'den fazla birey sayılır. Çukurova'da Seyhan Nehri kıyısında 11 Şubat 2006'da 100 birey gözlenmiştir. Kışlayan bireyler *lineatus* alttürüne aittir.
 
-![](images/harita_Page_107.png)
+![](images/harita_Milvus%20migrans.png)
 
 **Üreme**
 
@@ -777,7 +777,7 @@ Göç döneminde ve kış aylarında daha yaygındır. İlkbahar göçü mart so
 
 İç Anadolu ve Karadeniz'deki bazı alanlarda azalması dikkat çeker. Güneydoğu Anadolu'da 20. yüzyılın başlarına kadar varlık göstermiş ancak artık kaydı yoktur. 1940'larda "kıyı bölgelerde epey yaygın" olduğu belirtilen kayıt [@ogilvie1954], popülasyondaki azalmanın ne zaman başladığını işaret eder. 1970'lerin ortasına kadar ürediği ve düzenli olarak kışladığı (5 bireye kadar) Kızılırmak Deltası'ndan da birkaç kayıt vardır [@dijksen1985].
 
-![](images/harita_Page_108.png)
+![](images/harita_Haliaeetus%20albicilla.png)
 
 **Üreme**
 
@@ -804,7 +804,7 @@ Genelde sulakalanlarda veya çevresinde, bazen de bozkır ve ormanlık alanlarda
 
 İlkbahar göçünde İstanbul Boğazı'nda az sayıda düzenli olarak görülür [@kumerloeve1957b; @collman1967; @zalles2000raptor]. Hopa'da 1993-1995 yılları arasında her yıl; Kızılırmak Deltası'nda ise 22 Mart - 25 Nisan 1992 arasında 12 birey kaydedilmiştir [@hustings1994]. Kuzeydoğu Anadolu'da 1960'ların başında ufak grupların hareket ettiği bildirilmiş olsa da [@kumerloeve1967d], sonbahar göçüne ait güncel kayıt bulunmamaktadır.
 
-![](images/harita_Page_109.png)
+![](images/harita_Buteo%20lagopus.png)
 
 **Üreme**
 
@@ -832,7 +832,7 @@ Sonbahar göçü, ağustos ortasından ekim sonuna kadar sürer, en yoğun döne
 
 Kış aylarında alçak ve orta rakımlı bölgelerde görülür. Marmara Bölgesi'nde yol kenarlarında yüksek sayılarda sayılabilir.
 
-![](images/harita_Page_111.png)
+![](images/harita_Buteo%20buteo.png)
 
 **Üreme**
 
@@ -860,7 +860,7 @@ Açık arazilerde, kurak tarım alanlarında, bozkırda ve 4000 metreye kadar ol
 
 İlkbahar göçünde, 20 Mart - 31 Mayıs 2006 tarihleri arasında İstanbul Boğazı'ndan 28 kuş geçmiştir [@uner2006spring]. Göçmen olmayan bu tür için bu sayı dikkate değerdir. 2010 yılında yapılan tekrarda, 15 Mart - 31 Mayıs tarihleri arasında 43 birey kaydedilmiş ve bu, şimdiye kadar en yüksek sayıdır [@ikgt2010]. Sonbaharda İstanbul Boğazı ve Borçka'da az sayıda kaydedilir.
 
-![](images/harita_Page_110.png)
+![](images/harita_Buteo%20rufinus.png){width="1200"}
 
 **Üreme**
 
