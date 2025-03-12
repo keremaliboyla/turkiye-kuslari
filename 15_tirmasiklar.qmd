@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tırmaşıkkuşları"
 ---
 
@@ -12,7 +12,7 @@ Bazı bölgelerde yarı göçmendir. Karadeniz, Güney Marmara'da oldukça lokal
 
 Kışın Danford türün Toroslar'da Çalıkuşu'ndan (R. regulus) daha bol görüldüğünü belirtmiş olsa da bu yargının hatalı olduğu kabul edilebilir. Ancak, geçit sırasında nispeten yaygın ve boldur. Bu dönemde Trakya'da ve deniz seviyesindeki bazı güney kıyılarında da gözlenir. Ekim başı ve kasım arasında ve en azından martın ikinci yarısında Karadeniz ve Trakya'daki noktalarda geçit halinde gözlenmesi, bir iç göç olduğu belirtir.
 
-![](images/harita_Regulus ignicapilla.png)
+![](images/harita_Regulus%20ignicapilla.png)
 
 **Üreme**
 
@@ -30,7 +30,7 @@ Türkiye'den hiçbir örnek toplanmamış bulunmakta olup (@roselaar1995\], Tür
 
 Trakya'da lokal olarak, Güney Marmara, Ege, Akdeniz, Karadeniz ve İç ve Doğu Anadolu'nun kuzey sınırlarında, yaklaşık 500 m ile en az 2500 m arasında bulunan dağlık ibreli ormanlarda ürer. Güneydoğu Anadolu'dan yayımlanmış tek kayıt 17 Mart 1986'da Birecik'te görülendir (Martins 1989). Kış mevsiminde ve göç sırasında deniz seviyesine kadar iner ve çoğu bölgede daha yaygındır. Karadeniz Bölgesi'nde geçiş yaptığına kanıt olabilecek miktarda görülür. Geçit tarihleri kesin bilinmemektedir, ancak baharda marttan en azından nisan ayının ikinci haftasına kadar, sonbaharda ise nadiren eylülün ilk haftası, aslen ekim başından en azından kasım sonuna kadar geçtikleri düşünülür. Sonbaharda ara sıra büyük sayılarla Doğu Karadeniz'den geçerler. Boğazlar'da çok daha az sayılarla kaydedilmiştir.
 
-![](images/harita_Regulus regulus.png)
+![](images/harita_Regulus%20regulus.png)
 
 **Üreme**
 
@@ -48,7 +48,7 @@ Roselaar (1995) haritada regulus'un Trakya'ya uzanma olasılığı ima etse de, 
 
 Çoğunukla orman ve ormanlık alanda, bunun yanında park ve bahçelerde bulunur. Batı ve orta bölgelerde 300-900 m arasında bulunurken, Doğu Anadolu'da 1800 m'ye kadar çıkar. İç Anadolu'nun kuzey sınırında ve Doğu Anadolu'da, lokal olarak batı ve en güneydoğu kısımlarında vardır. Güneydoğu Anadolu'da birkaç ormanlık dağ ile sınırlı ve çok lokaldir. Genellikle küçük sayılar halinde bulunur, ancak yer yer çok boldur.
 
-![](images/harita_Sitta europaea.png)
+![](images/harita_Sitta%20europaea.png)
 
 **Üreme**
 
@@ -66,7 +66,7 @@ Türkiye'de bulunanlar devetüyü rengi caesia grubuna ait olup [@harrap1996], K
 
 Hem ibreli hem de karışık ormanlarda bulunur. Özellikle kızılçam (Pinus brutia) ormanlarını tercih eder. Başlıca 500-1000 m arasında bulunsa da batıda 2500 m'ye, doğuda da 2000 m'ye kadar tırmanabilir. Marmara, Ege, Akdeniz ve Karadeniz bölgelerindedir, İç, Doğu ve Güneydoğu Anadolu'nun çoğunda bulunmaz, ancak İç ve Güneydoğu Anadolu'nun kuzey sınırında çok lokal popülasyonlar vardır. Üreme sonrası bir miktar dağılma gösterebilir.
 
-![](images/harita_Sitta krueperi.png)
+![](images/harita_Sitta%20krueperi.png)
 
 **Üreme**
 
@@ -84,7 +84,7 @@ Monotipik bir türdür.
 
 Güneydoğu'da daha önce tahmin edildiğinden daha yaygındır. Taşlık ve kaya parçalarının olduğu yarlarda ve dik kayalık yamaçlarda yaşar. Tür bodur ağaçları ve bazı ağaçlara tolerans gösterebilir, ancak büyük kaya sıvacısından daha açık alanları tercih eder. Batı ve Orta Anadolu'da 1500 m yüksekliğe kadar bulunurken doğuda genellikle 2500 m'ye, Toroslar'da da 2700 m'ye ve Nemrut ve Süphan Dağları'nda 3000 m'ye kadar ulaşır.
 
-![](images/harita_Sitta neumayer.png)
+![](images/harita_Sitta%20neumayer.png)
 
 **Üreme**
 
@@ -102,7 +102,7 @@ Harrap ve Quinn (1996) batı ve orta bölgelerin syriaca alttürü tarafından m
 
 Artan arazi çalışmaları türün Güneydoğu Anadolu'daki uygun habitatlarda oldukça bol ve yaygın, ayrıca Doğu Anadolu'nun birçok kısmında oldukça bol olduğunu göstermiştir. Kayalık yarlarda, taşların ve iri kaya parçalarının olduğu dik kayalık yamaçlarda bulunur. Kuzeyde Erzincan'a kadar olan bölgede ve Doğu Anadolu'da Üst Aras Vadisi'nde bulunur. Açık yamaçlarda pek bulunmaz, ara sıra ağaçlarda da ürer ve beslenir. Genellikle 1000 m'nin altında kaydedilse de, en azından 2700 m'ye kadar kaydedilmiş olup olağan yükseklik üst limiti bilinmemektedir.
 
-![](images/harita_Sitta tephronota.png)
+![](images/harita_Sitta%20tephronota.png)
 
 **Üreme**
 
@@ -120,7 +120,7 @@ Hem Roselaar (1995) hem de Harrap ve Quinn'in (1996) görüşüne göre Güneydo
 
 Akdeniz ve İç Anadolu sınırında ve Doğu Karadeniz'de ve nadiren Doğu Anadolu'da nispeten yerel olarak ürer. Üreme döneminde genellikle yüksek yarlar ve derin vadilerde genellikle 2000 m ile 3200 m arasında, Toroslar'da 2300 m ile 3900 m arasında bulunurken Kuzeydoğu Anadolu'da üreme döneminde 1000 m kadar alçakta da kaydedilmiştir. Kışın alçalır ve çevre bölgelere yayılır, Akdeniz'deki birçok alanda yer yer deniz seviyesine kadar iner. Hatay'da mayıs sonuna kadar, Doğu Anadolu'nun batısında ve Güneydoğu Anadolu'da genellikle kasım ortasından nisan başına kadar 500-700 m arasında kaydedilir (Karakaş ve Biricik 2005a). Birecik'te düzenli olarak kışlar, temmuz kadar erken zamanlarda görülenler üreme sonrası dağılma olarak değerlendirilebilir. Kışın Trakya'da görülmüştür (Balmer ve Betton 2004b).
 
-![](images/harita_Tichodroma muraria.png)
+![](images/harita_Tichodroma%20muraria.png)
 
 **Üreme**
 
@@ -140,7 +140,7 @@ Durumu bahçe tırmaşıkkuşu ile karıştırılmasından kaynaklanan tayindeki
 
 Genellikle ibreli veya karışık, yer yer yaprak döken ormanlarda, Batı Karadeniz'in iç bölgelerinde 1500-2000 m'ye kadar, Doğu Karadeniz'in kıyı bölgelerinde 125-550 m arasında, Kuzeydoğu Anadolu'nun iç bölgelerinde ise 1800-2400 m arasında, Kızılırmak Deltası'nda ise deniz seviyesinde bulunur. Karanfil Dağ'daki kayıt dikkate alındığında Toroslar'daki gözlemler dikkatlice belgelenmelidir.
 
-![](images/harita_Certhia familiaris.png)
+![](images/harita_Certhia%20familiaris.png)
 
 **Üreme**
 
@@ -158,7 +158,7 @@ Roselaar (1995) Trakya'da nominat familiaris alttürünü tanımış, ülkenin k
 
 İç Anadolu'dan çok yerel olup çoğu kayıt nispeten alçak bölgelerden gelir ve kuzey ve kuzeybatıda, belki başka yerlerde de daha yüksek irtifada orman tırmaşıkkuşu ile yayılım alanları örtüşür. Üreme dönemi dışında biraz yayılma eğilimi vardır. Buna rağmen Doğu Karadeniz, İç Anadolu'nun çoğu ve ülkenin doğu yarısında bulunmaz. Yaprak döken, karışık ve ibreli ormanlarda ve izole koruluklarda ağaç sınırına kadar ürer. Ayrıca baltalıklar, plantasyonlar, bahçeler ve meyve bahçelerinde de bulunur. Trakya ve en batıda 0-800 m yükseklikte, Karadeniz Bölgesi'nde 1200 m'ye kadar ve Toroslar'da 800-2000 m arasında ürer. Kışın İstanbul Emirgan Parkı gibi şehir parklarında ve Kulu Gölü gibi İç Anadolu'daki sulakalanların çevresinde bulunur. Emirgan Parkı'nda üremesi olasıdır.
 
-![](images/harita_Certhia brachydactyla.png)
+![](images/harita_Certhia%20brachydactyla.png)
 
 **Üreme**
 
@@ -176,7 +176,7 @@ Harrap ve Quinn (1996) Türkiye'de bulunanların sadece harterti alttürü oldu�
 
 Kuzeyde ağaç sınırına kadar (2500 metre), orman altı örtüsünün yoğun olduğu her tür ormanda yaygın ve oldukça bol olan yerli bir kuştur. Üreme nispeten az lokalitede kanıtlanmıştır. Son çalışmalar daha önceleri sanıldığından daha yaygın ve bol olduğunu kanıtlamış, Toroslar ve İç Anadolu'nun kuzey sınırında da üreyebileceğini ortaya koymuştur. Doğu Anadolu'daki dağlık bölgeler için veri eksik olup bu alanlarda çıtkuşu ve benzer diğer türler için araştırma yapılması gerekmektedir. Son yıllarda İç Anadolu'da yapılan bir araştırma platonun doğu ve güney kıyılarındaki nispeten dağlık alanlarda, örneğin Aladağlar'da, yazın da bulunduğunu ortaya çıkarmıştır. Roselaar'a göre (1995), Doğu Anadolu'dan sadece Erzurum'da bir tane üreme kaydı vardır ve herhangi bir mevsimde Güneydoğu ve Doğu Anadolu'dan kaydı çok azdır. Bazı popülasyonlar göçmen olup esas olarak kuzey güney doğrultusunda, bunun yanında irtifalar arasında uzun ya da kısa mesafeli hareketler yapar. Muhtemelen yerli kuşların yayılması ve kuzeyden göç almasıyla kışın güneydoğunun uç kesimleri dâhil ülkenin büyük bölümünde, özellikle sulakalanların yakınları görülür ve buralarda mayıs başına kadar kalır.
 
-![](images/harita_Troglodytes troglodytes.png)
+![](images/harita_Troglodytes%20troglodytes.png)
 
 **Üreme**
 
@@ -185,4 +185,3 @@ Dağlarda ağaç sınırına kadar, yaşlı ormanlarda, orman kenarlarında ve y
 **Alttürler ve Sınıflandırma**
 
 Trakya kuşlarını nominat troglodytes, Düney Marmara ve daha güneydekileri seilerni, Karadeniz Bölgesi'ndekileri farklı bir şekilde hyrcanus, troglodytes ve seilerni olduğunu ve bazılarının bu formların arasında kaldığını belirten Roselaar alttür durumunun problemli olduğunu düşünmüştür. Brewer ve MacKay (2001), Türkiye'deki kuşların alttürlerini belirleyememiştir ve alttürlerin yayılış alanları tartışırken Türkiye'yi kapsam dışı bırakmıştır. Bu konuda ilerleme kaydedebilecek kadar örnek inceleyemedik. Kıbrıs'ta yaşayan cypriotes'in geçerliliğine bir yorum yapmadan Hatay'daki kuşların bu alttüre ait olduğunu varsayıyoruz.
-

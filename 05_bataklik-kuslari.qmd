@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bataklık Kuşları"
 ---
 
@@ -16,7 +16,7 @@ title: "Bataklık Kuşları"
 
 Göç döneminde, familyasının diğer üyeleri gibi beklenmedik yerlerde, örneğin şehir merkezlerinde veya gemilerde bireyler gözlenmiştir. Bu bireyler, üreme sonrası yeni sulakalanlar arayan kuşlar olarak değerlendirilmektedir.
 
-![](images/harita_Rallus aquaticus.png)
+![](images/harita_Rallus%20aquaticus.png)
 
 **Üreme**
 
@@ -45,7 +45,7 @@ Türkiye genelinde belirgin şekilde yaygın ancak genelde az sayıda görülen 
 
 Eskiden 19. yüzyılda İzmir çevresindeki gözlemlerine dayanarak türün bir geçiş türü olmasının yanı sıra yaz konuğu olduğunu düşünülmüş [@gonzenbach1852], hatta ürediğini de iddia edilmiştir [@pasquali1991]. Ancak bu iddiayı destekleyecek bir kayıt bulunmamaktadır.
 
-![](images/harita_Crex crex.png)
+![](images/harita_Crex%20crex.png)
 
 **Üreme**
 
@@ -72,7 +72,7 @@ Marmara, İç Anadolu ve Karadeniz bölgelerinde yazın görülür; ancak esas o
 
 İlkbahar göçü genellikle düşük sayılardadır ve ötmediği sürece fark edilmesi zordur. 14 Nisan ile 10 Haziran 1992 arasında Kızılırmak Deltası’nda 33 birey kaydedilmiştir [@hustings1994]. Üreme sonrası yayılışı temmuz ortasında başlar. Sonbahar göçünde kayıtların çoğu ağustos ve eylül aylarında yoğunlaşır; ancak göç ekim ayına kadar devam eder. En geç kayıt 28 Kasım’da, ikinci en geç kayıt ise 22 Kasım 2008’de Antakya Milleyha’da yapılmıştır [@balmer2009around]. Sonbahar kayıtlarının çoğu yalnız bireylerden oluşur ve tür, ilkbahar göçünde daha yaygındır. Nadiren 10’dan fazla sayıda kaydedilmiştir, örneğin, 18 Ekim 1995’te Balıkdamı’nda 20 birey gözlenmiştir [@kirwanmartins2000].
 
-![](images/harita_Porzana porzana.png)
+![](images/harita_Porzana%20porzana.png)
 
 **Üreme**
 
@@ -99,7 +99,7 @@ Monotipik bir türdür.
 
 Kışın göç alır; özellikle Batı ve Orta Anadolu’nun kıyısal bölgelerinde yüksek sayılarda bulunur. Meriç Deltası’nda en fazla 40 birey ile kaydedilmiş olmasına rağmen, genel olarak sayılar düşüktür. Burdur Çorak Gölü'nde kaydedilen 62 bireye rağmen, bu bölgelerdeki sayılar da düşüktür. İç Anadolu’da yaygındır; ancak Nisan 2002’de Mogan Gölü’nde görülen 200 birey dışında, genelde düşük sayılarda bulunur. Karadeniz Bölgesi’nde Kızılırmak Deltası’nda kışları oldukça düşük sayılarda gözlenir. Doğu ve Güneydoğu Anadolu’da genellikle çok küçük sayılarda görülmekle birlikte, Eylül 2004’te Birecik’in güneyindeki Karkamış Barajı’nda yaklaşık 400 birey kaydedilmiş olup, bu bölge düzenli olarak oldukça yüksek sayılarda bireye ev sahipliği yapmaktadır.
 
-![](images/harita_Gallinula chloropus.png)
+![](images/harita_Gallinula%20chloropus.png)
 
 **Üreme**
 
@@ -130,7 +130,7 @@ Açık su yüzeylerine sahip sulakalanlarda kışlar. Güney Marmara’daki göl
 
 1990-2010 arasında kışlayan nüfus artarak 400.000-1.000.000 birey arasında kaydedilmiştir. Buna karşılık, İç Anadolu’daki bazı alanlarda sayılar düşüş göstermiştir. Orta Anadolu’da eski Hotamış Bataklığı’nda Ocak 1970’te 28.464 birey ve Seyfe Gölü’nde aynı tarihte 134.500 birey kaydedilmiş olmasına rağmen, bu alanlardaki sayılar zamanla büyük ölçüde azalmıştır.
 
-![](images/harita_Fulica atra.png)
+![](images/harita_Fulica%20atra.png)
 
 **Üreme**
 
@@ -159,7 +159,7 @@ Türkiye’de iki popülasyonu bulunmaktadır. Doğu Akdeniz’de Göksu Deltas�
 
 Türkiye’nin diğer bölgelerinde, nadiren üreme durumunu gösteren birkaç kayıt mevcuttur. Akşehir Gölü [@beaman1986], Sultansazlığı [@kasparek1985; @kirwanmartins1994], Mogan Gölü ve Adıyaman’da [@kasparek1989], ayrıca 1 Haziran 2002’de Ahlat Bataklıkları’nda bir erişkin, Karakaya Barajı’nda bir erişkin; 27 Kasım 2005’te Malatya’da ve 8 Eylül 2006’da Iğdır’da bir birey kaydedilmiştir [@berg_haas_2006]. Son gözlem, düzenli gözlenen bu alandaki mevcut tek kayıttır. Bununla birlikte, Manyas Gölü’nde eski tarihlerde bulunduğu iddiası [@kiziroglu1987] vardır. İstanbul’da ise 15 Temmuz 1893’te kaydedilmiştir [@rigler1852; @matheydupraz1920].
 
-![](images/harita_Porphyrio poliocephalus.png)
+![](images/harita_Porphyrio%20poliocephalus.png)
 
 **Üreme**
 
@@ -184,7 +184,7 @@ Türkiye'de iki farklı alttür bulunur. Doğu Akdeniz ve çevresinde daha uzun 
 
 Türkiye’de yalnızca bir kaydı bulunmaktadır; 26-30 Nisan 2013 tarihleri arasında Mogan Gölü’nde erişkin bir birey gözlenmiştir. Batı Palearktik bölgesinde, anakarada 13’ten fazla ülkede ve Azorlar, Madeira ile Kanarya Adaları’nda kayıtları bulunmaktadır.
 
-![](images/harita_Porphyrio alleni.png)
+![](images/harita_Porphyrio%20alleni.png)
 
 **Üreme**
 
@@ -228,7 +228,7 @@ Akdeniz’de ürediği kanıtlanmış olup muhtemelen İç Anadolu, Karadeniz ve
 
 Geçiş türü olarak tahmin edilenden daha yaygındır ve göçü, benekli suyelvesine kıyasla Türkiye’de daha geniş bir alana yayılmıştır. İlkbaharda sayılar genellikle düşük olsa da, dikkat çekici bazı kayıtlar bulunmaktadır: 19 Nisan 1996’da Kozanlı Saz Gölü’nde 42 birey, 22 Nisan 1996’da Kuzeydoğu Anadolu’da 39 birey [@kirwanmartins2000], Çukurova’da 25 Mart-15 Mayıs 1990 arasında 71 birey [@kivit1994], 1992 ilkbaharında Kızılırmak Deltası’nda 32 birey [@hustings1994], ve 2002’nin mart-nisan döneminde Mogan Gölü’nde “düzinelerce” birey [@balmer2003a] kaydedilmiştir. Sonbahar göçünün başlangıcı belirsizdir, ancak ağustostan önce gerçekleştiği kesindir. Akdeniz’de, Göksu Deltası’ndan temmuz ayında iki erken kayıt bulunmaktadır. Sonbahar göçü eylül ve ekim aylarında yoğunlaşır ve ekim sonundan sonra nadiren görülür. En geç kayıt, 14 Kasım’da Kızılırmak Deltası’nda yapılmıştır [@balmer2009around]. Sonbahardaki sayılar genellikle ilkbahara kıyasla daha düşüktür.
 
-![](images/harita_Aenigmatolimnas marginalis.png)
+![](images/harita_Aenigmatolimnas%20marginalis.png)
 
 **Üreme**
 
@@ -255,7 +255,7 @@ Sadece Manyas Gölü ve Kırklareli İğneada’da ürediği tespit edilmiştir 
 
 Belirgin şekilde yaygın bir geçiş türüdür ancak üç suyelvesi arasında en nadir görülenidir. Batı bölgelerde nispeten daha sık görülür ve muhtemelen tahmin edilenden daha yaygındır. En erken kayıt, 20 Şubat 2011'de Birecik’in güneyinde yapılmıştır. Mart ortasında görülmeye başlanır ve öten erkekler 19-28 Mart arasında çeşitli bölgelerde kaydedilir. Tür, nisan ve mayıs aylarında daha yaygın olarak gözlenir. Sonbahar göçü ağustos-ekim arasında gerçekleşir ve özellikle eylül ayında yoğunlaşır. İki kış kaydı bulunmaktadır: 15 Aralık 1969'da Manyas Gölü'nde [@ost1975] ve 13 Ocak 2001'de Kızılırmak Deltası’nda birer birey gözlenmiştir.
 
-![](images/harita_Zaporia pusilla.png)
+![](images/harita_Zaporia%20pusilla.png)
 
 **Üreme**
 
@@ -284,7 +284,7 @@ Türkiye’de ürediği ilk kez [@sandwith1856] ve [@dresser1891] tarafından, g
 
 İki ana göç yolu bulunmaktadır. Birincisi, Murat Vadisi ve Van Gölü havzasından geçerken, diğer rota Kastamonu, Ankara ve Tuz Gölü hattını takip etmektedir. Yukarı Murat Vadisi’nde 15 Nisan 1986’da 15 birey ve Nisan 1981’de 22 bireylik göçmen sürüler kaydedilmiştir [@kasparek1988b]. Van Gölü’nün güneyi, Yukarı Aras Vadisi’nin kuzeyi ve son yıllarda daha kuzeydeki küçük alanlarda düzenli göç gözlenmiştir. İlkbahar göçü 24 Mart-23 Mayıs, sonbahar göçü ise 2 Eylül-14 Ekim arasında gerçekleşir. İlkbahar göçünde İç Anadolu’da yoğunlaşır; Kulu Gölü, Mogan Gölü ve Sultansazlığı’nda düzenli olarak gözlenir. 21 Mart 2009’da Mogan Gölü’nde kaydedilen 41 birey, son yıllardaki en kalabalık sürüdür. Diğer bölgelerde nadirdir; Marmara Denizi’ne kadar olan bölgelerde ve 19. yüzyılda Trakya’da daha yaygın olarak kaydedilmiştir. Alleon, İstanbul çevresinde türün ara sıra görüldüğünü belirtmiş olup, burada toplam 36 göç kaydı bulunmaktadır ve genellikle 10 bireyi aşmayan küçük sürülerden oluşur. İstisnai olarak, 1977’nin eylül sonlarında İstanbul Boğazı’nda güneye uçan 38 birey kaydedilmiştir. Tek kış kaydı, Göksu Deltası’nda 9 Şubat 1997’de Turna ile birlikte görülen 2 bireydir [@vaassen1998].
 
-![](images/harita_Anthropoides virgo.png)
+![](images/harita_Anthropoides%20virgo.png)
 
 **Üreme**
 
@@ -313,7 +313,7 @@ Bu yüzyılın başında İran’da Hazar Denizi kıyılarında 7-11 birey, Kuze
 
 Yirminci yüzyılda türün muhtemelen düzenli olarak bulunduğu düşünülmektedir. İlk geçerli kayıtlara göre [@kasparek1987b], Nisan 1879’da Ankara çevresinde 100’den fazla birey gözlenmiş, leyleğe benzer göründükleri ve gözlemcilerin kuşlara çok yaklaşabildiği belirtilmiştir [@danford1880]. Eylül 1854’te Erzurum Ovası’nda biri 4-5, diğeri 20 bireylik iki grup gözlenmiş ve bir birey vurularak örnek olarak alınmıştır [@sandwith1856]. Ancak bu örnek günümüze ulaşmamıştır. Sandwith, tür tayininde telli turnayı elemesine rağmen, bu kuşların aslında Turna olabileceği düşünülmektedir. Bu şüphe doğrultusunda [@kasparek1987b] tarafından tarihi kayıtların geçerli sayılması tartışılmış ve bu kayıtların Türkiye listesinden çıkarılması önerilmiştir [@harrap1987]. Sonrasında, tarihi kayıtların değerlendirilmesinde modern standartların kullanılmasını eleştiren görüşler de ortaya konulmuştur [@walters1988letter]. 19. yüzyıldaki kayıtlara göre, türün batı popülasyonları daha yaygındı ve Türkiye'deki tüm kayıtlar bilinen göç dönemleriyle uyumludur [@birdlife2001].
 
-![](images/harita_Leucogeranus leucogeranus.png)
+![](images/harita_Leucogeranus%20leucogeranus.png)
 
 **Üreme**
 
@@ -339,7 +339,7 @@ Göç sırasında ana rota, Orta Karadeniz kıyılarından Çukurova’ya uzanan
 
 Türkiye'deki kışlayan nüfusun %90’ından fazlası Çukurova’daki Akyatan Gölü ve Yumurtalık Lagünlerinde toplanmaktadır. Son WWF Türkiye'nin yürüttüğü kapsamlı çalışmalarda 2018 yılında yaklaşık 5.000 ila 10.000 turnanın Çukurova sulakalanlarında kışladığını, yegane uyuma alanlarının Akyatan Gölü ve Yumurtalık Kaldırım Tuzlası olduğu tespit edilmiştir. Burada şubat sonu ile birlikte ilkbahar göçünün başlamasıyla sayılar tekrar artmaktadır. Eskiden Orta Anadolu’da önemli sayılarda kışladığı bilinen tür, 1982 sonbaharında Batı ve Orta Anadolu’daki sulakalanlarda yapılan bir araştırmada 12.960 birey olarak sayılmıştır [@berk1986].
 
-![](images/harita_Grus grus.png)
+![](images/harita_Grus%20grus.png)
 
 **Üreme**
 
@@ -351,4 +351,3 @@ Türkiye'deki kışlayan nüfusun %90’ından fazlası Çukurova’daki Akyatan
 **Alttürler ve Sınıflandırma**
 
 Monotipik bir türdür. Eskiden Türkiye, Güney Kafkasya ve Kuzey Asya popülasyonlarını *lilfordi* olarak kabul edilmiştir [@roselaar1995]. Ermenistan'da tanımlanan *archibaldi* alttürü, Türkiye'de en azından Doğu Anadolu'daki popülasyonu da kapsamakta [@lyashenko2011], ancak henüz gerçek anlamda kabul görmemiştir.
-

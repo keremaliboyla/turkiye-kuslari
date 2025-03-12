@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Otkuşları-Ötleğenler"
 ---
 
@@ -10,7 +10,7 @@ title: "Otkuşları-Ötleğenler"
 
 zole üreme kaydı, 1965 yılının mayıs sonunda Murat Vadisi'nde Ağrı Dağı ile Taşlıçay arasında öten 8-10 birey ve yuva yapan bir çifttir. Daha sonra bulunan testisleri büyümüş bir erkek, o alanda ürediğini gösteren diğer örnektir ([@kumerloeve1967a]. ) bu kuşun "Ermenistan ve Gürcistan'daki yakın üreme alanlarından" geldiğini vurgulamaktadır [@roselaar1995]. Ancak komşu ülkelerde sadece iki üreme kaydı bulunmaktadır [@adamian1999]; ve bunlar son yıllardan mayıs sonu ve haziran başında öten iki bireye aittir [@ananian2002]. Türün bu iki ülkedeki mevcut durumu benzerdir. Gürcistan'da nadir ve düzensiz olarak ürer. Ancak Türkiye sınırı yakınında Ardahan'ın güneyindeki tepelerden doğan Kura Nehri Vadisi'nde ve Ermenistan sınırındaki güney kesimlerinde lokal olarak yaygındır. Bu bölgeden nadir göç geçişi de yapar ve sayısı nisan sonu, eylül sonu ve ekimin ilk on gününde zirveye ulaşır. Çok nadir ve her yıl rastlanmayan bir geçit kuşu olarak bilinir. Çoğunlukla orta ve batı bölgelerinde rastlanır. Ancak ulusal halkalama çalışmalarının sonuçlarıyla muhtemelen daha yüksek sayıda bulunduğu ortaya çıkacaktır. Örneğin, Kızılırmak Deltası'nda 11 Nisan-11 Mayıs 2005 arasında 6 kayıt bulunmaktadır. İlkbaharda 12 Mart ile 19 Mayıs arasında, çoğunluğu nisanda olan toplam 26 yayımlanmış kayıt vardır. Sonbaharda sadece iki kayıt vardır; 12 Ağustos 1986'da Uluabat Gölü ve 30 Ekim 1985 tarihinde Göksu Deltası'nda gecikmiş bir göçmendir [@martins1989]. İstanbul Boğazı'nda ilkbaharda görüldüğünü not etmiştir [@matheydupraz1920]. Güneydoğu ve Doğu Anadolu'dan yakın zamana ait ilkbahar göçü ve iki temmuz kaydı bulunmaktadır [@kirwan2003]. Her ne kadar bu kuşların üreme sonrası dağılma eğilimi gösterdiğini düşünse de [@roselaar1995], bu kayıtlar muhtemel üreme veya en azından eşi olmayan ve dişi arayan erkek bireyler olabilir: eski Amik Gölü'nde 15 Temmuz 1967'de öten bir birey not etmektedir [@vielliard1968resultats]ve bir diğer kayıt 5 Temmuz 2001'de Sultansazlığı'ndandır [@kirwan2003].
 
-![](images/harita_Locustella naevia.png)
+![](images/harita_Locustella%20naevia.png)
 
 **Üreme**
 
@@ -28,7 +28,7 @@ Nominat naevia'ya çok benzeyen obscurior olduğu düşünülen bir örnek mevcu
 
 Gelen halkalama kayıtları, türün önceki kayıtlara göre daha yaygın ve sık olduğu kanıtlanmaktadır. Şimdiye kadar dördü Güneydoğu, üçü Doğu Anadolu'dan olan yaklaşık 45 kayıt bulunmaktadır. İstanbul'un Anadolu yakasından kaydedilmiş, ancak tam olarak yeri belirtilmemiş iki örneği olmasına rağmen [@matheydupraz1920], şaşırtıcı şekilde Trakya'dan kaydı yoktur. Yazın öten bireylerin kayıtları (örneğin; 7 Haziran 1974 Kocaçay Deltası'nda bir, 1992'de haziranın ilk on gününde Kızılırmak Deltası'nda sekizin üzerinde öten erkek, 6-7 Haziran 1993'de Yeşilırmak Deltası'nda üç, 6 Temmuz 1986'da Manyas Gölü'nde bir) Türkiye'de ara sıra da olsa üreme ihtimalini arttırmaktadır. Aslında yayılış bölgesi Bulgaristan'da güneye doğru hızla genişlemektedir [@nankinov2000] ve bu yüzden özellikle üreme döneminde başta Trakya olmak üzere Marmara Bölgesi'nde ve diğer batı bölgelerde arama çalışmaları yapılmalıdır. "ötüşü sıklıkla ilkbahar ve haziran ortasında duyulduğunu" belirtir [@roselaar1995]. 2002'de ülkenin batısındaki üç halkalama istasyonunda büyük çoğunluğu ilkbaharda olmak üzere toplam 21 [@kad2003] ve Kars'ta 2005 yılında 14-25 Mayıs arasında toplam 12 birey yakalanıp halkalanmıştır. İlkbahar geçidi mart ortasında başlar (en erken 12 Mart) ancak nisan sonuna kadar düşük yoğunlukta kalır. Göç, mayısın ilk haftası en yüksek seviyededir ve mayıs sonuna kadar devam eder. En geç kayıt 7 Haziran olup, üremen bir bireye de ait olabilir. Bununla birlikte geçit sırasında sıkça öter, geçişi örneğin Kazakistan'da temmuz ortasına kadar devam eder (Cramp 1992). Sonbahar göçü 10 Ağustos'tan 18 Eylül'e, hatta istisnai olarak 14 Ekim'e kadar sürer. Ancak Türkiye'deki kuş gözlemcilerinin türün göçte kullandığı olası habitatları sıkça ziyaret edildiği söylenemez.
 
-![](images/harita_Locustella fluviatilis.png)
+![](images/harita_Locustella%20fluviatilis.png)
 
 **Üreme**
 
@@ -46,7 +46,7 @@ Monotipik bir türdür.
 
 Örneğin, 1991 ilkbaharında Hotamış Sazlığı'nda yaklaşık 100 öten erkek birey kaydedilmiştir [@kirwan1993a]. Gerçekte ülkenin baştan başa bütün bataklık sulakalanlarında ürer. Her ne kadar Güneydoğu Anadolu'da üremese de, son dönemlerde yapılan arazi çalışmalarında üremelerine uygun iki alan tanımlanmıştır. En sık Ege, Karadeniz kıyıları ve İç ve Doğu Anadolu'da bulunur. 1992 ilkbaharında Kızılırmak Deltası'nda 500-750 çift olduğu tahmin edilmektedir. Trakya ve Güney Marmara'da çok nadir ve Akdeniz'de oldukça düzensizdir. Nisan ortasından önce nadiren kaydedilmiştir. Ancak mart sonundan itibaren seyrek (en erken 10 Mart) ve nisanda güney kıyılarında muhtemelen düzenli olarak geçiş yapar. Göç geçişi mayısta da sürer. Sonbahar göçü kesin olarak ağustos ortasında başlar ve eylül ortasından sonuna kadar bitmiş olur. Ekimin ilk yarısında (en geç 17 Ekim) ülkenin güney kesimlerinde az sayıda kaydedilmiştir. Geçit yapan kuşlar ve üreme alanlarının dışında çok nadir olarak kaydedilmiştir.
 
-![](images/harita_Locustella luscinioides.png)
+![](images/harita_Locustella%20luscinioides.png)
 
 **Üreme**
 
@@ -66,7 +66,7 @@ Türkiye'den toplanan bütün tahnitler değerlendirilmiş [@roselaar1995]ve gen
 
 Büyük ölçüde esas üreme alanlarında kışlar, bu mevsimde nispeten yaygındır. Birkaç defa Marmara'da ve Karadeniz'de Kızılırmak'ta kaydedilmiştir. Avrupa'daki diğer yerlerde olduğu gibi sert kış koşullarına bağlı olarak popülasyonunda çarpıcı dalgalanmalar olduğu görülmektedir [@hagemeijer1997]. Özellikle 1970'lerin ikinci yarısında [@beaman1986] ve 1990'ların başlarında lokal olarak Göksu Deltası'nda [@berk1994]belirgin bir azalma kaydedilmiştir.
 
-![](images/harita_Cisticola juncidis.png)
+![](images/harita_Cisticola%20juncidis.png)
 
 **Üreme**
 
@@ -84,7 +84,7 @@ Uzun otların bulunduğu çayırlar, sazlıkların kenarındaki alanlarda genell
 
 Özellikle Doğu Akdeniz'deki birkaç sulakalanda az ve orta sayılarda görülür. Güneydoğu Anadolu'da sadece Birecik, Akçakale ve Dicle boyundaki lokalitelerde nispeten lokal ve hatta daha azdır. Batıda Antalya'da ve bir defa da kuzeyde Beyşehir ve Burdur göllerinde kaydedilmiştir. Sadece Göksu ve Çukurova deltaları ile eski Amik Gölü'nün çevresinde (Antakya) boldur. Genellikle Scirpus ve Juncus yataklarında, ancak bazen de pamuk tarlaları ve diğer daha kuru habitatlarda da görülür. Bu konudaki kanıtın nispeten zayıf olmasına rağmen sınırlı ölçüde üreme sonrası dağılma gösterebilir.
 
-![](images/harita_Prinia gracilis.png)
+![](images/harita_Prinia%20gracilis.png)
 
 **Üreme**
 
@@ -104,7 +104,7 @@ Karışık ya da yaprak döken ağaçlık alanlarda ürer. Trakya'dan Karadeniz'
 
 Geçit sırasında ülke genelinde bol ve yaygındır. Doğu bölgelerinde genellikle daha az sayılarla kaydedilir. Bahar geçişi bazen mart başında, genellikle mart ortasında başlar ve yaklaşık olarak mayısın üçüncü haftasına kadar devam eder. Ancak aşağıda da belirtildiği gibi, türün kışlama yayılışı göçebe ve yerli kuşların birbirinden ayırt edilmelerini zorlaştırmaktadır. [@kasparek1990c], bahar geçişinin tarihlerinde medyan 9 Nisan olarak belirlemiştir, ancak bir ölçüde az sayıda örneğe dayandığı için, bu tarih çok erken görünmektedir. Ülkenin orta ve güney bölgelerinde geçit, en yüksek sayılara nisanın üçüncü haftası ile mayısın ilk haftası arasındaki dönemde ulaşmaktadır. Örneğin 1992 Nisan'ının sonlarında, birkaç gün içinde Akşehir Gölü'nden 15.000'in üzerinde kuşun geçtiği tahmin edilmiştir [@bradshaw1992]. Sonbaharda daha az sayılarla geçiyor olabilir, ancak bu mevsime ait daha az sayıda kayıt vardır. Ağustos ortasından ekim ortasına dek kaydedilir. Geç bireylere İç Anadolu'da kasım ortasına dek rastlanır. Kuşların çoğu eylülün ikinci yarısında geçiyor gibi görünmektedir. Kasparek sonbahar göçü tarihinin medyanını 16 Eylül olarak belirlemiştir. Başta Ege ve Akdeniz'in sahil bölgeleri olmak üzere kışın oldukça az sayılarla kışlar. Bu mevsimde Danford tarafından Toroslar'da da bulunmuştur.
 
-![](images/harita_Sylvia atricapilla.png)
+![](images/harita_Sylvia%20atricapilla.png)
 
 **Üreme**
 
@@ -124,7 +124,7 @@ batıda nominat atricapilla, doğuda dammholzi olmak üzere (aşağıya bknz.) T
 
 Geçit sırasında daha bol ve daha yaygındır. Genellikle makul sayılarla, ara sıra ve özellikle ülkenin doğu bölgelerinde yüksek sayılarla kaydedilir. Baharda mart ortasından itibaren görülmeye başlar, ancak genellikle nisan ortasından önce yaygın değildir. En yüksek sayılarla kaydedildiği dönem nisan sonu ile mayıs başı arasıdır, ancak doğu bölgelerinde mayısın üçüncü haftasına kadar belirgin sayılarla görülmeye devam eder. Bu bölgede en geç 4 Haziran'da büyük olasılıkla geçit yapan bir birey kaydedilmiştir. Sonbahar geçişi ağustos başından eylül sonuna kadar sürer, geç bireylere ise ekimin üçüncü haftasına dek rastlanır.
 
-![](images/harita_Sylvia borin.png)
+![](images/harita_Sylvia%20borin.png)
 
 **Üreme**
 
@@ -144,7 +144,7 @@ Görünüşe göre ülkede görülen tüm kuşlar woodwardi'dir [@roselaar1995].
 
 Geçit sırasında ülke genelinde makul derecede bol ve yaygındır. Güney bölgelerde nisan ortasından itibaren yaygın bir biçimde görülür. Geçişin en yoğun olduğu dönem nisan sonu ile mayıs başıdır. Geç kuşlara mayısın son haftasına kadar rastlanır. Sonbahar geçişi ağustos başından eylül sonuna dek sürer. En yoğun geçiş eylülün ilk üç haftası boyunca yaşanırken geç kuşlara ekim ortasına dek rastlanır.
 
-![](images/harita_Curruca nisoria.png)
+![](images/harita_Curruca%20nisoria.png)
 
 **Üreme**
 
@@ -162,7 +162,7 @@ Nominat [@shirihai2001].
 
 Ülkenin iç kısımlarında, yüksek irtifada ve nispeten seyrek çalılıklara sahip kurak dağlık bölgelerde ve ara sıra en az 2600 m'deki açık ağaçlık alanlarda ürer. Bol görülür, hatta yer yer çok bol olabilir. Geçit sırasında ülkenin tamamında yaygındır. İlkbahar geçişi mart başında az sayıyla başlar, nisanın ikinci yarısında en yüksek sayıya ulaşır ve mayıs ortasına dek sürer. Sonbahar göçü daha uzun süreye yayılır. Ağustos başından kasım başına dek sürer. 24 Kasım 1989'da Birecik'te istisnai bir şekilde geç kalmış bir bireye rastlanmıştır. Bu mevsimde en yüksek sayılara eylül ortasından ekim ortasına kadar rastlanır. Hatta kuzey kıyılarında bazı yıllar eylül başında da yüksek sayılarla geçiyor olabilir. Batı bölgelerde ara sıra Birecik'teki geç bireyin de yapmış olabileceği gibi kışlar. Bu durumu kanıtlar gibi görünen tek bir bireyin gözlendiği kayıtların detayları şöyledir: 18 Ocak 1969'da Büyük Menderes Deltası'nda [@ost1972], 3 Aralık 1970'de Bafa Gölü'nde [@ost1975], 19 Aralık 1996'da Adana'da, 24 Aralık 1996'da Büyük Menderes Deltası'nda ve 12 Şubat 1999'da Çukurova'da.
 
-![](images/harita_Curruca curruca.png)
+![](images/harita_Curruca%20curruca.png)
 
 **Üreme**
 
@@ -182,7 +182,7 @@ Lokal olarak, İç Anadolu'da, Karadeniz'in batısı ile en doğusunda ve ayrıc
 
 Geçit sırasında tüm bölgelerde belirgin şekilde daha yaygın olmasına rağmen ülkenin doğusundan çok az yayımlanmış kaydı vardır. Baharda güney sahillerinde mart sonunda görülmeye başlasa da genellikle nisan başından mayıs sonuna kadar kaydedilir. Yayımlanmış en erken kayıt 12 Mart'tır. Sonbaharda ağustos başından eylül sonuna ve çok nadiren ekim başına kadar geçit yapar. En geç 15 Ekim'de Alanya'da kaydedilmiştir (1970).
 
-![](images/harita_Curruca crassirostris.png)
+![](images/harita_Curruca%20crassirostris.png)
 
 **Üreme**
 
@@ -200,7 +200,7 @@ Türkiye'de hepsi batı bölgelerinden toplanmış çok az sayıda örnek olup, 
 
 27-28 Kasım 1970'te Çukurova Deltası'nda, Karataş'ta gözlenen bir bireye ait tek kayıt vardır [@ost1975]. Ortadoğu ve Batı Avrupa'ya ait kayıtların tümü nana alttürüne aittir.
 
-![](images/harita_Curruca nana.png)
+![](images/harita_Curruca%20nana.png)
 
 **Üreme**
 
@@ -218,7 +218,7 @@ Afrika'da bulunan deserti ile Asya'da bulunan nana formlarının ayrı türler o
 
 ispeten bol ve yaygın yayılışlı yaz göçmenidir. Güneydoğu Anadolu'nun kuzeyi dışında tüm bölgelerde ürer. Akdeniz'de nispeten lokaldir. Ülkenin kuzey, orta ve doğu bölgelerinin genelinde ise sadece az sayılarla görülür. Çoğunlukla açık ve genellikle yaprak döken (çoğunlukla meşe) ağaçlık alanlar ile hem ovalık hem de dağlık alanlardaki sık çalılıklarda ürer. Doğu Anadolu'da istisnai olarak 3000 m'de ve Toroslar'da 2100 m'de üremiştir. Geçit sırasında ülkenin genelinde daha bol ve yaygındır. Baharda mart ortasından mayıs sonuna kadar görülür. En yüksek sayıda bireye nisanın ilk yarısında rastlanır. Nadiren şubat sonunda da kaydedilmiştir. Sonbahar geçişi ağustos başından ekimin üçüncü haftasına kadar sürer, ancak çoğunluk eylül sonunda gitmiş olur. 12 Şubat 1999'da Çukurova, Karataş'ta görülen bir bireye ait 1 kış kaydı vardır. (E. van der Burg ve R. Hofland).
 
-![](images/harita_Curruca communis.png)
+![](images/harita_Curruca%20communis.png)
 
 **Üreme**
 
@@ -238,7 +238,7 @@ Yakın zamanda Güneydoğu Anadolu'da ürediği kanıtlanmıştır. 2002 Mayıs'
 
 2002 yılına kadar yalnız 6 yayınlanmış kayıt vardır; 15 Nisan 1969'da Side'de bir dişi [@ost1972], 19 Ekim 1970'de Silifke'nin doğusunda bir ergen [@ost1975], 4 Ekim 1974'te İskenderun yakınında bir erişkin dişi ile ergen [@ost1978], 7 ve 10 Eylül 1981'de Belen Geçiti'nde bir birey [@beaman1986], 16 Ekim 1982'de Burdur Gölü'nde iki birey, 11 Kasım 1983'te Ayvacık yakınındaki Küçükkuyu'da (Balıkesir) beş birey [@kasparek1990a] kaydedilmiştir. Ancak bu kayıtların bir kısmında tür tayini hatalı olabilir. En yakında bulunan popülasyon Kıbrıs'tadır ve bu popülasyon yerli ya da sadece yarı göçmendir.
 
-![](images/harita_Curruca conspicillata.png)
+![](images/harita_Curruca%20conspicillata.png)
 
 **Üreme**
 
@@ -258,7 +258,7 @@ Ege'nin batı yarısında ve güney Trakya'yı da içerecek şekilde Marmara'ya 
 
 Geçit sırasında, genellikle ülkenin batı bölgelerinde daha yaygındır. Akdeniz'in genelinde düzenli, güneydoğu Anadolu'ya hemen komşu olan bölgelerinde ise ara sıra kaydedilir [@bird1937]. İç Anadolu'da da seyrek olarak kaydedilmiştir. Karadeniz'den kaydı yoktur. Van, Başkale'den 7 Ağustos 1986'a ait yayımlanmış bir kaydı vardır. Bu kayıt, türün genel olarak en doğudaki kayıtlarından biridir. Bahar geçit tarihleri kesin olarak bilinmemektedir. En erken kaydedildiği tarih Çukurova Deltası'nda Karataş'ta bir bireyin görüldüğü 11 Mart'tır (1972). Sonbaharda, ağustos başında üreme alanını terk etmeye başlarlar. Sonbahar geçişi ağustos başında başlar, en yüksek sayı ağustos sonunda ve eylül başında görülür. Bu döneme ait en geç kayıt tarihi Büyük Çamlıca'da bir bireyin görüldüğü 11 Ekim'dir (1981). Kışın nadiren Ege'de kaydedilmiştir; örn. 17 Aralık'ta 1969'da Büyük Menderes Deltası'nda iki birey görülmüştür [@kasparek1988a]. Kasım ayına ait Ayvacık kaydı bozkır ötleğeni olarak bildirilmiş olsa da büyük olasılıkla bu türe ait görünmektedir.
 
-![](images/harita_Curruca cantillans.png)
+![](images/harita_Curruca%20cantillans.png)
 
 **Üreme**
 
@@ -276,7 +276,7 @@ Albistriata alttürü vardır. Batı Akdeniz'deki bazı adalarda görülen molto
 
 Daha çok Marmara, Ege ve Batı Akdeniz ve Batı Karadeniz Bölgesi'ndeki çalılık alanlarda bulunur. İç Anadolu'nun batıda ve kuzeyde bu bölgelere komşu kısımlarında da kaydedilmiştir. Görünüşe göre Güneydoğu Anadolu'nun batı kısımlarında da üremektedir. Genellikle az ya da orta sayıda görülür. Ürediği en yüksek rakım bilinmemekte, ancak büyük olasılıkla yaklaşık 1000 m'ye kadar bulunur. Yerli kuşlarla karışmaları nedeniyle geçit tarihlerinin belirlenmesi zordur, ancak geçit sırasında ülkenin batı ve orta bölgelerinde biraz daha yaygın oldukları söylenebilir. Batıda ve güneyde, daha çok kıyılardaki makiler ve diğer çalılık alanlarda kışlar. Ülkenin batı ve orta bölgelerinin geri kalan kısmında bu denli bol değildir.
 
-![](images/harita_Curruca melanocephala.png)
+![](images/harita_Curruca%20melanocephala.png)
 
 **Üreme**
 
@@ -298,7 +298,7 @@ Güneydoğu Anadolu bölgesinin doğu Anadolu sınırındaki (özellikle güneyb
 
 Söz edilen bölgelerde geçit sırasında biraz daha yaygındır ve lokal olarak boldur. Ancak bu bölge dışından ve yukarıda sözü edilen Karadeniz kayıtlarına ek olarak üç bahar kaydı vardır: 3 Mayıs 1969'da Çankaya, Ankara'da, 5 Mayıs 1969'da Pozantı'nın kuzeydoğusunda ve 20 Mart 1996'da Göksu Deltası'nda gözlenen birey. 1969 yılına ait kayıtlar yanlışlıkla Türkiye'nin ilk kayıtları olarak bildirilmişlerdir [@ost1972]. Portekiz'deki rastlantısal kayıt haricinde bu kayıtlar, türün Avrasya'daki en batı kayıtlarıdır [@cramp1992; @shirihai2001]. Baharda 20 Mart'tan itibaren kaydedilse de Birecik'te 2 Nisan'dan önce kaydı yoktur. Bu durum Mayıs başından önce üreme alanlarını ziyaret eden gözlemci sayısının az olması ile ilgili olabilir. Geçit, mayıs ortasına ya da mayıs sonuna dek gözlenir [@kumerloeve1969a]. Sonbaharda göçmenler ağustos başından ve yoğun olarak eylülden itibaren kaydedilir. Ekim ortasından daha geç tarihlerde kaydı yoktur. Kuşların çoğu doğu bölgelerinden eylül sonu ve ekim başı arasında geçer.
 
-![](images/harita_Curruca mystacea.png)
+![](images/harita_Curruca%20mystacea.png)
 
 **Üreme**
 
@@ -316,7 +316,7 @@ Güneydoğu Anadolu'da görülenler rubescens, Aras Vadisi ve çevresindekiler n
 
 Kayalık ve çalı kaplı yamaçlarda, sıklıkla açık ve ibreli ağaçlık alanlarda (genellikle kızılçam) ve daha nadiren yaprak döken ağaçlık alanlarda ürer. Büyük olasılıkla güney Trakya'yı da içerir şekilde Marmara'nın batısında, İç Anadolu'nun komşu bölgelerinde ve belki Güneydoğu Anadolu'da bulunur. Yuvalama kanıtı içermeyen bir yaz kaydının olduğu Karadeniz'in en batı ucunda da en büyük olasılıkla çok lokal olarak bulunmaktadır. Toroslar'da düzenli olarak 900-1100 m'de kaydedilmektedir. Sırasıyla Isparta ve Afyon illerinde bulunan Karakuş ve Sultan Dağları'nda ise daha lokal olarak ve en az 1300 m'de bulunur. Bu bölgelerde geçit sırasında biraz daha yaygındır. Mart ortası ile mart sonu arasında görülmeye başlar. 1990'da Çukurova'da yapılan bir çalışmada mart başından itibaren kaydedilmiştir [@kivit1994]. 6 Mart 1965'te Hatay'da görülen bir birey ise son derece erken bir kayıttır [@kumerloeve1970a]. Kuşların çoğu eylülde geçit yapar, ekimden sadece bir kayıt vardır 5 Ekim- [@ost1972].
 
-![](images/harita_Curruca rueppelli.png)
+![](images/harita_Curruca%20rueppelli.png)
 
 **Üreme**
 
@@ -334,7 +334,7 @@ Monotipik bir türdür.
 
 Bahar göçü sırasında düzenli olarak menzilini aşan bir tür olup yaklaşık 10 kayıt vardır: 4 Nisan 1986'da Anamur'da [@kasparek1986d] ve 13 Nisan 2003'te Bodrum Milas Havaalanı'nda bir erkek. Göksu Deltası'nda dört kez kaydedilmiştir: 10 Nisan 1985'te bir dişi, 10 Nisan 1987 [@kasparek1990a] ve 30 Mart 1999 ve 29 Mart 2000'de [@kirwan2003] yalnız erkekler kaydedilmiştir. Son iki kayıt türü ayrıntılı tanımını içermektedir. Göksu Deltası'na ait ilk iki kayıt, yeterli belgelenmemiş olsalar da Alman Nadir Tür Komitesi tarafından kabul edilmiştir. Anamur kaydını desteklemek için yayımlanan bilgilerin de yetersiz olduğunu düşünüyoruz. Bodrum kaydı ayrıntılı tanım ve saha çizimleri ile birlikte yayımlanmıştır. 10 Mart 2005'te Akyatan'da 2 tane erkek halkalanmıştır. Türkiye kayıtları bu türün en kuzeydeki kayıtlarıdır.
 
-![](images/harita_Curruca melanothorax.png)
+![](images/harita_Curruca%20melanothorax.png)
 
 **Üreme**
 
@@ -352,7 +352,7 @@ Monotipik bir türdür.
 
 Önceden Temmuz 1980'de Van'ın güneyindeki bataklıklarda görüldüğüne dair kayıt yayımlanmamış ve doğrulanmamış olması nedeniyle Türkiye listesine kabul edilmemişti [@kirwan1999]. Buna benzer bir başka iddia daha söz konusu değildi ve türün rastlantısal olduğunu gösterir bir olasılıktan sözedilmiyordu [@cramp1993]. Ancak daha yakın geçmişte Irak Yedikardeşi'nin Irak'ta aşağı Fırat ve Dicle havzası dışında kalan bir bölgede Suriye'de Fırat nehri boyunca [@balmer2002a; @murdoch2002] ve Irak sınırından, Türkiye sınırındaki Jarabulus'a kadar olan bölgede yerli olarak görülen bir tür olduğu keşfedildi. Suriye popülasyonunun yeni mi olduğu yoksa Mezopotamya'daki kurutma faaliyetleri sonucu yer değiştirmiş bir popülasyonu mu temsil ettiği ya da önceden fark edilmemiş bir popülasyon mu olduğu bilinmemektedir. Ancak bu keşif sayesinde türün Mayıs 2004 başlarında ve Mayıs 2005 ortalarında Karkamış yakınlarında aranması çalışmaları başlatılmıştır. Sesle çağırma yönteminin kullanılmasına rağmen arama çalışmaları sonuç vermemiştir. Ardından 29-30 Mayıs 2006'da Birecik'te yanlarında yeni tüylenmiş ama halâ kendilerine bağımlı iki ya da üç yavru bulunan dört erişkin gözlenmiş ve fotoğraflanmıştır. [@donaghy2006]. 4 Temmuz'da en azından üç kuşun halâ aynı yerde olduğu kaydedilirken (Dutch Birding 28:324) 2007'nin Mayıs sonlarında en azından dört yavrunun büyütüldüğü gözlenmiştir (Dutch Birding 29:250--251). Mayıs 2008'de Birecik yakınındaki iki noktada tür tekrar kaydedilmiş ve fotoğraflanmıştır.
 
-![](images/harita_Argya altirostris.png)
+![](images/harita_Argya%20altirostris.png)
 
 **Üreme**
 
@@ -361,4 +361,3 @@ Yukarıda sözü edilen yeni tüylenmiş yavrular dışında herhangi bir kayıt
 **Alttürler ve Sınıflandırma**
 
 Monotipik bir türdür.
-

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Çullukgiller"
 ---
 
@@ -16,11 +16,11 @@ title: "Çullukgiller"
 
 @kruper1875 ve Hartlaub kışın İzmir'de bulunduğunu belirtmiş, oysa @kasparek1990b, bu kuşların İnce Gagalı Kervançulluğu ile karıştırıldığından şüphelenmiştir.
 
-![](images/harita_Numenius phaeopus.png)
+![](images/harita_Numenius%20phaeopus.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrasya'da ve Kuzey Amerika'da dağlık tundrada yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -38,11 +38,11 @@ Türkiye'de nominat alttürü bulunur.
 
 Son derece nadir bir geçit türüdür, en son kesinlikle 1986'da kaydedilmiştir. Kayıtlar 10 Temmuz ile 12 Mayıs tarihleri arasındadır, batı ve orta bölgelerde, özellikle iyi gözlem yapılan Akdeniz kıyısındaki deltalarda ve İç Anadolu'daki sığ göllerdeki kayıtların çoğu 1975'ten öncedir. Görünüşe göre, bu tür kaçınılmaz biçimde yok oluşa doğru gitmektedir [@gretton2002]. Türkiye'den şu kayıtlar mevcuttur, aksi belirtilmediği sürece hepsi Gretton (1991) ya da BirdLife International veritabanındandır: 19.yy sonlarında ya da 20. yy başlarında muhtemelen İstanbul çevresinden alınan iki örnek [@kirwan1997a], Aralık 1892'de İstanbul'dan alınan erişkin bir dişi ve 11 Eylül 1895'te İstanbul'un 10 km batısında Makriköy'den (Bakırköy, İstanbul) alınan başka bir dişi vardır ve her ikisi de Alléon koleksiyonunda ve şu anda Sofya Ulusal Doğa Tarihi Müzesi'nde bulunmaktadır [@boev2003], 14 Ocak 1967'de Hoyran (Eğirdir) Gölü'nde bir birey, 19 Mart 1967'de Mogan Gölü'nde iki birey ve 23 Mart 1967'de aynı yerde başka bir birey, 26 Mart 1967'de Balıkdamı'nda iki birey, 12 Ağustos 1967'de Sodalı Gölü'nde bir birey, 10 Ekim 1968'de Amik Gölü'nde bir birey, 5 Nisan 1969'da Tekirdağ yakınlarında üç birey, 15 Nisan 1969'da Side'den (Antalya, Akdeniz) batıya doğru giden iki birey, 12 Aralık 1969'da Seyfe Gölü'nde bir birey, 28 Nisan 1970'de Yarma yakınlarında bir birey, 12 Mayıs 1970'de Eber Gölü'nde bir birey, 17 Ocak 1971'de Çivril Gölü'nde bir birey, 25 Ağustos 1971'de Rize yakınlarında bir birey, 28 Ağustos 1973'te Göksu Deltası'nda bir birey, 30 Eylül 1973'te Uluabat Gölü'nde iki birey, 23 Eylül 1979'da Küçük Menderes Deltası'nda iki birey, 5 Ocak 1982'de ve 4 Mart 1985'te Çukurova'da Akyatan Gölü'nde birer birey, 9 Mart 1985'te Göksu Deltası'nda dört birey, 6 Nisan 1986'da Ereğli Sazlığı'nda bir birey, 10 Temmuz 1986'da Göksu Deltası'nda bir birey ve 26 Aralık 1986'da Büyük Menderes Deltası'nda bir birey. Bu kayıtların hepsi için birtakım belgeler mevcuttur. @gretton1991, 1946, 1947 ve 1951'de İstanbul'un hemen batısında Büyükçekmece'de ve 27 Şubat 1959'da Meriç Deltası'nda [@kumerloeve1970a] olmak üzere dört bireyle ilgili kabul edilemeyecek üç kayıt daha listelemiştir [@kumerloeve1961; @kirwan1997a]. Ek olarak, 30 Nisan 1986'da Çukurova'dan, 22 Ağustos 1990'da Dalyan Deltası'ndan ve 10 Mayıs 1993'te Kulu Gölü'nden kesin olarak kabul edilemeyecek kayıtlar vardır. Öte yandan, 15 Eylül 1985'te İstanbul Tuzla'da iddia edilen bireyin kervançulluğunun *orientalis* doğu alttürü olduğu kanıtlanmıştır [@konrad1994].
 
-![](images/harita_Numenius tenuirostris.png)
+![](images/harita_Numenius%20tenuirostris.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamadı. Eskiden Kazakistan bozkırları ile Rusya ormanları arasındaki geçiş bölgesinde yuvaladığı düşünülmüştür.
 
 **Alttürler ve Sınıflandırma**
 
@@ -62,11 +62,11 @@ Geçiş, mart ortasında başlar ve en yüksek sayılar nisanın ilk yarısında
 
 Kışın, orta sayılarda Marmara, Ege ve Akdeniz bölgelerindeki kıyı alanlarında görülür. En yüksek sayılar Büyük Menderes Deltası'nda kaydedilir; burada Ocak 1971'de 1254 birey sayılmıştır. Zaman zaman bu mevsimde iç kesimlerde de kaydedilir. 1999 ve 2005 yıllarındaki kış ortası sayımlarında sırasıyla 1362 ve 1688 birey sayılmıştır.
 
-![](images/harita_Numenius arquata.png)
+![](images/harita_Numenius%20arquata.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kuzey Batı Avrupa'da ve tüm Avrasya boyunca tayga kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -86,11 +86,11 @@ Kayıtların çoğu ana deltalardadır ve daha az sayılarda İç Anadolu'daki b
 
 Kışın Ege ve Akdeniz kıyılarında kaydedilir. Şubat 1880'ler [@schrader1891], Ocak 1970 ve Ocak 1973'te [@ost1975] Büyük Menderes Deltası'nda yalnız bireyler, 1 Şubat 2007'de Akyatan Gölü'nde (Çukurova, Akdeniz) 28 bireylik olağandışı bir sürü [@balmer2008] ve 20 Aralık 2003'te Gediz Deltası'nda 10 birey ve 18 Aralık 2004'te aynı yerde iki birey [@balmer2005a] kaydedilmiştir. 1966'da modern kaydetmenin başlamasından önce diğer birkaç nadir kıyı kuşu gibi bu türün de çok az kaydı vardır.
 
-![](images/harita_Limosa lapponica.png)
+![](images/harita_Limosa%20lapponica.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrasya ve Alaska'nın tundra kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -112,11 +112,11 @@ Kışın, özellikle güney ve güneybatıdaki kıyısal alanlarda oldukça yük
 
 İç Anadolu'da ve kuzeyde az sayıda birey sıklıkla yazı geçirir ve Nisan-Mayıs 1968'de Ağrı civarında kaydedilen 2-3 çift neredeyse kesinlikle ürediğini düşündürmüştür [@ost1969].
 
-![](images/harita_Limosa limosa.png)
+![](images/harita_Limosa%20limosa.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrupa, Batı Sibirya ve Doğu Asya'da ılıman ve tayga kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -136,11 +136,11 @@ Eylül ile nisan sonu arasında tuzcul bataklıklar ve benzeri kıyı alanların
 
 Nispeten az sayılarda gözlenmesi ciddi şekilde var olduğundan daha az sayıda kaydedildiğini ya da gerçekten seyrek olduğunu düşündürür. Uygun alanlarda gerçekleştirilen yoğun araştırmalarda zaman zaman daha sık gözlenmiş olması birinci olasılığı güçlendirmektedir. Örneğin, Mart 1990'da Çukurova'da 31 birey [@kivit1994] ve ilkbahar 1992 başlarında Kızılırmak Deltası'nda 15 birey [@hustings1994] kaydedilmiştir. Ayrıca, 2001 ve 2002 yıllarında Kulu Gölü'nde yapılan gözlemlerde oldukça düzenli bir geçit türü olduğu düşünülmüştür [@richardson2003].
 
-![](images/harita_Lymnocryptes minimus.png)
+![](images/harita_Lymnocryptes%20minimus.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz. Kuzey Avrupa ve Asya'nın tayga kuşağında yuvalar.
+Türkiye'de yuvalamaz. Kuzey Avrupa ve Asya'nın tundra ve tayga kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -158,9 +158,11 @@ Monotipik bir türdür.
 
 En sık olarak eylül başından mart sonuna kadar kaydedilir ancak bir kısmı kışlama alanlarına kasım öncesinde gelir. Kuzeydoğudaki dağ vadileri, Uludağ ve Toroslar'daki geçit alanlarında zaman zaman kaydedilir. İlkbahar geçişi nisanın ilk haftasının sonuna kadar devam edebilir. Türün en önemli kışlama alanları nemli çayırlarda ve dere boylarında yoğun olarak avlandığı Karadeniz ve Marmara'dadır. Bu mevsimde İç Anadolu, Ege ve Akdeniz'de de az sayılarda bulunur ve Aralık ayında Van Gölü yakınlarında da bir defa kaydedilmiştir.
 
-![](images/harita_Scolopax rusticola.png)
+![](images/harita_Scolopax%20rusticola.png)
 
 **Üreme**
+
+Türkiye'de yuvalamaz. Avrasya'da ılıman kuşak ve tayga ormanlarında yuvalar. En yakın yuvaladığı alan, Bulgaristan ve Romanya dağları ve Kafkasya'dır.
 
 Nisan 1992'de Kızılırmak Deltası'nın ormanlık alanlarında 17 Nisan'da gözlenen, kürek çekercesine yavaş kanat çırparak gerçekleştirdiği kur uçuşunun da gözlendiği dört kaydı vardır ancak aynı mevsimde başka gözlemlerin olmaması nedeniyle üreme olasılığını reddedilmiştir [@hustings1994].
 
@@ -184,11 +186,11 @@ Kışın İç Anadolu'da (1969 Ocak ortasında Akşehir'de bir birey) ve güney 
 
 Ülke genelinden göç sırasında kaydedilen sayılar geçtiğimiz yüzyıl boyunca neredeyse kesinlikle azalmıştır. Bu durum türün hem sayısında hem de yayılışında görülen genel azalmayla paraleldir. @matheydupraz1920 türün Boğaziçi'nde düzenli bir geçit türü olduğunu, @schrader1891 türün Aydın ve Mersin'de kış göçmeni olduğunu ve kötü hava koşullarında türün neredeyse tüm uygun alanlarda bulunduğunu (belki de suçulluğu G. gallinago ile karıştığını) ve @sandwith1856 Erzurum'da mayıs ayında büyük sürüler halinde gözlendiğini ve sonbaharda da az sayılarda görüldüğünü belirtir.
 
-![](images/harita_Gallinago media.png)
+![](images/harita_Gallinago%20media.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrupa ve Orta Sibirya'da tundra ve tayga kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -228,7 +230,7 @@ Monotipik bir türdür.
 
 İlkbahardaki geliş ve gidiş tarihlerini belirlemek zordur ancak görünüşe göre mart ve nisanın ilk haftasında en yoğun olarak geçiş yapar; Kızılırmak Deltası'nda 1000 bireyden fazlası kaydedilmiştir. Bu tarihten sonra sayılar hızla düşer ancak Doğu Anadolu'dan mayıs sonuna kadar ayrılmazlar. Dönüş yapan göçmenler temmuzun ilk haftası gözlenmeye başlar ve geçiş kasımın ilk yarısına kadar sürer. Bu tarihten sonra sadece kışlama alanlarında kaydedilir. Bu mevsimdeki en yüksek sayı 9-10 Ekim 1968'de Amik Gölü'nde gözlenen 300 bireydir ve alanda muhtemelen birkaç bin birey daha bulunmaktaydı. Kışlayanların çoğu kıyısal sulakalanlarda barınır ve çok sayıda olmasına rağmen geçit yapanlardan daha azdır. En önemli kış sayımları arasında Tarsus'ta kaydedilen 200 birey ve Balıkesir Gönen'de kaydedilen 100 birey vardır.
 
-![](images/harita_Gallinago stenura.png)
+![](images/harita_Gallinago%20stenura.png)
 
 **Üreme**
 
@@ -253,11 +255,11 @@ Türkiye'de nominat alttürü bulunur.
 
 İki kaydı vardır. 19 Eylül 1983'te Balık Gölü'nde (Kızılırmak Deltası) kış tüyörtüsü ile bir birey kaydedilmiş, ancak gözlem ayrıntılı olarak belgelenmemiştir [@braeuning1984; @dijksen1985]. Ardından 5 Mayıs 1984'te Sultansazlığı'nda yaz tüyörtüsü ile kaydedilen bir erişkin [@kasparek1990a] gözlemi yayınlanmıştır. Son yıllarda (1992) Bulgaristan'da [@nankinov1998] ve Orta Doğu'da kaydedilmiştir; bu Yenidünya türü Umman'a da ulaşmıştır [@porter1996].
 
-![](images/harita_Phalaropus tricolor.png)
+![](images/harita_Phalaropus%20tricolor.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kuzey Amerika'nın preri bölgesinde yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -277,11 +279,11 @@ Son zamanlara ait üç tane alan kaydı ve bir tane de eski örnek kaydı vardı
 
 Hem @ergene1945 hem de @kasparyan1956 Türkiye'de bulunduğundan bahsetmektedir ancak her ikisi de güvenilir olmayan kaynaklardır ve bilgi kaynağını 19. yy sonlarında İstanbul'dan alınan bir dişiden bahseden @matheydupraz1920 dayandırmaktadır. Bu kaydın, @kirwan1997a tarafından yanlışlıkla öne sürdüğü gibi Robson tarafından Boğaziçi'nden alınan dişiye ait olmadığına dikkat edilmelidir çünkü ikincinin daha dikkatli okunmasıyla görüleceği gibi ilk izlenimde @elwes1870 P. lobatus'u kastetmektedir. @brinkmann1990, Nisan-Mayıs 1989'da Büyük Menderes Deltası'nda bir bireyden bahsetmekte ancak kanıtlayıcı hiçbir detay sunmamaktadır.
 
-![](images/harita_Phalaropus fulicarius.png)
+![](images/harita_Phalaropus%20fulicarius.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kuzey Amerika ve Orta ve Doğu Sibirya'nın tundra kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -301,11 +303,11 @@ Monotipik bir türdür.
 
 Sonbaharda temmuz başından ekim başına kadar kaydedilir, ancak ağustos ve eylül başında yoğundur. Bu mevsimde 30 bireyden daha kalabalık gruplar nadirdir. Eylül 1973 başlarında Ardeşen açıklarında yaklaşık 70 birey kaydedilmiştir.
 
-![](images/harita_Phalaropus lobatus.png)
+![](images/harita_Phalaropus%20lobatus.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -325,11 +327,11 @@ Muhtemelen her iki mevsimde de en sık olarak Van Gölü Havzası'nda kaydedilir
 
 5 Ocak 2002'de Göksu Deltası'nda bir kışlama kaydı vardır [@demirci2002]; türün düzenli olarak kışladığı en yakın yer Basra Körfezi'dir. Belirsiz bir referansla 1875 yazında İstanbul çevresinde vurulduğu ve Robert Koleji (Bebek, İstanbul) koleksiyonuna dâhil edildiği belirtilen bir çift [@sclater1876] dışında Hollom ve Jamieson'un Mayıs 1966'da Erçek Gölü'ndeki kaydından önce ülkede başka kaydı yoktur [@kumerloeve1966d; @kumerloeve1967a].
 
-![](images/harita_Xenus cinereus.png)
+![](images/harita_Xenus%20cinereus.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kuzey Avrasya'da Kuzeydoğu Avrupa ile Bering Denizi arasında tayga ve ormanlık tundra kuşaklarında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -349,7 +351,7 @@ Yukarı Aras ve Murat vadilerinde, Erzurum çevresinde sık görülen üreyen bi
 
 Geçit sırasında sulakalanlarda ve kıyılarda boldur. İlkbahar geçişi mart ortasından en az mayıs ortasına kadar sürer ve en yoğun olduğu dönem, en azından iç ve güney bölgeleri için, nisanın ikinci yarısıdır. Sonbaharda temmuz sonundan ekim sonuna kadar kaydedilir. Muhtemelen Türkiye'deki üremede başarısız olan bireyler, haziran sonundan itibaren sulakalanlarda tekrar gözükmeye başlar. Kasım ortası kadar geç bir tarihte İç Anadolu'da gözlenen bir birey muhtemelen kışlamaya niyetlenmiştir. Az sayılarda da olsa özellikle Ege ve Akdeniz'deki uygun kıyısal sulakalanlarda düzenli olarak kışlar ancak bu mevsimde bu bölgelerin iç kesimlerinden de birkaç of kaydı vardır. Ayrıca, İç Anadolu'da aralık ortasında ve ocak ortasında birer, Karadeniz'de ocakta bir ve Güneydoğu Anadolu'da ocak sonunda bir kaydı vardır.
 
-![](images/harita_Actitis hypoleucos.png)
+![](images/harita_Actitis%20hypoleucos.png)
 
 **Üreme**
 
@@ -374,11 +376,11 @@ Monotipik bir türdür. Eskiden *Tringa* cinsi altında sınıflandırılmışt�
 
 2 Ağustos 1988'de Göksu Deltası'nda yaz tüy örtüsüne sahip bir bireyin fotoğraflanmasıyla belgelenen bir kaydı vardır [@debruin1989]. Diğer iddialar görünüşe göre eskiden Robert Koleji'ndeki (İstanbul) koleksiyonda bulunan [@matheydupraz1920] ve artık mevcut olmayan [@kirwan1997a] üç örnekle ilgilidir. Ayrıca, güvenilir olmadığı konusunda adı çıkmış olan [@wahby1930oiseaux], Ekim 1920'de Fikirtepe'de (İstanbul) bir bireyden bahsetmektedir. SON GÜNCEL KAYDI GELECEK.
 
-![](images/harita_Actitis macularius.png)
+![](images/harita_Actitis%20macularius.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kuzey Amerika'da yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -400,11 +402,11 @@ Genellikle 50 bireyden daha küçük gruplar halinde gözlenir ancak 200 bireyde
 
 Ülkenin batı ve iç kesimlerinde düzenli olarak kışlar. Bu mevsimde küçük gölcüklerde, haliçlerde ve beton sulama kanallarında göç dönemine göre daha bile sık gözlenir ve bu dönemde iç bölgelerdeki en yaygın kıyı kuşudur.
 
-![](images/harita_Tringa ochropus.png)
+![](images/harita_Tringa%20ochropus.png)
 
 **Üreme**
 
-**Yuvalama alanı:** Küçük göller ve bataklıklar bulunan ormanlık alanlar.\
+**Yuvalama alanı:** Küçük göller ve bataklıklar bulunan ormanlık alanlar. Genelde Kuzey Avrasya'daki nemli ormanlarda ve tayga kuşağında yuvalar. Türkiye'de nadiren yuvaladığı düşünülür. \
 **Yuvası:** Yuvasını bazen yerde bazen ağaçta, alçak bir dalda yapar. Eski bir ardıç yuvasını kullanabilir\
 **Yumurta sayısı:** Türkiye'de yumurta sayısı bilinmez. Diğer yerlerde 3-4 yumurta koyar.\
 **Üreme dönemi:** Mayıs ve haziran arasında yumurta bırakması beklenir. Yavrular temmuz ve ağustosta görülür. **MAR:** Mayıs ve Ağustos 2009’da Istranca Dağları’nda birkaç birey gözlenmiş, Ağustos'ta genç kuşlar görülmüştür [@ozkan2010]. **KAR:** 12 Haziran 1975'te İkizdere ve İspir arasındaki dağlarda 3000 metrede nemli bir çayırda kur davranışı yapan bir birey gözlenmiştir [@ost1978].
@@ -425,11 +427,11 @@ Monotipik bir türdür.
 
 Lagünlerde, çamur düzlüklerinde, gölcüklerde ve sazlıklarda bulunur. Doğu bölgelerinde daha seyrektir. Mart ortasından haziran başına kadar süren ilkbahar geçişinde küçük sürüler oluşturur. Çoğunluğu nisanın ilk yarısında geçiş yapar. Örneğin, toplam 498 bireylik ilkbahar geçişinin 167'si 5 Nisan 1990'da Çukurova'da kaydedilmiştir [@kivit1994]. 7 Temmuz'da başlayan sonbahar geçişi de genellikle küçük sürüler halindedir ancak özellikle ağustosun ilk yarısından sonra lokal olarak dikkate değer sayılar kaydedilebilir. Örneğin, 22-23 Eylül 1974'te Hotamış Sazlığı'nda 135 birey kaydedilmiştir. Sonbahar geçişi ekim sonlarına kadar devam eder ve bu tarihten sonra bile ülkenin batı yarısında çok az sayılarda kaydedilir. Özellikle Gediz Deltası, Acıgöl ile Göksu ve Çukurova Deltaları ve hatta çok daha nadir olarak İç Anadolu'da olmak üzere kışın da zaman zaman çok az sayılarda kaydedilir.
 
-![](images/harita_Tringa stagnatilis.png)
+![](images/harita_Tringa%20stagnatilis.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Ukrayna'dan Mançurya'ya uzanan bozkır ve tayga kuşağı arasında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -449,11 +451,11 @@ Monotipik bir türdür.
 
 Genellikle birkaç düzineden daha küçük gruplar halinde gözlenir ancak bazen İç Anadolu'da ve diğer yerlerdeki sulakalanlarda daha yüksek sayılar da kaydedilir. Örneğin, 17 Eylül 1996'da Manyas Gölü'nde sayılan en az 1000 birey en yüksek kayıttır.
 
-![](images/harita_Tringa glareola.png)
+![](images/harita_Tringa%20glareola.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrasya'da tunda ve tayga kuşağı arasında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -473,7 +475,7 @@ Tersakan ve Bolluk gölleri, Akşehir Gölü ve Sultansazlığı ve Van Gölü i
 
 Ülkenin büyük çoğunluğunda, mart sonundan haziran başına ve haziran sonundan kasım sonuna kadar düzenli ve bol olarak geçit yapan bir türdür. En yüksek sayılar ağustos sonunda kaydedilir. Örneğin, 26 Ağustos 1971'de Meriç Deltası'nda yaklaşık 1000 birey ve 17 Ağustos 1969'da Tuz Gölü'nde en az 2500 birey kaydedilmiştir. Kışın, çoğunluğu Ege ve Akdeniz'de olmak üzere kıyısal sulakalanlarda ve daha lokal olarak da diğer yerlerde sürüler oluşturur. 5 Ocak 2002'de Tuzla-Milas'ta kaydedilen 1260 birey ile Aralık 2004'te Gediz Deltası'nda kaydedilen yaklaşık 1500 birey en yüksek kış sayımlarıdır.
 
-![](images/harita_Tringa totanus.png)
+![](images/harita_Tringa%20totanus.png)
 
 **Üreme**
 
@@ -498,11 +500,11 @@ Nominat *totanus* ve muhtemelen zayıf biçimde ayrılmış olan *ussuriensis* a
 
 Amerika kıtasına yaşayan, Eski Dünya'da rastlantısal konuk olan bir türdür. 25 Ağustos 1988'de Ardahan yakınlarında (Kars, Doğu Anadolu) bir bireyin gözlendiği iddia edilmiştir ancak bunu ispat edecek ayrıntılar eksiktir [@kasparek1990a]. Ancak daha sonra, 27 Kasım 2006'da Kızılırmak Deltası'nda ilk kışındaki bir birey yakalanıp fotoğraflanmıştır [@erciyas2008].
 
-![](images/harita_Tringa flavipes.png)
+![](images/harita_Tringa%20flavipes.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kuzey Amerika'da tayga kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -522,11 +524,11 @@ Ana göç dönemleri mart ortası ile haziran başı ve temmuz başı ile kasım
 
 Ara sıra tek bir alanda yaklaşık 300 bireye kadar olmak üzere genellikle nispeten az sayılarda kışlar ancak 1999'da kış ortası sayımlarında sadece 53 birey kaydedilmiştir. İç kesimlerde Doğu Anadolu'da aralık ortası kadar geç bir tarihte bile kaydedilmiştir. Bazı bireyler zaman zaman Anadolu'nun iç kesimlerinde yazı geçirir.
 
-![](images/harita_Tringa erythropus.png)
+![](images/harita_Tringa%20erythropus.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrasya'da ağaçlık ve çalılık tundrada yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -544,11 +546,11 @@ Monotipik bir türdür.
 
 Mart ortasında başlayan geçişi nisanda yoğunlaşarak en az mayıs ortasına kadar sürer. Daha sonraki tarihlerde de ara sıra gözlenir ve bunların bazıları üremeden yazı İç Anadolu'da geçirir [@ost1978]. Sonbahar göçü ise temmuz ortasında başlar ve kasım sonuna kadar sürer. Sürüler çoğunlukla beş bireyden az olmak üzere genellikle oldukça küçüktür. Ancak nadir olarak 50 bireyden büyük gruplar da gözlenir. İlkbahar 1990'da Çukurova'da toplamda sadece 242 birey kaydedilmesi geçişin ölçüsünü göstermektedir [@kivit1994]. Sarıyar Barajı gibi iç kesimlerdeki donmayan sulakalanlar da düzenli kışlama girişimlerini destekliyor olabilir.
 
-![](images/harita_Tringa nebularia.png)
+![](images/harita_Tringa%20nebularia.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrasya'nın tayga kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -568,11 +570,11 @@ Kayıtların çoğu kıyısal sulakalanlardandır, anca İç Anadolu'daki sığ 
 
 Ege ve Akdeniz kıyılarında kışın aralık ve şubat arasında daha seyrek ve düzensizdir; zaman zaman daha büyük sürüler de gözlenir, örneğin Menderes Deltası'nda 40 bireye kadar kaydedilmiştir. 30 ve 50 bireylik sürüleri de dâhil ederek diğer şubat kayıtlarını da listelemiştir [@kasparek1992c].
 
-![](images/harita_Arenaria interpres.png)
+![](images/harita_Arenaria%20interpres.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -598,11 +600,11 @@ Nominat *canutus* alttürü çoğunlukla halka göçü yapar (İng. Great Circle
 
 İstanbul civarında nadir bir geçit türü olduğu [@matheydupraz1920], 1914-1989 yılları arasında 18 kaydını listeleyerek çok seyrek bir geçit türü olduğu [@kasparek1990a; @kasparek1992a] bilinir.
 
-![](images/harita_Calidris canutus.png)
+![](images/harita_Calidris%20canutus.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kuzey Amerika, Orta ve Doğu Sibirya'da tundra kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -622,11 +624,11 @@ Tüm sulakalanlarda ve tarım arazilerinde kaydedilen en bol kıyı kuşlarında
 
 Karadeniz, Ege, Akdeniz, Marmara ve İç Anadolu'daki sulakalanlarda seyrek olmayan ancak düzensiz bir kış konuğudur. Çoğunluğu Konya Havzası'nın güneyinde (en fazla Hotamış Sazlığı'nda 320 birey), Akdeniz kıyısında, Ege'nin kıyı ve iç göllerinde, Büyükçekmece'de ve Kızılırmak Deltası'nda kışlar. Kasım ve şubatta daha yüksek sayılar gözlenir ancak bunlar muhtemelen göç öncesi ya da sonrasına ait sürülerdir.
 
-![](images/harita_Calidris pugnax.png)
+![](images/harita_Calidris%20pugnax.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrasya'nın kuzey çayırlık alanlarında yuvalar. En yakın yuvalama alanları kuzey Ukrayna ve Polonya'dadır.
 
 **Alttürler ve Sınıflandırma**
 
@@ -646,11 +648,11 @@ Monotipik bir türdür. Önceleri *Philomachus pugnax* olarak adlandırılırdı
 
 Sonbaharda 10 Temmuz ile 27 Eylül (çoğunluğu Ağustos sonu ile Eylül başında) tarihleri arasında geçiş yapar. Özellikle Van Gölü Havzası'nda daha sık gözlenir. Örneğin, 3 Ağustos ile 11 Eylül 1986 arasında Van Sazlığı'nda toplamda 206 bireye kadar (Martins 1989), 16 Ağustos 1989'da Bendimahi Deltası'nda 80 birey ve Ağustos 1990 sonlarında bu bölgedeki birkaç yerde 100 bireyin üzerinde ([@kirwanmartins1994]) kaydedilmiştir. Geçiş neredeyse kesinlikle ekim başına kadar devam eder ancak ekim ayında hiç kaydı yoktur. 27 Ocak 2008'de Gediz Deltası'nda gözlenen altı bireylik grup ülkedeki tek kış kaydıdır. Modern, sistematik kaydetmenin başlamasından önce nispeten çok az kaydı vardır.
 
-![](images/harita_Calidris falcinellus.png)
+![](images/harita_Calidris%20falcinellus.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. İskandinaya Dağları'nda ve Orta ve Doğu Sibirya'da dağlık tundrada yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -668,11 +670,11 @@ Türkiye'de nominat alttürü bulunur. Eskiden *Limicola falcinellus* olarak adl
 
 Ülkedeki sulakalanlarda en yoğun olarak geçiş yaptığı dönem nisan sonu ile mayıs sonu arasındadır. Genellikle küçük sürüler ya da birkaç birey olarak görülür. Kıyısal sulakalanlarda yüksek sayılarda kaydedilir. Örneğin, 18 Mayıs 1993'te Çamaltı Tuzlasında 1000 birey ve 13 Mayıs 2001'de Gediz Deltası'nda 478 birey kaydedilmiştir. 1987 ilkbaharında, çoğu mayısın ikinci haftasında olmak üzere neredeyse 3000 birey Çukurova'dan geçmiştir [@have_etal1988] ve 1990 ilkbaharında da, 8 Mayıs'taki 2808 birey dahil, 6029 birey kaydedilmiştir [@kivit1994]. Güneye geçiş temmuz ortasından eylül ortasına kadar gözlenir ve en büyük yoğunluk genellikle ağustosun ikinci haftası olur ve bunlar muhtemelen erişkinlerdir. 23 Ağustos 1988'de Tuzla Gölü'nde (Çukurova) 200 birey sayılmıştır. İlk yılındaki bireyleri içeren ikinci yoğunluk ise eylülün ortası ile sonunda gözlenir. Akdeniz'de en geç göçmenler 10 Ekim'de, İç Anadolu'da ise 6 Kasım'da kaydedilmiştir. Son zamanlarda Büyük Menderes Deltası ve daha düzensiz Göksu Deltası'nda küçük sürüler kışlayabilir.
 
-![](images/harita_Calidris ferruginea.png)
+![](images/harita_Calidris%20ferruginea.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Orta ve Doğu Sibirya'nın tundra kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -692,11 +694,11 @@ Anadolu'nun ana göç yolu üzerinde olmasına rağmen az sayıda kaydı vardır
 
 Kışın ara sıra Akdeniz, Ege ve Güneydoğu Anadolu'da az sayılarda kaydedilir. 50 bireye kadar kaydedildiği Göksu Deltası ve Çukurova Lagünleri en önemli kışlama alanıdır. Diğer kışlama alanları arasında daha düzensiz ve genellikle sadece az sayılarda gözlendiği Birecik ve Gediz Deltası vardır.
 
-![](images/harita_Calidris temminckii.png)
+![](images/harita_Calidris%20temminckii.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrasya'nın tundra kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -716,11 +718,11 @@ Kıyısal sulakalanlarda ve daha nadiren iç bölgelerdeki göllerde konaklar. G
 
 Kasım başından mayıs sonlarına kadar kışlar. Büyükçekmece'de 130 ve Tarsus Deltası'nda 160 kuşluk sürüler sayılmıştır. Kuzeybatıda İğneada'dan güneyde Göksu Deltası'na kadar diğer yerlerde ise daha küçük gruplar kışlar.
 
-![](images/harita_Calidris alba.png)
+![](images/harita_Calidris%20alba.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz. Kuzey Kutup Denizi kıyılarında tundra kuşağında yuvalar. Kozmopolit bir türdür.
+Türkiye'de yuvalamaz. Kuzey Kutup Denizi adalarında ve Kuzey Amerika ve Avrasya'nın en kuzeydeki tundra kuşağında yuvalar. Kozmopolit bir türdür.
 
 **Alttürler ve Sınıflandırma**
 
@@ -740,11 +742,11 @@ Göçün en yoğun olduğu dönemler nisan başından mayıs sonuna kadar ve tem
 
 Özellikle Akdeniz ve Ege'deki kıyısal sulakalanlarda olmak üzere ülkenin batı ve orta bölgelerinde lokal olarak çok sayıda kışlayan bir türdür. Daha nadir olarak (bazen yüzlercesi) Tuz Gölü ve Burdur Gölü gibi iç kesimlerdeki acı göllerde de kaydedilir. Fırat ve Dicle havzasında az sayıda bulunur. Kasım sonunda büyük sürüler oluşturur ve şubat başına kadar bu şekilde kalır. 12 Ocak 2003'te 3649 birey ve 2 Şubat 2003'te 5000 bireyden fazlasının kaydedildiği Gediz Deltası günümüzdeki en önemli kışlama alanıdır. Büyük Menderes Deltası ve Çukurova da 2500 bireyi aşan toplamlarla (geçmişte 5000 bireye kadar) önemli alanlardır. İç bölgelerdeki sayılar önemsizdir ve toplam kış popülasyonu muhtemelen 10.000 ile 16.000 birey arasındadır.
 
-![](images/harita_Calidris alpina.png)
+![](images/harita_Calidris%20alpina.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -764,11 +766,11 @@ Genellikle çamurluk alanların olduğu her çeşit sulakalanda bulunur. Tüm ay
 
 Doğu Anadolu dışında ülke genelinde düzenli ancak lokal olarak kışlayan bir türdür. En yüksek sayılar Akdeniz kıyılarında kışlar, Ocak 1996'da toplam kış popülasyonunun üçte ikisi (ülke genelinde sayılan 4728 kuşun 3149'u) burada sayılmıştır. Büyük çoğunluğu (2.200 birey) Yumurtalık'ta kaydedilmiştir. Akdeniz'de Ağyatan Gölü (en fazla 1560) ve Göksu Deltası (en fazla 1550), Ege'de Gediz Deltası (en fazla 1550) ve Acıgöl, Marmara'da Büyükçekmece ve Kocaçay Deltası, Karadeniz'de Kızılırmak Deltası (en fazla 881) ve İç Anadolu'da Tuz Gölü (en fazla 1000) diğer önemli kışlama alanlarıdır.
 
-![](images/harita_Calidris minuta.png)
+![](images/harita_Calidris%20minuta.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Avrupa ve Asya'nın tundra kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
@@ -786,11 +788,11 @@ Monotipik bir türdür.
 
 İyi belgelenmiş bir kaydı vardır. 17 Mayıs 1996'da Göksu Deltası'nda gözlenen bir birey Orta Doğu için ilk kayıttır [@browne1997]. İkinci kaydı 23 Mayıs 2001'de aynı alanda görülmüştür, burada gözlemcileri kuşu tanımlamışlar, ancak fotoğraf çekememişlerdir.
 
-![](images/harita_Calidris fuscicollis.png)
+![](images/harita_Calidris%20fuscicollis.png)
 
 **Üreme**
 
-Türkiye'de yuvalamaz.
+Türkiye'de yuvalamaz. Kuzey Amerika'nın tundra kuşağında yuvalar. Kışı Güney Amerika'nın güneydoğu kıyılarında geçirir.
 
 **Alttürler ve Sınıflandırma**
 
@@ -808,15 +810,14 @@ Monotipik bir türdür.
 
 Türkiye’de oldukça nadir rastlanan bir türdür. Şimdiye kadar kaydedilen gözlemler sonbahar göç dönemine aittir. 9-10 Mayıs 2005'te Kulu Gölü'nde fotoğraflanarak belgelenen tek erkek birey ilk kaydıdır. İlk kez 20 Eylül 2008’de Konya Kozanlı Gölü’nde görülmüştür. Sonra 6 Ekim 2008’de Adana Ağyatan’da 2 birey (S. Bekir), 7-9 Ekim 2010’da Edirne Enez Lagünleri’nde (E. Yoğurtçuoğlu), 19-26 Ekim 2014’te tekrar Konya Kozanlı Gölü’nde, 29-30 Eylül 2012'de Çukurova Deltası'nda, 30 Eylül-1 Ekim 2018’de Balıkesir Manyas Gölü’nde (A. Tüydeş), 77 Ekim 2020’de Gaziantep Hancağız Barajı’nda (M. E. Tiryaki) ve 8-9 Eylül 2024’te Manisa Dibekdere’de (M. Altunbaş) kaydedilmiştir.
 
-![](images/harita_Calidris melanotos.png)
+![](images/harita_Calidris%20melanotos.png)
 
 (harita güncellenecektir)
 
 **Üreme**
 
-Türkiye'de yuvalamaz. Asıl üreme alanı Orta ve Doğu Sibirya ve Amerika tundra kuşağıdır. Kışlama alanı Avustralya, Yeni Zelanda ve Güney Amerika'dır.
+Türkiye'de yuvalamaz. Asıl üreme alanı Orta ve Doğu Sibirya ve Kuzey Amerika'nın tundra kuşağıdır. Kışlama alanı Avustralya, Yeni Zelanda ve Güney Amerika'dır.
 
 **Alttürler ve Sınıflandırma**
 
 Monotipik bir türdür.
-

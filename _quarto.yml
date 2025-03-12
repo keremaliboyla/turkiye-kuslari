@@ -13,17 +13,17 @@ book:
   chapters:
     - index.qmd
     - 00_onsoz.qmd
-    # - 00_turkiye_ornitoloji_tarihi.qmd
+    - 00_turkiye_ornitoloji_tarihi.qmd
     - 00_bilgi_bosluklari.qmd
     - 01_ordekgiller.qmd
     - 02_tavukgiller.qmd
-    # - 09_karakuslari.qmd   # 16 Şub
+    - 03_deniz-ve-gol-kuslari.qmd
+    - 04_yirticilar.qmd
     - 05_bataklik-kuslari.qmd
     - 06_cilibitlar.qmd
     - 07_cullukgiller.qmd
-    # - 08_martilar.qmd      # 2 Şub
-    - 03_deniz-ve-gol-kuslari.qmd
-    - 04_yirticilar.qmd
+    - 08_martilar.qmd      # 2 Şub
+    # - 09_karakuslari.qmd   # 16 Şub
 # buraya 09_karakuslari'ndan baykuşlar gelecek
     # - 10_otucu-oncesi.qmd  # 2 Mar
     # - 11_kargamsilar.qmd   # 2 Mar
