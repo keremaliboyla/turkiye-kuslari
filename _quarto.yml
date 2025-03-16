@@ -20,9 +20,8 @@ book:
     - 05_bataklik-kuslari.qmd
     - 06_cilibitlar.qmd
     - 07_cullukgiller.qmd
-    - 08_martilar.qmd      # 2 Şub
+    - 08_martilar.qmd
     # - 09_karakuslari.qmd   # 16 Şub
-# buraya 09_karakuslari'ndan baykuşlar gelecek
     # - 10_otucu-oncesi.qmd  # 2 Mar
     # - 11_kargamsilar.qmd   # 2 Mar
     # - 12_toygarlar.qmd     # 16 Mar
