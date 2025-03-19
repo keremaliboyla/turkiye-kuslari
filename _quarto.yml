@@ -21,16 +21,16 @@ book:
     - 06_cilibitlar.qmd
     - 07_cullukgiller.qmd
     - 08_martilar.qmd
-    # - 09_karakuslari.qmd   # 16 Şub
-    # - 10_otucu-oncesi.qmd  # 2 Mar
-    # - 11_kargamsilar.qmd   # 2 Mar
-    # - 12_toygarlar.qmd     # 16 Mar
-    # - 13_civginlar.qmd     # 16 Mar
-    # - 14_otlegenler.qmd    # 30 Mar
-    # - 15_tirmasiklar.qmd   # 30 Mar
-    # - 16_sinekkapanlar.qmd # 13 Nis
-    # - 17_serceler.qmd      # 13 Nis
-    # - 18_ispinozlar.qmd    # 27 Nis
+    - 09_karakuslari.qmd   # Fotoğraflar eklenecek
+    # - 10_otucu-oncesi.qmd  # 31 Mart
+    # - 11_kargamsilar.qmd   # 31 Mart
+    # - 12_toygarlar.qmd     # 14 Nisan
+    # - 13_civginlar.qmd     # 14 Nisan
+    # - 14_otlegenler.qmd    # 28 Nisan
+    # - 15_tirmasiklar.qmd   # 28 Nisan
+    # - 16_sinekkapanlar.qmd # 12 Mayıs
+    # - 17_serceler.qmd      # 12 Mayıs
+    # - 18_ispinozlar.qmd    # 19 Mayıs
     - 00_turkiye_ornitoloji_tarihi.qmd
     - 00_bilgi_bosluklari.qmd
     - references.qmd
