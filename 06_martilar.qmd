@@ -1,5 +1,5 @@
 ---
-title: "Martılar"
+title: "Martılar ve diğerleri"
 ---
 
 ## Yengeç Yağmurcunu
@@ -69,7 +69,7 @@ En önemli üreme alanları şunlardır: Meriç Deltası (200 çift), Kocaçay D
 
 **Üreme**
 
-**Yuvalama alanı:** Koloniler, düzlük alanlarda, tipik olarak göl ve bataklıkların kuru kıyılarında, çıplak zeminlerde ve seyrek çalılıklarda, sıklıkla bataklık ve çayırların arasında bulunur. Aynı zamanda deniz börülcesi bulunan kuru tuzcul bataklıklarda, ekime hazırlanan nemli tarlalarda, kıyısal kumullarda ve sıklıkla iç göllerdeki çıplak düz adalarda ürer. Tek üreyen çiftler de bulunur ancak çoğunlukla 10-30 çiftlik küçük koloniler halinde ürer. \
+**Yuvalama alanı:** Koloniler, düzlük alanlarda, tipik olarak göl ve bataklıkların kuru kıyılarında, çıplak zeminlerde ve seyrek çalılıklarda, sıklıkla bataklık ve çayırların arasında bulunur. Aynı zamanda deniz börülcesi bulunan kuru tuzcul bataklıklarda, ekime hazırlanan nemli tarlalarda, kıyısal kumullarda ve sıklıkla iç göllerdeki çıplak düz adalarda ürer. Tek üreyen çiftler de bulunur ancak çoğunlukla 10-30 çiftlik küçük koloniler halinde ürer.\
 **Yuvası:** Yuvası, çıplak zeminde derin olmayan bir kazıntıdır. Çevrelenmemiştir veya az sayıda küçük bitkisel materyaller bulunur.\
 **Yumurta sayısı:** Genellikle 3 yumurta bırakır. 13 yuvada 3 yumurta, 5 yuvada 2 yumurta ve 5 yuvada tek yumurta kaydedilmiştir. Bu az sayıdaki yumurtalar tamamlanmamış kuluçkalara aittir.\
 **Üreme dönemi:** Genellikle mayıs ayında yumurta koyar, yavrular haziran ayından itibaren uçmaya başlar. **MAR:** 1993’te Kocaçay Deltası’nda toplamda 80-100 çiftlik üç koloni bulunmuş olup, en erken varış tarihi nisan ortasıdır [@ertan1996]. 11 Haziran 1998’de Uluabat Gölü’ndeki küçük bir koloni, üreme alanı yeniden sürülünce yer değiştirmiş ve yakındaki diğer bir küçük koloniye katılmıştır [@welch1998b]. 25 Haziran 1973’te Kavak’ta neredeyse uçmaya yakın büyüklükte iki yavru kaydedilmiştir. **EGE:** 16 Mayıs 1899’da İzmir yakınlarındaki kıyısal lagünlerde, içinde üçer yumurta olan birkaç yuva gözlenmiştir [@selous1900]. 1 Temmuz 1966’da tamamen tüylenmiş iki yavru (kesin lokalite belirsiz) kaydedilmiştir. **AKD:** 1987’de Çukurova’da erişkinler, nisanın ikinci haftasında gelmiş ve mayıs ayında sayıları artmıştır [@have_etal1988]. Aynı yerde 6 Mayıs 1990’da içinde 1, 2 ve 3 yumurta bulunan üç yuva ve 11 Mayıs 1990’da 1-2 yumurtalı birkaç yuva kaydedilmiştir. Göksu Deltası’nda, kuluçkadaki bir yuvada ikinci yumurta 22 Mayıs 1993’te koyulmuştur. 9 Haziran 1993’te 5-7 günlük iki yavru görülmüş olup, bu gözlem yumurtlamanın mayıs ortasında başladığını göstermektedir. 28 Temmuz 1971 ve 19 Ağustos 1986’da yeni uçmaya başlamış iki yavru kaydedilmiştir. Amik Gölü’nde 18-20 Haziran 1966’da yumurtalı yuvalar bulunmuştur. **KAR:** 1992’de Kızılırmak Deltası’nda üreyen popülasyon daha çok kuru çamurlu topraktaki kurumuş bataklıklarda, kısmen büyümüş 10-20 cm boyundaki *Rumex* vejetasyonu içinde yer almıştır. 30 Nisan 1992’de kur davranışı ve 10 Mayıs 1992’de üçer yumurtalı beş yuva ile bir yumurtalı bir yuva kaydedilmiştir [@hustings1994]. **İÇA:** Sultansazlığı’nda 3 Haziran 1982’de üçer yumurtalı üç yuva ve başka iki yuvada yeni çıkmış bir yavru ve bir yumurta kaydedilmiştir. Bu durum, yumurtlamanın mayıs ortasında başladığını göstermektedir [@kasparek1985]. 15 Mayıs 1987’de Hotamış’ta bir boş yuva ve içinde bir yumurta olan bir yuva, 4 Haziran 1975’te ise iki yavru kaydedilmiştir [@kirwan1993a]. Bu yavrular neredeyse uçabilecek büyüklüktedir ve bu durum yumurtlamanın nisan sonunda başladığını göstermektedir. Bu tarih, diğer kayıtlardan daha erkendir. Bolluk Gölü’ndeki bir adada 15 Mayıs 2004’te, ikisinde 3, birinde 2 ve diğerinde 1 yumurta olan dört yuva kaydedilmiştir.
@@ -874,7 +874,7 @@ Kış aylarında tüm kıyılarda yaygın olarak görülür. Karadeniz'in kuzeyi
 
 Türkiye'de nominat alttürü bulunur.
 
-##  Tepeli Sumru
+## Tepeli Sumru
 
 *Thalasseus bengalensis*, Lesser Crested Tern
 

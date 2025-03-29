@@ -12,16 +12,15 @@ book:
   
   chapters:
     - index.qmd
-    - 00_onsoz.qmd
     - 01_ordekgiller.qmd
-    - 02_tavukgiller.qmd
-    - 03_deniz-ve-gol-kuslari.qmd
-    - 04_yirticilar.qmd
-    - 05_bataklik-kuslari.qmd
-    - 06_cilibitlar.qmd
-    - 07_cullukgiller.qmd
-    - 08_martilar.qmd
-    - 09_karakuslari.qmd   # Fotoğraflar eklenecek
+    - 02_tavukgiller_vd.qmd
+    - 03_bataklik-kuslari.qmd
+    - 04_cilibitlar.qmd
+    - 05_cullukgiller.qmd
+    - 06_martilar.qmd
+    - 07_deniz-ve-gol-kuslari.qmd
+    - 08_yirticilar.qmd
+    - 09_baykuslar.qmd
     # - 10_otucu-oncesi.qmd  # 31 Mart
     # - 11_kargamsilar.qmd   # 31 Mart
     # - 12_toygarlar.qmd     # 14 Nisan
@@ -31,8 +30,11 @@ book:
     # - 16_sinekkapanlar.qmd # 12 Mayıs
     # - 17_serceler.qmd      # 12 Mayıs
     # - 18_ispinozlar.qmd    # 19 Mayıs
-    - 00_turkiye_ornitoloji_tarihi.qmd
-    - 00_bilgi_bosluklari.qmd
+    - part: "Ekler"
+      chapters:
+        - 00_tarihce_ve_tesekkur.qmd
+        - 00_turkiye_ornitoloji_tarihi.qmd
+        - 00_bilgi_bosluklari.qmd
     - references.qmd
 
 bibliography: references.bib
