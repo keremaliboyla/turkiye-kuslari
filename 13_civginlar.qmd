@@ -1,5 +1,5 @@
 ---
-title: "Çıvgınlar"
+title: "Çıvgınlar, Kamışçınlar, Mukallitler"
 ---
 
 ## Söğütbülbülü
@@ -8,7 +8,7 @@ title: "Çıvgınlar"
 
 ***Yaygın ve çok sayıda bulunan bir geçit kuşudur.***
 
-Ara sıra çok yüksek sayılarla kaydedildiği olmuştur, örn. 11 Eylül 1970'de İstanbul Büyük Çamlıca'da yaklaşık 3000 birey, 18 Eylül 1968 ve 28 Ağustos 1971'de Uludağ'da ise benzer bir toplamla kaydedilmiştir. Baharda, kuzeyde ve doğuda mart sonu ya da nisan başından itibaren gözlenmiştir. Geçit kimi zaman haziranın ilk haftasına kadar sürer, ancak genelde en yüksek sayı mayısın ilk yarısında geçer. Sonbaharda, ağustos başından itibaren gözlenmiş, en yüksek sayılar ise eylülden ekim ortasında kadar kaydedilmiştir. Sona kalan bireylere ise ekim sonu ve belki de daha geç tarihlere kadar rastlanır. Gözlemcilerin çoğu geçit noktalarında bu tür ile Çıvgın'ı (P. collybita) ayırtetmedikleri için göçe dair uç tarihler vermek zordur. En az 2400 m'den kaydı vardır. Kasparek (1992a) Marmara'da ara sıra kışladıklarından sözetmiştir. Büyük Menderes Deltası'ndan biri 19 Ocak 1969'da öten (böylelikle aynı bölgede sıklıkla kışlayan Çıvgın ile karışmayacak şekilde) bir bireye, diğeri 24-29 Ocak 1972'de gözlenen 1 ya da 2 bireye ait 2 yayımlanmış kayıt vardır (OST 1972, 1975). 31 Aralık 1986'da Dalyan'da bacak renginden yola çıkılarak iddia edilen bir kayıt daha vardır (Kılıç ve Kasparek 1989).
+Ara sıra çok yüksek sayılarla kaydedildiği olmuştur, örn. 11 Eylül 1970'de İstanbul Büyük Çamlıca'da yaklaşık 3000 birey, 18 Eylül 1968 ve 28 Ağustos 1971'de Uludağ'da ise benzer bir toplamla kaydedilmiştir. Baharda, kuzeyde ve doğuda mart sonu ya da nisan başından itibaren gözlenmiştir. Geçit kimi zaman haziranın ilk haftasına kadar sürer, ancak genelde en yüksek sayı mayısın ilk yarısında geçer. Sonbaharda, ağustos başından itibaren gözlenmiş, en yüksek sayılar ise eylülden ekim ortasında kadar kaydedilmiştir. Sona kalan bireylere ise ekim sonu ve belki de daha geç tarihlere kadar rastlanır. Gözlemcilerin çoğu geçit noktalarında bu tür ile Çıvgın'ı ayırtetmedikleri için göçe dair uç tarihler vermek zordur. En az 2400 m'den kaydı vardır. Kasparek (1992a) Marmara'da ara sıra kışladıklarından sözetmiştir. Büyük Menderes Deltası'ndan biri 19 Ocak 1969'da öten (böylelikle aynı bölgede sıklıkla kışlayan Çıvgın ile karışmayacak şekilde) bir bireye, diğeri 24-29 Ocak 1972'de gözlenen 1 ya da 2 bireye ait 2 yayımlanmış kayıt vardır (OST 1972, 1975). 31 Aralık 1986'da Dalyan'da bacak renginden yola çıkılarak iddia edilen bir kayıt daha vardır (Kılıç ve Kasparek 1989).
 
 ![](images/harita_Phylloscopus%20trochilus.png)
 
@@ -498,7 +498,7 @@ Monotipik bir türdür.
 
 Tek kaydı vardır. 25 Temmuz 1973'te Çanakkale ilindeki Kavak'ta genç bir birey halkalanmıştır (Eyckerman vd. 1992). Yayında bireye ait bazı biyometrik bilgilere yer verilmiştir. Roselaar (1995) bu kaydın aslında sarımsı bir ak mukallit (H. pallida elaeica) genci olabileceğini düşünmüştür, ancak Ekim 1982'de Bulgaristan'da bir şarkıcı mukallit daha halkalanmıştır (Nankinov 2003). Bu tür Doğu Akdeniz'de çok nadirdir. Yunanistan'dan yalnızca biri onaylanmış dört kayıt vardır (Handrinos ve Akriotis 1997). Hollom vd.(1988) büyük olasılıkla bir hata sonucu türün Kuveyt'te bulunduğundan söz edilmiştir.
 
-![](images/harita_Hippolais%20polyglotta.png)
+![](images/harita_Hippolais polyglotta.png)
 
 **Üreme**
 

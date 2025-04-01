@@ -18,7 +18,7 @@ Geniş yayılışlı, olup her türlü düz arazide habitatında görülebilen s
 
 **Üreme**
 
-**Yuvalama alanı:** Türe ait pelet ve tüyler, yarlardaki mağaralarda, harabelerde, binalarda, tarımsal yapılarda, ağaç kovuklarında [@kasparek1986b] ve toprak duvarlarda bulunmuştur.\
+**Yuvalama Alanı:** Türe ait pelet ve tüyler, yarlardaki mağaralarda, harabelerde, binalarda, tarımsal yapılarda, ağaç kovuklarında [@kasparek1986b] ve toprak duvarlarda bulunmuştur.\
 **Yuvası:** Yumurtalar, yuva kovuğunun düz zemine herhangi bir malzeme eklenmeden bırakılır. Dibinde bir miktar çar çöp olan yuva kovuklarında, döküntülerin bulunduğu alanlarda, içi çoğunlukla peletle dolu alçak bir oyuğun kazıldığı da gözlenmiştir. Peletler bazen katı malzemenin arasına eklenir.\
 **Yumurta sayısı:** Genellikle 4-7 yumurta bırakır. Bazen 2-12 arasında değişebilir. Türün yılda iki kere ürediği sıklıkla gözlenmektedir.\
 **Üreme dönemi:** Avrupa’da yumurtlama nisan ayında başlamakta ve yumurtlamadan palazlanmaya kadar geçen toplam üreme dönemi üç aydan biraz daha uzun sürmektedir. **AKD:** Çukurova’da, 14 Mayıs 1987’de terkedilmiş bir evin tavan arasında üreyen bir çift ve peletlerin üzerine bırakılmış 5 yumurta görülmüştür [@vanderven1980birds]. 16 Nisan 1988’de Gökçeli, Çukurova’da iki yetişkin bireyin binalara girdiği kaydedilmiştir. 20 Mayıs 1996’da Side’de, bir yetişkin bireyin otel çatısındaki yuvasına yem taşıdığı gözlenmiştir. Ağustos 1986’da Ankara Hayvanat Bahçesi’ne getirilen 7 peçeli baykuşun, Antalya yakınlarındaki Serik’te bir evin çatısında bulunmuş olup, hepsinin aynı kuluçkadan çıkan yavrular olduğu tespit edilmiştir [@kasparek1986b].
@@ -43,7 +43,7 @@ Açık dağlık, ormanlık alanları ve genellikle de sık habitatı tercih eder
 
 **Üreme**
 
-**Yuvalama alanı:** Plantasyonların bulunduğu açık ormanlık arazilerde, yarlar da dâhil kayalık dağlık alanlarda ve köy hatta şehir yakınlarında dahi üreyebilmektedir. Yar ve duvarlardaki kovuklara, diğer kuşların doğal ve suni eski yuvalarına yuvalayabilmektedir. Ağaç ve binalardaki oyuklara (özellikle kiremit aralarına) da yuvaladığı bilinse de Türkiye’den böyle bir kayıt bulunmamaktadır.\
+**Yuvalama Alanı:** Plantasyonların bulunduğu açık ormanlık arazilerde, yarlar da dâhil kayalık dağlık alanlarda ve köy hatta şehir yakınlarında dahi üreyebilmektedir. Yar ve duvarlardaki kovuklara, diğer kuşların doğal ve suni eski yuvalarına yuvalayabilmektedir. Ağaç ve binalardaki oyuklara (özellikle kiremit aralarına) da yuvaladığı bilinse de Türkiye’den böyle bir kayıt bulunmamaktadır.\
 **Yuvası:** Materyal bulunmayan boş bir oyuktan ibarettir.\
 **Yumurta sayısı:** Tring Doğa Tarihi Müzesi’nde bulunan ve İzmir yakınlarından toplanmış yumurtalar şu şekildedir: 12 Mayıs 1870’te bir yuvadan 4 yumurta, 12 Mayıs 1872’de tamamlanmamış bir yuvadan 2 yumurta, 1 Haziran 1872’de 4 yumurta ve 20 Haziran 1878’de tamamlanmamış bir kuluçkadaki tek yumurta kaydedilmiştir.\
 **Üreme dönemi:** Mayıs ayında yumurta koyar, yavrular haziran ve temmuz ayında görülür. **EGE:** Tring Doğa Tarihi Müzesi’nde bulunan yumurtalar, İzmir yakınlarından toplanmıştır. 12 Mayıs 1870’te bir yuvadan 4 yumurta, 12 Mayıs 1872’de tamamlanmamış bir yuvadan 2 yumurta, 1 Haziran 1872’de 4 yumurta ve 20 Haziran 1878’de tamamlanmamış bir kuluçkadaki tek yumurta kaydedilmiştir. **AKD:** 28-29 Nisan 1970’te Aladağ’da bir kaya yüzündeki yuvada, muhtemelen kırmızı gagalı dağ kargasına ait eski bir yuvada tünemiş erişkin bir birey ve 17-23 Temmuz 1971’de Maden’de, 1700 metrede bir duvarda bulunan yuvada iki yavruyu besleyen bir çift kaydedilmiştir. **İÇA:** Ankara yakınlarında, 1976-1985 yılları arasında suni yuvaların kullanıldığı bir çalışmada her yıl 2-4 çiftin ürediği, ortalama yoğunluğun 0,27 üreyen çift/ha olduğu belirlenmiştir. Ortalama kuluçka (7 yuvaya ait) 3,7 yumurta olup, çift başına 3,3 yavrunun palazlandığı kaydedilmiştir [@kiziroglu1987]. İç Anadolu’nun başka bir kesiminde bulunan Sultansazlığı’nda, 22 Haziran 1983’te görülen palazlanmış 3 yavru [@kasparek1985], yumurtlamanın nisan sonunda gerçekleştiğini göstermektedir.
@@ -68,7 +68,7 @@ Küresel üreme yayılışının kıyısında yayılış gösteren bir tür olar
 
 **Üreme**
 
-**Yuvalama alanı:** Kurak bölgelerdeki ağaçlık alanlarda ürer. Tüm üreme kayıtları, özellikle Birecik’teki meşhur çay bahçesi olmak üzere Güneydoğu Anadolu’dan gelmiştir. Fırat Vadisi’nde, Birecik’in kuzeyindeki bir meyve bahçesinde ve Halfeti yakınlarında da ürediği bilinmektedir.\
+**Yuvalama Alanı:** Kurak bölgelerdeki ağaçlık alanlarda ürer. Tüm üreme kayıtları, özellikle Birecik’teki meşhur çay bahçesi olmak üzere Güneydoğu Anadolu’dan gelmiştir. Fırat Vadisi’nde, Birecik’in kuzeyindeki bir meyve bahçesinde ve Halfeti yakınlarında da ürediği bilinmektedir.\
 **Yuvası:** Yuvalar, ağaçlarda yerden yaklaşık 7-10 metre yükseklikteki kovuklarda bulunur ve yuva materyali eklenmez. Yurtdışında daha alçak kovukları da kullandığı bildirilmiştir. Bu nedenle, Birecik çevresinde üreyen bireylerin gözden kaçtığı ve muhtemelen daha alçak ağaç kovuklarını da kullandığı düşünülmektedir. Aynı ağaç kovuğunun iki yıl üst üste kullanıldığı gözlenmiştir. Halfeti’de bir kavak ağacında, yerden 8 metre yükseklikte bulunan eski bir Küçük Serçe yuvasına yuvaladığı kaydedilmiştir (van den Berg vd. 1988). Ayrıca, 29 Mayıs 1985’te Birecik’te eski bir leş kargası yuvasını kullanmış olabileceği düşünülmüş, ancak kanıtlanamamıştır.\
 **Yumurta sayısı:** Diğer bölgelerde 4-6 yumurta kaydedilmiştir. Yuva dışında, 2 yuvada 2 yavru, 4 yuvada 3 yavru, 3 yuvada 4 yavru ve 2 yuvada 5 yavru gözlenmiştir.
 
@@ -94,7 +94,7 @@ Tüm ülke boyunca kayalık alanlarda seyrek olarak bulunan yerli bir türdür. 
 
 **Üreme**
 
-**Yuvalama alanı:** Yarların ve kayalık kanyonların olduğu bölgelerde, hem ormanlık hem de kurak, ağaçsız vadiler ve dağ geçitlerinde ürer.\
+**Yuvalama Alanı:** Yarların ve kayalık kanyonların olduğu bölgelerde, hem ormanlık hem de kurak, ağaçsız vadiler ve dağ geçitlerinde ürer.\
 **Yuvası:** Yuvasını yarlardaki mağaralara, oyuklara veya çıkıntılara yapar. Ağaçlarda, diğer kuşların eski yuvalarına ya da doğal kovuklara yuvaladığına dair Türkiye’den kayıt bulunmamaktadır. Yuva materyali kullanmaz ve yuvasının zeminini bir miktar kazar.\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı 2 yuvada 2 yumurta, 1 yuvada 3 yumurta olarak kaydedilmiştir. Yuvada 4 yuvada 2 yavru, 1 yuvada 3 yavru kaydedilmiştir. Yuva dışında, Birecik’teki ünlü alanda 3 yuvada 1 yavru, 1 yuvada 2 yavru ve 1 yuvada 3 yavru gözlenmiştir.\
 **Üreme dönemi:** Genellikle şubat ve mart arasında yumurta koyar, nisandan ağustosa kadar yavrular görülebilir. **MAR:** 24 Mayıs 1993’te Kocaçay Deltası yakınlarındaki dik yamaçta 2 yavru gözlenmiştir [@ertan1996]. **AKD:** 1999 yılı ağustos ayında, Fethiye yakınlarındaki Girdev Gölü’nde 2 büyük yavrunun hâlâ yuvada olduğu kaydedilmiştir. **İÇA:** 1879 yılı nisan başlarında Ankara yakınlarında ve 1879 yılı nisan ortalarında Eskişehir’de yumurta içeren yuvalar bulunmuş, bu yuvaların rahatsız edilmediği belirtilmiştir [@danford1880]. 7 Mayıs 1876’da Kayseri yakınlarında bir puhunun yuvaladığı görülmüş, ancak Tring Doğa Tarihi Müzesi’nde bulunan ve Danford tarafından Kayseri yakınlarından toplandığı belirtilen 2 yumurtanın 28 Mart 1879’da yukarıda bahsi geçen diğer yuvalardan alındığı düşünülmektedir [@danford1877]. 8 Mayıs 1964’te Karapınar yakınlarında bir kraterdeki yar üzerine yapılmış yuvada bulunan 10-14 günlük yavrular, yumurtlamanın mart ortasında gerçekleştiğini göstermektedir [@warncke1964-65beitrag]. 15 Haziran 1997’de Sarıyar Barajı yakınlarında bir yuvada 3 yavru bulunmuştur [@boyla1998a]. 15 Mayıs 1980’de Kızılcahamam yakınlarında gözlemlenen bir erişkin bireyin, 3 defa (birinde yemek taşıyarak) küçük bir vadiye girdiği görülmüştür [@baris1984]. 30-31 Temmuz 1981’de Ereğli’de bir yuvada yavru sesleri duyulmuştur. 30 Mayıs 1998’de Yeşilhisar’da bir erişkinin, içinde birçok pelet bulunan ancak boş olduğu düşünülen muhtemel bir yuvadan havalandığı gözlenmiştir. 24 Mayıs 1993’te Hotamış’a bakan bir yardaki çıkıntıdan, muhtemelen bir yuvadan havalanan bir erişkin kaydedilmiştir. **DOA:** 30 Mayıs 1989’da Van yakınlarında 2 erişkin ve 4 yavru gözlenmiştir. 21 Mayıs 1985’te Erçek yakınlarındaki bir kanyonda, bir erişkin çift ve yeni yumurtadan çıkmış 2 yavru kaydedilmiştir. **GDA:** Birecik’te 1989-1999 yılları arasında birçok üreme kaydı vardır. 1992, 1997 mayıs başları ve 1999 nisan başlarında, erişkinlerin kuluçkada ya da yuvada yeni doğmuş yavrularıyla birlikte olduğu, haziran başına kadar yuvada yavru bulunduğu ve en erken palazlanan yavrunun 22 Mayıs’ta görüldüğü kaydedilmiştir. Yavruların, yuvayı tam anlamıyla uçmayı öğrenmeden 6-10 hafta sonra terk ettiğinin kaydedilmesi, yumurtlamanın mart başı ya da en fazla 4 hafta daha erken gerçekleştiğini göstermektedir. 10 Temmuz 1986’da Gaziantep Işıklı’da bir erişkin ve yavru kaydedilmiştir. Tring Doğa Tarihi Müzesi’nde bulunan 3 yumurtanın 17 Mart 1902’de Türkiye’nin batısından toplandığı belirtilmektedir. Erişkinler, yavrularına 1 yıl boyunca bakmaktadır.
@@ -125,7 +125,7 @@ Türün ilk kayıtları, güneyde çalışan bir koleksiyoncu olan G. Schrader'i
 
 **Üreme**
 
-**Yuvalama alanı:** Derin kanyonların ve yıl boyu su bulunan ormanlık vadiler, baraj gölleri kenarları ve adalarda yuvalar.\
+**Yuvalama Alanı:** Derin kanyonların ve yıl boyu su bulunan ormanlık vadiler, baraj gölleri kenarları ve adalarda yuvalar.\
 **Yuvası:** Su kenarında kayalık ya da ormanlık arazide, ağaç üzerine veya kovuğuna, yarlardaki çıkıntılara ya da oyuklara yuva yaptığı kaydedilmiştir.\
 **Yumurta sayısı:** Oymapınar'da 2011'de görülen iki yavru, genellikle 2 yumurta koyduğunu düşündürür.\
 **Üreme dönemi:** Nisan ortasında görülen yavrular, yumurtalamanın tahminen ocak veya şubat ayında gerçekleştiğini düşündürür. İran’ın Hürmüzgan eyaletinde, Sirik’te 18 Ocak 2004’te bir çiftin gözlendiği bir vadide, 8 ve 16 Nisan’da bir erişkin ve bir yavru kaydedilmiştir [@balmer2004b].
@@ -150,7 +150,7 @@ Karadeniz kıyıları dışında, ülkenin çoğu yerinde, bol bulunan yerli bir
 
 **Üreme**
 
-**Yuvalama alanı:** Çoğunlukla kayalık açık alanları, plantasyonları ve köy çevrelerini tercih eder. Yoğun ormanlık alanlarda bulunmaz.\
+**Yuvalama Alanı:** Çoğunlukla kayalık açık alanları, plantasyonları ve köy çevrelerini tercih eder. Yoğun ormanlık alanlarda bulunmaz.\
 **Yuvası:** Yuvasını ağaç ve yarlardaki oyuklara, taş birikintilerine, duvarlara, kuyulara, binalara, harabelere ve diğer kuşların yuvalarına yapar. Yumurtalarını oyuğun zeminine bırakır ve desteklemek için materyal kullanmaz.\
 **Yumurta sayısı:** 2 yuvada 5 yumurta kaydedilmiştir.\
 **Yavru sayısı:** 2 yuvada 3-4 yavru gözlenmiş, en fazla 5 adet palazlanmış yavru kaydedilmiştir.\
@@ -176,7 +176,7 @@ Karadeniz kıyıları dışında, ülkenin çoğu yerinde, bol bulunan yerli bir
 
 **Üreme**
 
-**Yuvalama alanı:** Genellikle iğne ve geniş yapraklı ormanlık alanlarda bulunur. Daha açık alanlarda, yar ve kayalarda da yuvaladığı bilinmektedir.\
+**Yuvalama Alanı:** Genellikle iğne ve geniş yapraklı ormanlık alanlarda bulunur. Daha açık alanlarda, yar ve kayalarda da yuvaladığı bilinmektedir.\
 **Yuvası:** Ağaç kovuğu ya da kaya oyuğuna yaptığı yuva, bir çukurdan ibaret olup herhangi bir yuva materyali kullanmaz.\
 **Yumurta sayısı:** Diğer bölgelerde kuluçka büyüklüğü genellikle üç yumurtadır. Bazen 2-4 arasında değişebilir.\
 **Yavru sayısı:** Bilinmemektedir, ancak bir kuluçkadan en fazla 3 yavrunun palazlanabildiği görülmüştür.\
@@ -202,7 +202,7 @@ Türkiye'nin orta ve batı kesimlerinde *sylvatica* alttürü, kuzeydoğu kesiml
 
 **Üreme**
 
-**Yuvalama alanı:** Plantasyonlar ve meyve bahçeleri dâhil, çoğunlukla ağaçlık alanlarda ürer. Başta saksağan olmak üzere diğer türlerin, yerden 3-5 metre yükseklikteki eski yuvalarını kullanır. Büyük olasılıkla leş kargası ve ekin kargası gibi türlerin daha yüksekteki yuvalarını da kullanmaktadır. Ayrıca, Uluabat Gölü’ndeki bir adada, yerdeki alçak bir çalının altında yuva yaptığı kaydedilmiştir [@welch1998b].\
+**Yuvalama Alanı:** Plantasyonlar ve meyve bahçeleri dâhil, çoğunlukla ağaçlık alanlarda ürer. Başta saksağan olmak üzere diğer türlerin, yerden 3-5 metre yükseklikteki eski yuvalarını kullanır. Büyük olasılıkla leş kargası ve ekin kargası gibi türlerin daha yüksekteki yuvalarını da kullanmaktadır. Ayrıca, Uluabat Gölü’ndeki bir adada, yerdeki alçak bir çalının altında yuva yaptığı kaydedilmiştir [@welch1998b].\
 **Yuvası:** Yuvada hiçbir malzeme kullanmaz ve yuva, bir çukuru andırır gibidir.\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayıları şu şekildedir: 1 yuvada 2 yumurta, 1 yuvada 3 yumurta ve 1 yuvada 5 yumurta kaydedilmiştir. 2 yuvada 2 yavru, 3 yuvada 3 yavru, 2 yuvada 4 yavru kaydedilmiştir. Tüylenmiş yavru kayıtları çoğunlukla bir bireye işaret etmektedir. Olasılıkla daha büyük bir kuluçkanın parçası olan 8 yuvada bir yavru, 4 yuvada iki yavru, 1 yuvada beş yavru ve 2 yuvada altı yavru kaydedilmiştir. Olağan kuluçka büyüklüğü 2-6 yumurta gibi görünmektedir.\
 **Üreme dönemi:** Genellikle nisan sonunda yumurta koyar, haziranın başında yavrular yuvadan uçmuş olur. Ancak Eskişehir'de 31 Ocak'ta besin isteyen yavru, kışın kasım ayında da kuluçkaya yatma ihtimalini gösterir [@ebird2024asiootus]. **MAR:** 2 Haziran 1998’de Uluabat Gölü’nde, yumurtlamanın nisan sonunda başladığını gösteren dört küçük yavrulu bir yuva kaydedilmiştir [@welch1998b]. 14 Mayıs 1969’da Manyas Gölü’nde, bir yuvanın dışında iki yavru ve suyun içinde ölmüş başka bir yavru görülmüştür (R. F. Porter). **AKD:** 10 Mayıs 1964’te Ceyhan’da, yumurtlamanın nisan başı kadar erken olduğunu gösteren üç küçük yavrulu bir yuva bulunmuştur [@warncke1964-65beitrag]. 18 Mayıs 1988’de Çukurova’da, yumurtlamanın martın son haftasında olduğunu gösterecek şekilde tüylenmiş bir yavru gözlenmiştir. **İÇA:** Mart 1977 sonunda ve 21 Mayıs 1970’te yumurtalı yuvalar kaydedilmiş, 15 Mayıs 1993’te Kulu Gölü yakınlarındaki geç bir yuvada iki yumurta gözlenmiş ve bu yumurtalar 30 Mayıs’a kadar çatlamamıştır. 22 Nisan 2004’te Eşmekaya’da üç ve beş yumurtalı iki yuva bulunmuştur. Aynı tarihte Şereflikoçhisar’da, yumurtlamanın mart başında başladığını gösteren yaklaşık iki haftalık üç yavrulu bir yuva tespit edilmiştir. Eşmekaya’da bulunan iki yuvada, 30 Mayıs 1993 ve 25 Haziran 1992’de tüylenen yavrular, yumurtlamanın nisan ve mayıs başlarında olduğunu göstermektedir. 22 Haziran 1982’de ve 25 Mayıs 1983’te Sultansazlığı’nda tüylenmiş yavrular gözlenmiştir [@kasparek1985]. Ankara Akyurt civarında doğan yavrular, haziranın ilk günlerinde yuvadan uçmuş ve geniş bir alanda kendilerini göstermeye başlamıştır (B. Demirci). **DOA:** 7 Haziran 1984’te Van’da bir yuvada, yumurtlamanın nisan ortasında başladığını gösterecek şekilde, hemen hemen uçmaya hazır iki yavru kaydedilmiştir. **GDA:** Hepsi Birecik’te olmak üzere, 4 Mayıs ve 20 Mayıs 1986’da yavrulu yuvalar tespit edilmiş ve mayıs ortasından itibaren 15 tüylenmiş yavru kaydedilmiştir.
@@ -231,7 +231,7 @@ Sonbahar göçü eylül başında başlar. Çamlıca Tepelerinden (İstanbul) ge
 
 **Üreme**
 
-**Yuvalama alanı:** İç Anadolu’da ve Doğu Anadolu’da ürediği kesin olarak kaydedilmiştir.\
+**Yuvalama Alanı:** İç Anadolu’da ve Doğu Anadolu’da ürediği kesin olarak kaydedilmiştir.\
 **Yuvası:** Kaplanmamış bir çukur olup, sık ve yüksek otların arasında bulunur.\
 **Yumurta sayısı:** Üç yumurtalı bir yuva kaydedilmiştir.\
 **Üreme dönemi:** İki kayıt, yumurtlamanın nisan başı ile mayıs başı arasında olduğunu göstermektedir. Diğer bölgelerde üreme çoğunlukla nisan sonunda başlamakla birlikte, bazen birkaç hafta daha erkendir. **İÇA:** Şimdiye kadar sadece iki kesin üreme kaydı bulunmaktadır. 14 Mayıs 1970’te Konya’nın kuzeydoğusunda, bir *Juncus* kümesi içinde en az iki iyice tüylenmiş yavrusu olan bir yuvaya yiyecek taşıyan bir çift gözlenmiştir. 23 Mayıs 1992’de Eşmekaya Sazlıkları’nın kuru bölümünde, sık ve yüksek otların içinde üç yumurtalı bir yuvadan havalanan bir erişkin kaydedilmiştir. Bu yuva, kaplanmamış bir çukur olup, 5 Haziran’da yaklaşık bir haftalık bir yavru gözlenmiştir. **DOA:** 19 Mayıs 1975’te Bulanık’ta, 9 Mayıs 1986’da Malazgirt’te ve 10 Mayıs 1986’da Balatos’ta kur uçuşu yapan erişkinler kaydedilmiştir. 24 Mayıs 2005’te Bulanık’ta ürediğinden şüphelenilmiştir.
@@ -262,7 +262,7 @@ Son yıllarda Bulgaristan'da daha yaygın ve hatta epeyce bol olduğunun keşfed
 
 **Üreme**
 
-**Yuvalama alanı:** Ağaç kovuklarında, özellikle kara ağaçkakanın açtığı deliklerde yuva yapar.\
+**Yuvalama Alanı:** Ağaç kovuklarında, özellikle kara ağaçkakanın açtığı deliklerde yuva yapar.\
 **Yuvası:** Deliğin zeminine hiç yuva malzemesi koymaz.\
 **Yumurta sayısı:** Genellikle 3-6 yumurta bırakır.\
 **Üreme dönemi: MAR:** Uludağ’da 27 Temmuz 2010’da palazlanmış bir gencin ilk canlı fotoğrafı çekilmiş ve bu kayıt, türün bölgedeki ilk üreme kaydı olmuştur. Yayılışının güneyindeki diğer alanlarda üreme nisan ortasında başlamaktadır.

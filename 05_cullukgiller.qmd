@@ -208,6 +208,8 @@ Monotipik bir türdür.
 
 19 Ekim 2021'de Millehya ve sailh şeridinde ilk kez görülmüş (E. Yoğurtcuoğlu) ardından aynı alanada 18 Aralık 2022'de tekrar bulunmuştur.
 
+![](images/harita_Gallinago%20stenura.png)
+
 **Üreme**
 
 Türkiye'de yuvalamaz. Doğu Sibirya'da yuvalar. Kışı Hindistan ve Güney Doğu Asya'da geçirir.
@@ -230,11 +232,11 @@ Monotipik bir türdür.
 
 İlkbahardaki geliş ve gidiş tarihlerini belirlemek zordur ancak görünüşe göre mart ve nisanın ilk haftasında en yoğun olarak geçiş yapar; Kızılırmak Deltası'nda 1000 bireyden fazlası kaydedilmiştir. Bu tarihten sonra sayılar hızla düşer ancak Doğu Anadolu'dan mayıs sonuna kadar ayrılmazlar. Dönüş yapan göçmenler temmuzun ilk haftası gözlenmeye başlar ve geçiş kasımın ilk yarısına kadar sürer. Bu tarihten sonra sadece kışlama alanlarında kaydedilir. Bu mevsimdeki en yüksek sayı 9-10 Ekim 1968'de Amik Gölü'nde gözlenen 300 bireydir ve alanda muhtemelen birkaç bin birey daha bulunmaktaydı. Kışlayanların çoğu kıyısal sulakalanlarda barınır ve çok sayıda olmasına rağmen geçit yapanlardan daha azdır. En önemli kış sayımları arasında Tarsus'ta kaydedilen 200 birey ve Balıkesir Gönen'de kaydedilen 100 birey vardır.
 
-![](images/harita_Gallinago%20stenura.png)
+![](images/harita_Gallinago gallinago.png)
 
 **Üreme**
 
-**Yuvalama alanı:** Bataklıklarda yuvalar.\
+**Yuvalama Alanı:** Bataklıklarda yuvalar.\
 **Yuvası:** Yerde bir çukura yaptığı yuvasını bitkisel malzemeyle kaplar ve genellikle otların ya da yüksek bitkilerin arasına iyice gizler.\
 **Yumurta sayısı:** Bulunan tek yuvada 4 yumurta gözlenmiştir.\
 **Üreme dönemi:** Muhtemelen mayıs sonu ve haziran ayında yumurta koyar. **İÇA:** 22-23 Haziran 1998’de Eskil ve Cihanbeyli arasında, kuyruk tüylerini vızıldatan (*drumming*) bireyler kaydedilmiştir. Bu gözlem, bölgede üreme olasılığına dair en güçlü kanıtlardan biridir [@marlow2001]. 2002’de Palas Gölü’nde kur davranışı yapan bireyler kaydedilmiştir. Kozanlı Gölü’nde de kuyruk tüylerini vızıldatan bireyler gözlenmiştir. **KAR:** Haziran 1992’de Kızılırmak Deltası’nda kur davranışı yapan bireyler gözlenmiştir [@hustings1994]. Kızılırmak Deltası’nda bir yuva bulunmuş ve ürediği kanıtlanmıştır [@Oguz2022]. **DOA:** Mayıs 1970’te Doğu Anadolu’da kur davranışı yapan bireyler gözlenmiştir.
@@ -355,7 +357,7 @@ Geçit sırasında sulakalanlarda ve kıyılarda boldur. İlkbahar geçişi mart
 
 **Üreme**
 
-**Yuvalama alanı:** Çoğunlukla yüksek kesimlerde (en az 2600 m), hızlı akan nehirler boyunca ve göllerde ürer. Özellikle adalar, kum ve çakıl suvatlarının bulunduğu alanları tercih eder. Genellikle biraz kenar vejetasyonu bulunan ve söğüt gibi çalılıklarla karışık açık kum alanlarında yuva yapar. Çiftler genellikle yalnız ürer, ancak en uygun habitatlarda iki ya da daha fazla çiftin yakın mesafede ürediği de gözlenmiştir.\
+**Yuvalama Alanı:** Çoğunlukla yüksek kesimlerde (en az 2600 m), hızlı akan nehirler boyunca ve göllerde ürer. Özellikle adalar, kum ve çakıl suvatlarının bulunduğu alanları tercih eder. Genellikle biraz kenar vejetasyonu bulunan ve söğüt gibi çalılıklarla karışık açık kum alanlarında yuva yapar. Çiftler genellikle yalnız ürer, ancak en uygun habitatlarda iki ya da daha fazla çiftin yakın mesafede ürediği de gözlenmiştir.\
 **Yuvası:** Kumda sığ bir oyuk şeklindeki yuvasını bitki sapları, otlar ve yapraklarla kaplar.\
 **Yumurta sayısı:** Türkiye’deki yumurta sayısına dair bilgi bulunmamaktadır.\
 **Üreme dönemi:** Nisan sonu kur davranışına başlar. Haziran ve temmuz aylarında yavrular çıkar. **AKD:** 3 Haziran 1999’da Demirkazık’ın kuzeyindeki bir nehirde yavrulu bir çift kaydedilmiştir. **KAR:** 11 Nisan 1975’te Giresun’da kaydedilen bir yuva kaydı, çok erken bir tarih olması nedeniyle şüpheli olarak değerlendirilmiştir. Mayıs ayında kur davranışı ve alarm ötüşü yapan, haziran-temmuz aylarında muhtemelen yavrulu olan birkaç erişkin kaydedilmiştir. **DOA:** Ağrı’nın 57 km kuzeybatısında, Sarıcan’da bir nehir kenarındaki düz kumluk alanda seyrek ve uzun otların arasına gizlenmiş bir yuva bulunmuştur. 21 Haziran 2004’te gözlenen dört yumurtanın 25 Haziran’da çatlaması, yumurtlamanın 1 Haziran’da başladığını göstermektedir. Haziran 1968’de Yüksekova ve Çatak’ta iki genç birey kaydedilmiştir [@kumerloeve1969a]. Haziran 1969 başlarında Gürpınar’ın doğusunda bir çift ve bir yavru görülmüştür. 2 Haziran 1969’da yaklaşık bir haftalık olan bu yavru, yumurtlamanın mayıs başında başladığını göstermektedir. **GDA:** Diyarbakır yakınlarında Kralkızı Barajı’nda mart sonunda çiftlerin oluştuğu kaydedilmiş, 28 Nisan 2000 ve 22 Nisan 2001’de kur davranışları gözlenmiştir [@karakas2005a].
@@ -406,7 +408,7 @@ Genellikle 50 bireyden daha küçük gruplar halinde gözlenir ancak 200 bireyde
 
 **Üreme**
 
-**Yuvalama alanı:** Küçük göller ve bataklıklar bulunan ormanlık alanlar. Genelde Kuzey Avrasya'daki nemli ormanlarda ve tayga kuşağında yuvalar. Türkiye'de nadiren yuvaladığı düşünülür.\
+**Yuvalama Alanı:** Küçük göller ve bataklıklar bulunan ormanlık alanlar. Genelde Kuzey Avrasya'daki nemli ormanlarda ve tayga kuşağında yuvalar. Türkiye'de nadiren yuvaladığı düşünülür.\
 **Yuvası:** Yuvasını bazen yerde bazen ağaçta, alçak bir dalda yapar. Eski bir ardıç yuvasını kullanabilir\
 **Yumurta sayısı:** Türkiye'de yumurta sayısı bilinmez. Diğer yerlerde 3-4 yumurta koyar.\
 **Üreme dönemi:** Mayıs ve haziran arasında yumurta bırakması beklenir. Yavrular temmuz ve ağustosta görülür. **MAR:** Mayıs ve Ağustos 2009’da Istranca Dağları’nda birkaç birey gözlenmiş, Ağustos'ta genç kuşlar görülmüştür [@ozkan2010]. **KAR:** 12 Haziran 1975'te İkizdere ve İspir arasındaki dağlarda 3000 metrede nemli bir çayırda kur davranışı yapan bir birey gözlenmiştir [@ost1978].
@@ -479,7 +481,7 @@ Tersakan ve Bolluk gölleri, Akşehir Gölü ve Sultansazlığı ve Van Gölü i
 
 **Üreme**
 
-**Yuvalama alanı:** Sazlıklarda, göl kenarlarında, su kıyılarındaki çayırlarda ve göllerdeki büyük adalarda ürer.\
+**Yuvalama Alanı:** Sazlıklarda, göl kenarlarında, su kıyılarındaki çayırlarda ve göllerdeki büyük adalarda ürer.\
 **Yuvası:** Yerde bir çukura yaptığı yuvasını bitkisel malzemeyle kaplar ve genellikle otların ya da yüksek bitkilerin arasına iyice gizler.\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı 3 (4 yuvada) ve 4 (10 yuvada) olarak kaydedilmiştir. 1-2 yumurtalı yuvalar, tamamlanmamış kuluçka olarak değerlendirilmiştir.\
 **Üreme dönemi:** Kıyısal alanlarda mayıs ortasında, İç Anadolu'da mayıs başında, Doğu Anadolu'da mayıs sonu ve haziran başında yumurta koyar. Yavrular haziran ve temmuz ayında görülebilir. **EGE:** Haziran 1995’te Gediz Deltası’nda bir erişkin ve iki yavru kaydedilmiştir [@eken1997a]. **KAR:** 4 Haziran 1992’de Kızılırmak Deltası’nda kaydedilen yumurtadan yeni çıkmış dört yavru [@hustings1994], yumurtlamanın mayısın ikinci haftasında başladığını göstermektedir. **İÇA:** Mayıs ortasında tamamlanmış kuluçkalı beş yuva bulunmuştur. 5 Haziran 1992’de Eşmekaya’da bulunan 4, 2 ve 1 yumurtalı üç yuva, telafi yuvaları olarak değerlendirilmiştir. 24 Haziran 1992’de Bolluk Gölü’nde gözlenen büyük yavru, yumurtlamanın mayıs başında olduğunu göstermektedir. 15 Mayıs 2004’te Bolluk Gölü’nde dört yumurtalı üç yuva bulunmuş, yumurtalardan biri 16 Mayıs 2004’te çatlamış olup yumurtlamanın 20 Nisan civarında başladığını göstermektedir. **DOA:** 31 Mayıs 1990’da Erçek Gölü’nde bulunan yumurtalı bir yuva, bölgedeki en erken kayıttır. Aynı yerde, biri 3 Haziran 2001’de ve ikisi 28 Haziran 1968’de olmak üzere yumurtaları tamamlanmış üç yuva daha bulunmuştur. 8 Haziran 2004’te Tatvan yakınlarında dört yumurtalı bir yuva ile muhtemelen yavruları olan ve alarm ötüşü yapan birkaç erişkin kaydedilmiştir. 1 Temmuz 1985’te Van’da bulunan, yumurtadan yeni çıkmış dört yavrulu bir yuva, yumurtlamanın haziran başında başladığını göstermektedir.

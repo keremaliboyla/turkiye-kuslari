@@ -2,106 +2,6 @@
 title: "Martılar ve diğerleri"
 ---
 
-## Yengeç Yağmurcunu
-
-*Dromas ardeola*, Crab-plover
-
-***Rastlantısal konuktur.***
-
-<iframe src="https://macaulaylibrary.org/asset/347362541/embed" height="519" width="640" frameborder="0" allowfullscreen>
-
-</iframe>
-
-Tek kaydı vardır. 15 Temmuz 1986'da Göksu Deltası'nda 5 birey fotoğraflanmıştır [@bouwman1987]. Tür, esasen çok nadir olarak yolunu şaşırmakta ve Türkiye kaydı en kuzey kaydıdır. 1885'de Suriye Lübnan sınırında yine 5 bireylik bir grup kaydedilmiştir [@hue1970; @ramadan1999].
-
-![](images/harita_Dromas%20ardeola.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz.
-
-**Alttürler ve Sınıflandırma**
-
-Monotipik bir türdür.
-
-## Çölkoşarı
-
-*Cursorius cursor*, Cream-colored Courser
-
-***Lokal olarak az sayıda bulunan yaz konuğudur.***
-
-<iframe src="https://macaulaylibrary.org/asset/341573381/embed" height="452" width="640" frameborder="0" allowfullscreen>
-
-</iframe>
-
-Birecik, Suruç, Harran ve Akçakale çevresinde yaz konuğudur [@kasparek1992a]. En erken kayıt 3 Nisan'dır ancak bu bölgede nisan-ağustos dönemi dışındaki gözlemler halen çok çok azdır. 12 Ekim 2007'de Ceylanpınar'da görülen 6 kuş en geç kayıttır. 30 Haziran 2008'de 40'tan fazla kuş, kalabalık bir sürüdür [@balmer2009around]. Ancak ardında 6 Ağustos 2009'da Ceylanpınar ve Akçakale yolunda 10 km boyunca kaydedilen 128 kuş bugüne kadar kaydedilmiş en yüksek [@balmer2009around; @balmer2010around]. Son yıllarda giderek artan sıkılıkla, İç Anadolu'da görülür. Tuz Gölü ve Çukurova'dan mayıs sonunda olan kayıtları vardır [@szekely1998]. Aksaray çevresine yerleşmiş olması muhtemeldir.
-
-İlkbahar Göçü'nde Akdeniz kıyılarındaki kumluk arazilerde görülür, Çukurova'dan mayıs sonunda olan kayıtları vardır [@szekely1998].
-
-İskenderun ve Kırıkhan'daki haziran ortası ve temmuz başı kayıtları üreyen bireyler olmalıdır. Birecik'te eylül sonunda (1973) kaydedilen on bireylik bir grup, göç öncesi toplanma olabilir. Doğu Anadolu'dan sonbahar sonundaki bir kaydın (muhtemelen ergin bir birey, Doğubayazıt, 12 Kasım 1970) daha kuzeyden göç eden birey ait olduğu farz edilebilir. Gerçekte bu bireyin taksonomisi düşündüğünde, tanımlaması yapılabilen Kafkas *bogolubovi* alttüründen olduğu düşünülebilir. 23 Ağustos 1946'da Büyükçekmece'den muhtemelen hatalı bir kayıt vardır [@kumerloeve1970a]. Her ne kadar ilgili gözlemci güvenilirliği düşük olan Abbas Celaloğlu olsa da, 20. yüzyıl'ın ilk yarısında günümüze oranla batı rastlantısalının daha sıklıkla kaydedildiği unutulmamalıdır [@snow1998].
-
-![](images/harita_Cursorius%20cursor.png)
-
-**Üreme**
-
-**Yuvalama alanı:** Birecik yakınlarında, esasen tepelerle çevrili açık taşlık alanlarda üreme döneminde gözlenmiştir.\
-**Yuvası:** Suriye’nin komşu bölgelerinde ve diğer alanlarda, açık taşlıklar veya kumlu çöllerde zemine kazılmış, çevrelenmemiş derin olmayan bir çukurdur. Genellikle nisanda iki yumurta bırakır.\
-**Yumurta sayısı:** Türkiye'de kayıtlı bilgi bulunmamaktadır.\
-**Üreme dönemi: GDA:** 29 Mayıs 2005’te Birecik yakınlarında üreme döneminde çiftler halinde ve kur yaparken gözlenen erişkin bireylerin arasında bir yavru da bulunmasına rağmen kesin bir yuva tanımlanamamıştır. 7 Eylül 1994’te Birecik’te iki yavrusuyla bir çift ve yalnız bir birey kaydedilmiş [@davidson1995], 10 Haziran 2004’te ise dört birey gözlenmiştir. Bu kayıtlar, bölgedeki lokal üreyen bireyleri işaret etmektedir.
-
-**Alttürler ve Sınıflandırma**
-
-Türkiye'de *bogolubovi* alttürü bulunur [@dickinson2003]. Buna rağmen nominat alttürünün olduğu iddia edilmiştir [@roselaar1995]. Türkiye'den geçerli bir kayıt yoktur. Bu yüzden emin olmak imkânsızdır ancak Suriye ve Irak çöllerinde bulunan *cursor* alttürünün Türkiye'nin buralara komşu bölgelerinde bulunması *bogolubovi* alttüründen daha akla yakın görünmektedir. Bu alttürün yayılışı güney Hazar Denizi'nin batısına kadar ulaşmaktadır. Her ne olursa olsun, bu formlar arasındaki varyasyon düşüktür ve bogolubovi burada vurgulanan referanslar altında tanımlanamaz.
-
-## Bataklıkkırlangıcı
-
-*Glareola pratincola*, Collared Pratincole
-
-***Yaygın olarak nispeten çok sayıda bulunan yaz konuğudur.***
-
-<iframe src="https://macaulaylibrary.org/asset/331778791/embed" height="452" width="640" frameborder="0" allowfullscreen>
-
-</iframe>
-
-En önemli üreme alanları şunlardır: Meriç Deltası (200 çift), Kocaçay Deltası (80 çift), Kavak Deltası (24 Haziran 1973’te 100 çift), Büyük Menderes Deltası (85 çift), Kızılırmak Deltası (115 çiftin üzerinde), Hotamış Bataklığı (100 çift), Tuz Gölü (200 çift), Göksu Deltası (300 çift), Tuzla Gölü (150 çift) [@heath2000]. Kurutulmadan önce Amik Gölü'nde önemli sayıda ürüyordu. tüm ülkede ürediğini ancak Güneydoğu Anadolu, Doğu Anadolu ve Karadeniz'de kısmen lokal olduğunu bildirmektedir [@kasparek1992a]. mayıs sonunda uygun üreme habitatında iki çift gözlenmesine dayanarak, türün Van Gölü'nde tek olarak yuva yaptığını iddia etmektedir [@kumerloeve1970a]. Bununla birlikte, haziranın ikinci yarısında Murat Vadisi'nde son zamanlarda gözlenmiştir (1999) ve aynı bölgede kara kanatlı bataklıkkırlangıcının şüpheli kayıtları mevcuttur. Bazen birkaç yüz bireylik sürüler görülür (Uluabat Gölü, Eylül 1971 ve istisnai olarak 1500 birey, Amik Gölü, Eylül 1967) ancak genelde gruplar daha küçüktür. İlkbahar göçü mart sonunda başlar ve en azından mayıs sonu/haziran ortasına kadar sürer. Muhtemelen nisan ortasında zirve yapar. Sonbahar göçü ağustos ortasından eylül ortasına kadar gerçekleşir.
-
-![](images/harita_Glareola%20pratincola.png)
-
-**Üreme**
-
-**Yuvalama alanı:** Koloniler, düzlük alanlarda, tipik olarak göl ve bataklıkların kuru kıyılarında, çıplak zeminlerde ve seyrek çalılıklarda, sıklıkla bataklık ve çayırların arasında bulunur. Aynı zamanda deniz börülcesi bulunan kuru tuzcul bataklıklarda, ekime hazırlanan nemli tarlalarda, kıyısal kumullarda ve sıklıkla iç göllerdeki çıplak düz adalarda ürer. Tek üreyen çiftler de bulunur ancak çoğunlukla 10-30 çiftlik küçük koloniler halinde ürer.\
-**Yuvası:** Yuvası, çıplak zeminde derin olmayan bir kazıntıdır. Çevrelenmemiştir veya az sayıda küçük bitkisel materyaller bulunur.\
-**Yumurta sayısı:** Genellikle 3 yumurta bırakır. 13 yuvada 3 yumurta, 5 yuvada 2 yumurta ve 5 yuvada tek yumurta kaydedilmiştir. Bu az sayıdaki yumurtalar tamamlanmamış kuluçkalara aittir.\
-**Üreme dönemi:** Genellikle mayıs ayında yumurta koyar, yavrular haziran ayından itibaren uçmaya başlar. **MAR:** 1993’te Kocaçay Deltası’nda toplamda 80-100 çiftlik üç koloni bulunmuş olup, en erken varış tarihi nisan ortasıdır [@ertan1996]. 11 Haziran 1998’de Uluabat Gölü’ndeki küçük bir koloni, üreme alanı yeniden sürülünce yer değiştirmiş ve yakındaki diğer bir küçük koloniye katılmıştır [@welch1998b]. 25 Haziran 1973’te Kavak’ta neredeyse uçmaya yakın büyüklükte iki yavru kaydedilmiştir. **EGE:** 16 Mayıs 1899’da İzmir yakınlarındaki kıyısal lagünlerde, içinde üçer yumurta olan birkaç yuva gözlenmiştir [@selous1900]. 1 Temmuz 1966’da tamamen tüylenmiş iki yavru (kesin lokalite belirsiz) kaydedilmiştir. **AKD:** 1987’de Çukurova’da erişkinler, nisanın ikinci haftasında gelmiş ve mayıs ayında sayıları artmıştır [@have_etal1988]. Aynı yerde 6 Mayıs 1990’da içinde 1, 2 ve 3 yumurta bulunan üç yuva ve 11 Mayıs 1990’da 1-2 yumurtalı birkaç yuva kaydedilmiştir. Göksu Deltası’nda, kuluçkadaki bir yuvada ikinci yumurta 22 Mayıs 1993’te koyulmuştur. 9 Haziran 1993’te 5-7 günlük iki yavru görülmüş olup, bu gözlem yumurtlamanın mayıs ortasında başladığını göstermektedir. 28 Temmuz 1971 ve 19 Ağustos 1986’da yeni uçmaya başlamış iki yavru kaydedilmiştir. Amik Gölü’nde 18-20 Haziran 1966’da yumurtalı yuvalar bulunmuştur. **KAR:** 1992’de Kızılırmak Deltası’nda üreyen popülasyon daha çok kuru çamurlu topraktaki kurumuş bataklıklarda, kısmen büyümüş 10-20 cm boyundaki *Rumex* vejetasyonu içinde yer almıştır. 30 Nisan 1992’de kur davranışı ve 10 Mayıs 1992’de üçer yumurtalı beş yuva ile bir yumurtalı bir yuva kaydedilmiştir [@hustings1994]. **İÇA:** Sultansazlığı’nda 3 Haziran 1982’de üçer yumurtalı üç yuva ve başka iki yuvada yeni çıkmış bir yavru ve bir yumurta kaydedilmiştir. Bu durum, yumurtlamanın mayıs ortasında başladığını göstermektedir [@kasparek1985]. 15 Mayıs 1987’de Hotamış’ta bir boş yuva ve içinde bir yumurta olan bir yuva, 4 Haziran 1975’te ise iki yavru kaydedilmiştir [@kirwan1993a]. Bu yavrular neredeyse uçabilecek büyüklüktedir ve bu durum yumurtlamanın nisan sonunda başladığını göstermektedir. Bu tarih, diğer kayıtlardan daha erkendir. Bolluk Gölü’ndeki bir adada 15 Mayıs 2004’te, ikisinde 3, birinde 2 ve diğerinde 1 yumurta olan dört yuva kaydedilmiştir.
-
-**Alttürler ve Sınıflandırma**
-
-Türkiye'de nominat alttürü bulunur.
-
-## Kara Kanatlı Bataklıkkırlangıcı
-
-*Glareola nordmanni*, Black-winged Pratincole
-
-***Lokal olarak ve seyrek aralıklarla görülen geçit türüdür.***
-
-<iframe src="https://macaulaylibrary.org/asset/341227481/embed" height="452" width="640" frameborder="0" allowfullscreen>
-
-</iframe>
-
-Tür, daha çok doğu bölgelerinde özellikle sonbaharda rastlanan seyrek ve lokal bir geçit türü olarak bilinir. İlkbaharda nisan başı ile haziran başı arasında geçer, mayısın ilk haftasında yoğunlaşır. Sonbaharda ağustos başı ve ekim sonu arasında gözlenir, eylülün ikinci yarısında yoğundur. Ara sıra yüksek sayılarda Kuyucuk Gölü ve Erzurum Ovası'nda rastlanır. Eski kayıtlarında 15 Eylül 1968'de 230 tanesi Mogan Gölü'nde, 7 Eylül 1980'de 160 tane Ereğli Sazlığı'nda, 18 Eylül 1989'da 160 tane Muş'un güneydoğusunda, 20 Eylül 1989'da yaklaşık 1000 tane Bulanık'ta gözlenmiş ve 189 tanesi 15 Eylül 2000'de Van Gölü'nde fotoğraflanmıştır. Kızılırmak Deltası'nda azami 60 kuşluk küçük sürüler Kızılırmak Deltası ve Çukurova ve Göksu Deltası'nda görülmüştür. Marmara Bölgesi'nde sadece 7 eski kaydı vardır, bunlardan ikisi Alléon'un topladığı örneklerdir. Ege'den tek kaydı 2 Ekim 2010'da Işıklı Gölü'ndeki bireydir [@balmer2010around].
-
-Yakın zamana kadar üreme döneminde düzenli olarak Murat Nehri vadisinde az sayıda bulunduğu ve burada ürediği iddia edilmiştir. Van yakınındaki bir bataklıkta 30 Mayıs 1969'da kur yapan bir çift gözlenmiş, Bulanık yakınında 10 Haziran 1987'de territoryum savunan bir çift ve çiftlerden birinin kanadı kırık numarası yaptığı gözlenmiş ve sonra ısrarla nehir üzerindeki adalardan birine ısrarla geri döndüğü izlenmiştir. Yapılan kapsamlı aramaya rağmen yuva bulunamamıştır [@eames1989]. 10 Haziran 1987'de Balatos'ta iddaya göre bir bataklıkkırlangıcı ile eşleşmiş bir erişkin gözlenmiş, Murat Nehri Yoncalı'da 23 Temmuz 1987'de 20 erişkin ve gençler idda edilmiş, 13 Ağustos 1989'da iki erişkin ve iki henüz uçamayan yavrular iddia edilmiştir. Son yıllardaki en güncel iddia, 3 Haziran 2009'da Horasan'ın 2 km güneybatısında düz bir nehir adasında iki üreyen çift iddia edilmiş, kuşlar belirgin bir köprü üzerinden izlenmiş ve çiftlerin arasında yaklaşık 130 m olduğu tahmin edilmiştir. Ancak 1999 yılında bataklıkkırlangıcının bu bölgede ürediğinin ortaya çıkması, daha önceki kayıtlardaki tür tayinini şüphe altında bırakmıştır. Bataklıkkırlangıcının tayininde kullanılan kanadında firar hattındaki beyaz şeridin, yazın ortasına doğru hızla yıpranması ile tür tahini zordur ve kara kanatlının tayininde birçok kriterin kullanılması gerekmektedir. Dolayısıyla İç Anadolu'da 1970'lerde ve 1980'lerin ortasından gelen iddiaların hepsi reddedilmiş ve burada dâhil edilmemiştir.
-
-![](images/harita_Glareola%20nordmanni.png)
-
-**Üreme**
-
-Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Orta Asya'dır.
-
-**Alttürler ve Sınıflandırma**
-
-Monotipik bir türdür.
-
 ## Uzun Kuyruklu Korsanmartı
 
 *Stercorarius longicaudus*, Long-tailed Jaeger
@@ -286,7 +186,7 @@ Karadeniz kıyılarında göç sırasında görülür, az sayıda kışlayabilir
 
 **Üreme**
 
-**Yuvalama alanı:** İç Anadolu’da çoğunlukla tuzlu veya acı olan üç sığ gölde (Kulu, Seyfe ve Bolluk), alçak ve düz adalarda, çıplak veya seyrek bitkili toprakta, 50-2100 çiftlik muntazam koloniler halinde ürer. Bazen diğer türlerle gevşek bir birliktelik halinde bulunur.\
+**Yuvalama Alanı:** İç Anadolu’da çoğunlukla tuzlu veya acı olan üç sığ gölde (Kulu, Seyfe ve Bolluk), alçak ve düz adalarda, çıplak veya seyrek bitkili toprakta, 50-2100 çiftlik muntazam koloniler halinde ürer. Bazen diğer türlerle gevşek bir birliktelik halinde bulunur.\
 **Yuvası:** Yuvasını yerde sığ bir çukura yapar, cılız bitki artıkları, ot ve az miktarda tüyle çevreler. Yuva kenarı hafif yükseltilmiş olup, kuluçka dönemleri boyunca dışkıyla beyaza boyanarak güçlendirilir ve oldukça belirgin hale gelir.\
 **Yumurta sayısı:** Genellikle 2-3 yumurta bırakır, ara sıra tek yumurta kaydedilmiştir.\
 **Üreme dönemi: İÇA:** İlk yumurta nisan sonu veya mayıs başında bırakılır. En erken civcivler mayıs sonu ve haziran başında yumurtadan çıkar. Bu tarihler koloniler arasında tutarlılık gösterir. Muhtemelen bir başarısızlıktan sonra yapılan telafi kuluçkasıyla üreme dönemi uzayabilir. 24 Haziran 1992’de Bolluk Gölü’nde gözlenen yavruların çoğu iri ve iyi tüylenmiş olup, bazı yuvalarda hâlâ yumurta ve küçük yavrular bulunmuştur.
@@ -315,7 +215,7 @@ En yüksek sayılar göç döneminde kaydedilir. 24 Eylül 2004’te Sarıyer Ba
 
 **Üreme**
 
-**Yuvalama alanı:** İç ve Doğu Anadolu’daki birkaç alanda, göller ve bataklıklardaki adalarda koloniler halinde ürer. Bazen Akdeniz martısı ve gülen sumru gibi diğer türlerle seyrek bir beraberlik içinde karışık koloniler oluşturur.\
+**Yuvalama Alanı:** İç ve Doğu Anadolu’daki birkaç alanda, göller ve bataklıklardaki adalarda koloniler halinde ürer. Bazen Akdeniz martısı ve gülen sumru gibi diğer türlerle seyrek bir beraberlik içinde karışık koloniler oluşturur.\
 **Yuvası:** Yuva zemine yapılır ve esasen bitki saplarıyla oluşturulur. Boyu değişken olup 0,3 metreye kadar yüksek olabilir. Beraber yuvaladıkları alanlarda, Akdeniz martısının yuvasından çok daha yüksektir.\
 **Yumurta sayısı:** Genellikle 3 yumurta bırakır. Bazen 2, ara sıra tek yumurta kaydedilmiştir.\
 **Üreme dönemi:** İç Anadolu'da nisan sonunda, Doğu Anadolu'da mayıs ayında yumurta koyar. Yavrular Hziran ayından itibaren görülebilir. **İÇA:** 22 Mayıs 1992’de Kulu Gölü’nde bir adada 350 çift üremiştir. Buradaki yuvaların çoğunda üç yumurta sayılmış, bazı yuvalarda yeni çıkmış yavrular gözlenmiş olup, ilk yumurtlama tarihinin yaklaşık 26 Nisan olduğu tahmin edilmiştir. En geç yuva kayıtları 14 Haziran 1993’te Seyfe Gölü’nde ve 19 Haziran 1992’de Kulu Gölü’nde kaydedilmiştir. Bu kolonilerde çoğu yavrunun büyük ve hatta palazlanmış olduğu gözlenmiş, ancak hâlâ içinde yumurta bulunan yuvalar da tespit edilmiştir.
@@ -368,7 +268,7 @@ Marmara Denizi’nin güney kıyılarında ara sıra görülse de düzenli deği
 
 **Üreme**
 
-**Yuvalama alanı:** Açıklarındaki bodur vejetasyonlu veya çıplak küçük adalarda yuvalar. **Yuvası:** Ülke dışında yerde alçak bir çukurda yuvalar. Yuvayı bitki gövdeleri, yosun ve diğer bitkisel materyallerle astarlar.\
+**Yuvalama Alanı:** Açıklarındaki bodur vejetasyonlu veya çıplak küçük adalarda yuvalar. **Yuvası:** Ülke dışında yerde alçak bir çukurda yuvalar. Yuvayı bitki gövdeleri, yosun ve diğer bitkisel materyallerle astarlar.\
 **Yumurta sayısı:** Türkiye'den yuva ve yumurta sayısı hakkında bilgi bulunmamaktadır. Ülke dışında genellikle 2-3 yumurta bırakır.\
 **Üreme dönemi:** Nisan sonunda yumurta koyar, mayıs sonunda yavrular çıkar. **EGE:** İzmir Karaburun’da bir adada bulunan üreme kolonisinde 1996’da en az bir çift gözlenmiştir [@boyla1998a]. 1997 Mayıs sonunda ise 2-4 birey kaydedilmiştir [@eken1997c]. **AKD:** 1973’te 25 çift, 1974’te 28 çift çel Aydıncık Adalarında yuvalamıştır. Nisan sonunda yumurtalar, 28 Mayıs’ta yumurtadan yeni çıkmış yavrular gözlenmiştir [@witt1976beobachtungen]. 16 Nisan 1985’te yaklaşık 20 çiftin yuvaladığı, 1987’de yaklaşık 30 çiftin bulunduğu ancak 1996’da sadece 6 çiftin gözlendiği kaydedilmiştir. Bu düşüşün nedeni, 1974’te adada üremeyen gümüş martının 1996 yılında 40 çifte ulaşmış olması olabilir [@magninyarar1997]. 6 Mayıs 2004’te ada ziyaret edildiğinde hiçbir ada martısı görülmemiş, birkaç çift gümüş martı kaydedilmiştir. **AKD.** Yakın zamana kadar İçel Aydıncık açıklarındaki iki küçük adan biri olan bodur vejetasyonlu küçük bir adada yuvalamaktaydı. Burada 1973'de 25 çift, 1974'de 28 çift yuvalamış, nisan sonunda yumurtalar, 28 Mayıs'ta yumurtadan yeni çıkmış yavrular gözlenmiştir [@witt1976beobachtungen]. Burada 16 Nisan 1985'de yaklaşık 20 çiftin yuvaladığı, 1987'de de yaklaşık 30 çift, ancak 1996'da sadece 6 çift görülmüştür. Bu düşüşün nedeni 1974'de adada üremeyen gümüş martının 1996 yılında 40 çifte artmış olması olabilir [@magninyarar1997]. 6 Mayıs 2004'de ada ziyaret edildiğinde hiçbir ada martısı görülmemiş, birkaç çift gümüş martı bulunmuştur. **EGE.** İkinci üreme kolonisi İzmir Karaburun'da bir adada olup, 1996'da en azından bir çift bulunmuş [@boyla1998a] ve 1997 Mayıs sonunda 2-4 kuş gözlenmiştir [@eken1997c]. Türkiye'den yuva ve yumurta sayısı hakkında bilgi yoktur. Ülke dışında yerde alçak bir çukurda yuvalar, yuvayı bitki gövdeleri, yosun ve diğer bitkisel materyalle astarlar. Yumurta sayısı genellikle 2-3'tür.
 
@@ -396,7 +296,7 @@ Kışın çoğunlukla kıyılarda ve açıkta bulunur. Şubat 1997’de Karadeni
 
 **Üreme**
 
-**Yuvalama alanı:** Koloniler halinde ürer. Çıplak topraktan ve sınırlı bitkilerden oluşan alçak ve düz adalarda yuva yapar. Bazen Gülen Sumru ve Karabaş Martı gibi türlerle serbest bir beraberlik içinde yuvalar.\
+**Yuvalama Alanı:** Koloniler halinde ürer. Çıplak topraktan ve sınırlı bitkilerden oluşan alçak ve düz adalarda yuva yapar. Bazen Gülen Sumru ve Karabaş Martı gibi türlerle serbest bir beraberlik içinde yuvalar.\
 **Yuvası:** Yerde sığ bir çukur olup, bitki kökleri, otlar ve bir miktar tüyle astarlanır. Karabaş Martı ile beraber ürediği alanlarda daha fazla materyal biriktirir ancak yuvalar daha küçük ve daha alçaktır.\
 **Yumurta sayısı:** Genellikle üç yumurta bırakır, bazen iki, ara sıra tek yumurta kaydedilmiştir.\
 **Üreme dönemi:** İlk yumurta nisan sonunda veya mayıs başında bırakılır. İlk yavrular mayıs sonu ve haziran başında yumurtadan çıkar. Bu durum farklı koloniler arasında oldukça tutarlı bir düzen gösterir. Üreme dönemi, telafi yuvaları nedeniyle uzayabilir. **EGE:** Büyük Menderes Deltası ve Gediz Deltası’nda kıyı lagünlerinde yuvalar. 26 Haziran 1999’da Büyük Menderes Deltası’nda gözlenen birçok yavru iri olsa da yumurtadan yeni çıkmış bireyler de kaydedilmiştir. Bu gözlem, yaklaşık 4 haftalık bir zaman farkına işaret etmektedir. **İÇA:** 19 Haziran 1992’de Kulu Gölü’ndeki yavruların çoğu büyümenin ilk yarısını tamamlamış olup bazı yuvalarda yumurta veya küçük yavrular gözlenmiştir.
@@ -519,7 +419,7 @@ Kıyı alanlarının dışında Edirne, Çerkezköy ve Bursa ve Uluabat Gölü g
 
 **Üreme**
 
-**Yuvalama alanı:** Kıyıdan uzaktaki kayalık ada ve adacıklarda, göllerdeki adalarda ve özellikle İstanbul’da bina çatılarında yuva yapar. İstanbul’da çatı üstlerinde yuvalarken, İzmir’de yalnızca Gediz Deltası’nda zeminde yuvalar.\
+**Yuvalama Alanı:** Kıyıdan uzaktaki kayalık ada ve adacıklarda, göllerdeki adalarda ve özellikle İstanbul’da bina çatılarında yuva yapar. İstanbul’da çatı üstlerinde yuvalarken, İzmir’de yalnızca Gediz Deltası’nda zeminde yuvalar.\
 **Yuvası:** Yuva, bitkisel maddeler, yosunlar ve çerçöpten oluşan büyük bir yığıntıdır. Orta kısmı çukur olup daha ince malzemeyle astarlıdır.\
 **Yumurta sayısı:** Genellikle 2-3 yumurta bırakır. 15 yuvada 3 yumurta, 11 yuvada 2 yumurta ve 3 tyvada tek yumurta sayılmıştır.\
 **Üreme dönemi:** Mart ortası ve nisan başı arasında yumurta koyar. Yavrular haziran ortasından itibaren uçmaya başlarlar. **MAR:** Temmuz ortasında İstanbul’da bir çatıda bulunan, palazlanmış ve uçabilen iki yavru, yumurtlama tarihinin nisan sonu olduğunu göstermektedir. **EGE:** 8 Mayıs 1950’de Çeşme açıklarındaki bir adada yuvalar tespit edilmiştir [@mcneile1950]. 23 Nisan 2003’te Karine Gölü’ndeki adalardaki yuvalarda yumurta ve yeni çıkmış yavrular gözlenmiş olup, yumurtlama tarihinin 22 Mart civarında olduğunu göstermektedir. **AKD:** En erken üreme kaydı, 28 Nisan 1972’de Anamur’da yaklaşık bir haftalık genç kuş olup, ilk yumurtlama tarihinin 20 Mart olduğunu göstermektedir. Bölgede diğer kayıtlar arasında 5 Temmuz 1971’de Gelindere’de ve 13 Haziran 1992’de Aydıncık açıklarındaki bir adada çoğu palazlanmış yavrular bulunmaktadır. Bu gözlemler, yumurtlamanın mart sonu ile nisan başında başladığını göstermektedir. Mayıs 1964’te Beyşehir Gölü’ndeki iki yuvada birer, beş yuvada ikişer ve kalan 32 yuvada birer yumurta sayılmıştır [@vauk1973]. **KAR:** 11 Haziran 1975’te Giresun’da henüz uçmaya başlamış bir genç kaydedilmiş olup, bu gözlem diğer bölgelerdeki tarihlerle örtüşmektedir. Ancak 10-11 Haziran 1975’te Perşembe, Ordu ve Giresun’daki kolonilerde erişkinler henüz yuvada oturmaktaydı.
@@ -548,7 +448,7 @@ Kışlama popülasyonunun 8000-12.000 birey arasında olduğu tahmin edilmektedi
 
 **Üreme**
 
-**Yuvalama alanı:** Doğu Anadolu'daki en az 2000 m rakımlı göllerin hem çıplak hem de bitki örtülü adalarında, genellikle yerde koloniler halinde yuvalar. Kolonileri genellikle kalabalıktır, ancak küçük adalarda tek çiftler halinde de yuvalayabilir. 2001'de Nemrut Gölü'nde gözlenmiş, Haziran 2004'te burada küçük bir adada 12 çiftin yuvaladığı tespit edilmiştir.\
+**Yuvalama Alanı:** Doğu Anadolu'daki en az 2000 m rakımlı göllerin hem çıplak hem de bitki örtülü adalarında, genellikle yerde koloniler halinde yuvalar. Kolonileri genellikle kalabalıktır, ancak küçük adalarda tek çiftler halinde de yuvalayabilir. 2001'de Nemrut Gölü'nde gözlenmiş, Haziran 2004'te burada küçük bir adada 12 çiftin yuvaladığı tespit edilmiştir.\
 **Yuvası:** Yuva boyutu değişkendir ve muhtemelen çevredeki malzemeye göre farklılık gösterir. Çoğunlukla ot ve bitki yığını şeklinde olup ortası çukur ve ince malzemeyle astarlanmıştır.\
 **Yumurta sayısı:** Genellikle üç, nadiren iki yumurta koyar.\
 **Üreme dönemi:** İlk yumurtalar mayıs başında koyulur, yavrular mayıs sonundan itibaren yumurtadan çıkar. **AKD.** Beyşehir Gölü'nde Gümüş Martılarla karışık bir kolonide yuvalamıştır. 23-25 Mayıs 1999'da toplam 40-50 çift sayılmış, bunların çoğunun yaklaşık 2 haftalık yavrusu varken üç çiftin yeni telafi yumurtaları koyduğu gözlenmiştir. **İÇA.** 9 Mayıs 1993'te Tuz Gölü'ndeki çoğu yuvada üç yumurta bulunmuş, bazı yuvalarda yumurtadan yeni çıkmış yavrular gözlenmiştir. **DOA.** 9 Haziran 2001'de Balık Gölü'ndeki yuvaların çoğunda yumurta varken, bazılarında yaklaşık bir haftalık yavrular görülmüştür. 30 Mayıs 1971'de Ahtamar Adası'nda yaklaşık 500 çift sayılmış, çoğu yuvada üç yumurta tespit edilmiştir. 8 Haziran 1975'te 1500 çift gözlenmiş, bazı yuvalarda hem yumurtalar hem de yavrular bulunmuştur. 1 Haziran 1999'da yalnızca 15 çift ve yaklaşık 50 boş yuva tespit edilmiş, boş yuvaların bir yırtıcı hayvan tarafından tahrip edildiği düşünülmüştür. Bu koloninin büyük bir kısmı Çarpanak Adası'na taşınmış, 2 Haziran 1999'da burada yaklaşık 2000 çift sayılmış, çatlamak üzere olan veya yeni çatlamış yumurtalar kaydedilmiştir [@liebers1999]. 17-18 Haziran 1992'de Çıldır Gölü'nde üç adada yaklaşık 900 çift üremiş, 291 yavru sayılmış, bunların çoğu büyük olsa da henüz uçamıyordu. Aynı bölgede 28-29 Mayıs 1999'da kuzeybatı kıyısının 7 km açığındaki adalarda iki kolonide toplam 350-370 çift kaydedilmiş, çiftlerin %95'inin 1 gün ile 3 hafta arasında değişen yaşlarda yavrulara sahip olduğu belirlenmiş, kalan bireylerin hala kuluçkada olduğu tespit edilmiştir. Çoğu yuvada üç yumurta bulunmuştur [@liebers1999]. Bu kayıtlar ilk yumurtanın mayıs başında koyulduğunu gösterir ve Ermenistan'daki kolonilerden gelen verilerle tutarlıdır. Ermenistan'da yumurtadan çıkma dönemi mayıs sonudur [@adamian1999].
@@ -645,7 +545,7 @@ Göç sırasında özellikle mayıs ve eylül aylarında daha yaygın olarak gö
 
 **Üreme**
 
-**Yuvalama alanı:** Sahiller, iç kesimlerdeki göller ve nehirlerde bulunan adalarda ve kum tepelerinde ürer. Koloni büyüklüğü değişken olup en az 2-3 çiftten oluşur.\
+**Yuvalama Alanı:** Sahiller, iç kesimlerdeki göller ve nehirlerde bulunan adalarda ve kum tepelerinde ürer. Koloni büyüklüğü değişken olup en az 2-3 çiftten oluşur.\
 **Yuvası:** Çıplak kum, çakıl veya kuru çamur üzerine, sığ bir çukura yuva yapar.\
 **Yumurta sayısı:** Genellikle üç (91 yuva), bazen iki (16 yuva), nadiren bir (4 yuva) yumurta koyar.\
 **Üreme dönemi:** Üreme çoğunlukla mayısın ikinci yarısında veya haziranda başlar. **MAR:** 2 Haziran 1966'da Uluabat Gölü'nde yaklaşık 15 çiftten oluşan bir kolonide içinde yumurta olan dört yuva kaydedilmiş; 16 Eylül 1995'te Kocaçay Deltası'nda yavrularını besleyen bir çift gözlenmiştir [@ertan1996]. **EGE.** Büyük Menderes Deltası Karine Gölü'nde 9 Mayıs 2003'te üreme alanında bulunan erişkinler gözlenmiştir. Aynı yerde 14 Mayıs 2007'de, yaklaşık 20 yeni ama boş yuva kazıntısı, içinde bir yumurta olan 16 yuva ve içinde iki yumurta olan bir yuva bulunmuştur. Yuvaların bazılarının aralarındaki mesafe sadece 1 metre olarak kaydedilmiştir. 26 Haziran 1999'da Büyük Menderes Deltası'nın başka bölgelerinde, içinde yumurta bulunan iki yuva ve yeni tüylenmiş bir yavru gözlenmiş; 25 Mayıs 2004'te ise kıyı lagünlerinde kuluçkaya yatmış birkaç erişkin kaydedilmiştir. **AKD.** Çukurova'dan en erken üreme kayıtları alınmış, 9 Mayıs 1989 ve 11 Mayıs 1990'da içinde üç yumurta olan birçok yuva kaydedilmiştir. Göksu Deltası'nda 26 Mayıs 1998 ile 11 Haziran 1992'de kuluçkaya yatmış erişkinler; 9 Haziran 1974'te her birinde üç yumurta olan dört yuva ve 16 Haziran 1974'te içinde yeni tüylenmiş yavru olan altı yuva kaydedilmiştir [@witt1976beobachtungen]. Yine aynı yerde 8 Haziran 1999'da, yumurtaların mayıs başında koyulduğunu gösterir şekilde yeni tüylenmiş iki yavru gözlenmiştir. 30 Nisan 1970'te Silifke yakınında çiftleşme öncesi kur davranışı gözlenmiştir. **KAR:** Kızılırmak Deltası'nda çiftlerin 9 Haziran 1992'de üremeye yeni başladıkları not edilmiştir [@hustings1994]. **İÇA.** 3 Haziran 1982'de Sultansazlığı'nda, içinde 2-3 yumurta bulunan 50 yuva, içinde bir yumurta olan bir yuva ve içinde yeni tüylenmiş yavru olan iki yuva kaydedilmiştir [@kasparek1985]. Aynı bölgede 2 Haziran 1971'de Seyfe Gölü'nde içinde 2-3 yumurta bulunan 48 yuva kaydedilmiştir [@husband1984]. 19 Haziran 1992'de Kulu Gölü'ndeki bir adada içinde iki yumurta olan bir yuva tespit edilmiştir. **DOA.** 2 Temmuz 2005'te Malatya'daki Karakaya Barajı'nda gençleri besleyen 5-10 çift kaydedilmiştir.
@@ -674,7 +574,7 @@ Genellikle az sayıda ve yaygın bir geçit türüdür. İlkbahar göçü mart b
 
 **Üreme**
 
-**Yuvalama alanı:** Tuzlu ve acı göllerdeki adalarda, nehirlerdeki kum ve çakıl adalarında koloniler halinde yuvalar. Koloniler genellikle 80-300 çift arasında değişir. Koloniler bazen Akdeniz Martısı, İnce Gagalı Martı, Karabaş Martı, Sumru ve Küçük Sumru gibi diğer türlerle mesafeli bir birliktelik içinde bulunur.\
+**Yuvalama Alanı:** Tuzlu ve acı göllerdeki adalarda, nehirlerdeki kum ve çakıl adalarında koloniler halinde yuvalar. Koloniler genellikle 80-300 çift arasında değişir. Koloniler bazen Akdeniz Martısı, İnce Gagalı Martı, Karabaş Martı, Sumru ve Küçük Sumru gibi diğer türlerle mesafeli bir birliktelik içinde bulunur.\
 **Yuvası:** Çıplak zemine açılmış sığ bir çukurdur. Yakındaki otlar ve bitki örtüsü ile cılız bir şekilde astarlanabilir.\
 **Yumurta sayısı:** Genellikle 3 yumurta bırakır, nadiren tek yumurta tespit edilmiştir.\
 **Üreme dönemi:** İlk yumurtalar nisan sonu ile mayıs başında bırakılır. İlk yavrular mayıs ortasında yumurtadan çıkar, haziran sonu itibarıyla iri ve uçmaya hazır yavrular gözlenir. Üreme tarihleri ana kolonilerde genellikle sabittir. **İÇA**: Haziran ortasında Seyfe Gölü'nde, haziran sonunda Bolluk Gölü'nde ve temmuz ortasında Kulu Gölü'nde içinde yumurta bulunan yuvalar tespit edilmiştir. Bunların çoğunun telafi kuluçkası olduğu düşünülmektedir.
@@ -701,7 +601,7 @@ Geçit sırasında ülke genelinde daha yaygın görülse de sayıları düşük
 
 **Üreme**
 
-**Yuvalama alanı:** Küçük koloniler halinde, tuzlu göllerin çıplak veya deniz kabuğu ile kaplı alçak adalarında yuvalar. Gediz Deltası'nda bazı koloniler sık ve derli topludur, birkaç çift birbirine yakın bulunur, diğer koloniler dağınık olabilir ve yuvaların arasında birkaç metre bulunabilir.\
+**Yuvalama Alanı:** Küçük koloniler halinde, tuzlu göllerin çıplak veya deniz kabuğu ile kaplı alçak adalarında yuvalar. Gediz Deltası'nda bazı koloniler sık ve derli topludur, birkaç çift birbirine yakın bulunur, diğer koloniler dağınık olabilir ve yuvaların arasında birkaç metre bulunabilir.\
 **Yuvası:** Yuva sığ bir çukur olup ya astarsızdır ya da bitki çerçöpüyle hafifçe astarlanmıştır.\
 **Yumurta sayısı:** Genellikle 2-3 yumurta koyar.\
 **Üreme dönemi:** Nisan ortasından itibaren yumurta koyar, yavrular mayıs sonu çıkar. **EGE.** 2003 yılında Büyük Menderes Deltası Karina Gölü'ndeki küçük bir adada 23 Nisan'da üç yuvada üç yumurta, 10 yuvada 1-2 yumurta ve 10 yeni kazılmış boş yuva tespit edilmiştir. 9 Mayıs'ta yapılan gözlemde ise dokuz yuvada üç yumurta, 17 yuvada iki yumurta ve iki yuvada birer yumurta bulunmuş, toplam 28 yuvada ortalama 2,2 yumurta sayılmıştır. Aynı bölgede 27 Haziran 1999'da geç bir yuvada iki yumurta kaydedilmiş ve bunun telafi kuluçkası olduğu düşünülmüştür. 26 Mayıs 2004'te yapılan gözlemde tüm yuvalarda yumurta olduğu belirlenmiştir. **İÇA.** Tuz Gölü'nde Mayıs 1969'da 15 çift yuvalamış, 13 yuva iki tane, kalan yuvalarda 3 yumurta bulunmuş, 31 Mayıs 1971'de toplam 19 yuvanın her birinde 2-3 yumurta veya yavru görülmüş, toplam 12 yavrunun en büyüğü yaklaşık 8 günlük olduğu düşünülmüş ve ilk yumurtlama tarihi 2 Mayıs olarak hesaplanmıştır. Erişkinlerin de 28 Mayıs 1974'de oldukça dağınık konumlanmış yuvalarda kuluçkada oldukları, sadece bir yuvada yumurtadan yeni çıkmış tek bir yavru görülmüştür [@pforr1982].
@@ -730,7 +630,7 @@ Kış aylarında az sayıda birey Ege ve Akdeniz kıyılarındaki lagün ve göl
 
 **Üreme**
 
-**Yuvalama alanı:** Göllerin, nilüfer gibi suda büyüyen bitkilerin bulunduğu korunaklı bölgelerinde koloniler halinde ürer. Koloniler büyük olabilir.\
+**Yuvalama Alanı:** Göllerin, nilüfer gibi suda büyüyen bitkilerin bulunduğu korunaklı bölgelerinde koloniler halinde ürer. Koloniler büyük olabilir.\
 **Yuvası:** Saz ve diğer sucul bitkilerden oluşan küçük bir yığının, yüzen nilüferlerle iç içe geçirilmesiyle oluşur.\
 **Yumurta sayısı:** Sultansazlığı'nda biri 1, diğeri 3 yumurtaya sahip 2 yuva tespit edilmiştir [@kasparek1985]. Uluabat Gölü'nde ikisinin içinde 2, diğer ikisinin içinde 3 yumurta bulunan 4 yuva gözlenmiştir.\
 **Üreme dönemi:** aziran başında yumurta koyar, yavrular temmuz sonunda gözlenir. **MAR.** 2 Haziran 2006'da Uluabat Gölü'nde yumurtalar kaydedilmiştir. Koloniler mayıs ortasından itibaren aktiftir. 2-3 Haziran 2006'da Uluabat Gölü'nde yuva malzemesi taşıyan birçok erişkin, 28 Haziran 1973'te ise yavrularına yiyecek taşıyan erişkinler gözlenmiştir. **İÇA.** 2 Haziran 1975'te Sultansazlığı'nda biri 1, diğeri 3 yumurtaya sahip 2 yuva tespit edilmiş, 22 Temmuz 1981'de yeni tüylenmiş yavrular kaydedilmiştir [@kasparek1985]. Aynı bölgede, 25 Temmuz 1971'de Yarma yakınında ve 3 Ağustos 1971'de Akşehir Gölü'nde yeni tüylenmiş yavrular gözlenmiştir.
@@ -757,7 +657,7 @@ Göç sırasında daha yaygın olarak görülür ve sayıca daha fazladır. Ülk
 
 **Üreme**
 
-**Yuvalama alanı:** Göllerin, nilüfer gibi suda büyüyen veya yüzen bitkilere sahip korunaklı bölgelerinde, küçük koloniler halinde ürer.\
+**Yuvalama Alanı:** Göllerin, nilüfer gibi suda büyüyen veya yüzen bitkilere sahip korunaklı bölgelerinde, küçük koloniler halinde ürer.\
 **Yuvası:** Yuvası, sazlardan ve su bitkilerinden oluşan bir yığının üzerine yerleştirilmiş veya büyümekte olan bir bitkiye tutturulmuş, tepesinde daha ince malzemelerle astarlanmış bir deliğe sahip bir yapıdır.\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı hakkında ayrıntılı bilgi bulunmamaktadır. Diğer bölgelerde olağan yumurta sayısı üçtür. **MAR.** Uluabat Gölü'nde 2 Haziran 1966'da yüzen bitkilerin üzerinde 15-20 çiftin yuvaladığı gözlenmiştir. R. F. Porter tarafından incelenen üç yuvadan biri boş, diğer ikisinde ise sırasıyla iki ve bir yumurta bulunmuş, bu yuvaların büyük olasılıkla tamamlanmamış kuluçkalar olduğu belirtilmiştir. Yine Uluabat Gölü'nde Mayıs 1967'de toplam yaklaşık 100 çifte sahip dört koloni kaydedilmiş, Mayıs 1969'da ise 40 bireye kadar kuş ve yuvalama davranışı gözlenmiştir. 15 Mayıs - 20 Haziran 1998 arasında en az üç çiftin bıyıklı sumru kolonisi içinde yuvaladığı belirlenmiştir [@welch1998b]. **İÇA.** 1967'de Eber Gölü'nde toplam 15 çifte sahip iki koloni kaydedilmiş, 8 Mayıs’ta burada yuva yapma davranışı gözlenmiştir.
 
@@ -785,7 +685,7 @@ Nadiren tam erişkin kıyafetinde kışı geçiren bireylere giderek artan sıkl
 
 **Üreme**
 
-**Yuvalama alanı:** Koloniler halinde sulakalanların kenarındaki ıslak çayırlarda yuvalar.\
+**Yuvalama Alanı:** Koloniler halinde sulakalanların kenarındaki ıslak çayırlarda yuvalar.\
 **Yuvası:** Türkiye'de yuva bilgisi yoktur\
 **Yumurta sayısı:** Türkiye'de yumurta sayısı bilinmemektedir.\
 **Üreme dönemi:** Haziran ve temmuz aylarında yavrulara rastlanabilir, ancak düzensiz ürediği düşünülmektedir. Üreme kolonilerinde kuşlar 2-3 ay boyunca kalır ve bu süre zarfında oldukça gürültülü ve dikkat çekici oldukları için fark edilmemeleri mümkün değildir. **İÇA.** 5 Temmuz 1969’da Mogan Gölü’nde tamamen tüylenmiş bir genç birey, 31 Temmuz 1969’da ise Temelli’de üç genç gözlenmiştir. Bu gençlerin burada yumurtadan çıkmış olmaları olasıdır. 19 Haziran 1975’te Seyfe Gölü’nde bir çift, iki erişkin ve üç yavru kaydedilmiştir [@husband1984]. **KAR.** 16 Haziran 1983’te Yeniçağa Gölü’nde iki erişkin ve bir tüylenmiş yavru gözlenmiştir [@kilic1987]. 17 Temmuz 1992’de Kızılırmak Deltası’nda gençleri beslemekte olan erişkinler kaydedilmiştir [@hustings1994]. **DOA.** 17 Temmuz 1986’da Haçlı Gölü’nde üçü genç olmak üzere toplam dokuz birey gözlenmiştir, ancak bu gençlerin Türkiye’de yumurtadan çıktığına dair kesin bir kanıt yoktur. 4 Haziran 2002’de Doğubayazıt yakınındaki Saz Gölü’nde küçük kolonilere ait olduğu düşünülen 150 birey gözlenmiştir. Aynı yerde 28 Mayıs 2003’te yaklaşık 100 erişkin kaydedilmiş, ancak bu gözlemlerde de üremeyi doğrulayan kesin bir kanıt bulunmamıştır. 10 Haziran 2005’te üreme için uygun habitatın bulunduğu Malatya’daki Karakaya Barajı’nda yaklaşık 20 erişkin gözlenmiştir. Yine aynı yerde 18 Temmuz 2005’te, 10-15 tanesi gençlerden oluşan 35’ten fazla birey kaydedilmiş ve gençlerin bir kısmının erişkinler tarafından beslendiği not edilmiştir. Ancak üreme ile ilgili kesin bir kanıt bulunmadığından, bu bireylerin sadece kısa süreliğine kalan göçmen kuşlar olduğu düşünülmektedir.
@@ -838,7 +738,7 @@ Nadiren kışın görülebilir. Aralık sonu ile şubat başı arasında Akdeniz
 
 **Üreme**
 
-**Yuvalama alanı:** Koloniler genellikle 80 çiftten az olsa da, 1966’da Manyas Gölü’nde 500 çifte kadar büyük kolonilere de rastlanmıştır. Nadiren tek başına, bazen Gülen Sumru ve Küçük Sumru gibi diğer türlerle birlikte ürer. Hem kıyı hem de iç kesimlerdeki göllerde, su basmış alanlarda, nehir kıyılarında ve kıyıya yakın adalarda yuvalar. Genellikle kum, çamur ve çakıldan oluşan alçak adalar tercih edilir. Uluabat Gölü’nde yüzen bitkilerin içinde yuvaladığı da kaydedilmiştir [@welch1998b].\
+**Yuvalama Alanı:** Koloniler genellikle 80 çiftten az olsa da, 1966’da Manyas Gölü’nde 500 çifte kadar büyük kolonilere de rastlanmıştır. Nadiren tek başına, bazen Gülen Sumru ve Küçük Sumru gibi diğer türlerle birlikte ürer. Hem kıyı hem de iç kesimlerdeki göllerde, su basmış alanlarda, nehir kıyılarında ve kıyıya yakın adalarda yuvalar. Genellikle kum, çamur ve çakıldan oluşan alçak adalar tercih edilir. Uluabat Gölü’nde yüzen bitkilerin içinde yuvaladığı da kaydedilmiştir [@welch1998b].\
 **Yuvası:** Genellikle yerde, astarsız veya yakındaki bitkilerle astarlanmış sığ bir çukurdur.\
 **Yumurta sayısı:** Genellikle 3, nadiren 2 yumurta bırakır.\
 **Üreme dönemi:** Üreme dönemi uzundur, yuvalama alanlarındaki su seviyesi ve martı gibi baskın türlerin üreme döngüsüne göre gecikebilir. Genellikle mayıs sonu ile temmuz arasında yumurta koyar. Yavrular eylüle kadar görülebilir. **MAR.** 19 Haziran 1973’te Büyükçekmece’de, yumurtaların mayıs başında koyulduğunu gösteren 4 tüylenmiş yavru gözlenmiştir. 2 Haziran 1966’da Uluabat Gölü’nde yaklaşık 30 çiftten oluşan bir kolonide, içinde yumurta bulunan 4 yuva kaydedilmiştir. Ayrıca, 14 Mayıs’ta ve sonrasında içinde yumurta bulunan yuvalar gözlenmiş, 11 Temmuz 1966’da ise Kocaçay Deltası’nda tüylenmiş yavrular görülmüştür [@ertan1996]. **EGE.** 14 Mayıs 2007’de Karine Gölü’nde yapılan gözlemde, üremenin hala erken aşamada olduğunu gösteren ve yalnızca bir yumurtası bulunan tamamlanmamış kuluçkaya sahip 2 yuva kaydedilmiştir. 27 Haziran 1999’daki gözlemde ise çiftlerin çoğunun farklı gelişim seviyelerinde yavruya sahip olduğu, ancak birkaç yuvada hala yumurta bulunduğu görülmüştür. 23 Mayıs 1950’de Aliağa yakınındaki bir adacıktan 2 yumurta toplanmıştır [@mcneile1950]. **AKD.** Göksu Deltası’nda erişkinlerin 15 Mayıs’tan itibaren kuluçkaya yattıkları gözlenmiş, 19 Mayıs 1999’da ise Akgöl’de yaklaşık 100 bireyin kum şeridi üzerinde kuluçkada olduğu kaydedilmiştir. Temmuz başında ise tüylenmiş yavrular gözlenmiştir. **KAR.** 10 Haziran 1975’te Fatsa’da, açıkta bulunan küçük bir adacıkta üremekte olan 30-50 çift kaydedilmiştir. Geç tarihlerde gözlenen yumurtalı yuvalar, büyük olasılıkla kaybedilen kuluçkaların yerine yeniden yumurtlandığını göstermektedir. **İÇA.** 2 Haziran 1971’de Seyfe Gölü’nde 60 çiftten oluşan bir kolonide yapılan gözlemde, yumurtaların yaklaşık 10 Mayıs’ta koyulduğunu gösteren 48 çiftin yuvasında yumurta, geri kalan yuvalarda ise yavrular bulunmuştur [@husband1984]. 26 Temmuz 1971’de Yarma’da hala kuluçkada olan çiftler gözlenmiştir. **DOA.** Mayıs sonunda Erçek Gölü’nde, haziran başında ise Malatya’daki Murat Nehri’nde ve Karakaya Barajı’ndaki çakıl adalarında kuluçkada olan erişkinler gözlenmiştir.
@@ -865,7 +765,7 @@ Kış aylarında tüm kıyılarda yaygın olarak görülür. Karadeniz'in kuzeyi
 
 **Üreme**
 
-**Yuvalama alanı:** Deniz kıyısındaki lagünlerde kum adalarında yuvalar.\
+**Yuvalama Alanı:** Deniz kıyısındaki lagünlerde kum adalarında yuvalar.\
 **Yuvası:** Yere, astarsız sığ bir çukur şeklindedir. Diğer bölgelerde kolonilerin yoğun olduğu ve yuvaların birbirine 0,5 metreden daha yakın konumlandığı bilinmektedir.\
 **Yumurta sayısı:** Genellikle iki yumurta bırakır, ancak nadiren yılda bir kez kuluçkaya yatabilir.\
 **Üreme dönemi:** Yumurtalar çoğunlukla mayıs ayında bırakılır. **EGE.** Gediz Deltası’nda 1984-1988 yılları arasında, deltanın tuzlu lagünlerinde bulunan ve Akdeniz Martısının ürediği adalarda ürediği doğrulanmıştır. 1996 yılı mayıs ayı başında yapılan çalışmada, bu kolonide 53 çift Kara Gagalı Sumru ve 97 çift Akdeniz Martısı kaydedilmiştir [@eken1997a].

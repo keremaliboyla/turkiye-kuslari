@@ -1,5 +1,5 @@
 ---
-title: "İspinozgiller"
+title: "İspinozgiller, Çinteler"
 ---
 
 ## İspinoz
@@ -644,7 +644,7 @@ Türkiye'de yuvalamaz.
 
 **Alttürler ve Sınıflandırma**
 
-Burada bahsedilen kuşu büyük ihtimalle nominat alttür olup, bu takson Kuzey Norveç ile Doğu Sibirya arasında ürer (Byers vd. 1995).
+Burada bahsedilen kuşu büyük ihtimalle nominat alttür olup, bu takson Kuzey Norveç ile Doğu Sibirya arasında ürer [@byers1995].
 
 ## Alaca Çinte
 
