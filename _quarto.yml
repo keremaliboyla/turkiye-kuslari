@@ -21,8 +21,8 @@ book:
     - 07_deniz-ve-gol-kuslari.qmd
     - 08_yirticilar.qmd
     - 09_baykuslar.qmd
-    - 10_otucu-oncesi.qmd  # 31 Mart
-    # - 11_kargamsilar.qmd   # 31 Mart
+    - 10_otucu-oncesi.qmd
+    - 11_kargamsilar.qmd   # 31 Mart
     # - 12_toygarlar.qmd     # 14 Nisan
     # - 13_civginlar.qmd     # 14 Nisan
     # - 14_otlegenler.qmd    # 28 Nisan
