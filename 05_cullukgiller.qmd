@@ -232,7 +232,7 @@ Monotipik bir türdür.
 
 İlkbahardaki geliş ve gidiş tarihlerini belirlemek zordur ancak görünüşe göre mart ve nisanın ilk haftasında en yoğun olarak geçiş yapar; Kızılırmak Deltası'nda 1000 bireyden fazlası kaydedilmiştir. Bu tarihten sonra sayılar hızla düşer ancak Doğu Anadolu'dan mayıs sonuna kadar ayrılmazlar. Dönüş yapan göçmenler temmuzun ilk haftası gözlenmeye başlar ve geçiş kasımın ilk yarısına kadar sürer. Bu tarihten sonra sadece kışlama alanlarında kaydedilir. Bu mevsimdeki en yüksek sayı 9-10 Ekim 1968'de Amik Gölü'nde gözlenen 300 bireydir ve alanda muhtemelen birkaç bin birey daha bulunmaktaydı. Kışlayanların çoğu kıyısal sulakalanlarda barınır ve çok sayıda olmasına rağmen geçit yapanlardan daha azdır. En önemli kış sayımları arasında Tarsus'ta kaydedilen 200 birey ve Balıkesir Gönen'de kaydedilen 100 birey vardır.
 
-![](images/harita_Gallinago gallinago.png)
+![](images/harita_Gallinago%20gallinago.png)
 
 **Üreme**
 
@@ -648,7 +648,7 @@ Monotipik bir türdür. Önceleri *Philomachus pugnax* olarak adlandırılırdı
 
 Ülke genelindeki sulakalanlarda ve kıyı bölgelerinde seyrekten oldukça bola kadar düzenli olarak kaydedilen bir geçit türüdür. İlkbaharda 17 Nisan (bir defasında 11 Mart'ta) ile 29 Haziran (özellikle ortadaki iki hafta olmak üzere nisan sonu ile mayısta zirve yapar) tarihleri arasında geçer. Ülkenin en batı ucundan geçişi tipik olarak çok az sayıdadır. İç ve güney bölgelerdeki en yüksek kayıtlar şöyledir: 24 Nisan ile 20 Mayıs 1987 tarihleri arasında Çukurova Deltası'nda toplam 123 birey [@have_etal1988], yine bu alanda 1990 yılının Nisan sonu ile Mayıs sonu arasında 134 birey [@kivit1994], aynı alanda Ağyatan Gölü'nde 30 Nisan 1997'de 73 birey, aynı alanda Tuz Gölü'nde 8 Mayıs 2004'te 110 birey, Yumurtalık'ta 9 Mayıs 2005'te 150 birey [@balmer2005b] ve 10 Mayıs ile 7 Haziran 1992 tarihleri arasında Kızılırmak Deltası'nda toplam 218 bireye kadar [@hustings1994] kaydedilmiştir.
 
-Sonbaharda 10 Temmuz ile 27 Eylül (çoğunluğu Ağustos sonu ile Eylül başında) tarihleri arasında geçiş yapar. Özellikle Van Gölü Havzası'nda daha sık gözlenir. Örneğin, 3 Ağustos ile 11 Eylül 1986 arasında Van Sazlığı'nda toplamda 206 bireye kadar (Martins 1989), 16 Ağustos 1989'da Bendimahi Deltası'nda 80 birey ve Ağustos 1990 sonlarında bu bölgedeki birkaç yerde 100 bireyin üzerinde ([@kirwanmartins1994]) kaydedilmiştir. Geçiş neredeyse kesinlikle ekim başına kadar devam eder ancak ekim ayında hiç kaydı yoktur. 27 Ocak 2008'de Gediz Deltası'nda gözlenen altı bireylik grup ülkedeki tek kış kaydıdır. Modern, sistematik kaydetmenin başlamasından önce nispeten çok az kaydı vardır.
+Sonbaharda 10 Temmuz ile 27 Eylül (çoğunluğu Ağustos sonu ile Eylül başında) tarihleri arasında geçiş yapar. Özellikle Van Gölü Havzası'nda daha sık gözlenir. Örneğin, 3 Ağustos ile 11 Eylül 1986 arasında Van Sazlığı'nda toplamda 206 bireye kadar (Martins 1989), 16 Ağustos 1989'da Bendimahi Deltası'nda 80 birey ve Ağustos 1990 sonlarında bu bölgedeki birkaç yerde 100 bireyin üzerinde [@kirwanmartins1994] kaydedilmiştir. Geçiş neredeyse kesinlikle ekim başına kadar devam eder ancak ekim ayında hiç kaydı yoktur. 27 Ocak 2008'de Gediz Deltası'nda gözlenen altı bireylik grup ülkedeki tek kış kaydıdır. Modern, sistematik kaydetmenin başlamasından önce nispeten çok az kaydı vardır.
 
 ![](images/harita_Calidris%20falcinellus.png)
 

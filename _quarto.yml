@@ -6,12 +6,17 @@ book:
   title: "Türkiye Kuşlarının Doğa Tarihi"
   cover-image: kapak3.png
   favicon: kapak3.png
-  # repo-url: https://github.com/keremaliboyla/turkiye-kuslari
-  # repo-actions: [edit, issue]
+  repo-url: https://github.com/keremaliboyla/turkiye-kuslari
+  repo-actions: [edit, issue]
   # sharing: [twitter, facebook]
   
   chapters:
     - index.qmd
+    - part: "Giriş"
+      chapters:
+        - 00_tarihce_ve_tesekkur.qmd
+        - 00_turkiye_ornitoloji_tarihi.qmd
+        - 00_bilgi_bosluklari.qmd
     - 01_ordekgiller.qmd
     - 02_tavukgiller_vd.qmd
     - 03_bataklik-kuslari.qmd
@@ -22,19 +27,14 @@ book:
     - 08_yirticilar.qmd
     - 09_baykuslar.qmd
     - 10_otucu-oncesi.qmd
-    - 11_kargamsilar.qmd   # 31 Mart
-    # - 12_toygarlar.qmd     # 14 Nisan
-    # - 13_civginlar.qmd     # 14 Nisan
+    - 11_kargamsilar.qmd
+    - 12_toygarlar.qmd     # 14 Nisan
+    # - 13_kamiscinlar.qmd   # 21 Nisan
     # - 14_otlegenler.qmd    # 28 Nisan
-    # - 15_tirmasiklar.qmd   # 28 Nisan
+    # - 15_tirmasiklar.qmd   # 05 Nisan
     # - 16_sinekkapanlar.qmd # 12 Mayıs
-    # - 17_serceler.qmd      # 12 Mayıs
+    # - 17_serceler.qmd      # 19 Mayıs
     # - 18_ispinozlar.qmd    # 19 Mayıs
-    - part: "Ekler"
-      chapters:
-        - 00_tarihce_ve_tesekkur.qmd
-        - 00_turkiye_ornitoloji_tarihi.qmd
-        - 00_bilgi_bosluklari.qmd
     - references.qmd
 
 bibliography: references.bib
