@@ -2,7 +2,26 @@
 
 Türkiye'de tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
 
-Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir: Ördekgiller - Tavukgiller - Bataklık Kuşları (13/11) - Cılıbıtgiller (28/01) - Çullukgiller - Martılar (02/02) - Deniz ve Göl Kuşları (18/10) - Yırtıcılar (25/10) - Papağanlar, Ağaçkakanlar ve Doğanlar - Kargamsılar - Ötleğenimsiler: Toygarlar - Ötleğenimsiler: Çıvgınler - Ötleğenimsiler: Ötleğenler - Tırmaşığımsılar - Sinekkapanımsılar - Serçemsiler: İncirkuşugiller, Dağbülbülleri ve Serçeler - Serçemsiler: İspinozlar ve Çinteler
+Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir:
+
+1.  [Ördekgiller](01_ordekgiller.html)
+2.  [Tavukgiller ve Kara Kuşları](02_tavukgiller_vd.html)
+3.  [Bataklık Kuşları](03_bataklik-kuslari.html)
+4.  [Cılıbıtgiller](04_cilibitlar.html)
+5.  [Çullukgiller](05_cullukgiller.html)
+6.  [Martıgiller](06_martilar.html)
+7.  [Deniz ve Göl Kuşları](07_deniz-ve-gol-kuslari.html)
+8.  [Yırtıcılar](08_yirticilar.html)
+9.  [Baykuşlar](09_baykuslar.html)
+10. [Gökkuzgunsular, Ağaçkakanlar, Doğanlar, Papağanlar](10_otucu-oncesi.html)
+11. [Sarıasma, Örümcekkuşları, Kargagiller](11_kargamsilar.html)
+12. [Baştankaralar, Toygarlar, Kırlangıçlar ve Arapbülbülleri](12_toygarlar.html)
+13. [Prinyalar, Mukallitler, Kamışçınlar](13_kamiscinlar.html)
+14. Ötleğenler
+15. Tırmaşığımsılar
+16. Sinekkapanımsılar
+17. İncirkuşugiller, Dağbülbülleri ve Serçeler
+18. İspinozlar ve Çinteler
 
 **Editör ve Yayına Hazırlayan**: Kerem Ali Boyla
 
