@@ -8,6 +8,10 @@ title: "Prinyalar, Çıvgınlar, Kamışçınlar, Mukallitler"
 
 ***Lokal olarak çok sayıda bulunan yerli türdür.***
 
+<iframe src="https://macaulaylibrary.org/asset/99215471/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Tür, özellikle Göksu ve Çukurova deltalarında ve eski Amik Gölü çevresinde (Antakya) boldur. Güneydoğu Anadolu’da Birecik, Akçakale ve Dicle Nehri boyunca yer alan bazı lokalitelerde daha az ve daha lokal yayılışlıdır. Batıda Antalya’da ve bir kez de Beyşehir ve Burdur göllerinde kaydedilmiştir. Genellikle *Scirpus* ve *Juncus* bitkilerinin yoğun olduğu alanlarda yaşasa da, zaman zaman pamuk tarlaları gibi daha kuru tarımsal alanlarda da bulunabilir. Kanıtlar sınırlı olsa da, sınırlı ölçüde üreme sonrası dağılma gösterdiği düşünülmektedir.
 
 ![](images/harita_Prinia%20lepida.png)
@@ -28,6 +32,10 @@ Akdeniz'deki popülasyonların tamamının, Türkiye’nin güneyinde tanımlana
 *Cisticola juncidis*, Zitting Cisticola
 
 ***Nispeten lokal olarak az sayıda bulunan yerlidir.***
+
+<iframe src="https://macaulaylibrary.org/asset/114810351/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Özellikle ovalardaki sulakalanlar ve çevresindeki ekili arazilerde yaşar. İzmir'den güneye doğru Ege ve Akdeniz kıyılarında, ayrıca yerel olarak Güneydoğu Anadolu’da bulunur. Birecik’te düzensiz olarak ürediği öne sürülmüştür. Son yıllarda Ayvalık’tan yaz dönemine ait bir kayıt bildirilmiştir. Marmara Bölgesi’nde çok az kaydı olmakla birlikte, türün İstanbul’da 1839’da Boisseneau tarafından alınan bir örnekle belgelenmiş olması, burada da düzensiz şekilde görüldüğünü göstermektedir. Üreme sezonunda 900 metreye kadar olan iç bölgelerdeki sulakalanlarda da düzensiz olarak kaydedilir. İç Anadolu’da Acıgöl ve Mogan Gölleri ile Yarma (Konya) çevresindeki eski sazlıklarda kaydedilmiştir. Van Gölü’nde, en yenisi Eylül 2004 ortasına ait olmak üzere iki kayıt, ayrıca Erçek Gölü ve Bulanık’tan birer kayıt mevcuttur.
 
@@ -52,6 +60,10 @@ Batıdaki, özellikle İzmir çevresinden toplanan örneklerin juncidis alttür�
 
 ***Nadir olarak az sayıda görülen geçit türüdür.***
 
+<iframe src="https://macaulaylibrary.org/asset/622996022/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Önceleri rastlantısal olduğu düşünülmüş, ancak doğu bölgelerinden gelen düzenli kayıtlarla nadir bir geçit kuşu olduğu anlaşılmıştır. Tersi belirtilmedikçe her biri tek bir bireye aittir. Yayımlanmış kayıtlar şunlardır: 9 Eylül 1976’da Ardeşen [@beaman1986], 20 Ağustos 1988’de Rize [@kirwanmartins1994], yine Rize’de 15 Ağustos 1990’da 2–3 birey, 29 Ağustos 1991 ve 5 Ağustos 1993 [@dierschke1996], 24 Mayıs 1992’de Birecik, 25–26 Nisan 1993’te Mersin [@kirwan1995a; @kirwanmartins2000], 20 Mayıs 1993’te Erçek Gölü [@kirwan1994a], 25 Mayıs 1998’de Beyşehir Gölü, 9 Ağustos 2001’de Muradiye ile Çaldıran arasında ve 3 Haziran 2002’de Balatos. Bu kayıtların çoğu ayrıntılı olarak tanımlanmıştır. İlk Rize kaydının fotoğrafı bulunmakta olup, Alman Nadir Tür Komitesi tarafından onaylanmıştır.
 
 ![](images/harita_Iduna%20caligata.png)
@@ -64,11 +76,15 @@ Türkiye'de yuvalamaz. Yayılış alanı Rusya'nın batısından Kazakistan'a de
 
 Şimdiye kadar Türkiye'de gözlenen bireylerle ilgili eldeki veriler [@kirwan1994a; @dierschke1996], burada gözlenen formun *caligata* olduğu izlenimini vermektedir. Bu sonuca kuşların üst ve alt kısımlarındaki tüy örtüsünün tonları, ikinci ayna varlığı, gaga uzunluğu, genel vücut oranları ve kafa yapısı gibi morfolojik özelliklere dayanılarak ulaşılmıştır. Küçük mukallitin ve benzer türlerin *Iduna* cinsine dahil edilmesiyle ilgili ek taksonomik notlar ve tartışmalar yayımlanmıştır [@sangster1997b].
 
-## Sazak Mukallidi
+## Sazak Mukalliti
 
 *Iduna rama*, Sykes’s Warbler
 
 ***Rastlantısal konuktur.***
+
+<iframe src="https://macaulaylibrary.org/asset/381117921/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Önceleri Türkiye için rastlantısal olduğu düşünülse de, son yıllarda özellikle doğu bölgelerinde çok az sayıda da olsa neredeyse düzenli olarak kaydedilmeye başlanmış ve bu nedenle üreme ihtimali belirmiştir.
 
@@ -90,6 +106,10 @@ Monotipik bir türdür. Eskiden Küçük Mukallit ile aynı tür olarak değerle
 
 ***Yaygın olarak çok sayıda bulunan yaz göçmeni ve geçit türüdür.***
 
+<iframe src="https://macaulaylibrary.org/asset/327570411/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Türkiye genelinde özellikle güney, kuzey ve batı bölgelerinde, 2000 metreye kadar olan ovalık alanlarda ürer. Çeşitli habitatlarda görülmekle birlikte, çoğunlukla su kenarındaki ağaçlık alanları, özellikle söğüt ve kavakları tercih eder. Bunun yanında, çalılıklar, bahçeler, zeytinlikler ve narenciye bahçeleri gibi habitatlarda da ürer. 1992 baharında Kızılırmak Deltası’nda 2000–2500 çiftin ürediği belirlenmiştir. Daha önce bulunmadığı düşünülen [@ost1975] Güneydoğu Anadolu ve diğer bazı bölgelerde daha seyrek olarak kaydedilmiştir. 1992 yılında Kızılırmak Deltası’ndaki 100 hektarlık bir ağaçlık alanda 160 yuvalama alanıyla en yoğun üreyen tür olarak tespit edilmiştir. Aynı çalışmada, bu popülasyona ait sadece beş çiftin kumul ve çalılık alanlarda yuvaladığı ve erişkin bireylerin çoğunun alana mayısın son on gününde geldiği belirlenmiştir [@hustings1994]. 1998 yılında Uluabat Gölü’nde, özellikle su kıyısındaki sık çalılıklarda ve yoğun olarak ılgınlar içinde yuvalayan yaklaşık 430 çiftlik bir popülasyon kaydedilmiştir [@welch1998b].
 
 Geçit döneminde de oldukça yaygın ve sayıca boldur. İlkbaharda mart ortasından itibaren güney ve güneybatı kıyılarında düzenli olarak görülmeye başlar. En yoğun dönemi nisan ortasından mayıs ortasına kadardır. Sonbaharda, birçok bölgede ağustos başından eylül ortasına kadar gözlenirken, güney kıyılarında bu dönem eylül sonu ve ekim ortasına kadar uzanabilir. 17 Ocak 1969’da Büyük Menderes Deltası’nda gözlenen bir birey, türün bilinen tek kış kaydıdır [@ost1972]. Ayrıca, 18 Kasım 1990 tarihinde Antalya’da gözlenen iki bireyin de bölgede kışlamış olması muhtemeldir.
@@ -109,11 +129,15 @@ Gaga ölçümlerine dayanarak Trakya’dan Burdur Gölü’ne kadar uzanan batı
 
 Tür, geçmişte *Hippolais* cinsi altında sınıflandırılmıştır. Ancak daha sonra *Iduna* altcinsi içinde değerlendirilmesi önerilmiş ve bu altcinsin cins seviyesine yükseltilmesi uygun görülmüştür [@helbig1999; @helbig2001; @dickinson2003].
 
-## Dağ Mukallidi
+## Dağ Mukalliti
 
 *Hippolais languida*, Upcher's Warbler
 
 ***Lokal olarak az sayıda yaz göçmenidir.***
+
+<iframe src="https://macaulaylibrary.org/asset/243598501/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Hemprich ve Ehrenberg tarafından 1824 yazında Lübnan Dağları’nda, bağımsız olarak da Tristram tarafından 1864’te Filistin’de toplanan örnekler üzerinden tanımlanmıştır. Türkiye’de ise ilk kez 1935 yılı haziran ayı başında Gaziantep yakınlarında kaydedilmiştir [@bird1937]. Bu bölge hâlen türün en iyi bilindiği yer olarak öne çıkmaktadır. Tür, uzun süre yalnızca birkaç bölgeden bilinen nadir bir kuş olarak kabul edilse de, günümüzde Güneydoğu Anadolu’da ve komşu Doğu Anadolu’nun güney ve muhtemelen doğu sınırında lokal ancak düzenli olarak ürediği anlaşılmıştır [@kumerloeve1969a]. Ayrıca Akdeniz Bölgesi’nde Hatay’dan doğu Toroslar’a kadar olan alanlarda ve İç Anadolu’nun doğu ile orta kesimlerinde, kayalık tepelerle çevrili alçak çalılıklarda ve 2000 metreye kadar yükselen dağlık alanlarda da ürediği bilinmektedir [@eken1999]. En batıda Eskişehir'de ürediği bulunmuştur [@boyla2018].
 
@@ -134,11 +158,15 @@ Geçit sırasında türün varlığı daha yaygındır. Örneğin, Akdeniz Bölg
 
 Monotipik bir türdür.
 
-## Zeytin Mukallidi
+## Zeytin Mukalliti
 
 *Hippolais olivetorum*, Olive-tree Warbler
 
 ***Lokal olarak az sayıda bulunan yaz göçmenidir.***
+
+<iframe src="https://macaulaylibrary.org/asset/340274871/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Genellikle 800 metreye kadar olan ovalık alanlarda bulunur, ancak İç Anadolu’nun güneyinde ve Toroslar’da üreme döneminde 1400 metreye kadar çıkar. Zeytinlikler, bademlikler, bağ ve bahçeler, meşe ya da çam karışımı açıklıklı ormanlar ve yer yer sık çalılıklı alanları tercih eder; nadiren diğer türlerden oluşan kurak veya nemli yaprak döken ağaçlık alanlarda da görülür. Marmara, Ege, Akdeniz ve daha lokal olarak Güneydoğu Anadolu’da, doğuda Mardin Dağları’na kadar, ayrıca Karadeniz’in en batı ucunda ve İç Anadolu’nun güney kesimlerinde birkaç yeni üreme dönemi kaydıyla temsil edilir.
 
@@ -165,6 +193,10 @@ Monotipik bir türdür.
 
 ***Rastlantısal konuktur.***
 
+<iframe src="https://macaulaylibrary.org/asset/100488051/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Türün Türkiye'deki tek kaydı, 25 Temmuz 1973’te Çanakkale ili Kavak’ta halkalanan genç bir bireydir [@eyckerman1992]. Yayında bireye ait bazı biyometrik ölçümler verilmiştir. Ancak Roselaar (1995), bu kaydın aslında sarımsı bir ak mukallit (*Hippolais pallida elaeica*) genci olabileceğini öne sürmüştür. Öte yandan, türün Ekim 1982’de Bulgaristan’da da bir bireyle kaydedilmesi [@nankinov2003], bu kaydın geçerliliğini destekleyebilir. Doğu Akdeniz’de çok nadirdir; Yunanistan’dan yalnızca biri onaylanmış dört kayıt vardır [@handrinos1997].
 
 ![](images/harita_Hippolais%20polyglotta.png)
@@ -182,6 +214,10 @@ Monotipik bir türdür.
 *Hippolais icterina*, Icterine Warbler
 
 ***Lokal yaz göçmeni ve düzenli geçit türüdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/564536931/embed" height="552" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Genellikle Trakya’da ve Karadeniz’in komşu bölgeleri ile Marmara’nın diğer kesimlerinde nadiren rastlanan öten bireylerin, göç sırasında geçen kuşlar olduğu düşünülmektedir. 6 Temmuz 1966’da İznik’te neredeyse tamamen tüylenmiş iki yavruyu besleyen bir çifte dayanan eski bir üreme kaydı mevcuttur. Ancak bu gözlemden sonra Türkiye’de ürediğine dair başka bir kanıt bulunamamıştır. Temmuz ayında Bafa Gölü’nden bildirilen bir başka kayıt ise [@kasparek1988a], büyük olasılıkla ak mukallit ile karıştırılmıştır.
 
@@ -206,6 +242,10 @@ Tür genellikle monotipik olarak kabul edilir. Görünüşe göre Türkiye'den �
 
 ***Rastlantısal konuktur.***
 
+<iframe src="https://macaulaylibrary.org/asset/251267741/embed" height="545" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Güncel kayıtlara göre, 5 Eylül 1991’de Anamur’da ilk kışındaki bir birey [@kirwan1992b], 1 Mayıs 1992’de Kızılırmak Deltası’nda bir birey [@hustings1994] ve 5 Nisan 1999’da Fethiye’de bir birey kaydedilmiştir. Bu üç kayıttan yalnızca Anamur’daki gözlem ayrıntılı biçimde tanımlanmıştır; Fethiye kaydının doğru teşhisini destekleyen kısa açıklamalar ise verilmiştir.
 
 Tarihi kaynaklarda geçen bazı belirsiz kayıtlar dışında türün yalnızca birkaç modern kaydı bulunmaktadır. İzmir’den sayısı belirtilmeyen birkaç gözleme işaret edilmiştir [@kumerloeve1961]. 19. yüzyılın sonlarında İstanbul’da Braun’a teslim edilen bir örneğin Robert Koleji koleksiyonunda yer aldığı belirtilmişse de [@matheydupraz1920], bu örnek günümüzde müzede bulunmamaktadır [@kirwan1997a]. Robson’ın kişisel koleksiyonunda yer aldığı öne sürülen başka bir örnekten de bahsedilmektedir [@elwes1870]. Ayrıca, Haziran 1958’de Trabzon’un batısından gelen beklenmedik bir kayda dikkat çekilmiştir [@smith1960].
@@ -225,6 +265,10 @@ Monotipik bir türdür.
 *Acrocephalus melanopogon*, Moustached Warbler
 
 ***Nispeten yaygın ve çok sayıda yaz konuğu, az sayıda kış konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/611877625/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 İç ve Doğu Anadolu’nun tamamında, Karadeniz Bölgesi’nde ise daha çok lokal olarak görülür. Örneğin Kızılırmak Deltası’nda 1000–1500 çift, Hotamış Sazlığı’nda ise nisan–ağustos arasında duyulan ötüşlere dayanarak 100’den fazla çiftin ürediği belirlenmiştir [@kirwan1993a]. Akdeniz Bölgesi’nde ve muhtemelen Ege’nin bazı kesimlerinde de ürer. Üreme döneminde özellikle bataklık sulakalanlar ile bunlara komşu sulak çayırlarda bulunur. Van Gölü çevresi dâhil ülkenin iç kesimlerinde ve kuzeydeki üreme alanlarında mart başı ile eylül sonu arasında kaydedilmiştir. Kızılırmak Deltası’nda en azından 15 Mart ile 26 Eylül arasında görülür.
 
@@ -251,6 +295,10 @@ Anadolu’nun büyük bölümünde *mimicus* alttürü görülür. Yalnızca İz
 
 ***Yaygın olarak çok sayıda bulunan geçit türüdür. Yaygın olarak az sayıda yuvalar.***
 
+<iframe src="https://macaulaylibrary.org/asset/555645831/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 1992 ilkbaharında Kızılırmak Deltası’nda 300–350 çift kaydedilmiştir. Bu bireylerin dörtte birinin bıyıklı kamışçın olma ihtimali bulunsa da, bu sayı bilinen en büyük popülasyonu temsil eder. Kocaçay Deltası’nda da tahmini popülasyon 300–350 çifttir. Güneydoğu Anadolu ve Marmara’da ise daha lokal olarak dağılım gösterir.
 
 Göç dönemlerinde Türkiye genelinde muhtemelen daha yaygındır. İlkbaharda mart ayının sonunda batı kıyılarında düzenli olarak kaydedilir. Erken gelen bireyler ayın başında (en erken 7 Mart’ta) görülür. Ancak iç kesimlerde ve kuzey bölgelerinde tür, genellikle nisan başı veya ortasından itibaren görülmeye başlanır. İlkbahar geçidi nisan sonunda zirve yapar ve mayıs sonuna kadar sürer. Güney kesimlerde sonbahar geçişi ağustos başından eylül sonuna kadar sürer; en geç kayıt 7 Kasım’dandır.
@@ -275,6 +323,10 @@ Monotipik bir türdür.
 *Acrocephalus agricola*, Paddyfield Warbler
 
 ***Lokal olarak çok sayıda görülen yaz göçmenidir.***
+
+<iframe src="https://macaulaylibrary.org/asset/166537111/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Tür, Doğu Anadolu’da düzenli olarak iki noktada kaydedilmiş ve bu alanlarda ürediği tahmin edilmektedir [@berg1998; @martins1989]. 1986 Mayıs’ında Van Sazlığı’nda keşfedildikten sonra, 1989–1991 dönemi hariç her yıl düşük sayılarda gözlenmiştir. Üreme alanında en fazla 11 öten birey kaydedilmiştir [@berk1993]. 1992–1993 yıllarında Erçek Gölü yakınındaki Çenge Gölü’nde on çifti aşan ikinci bir popülasyon bulunmuştur [@kirwan1993c; @kirwanmartins2000]. Bu alanda 29 Ağustos’a kadar kayıtlara geçmiştir. Doğu Anadolu’nun diğer bölgelerinden gelen veriler yeni üreme alanlarının varlığına işaret etmektedir. 3 Haziran 1989’da Saz Gölü’nde ikisi kur ötüşü yapan üç birey [@kasparek1990a], 29 Mayıs 1993’te Bulanık’ta iki muhtemel göçmen [@kirwan1993c], 30 Mayıs 2002’de Bendimahi Deltası’nda üçü kur ötüşü yapan en az beş birey, 26 Mayıs 2003’te aynı yerde kur ötüşü yapan altı birey ve daha sonra gözlenen üç birey ile birlikte toplam dört yuva kaydedilmiştir. Aynı bölgede 21 Eylül 2003’te bir birey, 6 Mayıs 2004’te birkaç birey ve 16 Temmuz 2006’da iki birey kaydedilmiştir.
 
@@ -301,6 +353,10 @@ Türkiye’deki alttür durumu belirsizliğini korumaktadır. Bir fotoğrafa [@b
 
 ***Rastlantısal konuktur.***
 
+<iframe src="https://macaulaylibrary.org/asset/622871260/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Halkalama öncesinde 3 veya 4 kaydı vardır. Bunlar, 15–17 Ağustos 1990’da Ereğli Bataklıkları’nda yakalanan bir birey [@kirwanmartins1994], Adana Tuzla Gölü’nde görüldüğü iddia edilen ancak detaylı kanıtı bulunmayan bir birey [@kirwan2003], 24 Eylül 2003’te Adana Akyatan Gölü’nde halkalanan bir birey [@balmer2004a] ve 10 Eylül 2004’te Kızılırmak Deltası’nda yakalanıp halkalanan bir bireydir [@can2004].
 
 Türkiye’deki kayıtları halkalama çalışmaları sayesinde giderek artmaktadır. Şimdiye kadar bilinen eski kayıtların yanı sıra, 3 Eylül 2007’de Iğdır Aras Kuş Halkalama İstasyonu’nda (Ç. H. Şekercioğlu), 31 Ağustos 2013’te Samsun Kızılırmak Deltası Cernek Gölü’nde (Ö. Ü. Özkoç), 8 Mayıs 2015’te Samsun Kızılırmak Deltası’nda (K. Bankoğlu), 10 Ağustos 2016’da Iğdır Aras Kuş Halkalama İstasyonu’nda (NA), 16 Ağustos 2016’da Trabzon Değirmendere’de (NA), 5 Eylül 2019’da Samsun Kızılırmak Deltası–Halkalama İstasyonu’nda (Z. Kargı), 12 Ekim 2019’da Hatay Milleyha ve sahil şeridinde (A. Atahan, M. Gül), 19 Mayıs 2020’de Iğdır Aras Kuş Halkalama İstasyonu’nda (J. Ramírez), aynı tarihte Kars Aras1 alanında (K. Derneği), 12–20 Mayıs 2021 arasında yeniden Iğdır Aras Kuş Halkalama İstasyonu’nda (K. Derneği, N. Hohenthal), 18 Ağustos–14 Eylül 2021 arasında aynı istasyonda (J. Ramírez) ve son olarak 19 Mayıs 2022’de Samsun Kızılırmak Deltası–Halkalama İstasyonu’nda (A. Bilir, Ö. F. Sülek) bireyler kaydedilmiştir. Bu kayıtlar, türün sanılandan daha sık rastlanan bir geçit kuşu olduğunu göstermektedir.
@@ -320,6 +376,10 @@ Monotipik bir türdür.
 *Acrocephalus palustris*, Marsh Warbler
 
 ***Lokal olarak az sayıda yuvalayan bir yaz konuğu, yaygın olarak çok sayıda bulunan geçit türüdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/247678731/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Üreme döneminde Trakya, Güney Marmara ve Büyük Menderes Deltası'nda ürediği kaydedilmiştir. Ayrıca Beyşehir Gölü’nün hemen kuzeyinde yazın kaydedilmiş, ancak ürediği kanıtlanmamıştır. Genellikle 500 m’nin üzerinde, çoğunlukla da 1200 m’den yüksekte ve en az 3000 m’ye kadar alçak boylu sık çalılıklarda ürer.
 
@@ -343,6 +403,10 @@ Geçiş döneminde yaygın olup genellikle az sayılarda gözlenir. İlkbahar g�
 *Acrocephalus scirpaceus*, Eurasian Reed Warbler
 
 ***Yaygın olarak çok sayıda bulunan yaz göçmeni ve geçit türüdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/228730561/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Bataklık sulakalanlarda ürer. 1992 yılında Kızılırmak Deltası’ndaki popülasyonu 1500–2000 çift olarak tahmin edilmiş, en yüksek yoğunluk ise büyük ve sık kamışlık alanlarda 100–200 üreme alanı/100 ha olarak belirlenmiştir [@hustings1994]. Uluabat Gölü’nde ise 1998’de daha çok kanalların iç kısımlarında bulunmuştur [@welch1998b]. Güneydoğu Anadolu’da yalnızca Fırat boyunca lokal olarak yayılır. Üreme alanlarını genellikle eylül ortasında terk eder.
 
@@ -369,6 +433,10 @@ Yunanistan’da da üreyen scirpaceus alttürünün, Marmara ve Ege’de saf ola
 
 ***Rastlantısal konuktur.***
 
+<iframe src="https://macaulaylibrary.org/asset/94615891/embed" height="477" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Bir birey 24 Mayıs 2018 tarihinde Iğdır Aras Kuş Halkalama İstasyonu’nda (J. Ramírez), bir diğer birey ise 22 Mayıs 2019 tarihinde aynı istasyonda (B. Demir) kaydedilmiştir.
 
 ![](images/harita_Acrocephalus%20griseldis.png)
@@ -386,6 +454,10 @@ Monotipik bir türdür.
 *Acrocephalus arundinaceus*, Great Reed Warbler
 
 ***Oldukça yaygın olarak çok sayıda bulunan yaz konuğu ve geçit türüdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/569006021/embed" height="519" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Ülkenin tamamındaki bataklık sulakalanlarda ürer, ancak Güneydoğu Anadolu’da uygun habitatların sınırlı olması nedeniyle daha nadirdir ve genellikle büyük nehirlerle sınırlıdır. Trakya ve Karadeniz Bölgesi’nde daha lokal bir dağılıma sahiptir. Doğu Anadolu’da 2300 metrenin üzerindeki yüksek alanlarda da ürediği kaydedilmiştir.
 
@@ -410,6 +482,10 @@ Nominat alttür bulunur.
 
 ***Yaygın olarak az sayıda kaydedilen geçit türüdür.***
 
+<iframe src="https://macaulaylibrary.org/asset/604522541/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
 Gelen halkalama kayıtları, türün önceki bilgilere göre daha yaygın ve sık bulunduğunu göstermektedir. 2008 yılına kadar yaklaşık 45 kayıt mevcuttur; bunlardan dördü Güneydoğu, üçü ise Doğu Anadolu’dandır. İstanbul’un Anadolu yakasından kaydedilmiş, yeri tam belirtilmeyen iki eski örnek bulunmaktadır [@matheydupraz1920]. Buna karşın Trakya’dan hiç kayıt bulunmaması dikkat çekicidir. Yaz döneminde öten bireylerin kaydedilmesi (örneğin, 7 Haziran 1974’te Kocaçay Deltası’nda bir birey, 1992’de haziranın ilk on gününde Kızılırmak Deltası’nda sekizden fazla öten erkek, 6–7 Haziran 1993’te Yeşilırmak Deltası’nda üç birey ve 6 Temmuz 1986’da Manyas Gölü’nde bir birey) Türkiye’de ara sıra da olsa üreyebileceğini düşündürmektedir.
 
 2002’de ülkenin batısındaki üç halkalama istasyonunda, çoğunluğu ilkbaharda olmak üzere toplam 21 birey, 2005 yılında ise Kars’ta 14–25 Mayıs arasında 12 birey yakalanıp halkalanmıştır. İlkbahar geçidi mart ortasında başlar (en erken kayıt 12 Mart) ve nisan sonuna kadar düşük yoğunlukta devam eder. Göç mayısın ilk haftasında zirveye ulaşır ve mayıs sonuna kadar sürer. En geç tarihli kayıt 7 Haziran olup, bu birey aynı zamanda üreyen bir kuş olabilir. Geçit sırasında sıkça öter; geçişin Kazakistan’da temmuz ortasına kadar sürdüğü bilinmektedir [@cramp1992]. Sonbahar göçü genellikle 10 Ağustos ile 18 Eylül arasında gerçekleşir, ancak istisnai olarak 14 Ekim’e kadar sürebilir. Öte yandan, Türkiye’de kuş gözlemcilerinin türün geçişte kullandığı uygun habitatları yeterince ziyaret etmediği söylenebilir.
@@ -429,6 +505,10 @@ Monotipik bir türdür.
 *Locustella luscinioides*, Savi's Warbler
 
 ***Lokal olarak nispeten çok sayıda bulunan yaz konuğudur.***
+
+<iframe src="https://macaulaylibrary.org/asset/162964891/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 Aslında ülke genelindeki tüm bataklık sulakalanlarda ürediği söylenebilir. En sık Ege, Karadeniz kıyıları ile İç ve Doğu Anadolu’da görülür. Trakya ve Güney Marmara’da çok nadir, Akdeniz’de ise oldukça düzensizdir. 1992 ilkbaharında Kızılırmak Deltası’nda 500–750 çift olduğu tahmin edilmiştir. 1991 ilkbaharında Hotamış Sazlığı’nda yaklaşık 100 öten erkek kaydedilmiştir [@kirwan1993a]. Güneydoğu Anadolu’da ürediği doğrulanmamış olsa da, son yıllarda yapılan arazi çalışmalarında uygun üreme habitatına sahip iki alan belirlenmiştir.
 
@@ -452,6 +532,10 @@ Türkiye’den toplanan bütün tahnit örnekleri değerlendirilmiş [@roselaar1
 *Locustella naevia*, Common Grasshopper Warbler
 
 ***Yaygın olarak az sayıda görülen geçit türü ve çok lokal yuvalayan bir yaz göçmenidir.***
+
+<iframe src="https://macaulaylibrary.org/asset/588211941/embed" height="452" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
 
 1965 yılının mayıs sonunda Murat Vadisi’nde, Ağrı Dağı ile Taşlıçay arasında öten 8–10 birey ve yuva yapan bir çift, türün Türkiye’deki izole üreme kaydıdır. Aynı alanda testisleri büyümüş bir erkek bireyin bulunması, üremenin bir başka kanıtıdır [@kumerloeve1967a]. Bu kuşların “Ermenistan ve Gürcistan’daki yakın üreme alanlarından” geldiğini düşünülmüştür [@roselaar1995]. Ancak bu iki ülkede sadece iki üreme kaydı vardır [@adamian1999]; bunlar mayıs sonu ve haziran başında öten iki bireye aittir [@ananian2002]. Bu durum, her iki ülkede de türün nadir ve düzensiz bir üreyici olduğunu göstermektedir. Gürcistan’da özellikle Ardahan’ın güneyinde doğan Kura Nehri Vadisi çevresinde ve Ermenistan sınırındaki güney kesimlerde lokal olarak yaygındır. Bu bölgede nadir de olsa göç geçişi gözlenir; birey sayısı nisan sonu, eylül sonu ve ekim başında artış gösterir.
 
