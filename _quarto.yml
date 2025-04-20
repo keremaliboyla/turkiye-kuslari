@@ -12,11 +12,7 @@ book:
   
   chapters:
     - index.qmd
-    - part: "Giriş"
-      chapters:
-        - 00_tarihce_ve_tesekkur.qmd
-        - 00_turkiye_ornitoloji_tarihi.qmd
-        - 00_bilgi_bosluklari.qmd
+    - 00_giris.qmd
     - 01_ordekgiller.qmd
     - 02_tavukgiller_vd.qmd
     - 03_bataklik-kuslari.qmd
@@ -28,8 +24,8 @@ book:
     - 09_baykuslar.qmd
     - 10_otucu-oncesi.qmd
     - 11_kargamsilar.qmd
-    - 12_toygarlar.qmd     # 14 Nisan
-    # - 13_kamiscinlar.qmd   # 21 Nisan
+    - 12_toygarlar.qmd
+    - 13_kamiscinlar.qmd
     # - 14_otlegenler.qmd    # 28 Nisan
     # - 15_tirmasiklar.qmd   # 05 Nisan
     # - 16_sinekkapanlar.qmd # 12 Mayıs
@@ -38,13 +34,14 @@ book:
     - references.qmd
 
 bibliography: references.bib
-csl: journal-of-zoology.csl
+csl: nature.csl
 
 format:
   html:
     grid:
-      sidebar-width: 200px
-      margin-width: 200px
+      body-width: 690px
+      sidebar-width: 250px
+      margin-width: 250px
       gutter-width: 1.5rem
     theme: cosmo
     number-depth: 1
