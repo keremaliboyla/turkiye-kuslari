@@ -1,15 +1,20 @@
 project:
   type: book
   output-dir: docs
+  
+# number-sections: true
+# 
+# filters:
+#   - subheading-numbering.lua
 
 book:
   title: "Türkiye Kuşlarının Doğa Tarihi"
+  author: "Kerem Ali Boyla, Ed."
   cover-image: kapak3.png
   favicon: kapak3.png
   repo-url: https://github.com/keremaliboyla/turkiye-kuslari
   repo-actions: [edit, issue]
   # sharing: [twitter, facebook]
-  
   chapters:
     - index.qmd
     - 00_giris.qmd
@@ -34,14 +39,14 @@ book:
     - references.qmd
 
 bibliography: references.bib
-csl: nature.csl
+csl: journal-of-zoology.csl
 
 format:
   html:
     grid:
-      body-width: 690px
-      sidebar-width: 250px
-      margin-width: 250px
+      body-width: 680px
+      sidebar-width: 220px
+      margin-width: 220px
       gutter-width: 1.5rem
     theme: cosmo
     number-depth: 1

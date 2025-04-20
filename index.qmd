@@ -2,8 +2,6 @@
 
 Türkiye'de tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
 
-Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir:
-
 1.  [Ördekgiller](01_ordekgiller.html)
 2.  [Tavukgiller ve Kara Kuşları](02_tavukgiller_vd.html)
 3.  [Bataklık Kuşları](03_bataklik-kuslari.html)
@@ -22,6 +20,8 @@ Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir
 16. Sinekkapanımsılar
 17. İncirkuşugiller, Dağbülbülleri ve Serçeler
 18. İspinozlar ve Çinteler
+
+Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir.
 
 **Editör ve Yayına Hazırlayan**: Kerem Ali Boyla
 
