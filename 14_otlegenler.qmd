@@ -318,6 +318,33 @@ Kış mevsiminde büyük ölçüde kıyılarda ve batı ile güney bölgelerinin
 
 Türkiye'de *orientalis* alttürü bulunur. Marmara ve Ege bölgelerinin büyük bölümündeki bireyler *sericea*, ülkenin geri kalanındaki bireyler ise *orientalis* formu olarak sınıflandırılmıştır [@roselaar1995]. Ancak, iki form arasındaki farklılıklar çok hafiftir, dolayısıyla *sericea* formu *orientalis* alttürünün sinonimidir. [@baker1997] *sericea* formunu tanımamış ve ayrıca *orientalis* formunun teşhisinin bile şüpheli olması gerektiğini belirtmiştir.
 
+## Uzun Kuyruklu Baştankara {.unnumbered}
+
+*Aegithalos caudatus*, Long-tailed Tit
+
+***Nispeten yaygın olarak çok sayıda bulunan yerli bir türdür.***
+
+<iframe src="https://macaulaylibrary.org/asset/626788005/embed" height="459" width="640" frameborder="0" allowfullscreen>
+
+</iframe>
+
+Tür, çeşitli ağaçlık ve çalılık alanlarda, genellikle deniz seviyesinden 1300 m’ye kadar gözlenir. Ayrıca Toroslar’da 1500 m’ye, Batı ve Orta Karadeniz’de ise 2000 m’ye kadar çıktığı da kaydedilmiştir. İç Anadolu’nun orta kesiminin büyük bölümünde bulunmaz. Karadeniz’in doğusunda nadir görülür. Doğu Anadolu’nun birçok bölgesinde ise uygun habitatlar bulunmasına rağmen, bu alanlara gözlemcilerin yeterince ilgi göstermemesi nedeniyle kayıtlara geçmemiştir. Ancak son yıllarda bölgenin batısında yer alan Malatya çevresindeki bağ ve bahçelerde lokal olarak bol bulunduğu ortaya çıkmıştır. Güneydoğu Anadolu’da yapılan son araştırmalar ise, türün bu bölgede son derece sınırlı ve lokal bir yayılış gösterdiğini ortaya koymuştur.
+
+Üremeye elverişli habitatlarda sonbahar ve kış aylarında görülebilir.
+
+![](images/harita_Aegithalos%20caudatus.png)
+
+**Üreme**
+
+**Yuvalama alanı:** Hem ovalık hem de dağlık arazilerde, yaprak döken ve ibreli açık ormanlarda ve yüksek çalılıklarda bulunur.\
+**Yuvası:** Türkiye'de yuva ile ilgili ayrıntılı bilgi bulunmamaktadır. Diğer bölgelerde genellikle bir çalının içine, bazen de bir ağaca yapılır. Örümcek ağları ile birbirine tutturulmuş yosunlardan oluşur, dışı likenle sıvanır ve içi tüylerle kalın şekilde astarlanır. Yuva dikine uzanan, kubbe biçiminde ve tepeye yakın bir yerde girişi olan yapıdadır.\
+**Yumurta sayısı:** Türkiye'de veri bulunmamaktadır. Diğer bölgelerde genellikle 8–12 yumurta bırakır. En düşük 5, en yüksek 16 yumurta kaydedilmiştir.\
+**Üreme dönemi:** Türkiye'de üreme dönemine dair veriler sınırlıdır ancak gözlemler nisan sonu ile haziran ortası arasına işaret eder. **MAR.** 16 Mayıs 1967'de İğneada’da [@rokitansky1971], 3 Haziran 1998'de Uluabat Gölü’nde [@welch1998b] aile grupları gözlenmiştir. **EGE.** 26 Mayıs 1995'te Marmaris yakınında birçok tüylenmiş genç kaydedilmiştir. **AKD.** 9 Haziran 1981'de Antalya’da, 14 Haziran 1992'de ve 18 Haziran 1996'da Uzuncaburç’ta aile grupları gözlenmiştir. **KAD.** Kızılırmak Deltası'nda 1992'de nisan sonu ile mayıs başı arasında birkaç yuva, haziran başında ise aile grupları gözlenmiştir [@hustings1994]. Aynı bölgede 8–9 Haziran 1969'da üç aile grubu kaydedilmiştir [@dijksen1985]. **İÇA.** 8 Mayıs 1977'de Kızılcahamam'da bir yuva kaydedilmiştir [@baris1984]. **DOA.** 4 Haziran 1969’da Yüksekova yakınında aile grupları gözlenmiştir.
+
+**Alttürler ve Sınıflandırma**
+
+Trakya’daki bireyler *europaeus* grubuna, Anadolu’daki bireyler ise *alpinus* grubuna dâhildir. Ayrıca kış aylarında beyaz başlı *caudatus* alttürünün Trakya’da kaydedildiği bilinmektedir. Trakya’daki *europaeus* grubuna ait örnekler incelendiğinde, Yunanistan sınırına yakın bölgelerde *macedonicus* alttürü, Istrancalar’da ise *europaeus* alttürünün yayılış gösterdiği, bu iki form arasında ise geçiş bireylerine rastlandığı görülmektedir [@roselaar1995]. *Alpinus* grubuna ait bireyler, daha kısa kanat ve kuyruk, daha koyu renkli kafa, pembemsi tonların neredeyse tamamen yokluğu ve üst kısımların büyük oranda gri oluşu ile ayırt edilir. Tekirdağ, İstanbul ve Anadolu’nun büyük bölümünde *tephronotus* alttürü, Doğu Karadeniz’de *major* alttürü, Güneydoğu Anadolu’da ise İran kökenli *passekii* alttürü veya bu forma ait geçiş bireyleri gözlenmektedir [@roselaar1995].
+
 ## Kara Başlı Ötleğen
 
 *Sylvia atricapilla*, Eurasian Blackcap
