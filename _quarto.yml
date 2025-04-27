@@ -2,14 +2,10 @@ project:
   type: book
   output-dir: docs
   
-# number-sections: true
-# 
-# filters:
-#   - subheading-numbering.lua
-
 book:
   title: "Türkiye Kuşlarının Doğa Tarihi"
   author: "Kerem Ali Boyla, Ed."
+  date: "2025-05-19"
   cover-image: kapak3.png
   favicon: kapak3.png
   repo-url: https://github.com/keremaliboyla/turkiye-kuslari
@@ -31,7 +27,7 @@ book:
     - 11_kargamsilar.qmd
     - 12_toygarlar.qmd
     - 13_kamiscinlar.qmd
-    # - 14_otlegenler.qmd    # 28 Nisan
+    - 14_otlegenler.qmd
     # - 15_tirmasiklar.qmd   # 05 Nisan
     # - 16_sinekkapanlar.qmd # 12 Mayıs
     # - 17_serceler.qmd      # 19 Mayıs
@@ -39,7 +35,7 @@ book:
     - references.qmd
 
 bibliography: references.bib
-csl: journal-of-zoology.csl
+csl: nature.csl
 
 format:
   html:
@@ -54,5 +50,6 @@ format:
   #   toc: true
   #   number-sections: true
   #   colorlinks: true
-    
+  # docx:
+  #   reference-doc: custom-reference-doc.docx
 editor: visual

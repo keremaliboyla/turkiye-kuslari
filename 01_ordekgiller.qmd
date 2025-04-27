@@ -71,7 +71,7 @@ Doğu Anadolu'da 20 Kasım 2004'te Haçlı Gölü'nde uydudan izlenen bir birey 
 
 2000 öncesindeki kayıtlara bakıldığında; 29 Aralık 1997'de Göksu Deltası'nda bir birey [@kirwan2003], 23 Ocak 1993'te Göksu Deltası'nda bir birey [@dogalhayati1993], 6 Nisan 1990'da Seyfe Gölü'nde 12 birey [@kirwanmartins1994], 24 Aralık 1986'da Bafa Gölü'nde bir erişkin ve iki genç birey [@kasparek1988a] ve 16 Şubat 1967'de Kocabaş Çayı'nın ağzında (Çanakkale) iki birey [@ost1969] kaydedilmiştir. 1945 ile 1965 yılları arasında ve ekim ile ocak aylarında, çoğunluğu Büyükçekmece ve Küçükçekmece Göllerinden gelen 12 kayıt vardır. Ancak bu kayıtlar, tür tanımını destekleyecek belgeden yoksundur [@kumerloeve1970a].
 
-![](images/harita_Anser%20erythropusythropus.png){width="600"}
+![](images/harita_Anser%20erythropus.png)
 
 **Üreme**
 
@@ -97,7 +97,7 @@ Monotipik bir türdür.
 
 *Tarla Kazı* olarak tanımlanmış kuşlar, Ege, Akdeniz ve İç Anadolu'daki sulakalanlarda ara sıra yüksek sayılarda kaydedilmiştir. 1870'ler ve 1880'lerde Mersin'de toplanan bireyler [@schrader1891] ilk kayıtlar arasındadır. 1966-2000 yılları arasında çoğunlukla ocak ile mart ayları arasında 15 kez kaydedilmiştir. 2 Mart 1965'te Ereğli ve Karapınar arasında 90 birey [@kumerloeve1970a], 15-16 Ekim 1969'da Karamık Sazlıkları'nda 13 birey [@ost1972], 30 Nisan 1988'de Seyfe Gölü'nde, 30 Ocak 1992'de Marmara Gölü'nde 61 birey, 9 Ocak 1993'te Büyükçekmece Gölü'nde 64 birey [@dogalhayati1993] ve 24 Ocak 1993'te Göksu Deltası'nda bir birey [@dogalhayati1993] kaydedilmiştir. Türkiye'deki kışlayan Sakarca sayılarındaki sert düşüş, muhtemelen *Tarla Kazı* olarak tanımlanmış kuşlar için de geçerlidir.
 
-![](images/harita_Anser%20serrirostrisrrirostris.png){width="600"}
+![](images/harita_Anser%20serrirostris.png)
 
 **Üreme**
 

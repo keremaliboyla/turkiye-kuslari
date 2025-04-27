@@ -206,6 +206,8 @@ Monotipik bir türdür.
 
 Türkiye’de tek bir kaydı bulunmaktadır; 11 Aralık 2020’de Bodrum’da bir birey, E. Durmuş tarafından ölü olarak bulunmuştur.
 
+![](images/harita_Amaurornis marginalis.png)
+
 **Üreme**
 
 Türkiye'de yuvalamaz. Asıl yayılış alanı Doğu ve Güney Afrika'dır.
@@ -228,7 +230,7 @@ Akdeniz’de ürediği kanıtlanmış olup muhtemelen İç Anadolu, Karadeniz ve
 
 Geçiş türü olarak tahmin edilenden daha yaygındır ve göçü, benekli suyelvesine kıyasla Türkiye’de daha geniş bir alana yayılmıştır. İlkbaharda sayılar genellikle düşük olsa da, dikkat çekici bazı kayıtlar bulunmaktadır: 19 Nisan 1996’da Kozanlı Saz Gölü’nde 42 birey, 22 Nisan 1996’da Kuzeydoğu Anadolu’da 39 birey [@kirwanmartins2000], Çukurova’da 25 Mart-15 Mayıs 1990 arasında 71 birey [@kivit1994], 1992 ilkbaharında Kızılırmak Deltası’nda 32 birey [@hustings1994], ve 2002’nin mart-nisan döneminde Mogan Gölü’nde “düzinelerce” birey [@balmer2003a] kaydedilmiştir. Sonbahar göçünün başlangıcı belirsizdir, ancak ağustostan önce gerçekleştiği kesindir. Akdeniz’de, Göksu Deltası’ndan temmuz ayında iki erken kayıt bulunmaktadır. Sonbahar göçü eylül ve ekim aylarında yoğunlaşır ve ekim sonundan sonra nadiren görülür. En geç kayıt, 14 Kasım’da Kızılırmak Deltası’nda yapılmıştır [@balmer2009around]. Sonbahardaki sayılar genellikle ilkbahara kıyasla daha düşüktür.
 
-![](images/harita_Aenigmatolimnas%20marginalis.png)
+![](images/harita_Zapornia%20parva.png)
 
 **Üreme**
 
@@ -255,7 +257,7 @@ Sadece Manyas Gölü ve Kırklareli İğneada’da ürediği tespit edilmiştir 
 
 Belirgin şekilde yaygın bir geçiş türüdür ancak üç suyelvesi arasında en nadir görülenidir. Batı bölgelerde nispeten daha sık görülür ve muhtemelen tahmin edilenden daha yaygındır. En erken kayıt, 20 Şubat 2011'de Birecik’in güneyinde yapılmıştır. Mart ortasında görülmeye başlanır ve öten erkekler 19-28 Mart arasında çeşitli bölgelerde kaydedilir. Tür, nisan ve mayıs aylarında daha yaygın olarak gözlenir. Sonbahar göçü ağustos-ekim arasında gerçekleşir ve özellikle eylül ayında yoğunlaşır. İki kış kaydı bulunmaktadır: 15 Aralık 1969'da Manyas Gölü'nde [@ost1975] ve 13 Ocak 2001'de Kızılırmak Deltası’nda birer birey gözlenmiştir.
 
-![](images/harita_Zaporia%20pusilla.png)
+![](images/harita_Zapornia%20pusilla.png)
 
 **Üreme**
 

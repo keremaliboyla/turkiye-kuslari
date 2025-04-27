@@ -61,7 +61,7 @@ Monotipik bir türdür.
 
 İspanya ve Fransa'da yabani olduğu düşünülen kuşlar defalarca gözlenmiş, Güneybatı Moritanya'da en az bir kez üremiştir. Avrupa'daki bazı kayıtlar doğal yaşam parklarından kaçan kuşlara ait olabilir.
 
-![](images/harita_Phoeniconaias minor.png)
+![](images/harita_Phoeniconaias%20minor.png)
 
 **Üreme**
 
@@ -317,6 +317,8 @@ Akdeniz popülasyonu [@lalanne2001] tarafından tanımlanan *melitensis* alttür
 
 Bir kaydı bulunur. 1 birey “Milleyha ve sahil şeridi” alanında (Hatay) 13 Ocak 22 tarihinde *A. Gümüş, A. Ilbeyi, E. Yogurtcuoglu* tarafından kaydedildi.
 
+![](images/harita_Ardenna%20grisea.png)
+
 **Üreme**
 
 Türkiye'de ürememektedir. \[EKLENECEK\]
@@ -341,7 +343,7 @@ Mart başından ekim ortasına kadar oldukça yaygın bir yaz konuğudur ve say�
 
 Kışın, mevcut kayıtlara kıyasla sanıldığından daha yaygın olabilir. İzmir ve Mersin açıklarında yapılan araştırmalarda teknelerde bulunan kuş gözlemcisi bilim insanları tarafından yüzlercesi gözlenmiştir. Kışı çoğunlukla Batı Afrika kıyılarında geçirir.
 
-![](images/harita_Calonectris%20borealis.png)
+![](images/harita_Calonectris diomedea.png)
 
 **Üreme**
 
