@@ -28,14 +28,14 @@ book:
     - 12_toygarlar.qmd
     - 13_kamiscinlar.qmd
     - 14_otlegenler.qmd
-    # - 15_tirmasiklar.qmd   # 05 Nisan
+    - 15_tirmasiklar.qmd
     # - 16_sinekkapanlar.qmd # 12 Mayıs
     # - 17_serceler.qmd      # 19 Mayıs
     # - 18_ispinozlar.qmd    # 19 Mayıs
     - references.qmd
 
 bibliography: references.bib
-csl: nature.csl
+csl: elsevier-harvard.csl
 
 format:
   html:

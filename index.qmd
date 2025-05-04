@@ -16,7 +16,7 @@ Türkiye'de tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, �
 12. [Baştankaralar, Toygarlar, Kırlangıçlar ve Arapbülbülleri](12_toygarlar.html)
 13. [Prinyalar, Mukallitler, Kamışçınlar](13_kamiscinlar.html)
 14. [Çıvgınlar ve Ötleğenler](14_otlegenler.html)
-15. Tırmaşığımsılar
+15. [Çalıkuşları, Sıvacılar, Tırmaşıkkuşları](15_tirmasiklar.qmd)
 16. Sinekkapanımsılar
 17. İncirkuşugiller, Dağbülbülleri ve Serçeler
 18. İspinozlar ve Çinteler
