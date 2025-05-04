@@ -35,7 +35,7 @@ book:
     - references.qmd
 
 bibliography: references.bib
-csl: elsevier-harvard.csl
+csl: journal-of-zoology.csl
 
 format:
   html:
@@ -46,10 +46,6 @@ format:
       gutter-width: 1.5rem
     theme: cosmo
     number-depth: 1
-  # pdf:
-  #   toc: true
-  #   number-sections: true
-  #   colorlinks: true
   # docx:
   #   reference-doc: custom-reference-doc.docx
 editor: visual
