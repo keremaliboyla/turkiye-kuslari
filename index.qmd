@@ -2,6 +2,8 @@
 
 Türkiye'de tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
 
+Kitap 18 fasikülden oluşmaktadır.
+
 1.  [Ördekgiller](01_ordekgiller.html)
 2.  [Tavukgiller ve Kara Kuşları](02_tavukgiller_vd.html)
 3.  [Bataklık Kuşları](03_bataklik-kuslari.html)
@@ -11,17 +13,15 @@ Türkiye'de tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, �
 7.  [Deniz ve Göl Kuşları](07_deniz-ve-gol-kuslari.html)
 8.  [Yırtıcılar](08_yirticilar.html)
 9.  [Baykuşlar](09_baykuslar.html)
-10. [Gökkuzgunsular, Ağaçkakanlar, Doğanlar, Papağanlar](10_otucu-oncesi.html)
-11. [Sarıasma, Örümcekkuşları, Kargagiller](11_kargamsilar.html)
-12. [Baştankaralar, Toygarlar, Kırlangıçlar ve Arapbülbülleri](12_toygarlar.html)
-13. [Prinyalar, Mukallitler, Kamışçınlar](13_kamiscinlar.html)
-14. [Çıvgınlar ve Ötleğenler](14_otlegenler.html)
-15. [Çalıkuşları, Sıvacılar, Tırmaşıkkuşları](15_tirmasiklar.qmd)
-16. [Ardıçgiller, Sinekkapangiller ve diğerleri](16_sinekkapanlar.qmd)
-17. İncirkuşugiller, Dağbülbülleri ve Serçeler
+10. [İbibik - Papağanlar](10_otucu-oncesi.html)
+11. [Sarıasma - Kargagiller](11_kargamsilar.html)
+12. [Baştankaralar - Arapbülbülleri](12_toygarlar.html)
+13. [Prinyalar - Kamışçınlar](13_kamiscinlar.html)
+14. [Çıvgınlar - Yedikardeşler](14_otlegenler.html)
+15. [Çalıkuşları - Tırmaşıkkuşları](15_tirmasiklar.qmd)
+16. [Ardıçlar ve Sinekkapanlar](16_sinekkapanlar.qmd)
+17. Dağbülbülleri - İncirkuşları
 18. İspinozlar ve Çinteler
-
-Kitap 18 fasikülden oluşmaktadır. Tamamlanmış fasiküller işaretlenmiştir.
 
 **Editör ve Yayına Hazırlayan**: Kerem Ali Boyla
 

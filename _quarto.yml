@@ -30,12 +30,12 @@ book:
     - 14_otlegenler.qmd
     - 15_tirmasiklar.qmd
     - 16_sinekkapanlar.qmd
-    # - 17_serceler.qmd      # 19 Mayıs
+    - 17_serceler.qmd
     # - 18_ispinozlar.qmd    # 19 Mayıs
     - references.qmd
 
 bibliography: references.bib
-csl: journal-of-zoology.csl
+csl: nature.csl
 
 format:
   html:

@@ -1,5 +1,5 @@
 ---
-title: "Gökkuzgunsular, Ağaçkakanlar, Doğanlar, Papağanlar"
+title: "İbibik - Papağanlar"
 ---
 
 ## İbibik
@@ -262,9 +262,9 @@ Kış döneminde kıyı alanlarında nadiren görülür. Aralık ile şubat aras
 
 **Üreme**
 
-**Yuvalama alanı:** Ormanlarda, açık ağaçlık alanlarda ve ağaçların bulunduğu tarım alanlarında yuvalar. \
-**Yuvası:** Yuvasını ağaçtaki bir deliğe yapar. Yuva, kaplanmamış bir boşluktur ve hiçbir yuva malzemesi kullanılmaz. \
-**Yumurta sayısı:** Türkiye'de üç yumurta kaydedilmiştir. Diğer ülkelerde olağan kuluçka büyüklüğü 7-10 yumurtadır. \
+**Yuvalama alanı:** Ormanlarda, açık ağaçlık alanlarda ve ağaçların bulunduğu tarım alanlarında yuvalar.\
+**Yuvası:** Yuvasını ağaçtaki bir deliğe yapar. Yuva, kaplanmamış bir boşluktur ve hiçbir yuva malzemesi kullanılmaz.\
+**Yumurta sayısı:** Türkiye'de üç yumurta kaydedilmiştir. Diğer ülkelerde olağan kuluçka büyüklüğü 7-10 yumurtadır.\
 **Üreme dönemi:** Yavrular haziran ayında yuvada görülmüş, yumurtlamanın mayıs sonunda veya haziran başında gerçekleştiği anlaşılmıştır. **AKD:** 17 Temmuz 1986’da Akseki’nin 60 km kuzeyinde, hav tüyleri olan genç bir birey kaydedilmiştir [@martins1989]. Bu gözlem yumurtlamanın haziran başında olduğunu göstermektedir. 4 Haziran 2000’de Akseki’de bir yuva deliğini inceleyen ve birbirleriyle etkileşen iki erişkin gözlenmiş, aynı gün yakınlarda öten bir birey daha kaydedilmiştir. **KAR:** 11 Haziran 1977’de Ilgaz Dağları’nda 1300-1400 metre yükseklikte, bir yuva deliğinin altında yerde kırılmamış üç yumurta bulunmuştur. Bu yumurtalardan ikisi biraz kuluçkaya yatılmış, biri döllenmemiştir. Yumurtalar doğru şekilde tanımlanmıştır. 11-12 Haziran’da aynı bölgede öten beş birey kaydedilmiştir [@schubert1979]. 16 Nisan 1978’de Ereğli’de bir erişkinin olası bir yuva deliğini incelediği, 14 Haziran 1978’de aynı yerde iki bireyin ötüşüyle birlikte üremeden şüphelenildiği bildirilmiştir [@albrecht1986]. Kızılırmak Deltası’nda 31 Mayıs 1979’da bir yuvada yavrularını besleyen erişkinler gözlenmiştir [@dijksen1985].
 
 **Alttürler ve Sınıflandırma**
@@ -289,9 +289,9 @@ Yaprak döken, nadiren karışık ormanlarda ve zeytinliklerde yaşar. İbreli o
 
 **Üreme**
 
-**Yuvalama alanı:** Yaprak döken, özellikle meşe ormanlarında, hem kuru hem de nemli alanlarda yuvalar. Ayrıca Dalyan’da sığla ormanı, zeytinlikler ve çam ormanlarının bulunduğu alçak dağ yamaçlarında da ürer. Akseki’de açık yaşlı çam ormanının kıyısındaki küçük meşeleri tercih ettiği gözlenmiştir. \
-**Yuvası:** Yuvasını ağaçlarda açtığı deliğin dibine yapar ve yuva zemini kaplanmamıştır. \
-**Yumurta sayısı:** Türkiye'de yumurta sayısı bilinmemektedir. Diğer ülkelerde olağan kuluçka büyüklüğü 4-8 yumurtadır. \
+**Yuvalama alanı:** Yaprak döken, özellikle meşe ormanlarında, hem kuru hem de nemli alanlarda yuvalar. Ayrıca Dalyan’da sığla ormanı, zeytinlikler ve çam ormanlarının bulunduğu alçak dağ yamaçlarında da ürer. Akseki’de açık yaşlı çam ormanının kıyısındaki küçük meşeleri tercih ettiği gözlenmiştir.\
+**Yuvası:** Yuvasını ağaçlarda açtığı deliğin dibine yapar ve yuva zemini kaplanmamıştır.\
+**Yumurta sayısı:** Türkiye'de yumurta sayısı bilinmemektedir. Diğer ülkelerde olağan kuluçka büyüklüğü 4-8 yumurtadır.\
 **Üreme dönemi:** Yavrular mayıs sonu ile haziran ortasında gözlenmiştir. **EGE:** 21 Mayıs 1980’de Bafa Gölü’nde yavrulu bir yuva gözlenmiştir [@kasparek1988a]. **AKD:** Nisan ve mayıs 1989’da Ağla ve Dalyan’da ikişer çiftin ürediği, 5 Haziran’da Akseki’de yavrulu bir yuvanın bulunduğu kaydedilmiştir. Mayıs 1990 sonlarında Akseki’de gözlenen bir çift ve en az iki tüylenmiş yavru, yumurtlamanın 21 Nisan’da başladığını göstermektedir. Ayrıca 8 Mayıs 1995’te Midilli’de zeytin ağaçlarındaki iki yuvada yavrular görülmüştür. **KAR:** 27 Mayıs ve 10 Haziran 1992’de Kızılırmak Deltası’nda yavrulu iki yuva bulunmuştur [@hustings1994].
 
 **Alttürler ve Sınıflandırma**
