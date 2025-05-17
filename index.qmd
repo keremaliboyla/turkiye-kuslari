@@ -1,48 +1,26 @@
-## Kitap Hakkında {.unnumbered}
+**Kitap Hakkında**
 
-Türkiye'de tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, üreme biyolojisi ve taksonomik durumu verilmiştir. Bu kitabın hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
+Bu kitap, Türkiye’de gözlenen tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, üreme biyolojisi ve taksonomik konumuna dair kapsamlı bir değerlendirme sunmaktadır. Hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
 
-Kitap 18 fasikülden oluşmaktadır.
+**Editör ve Yayına Hazırlayan:** Kerem Ali Boyla\
+**Yazarlar:** Kerem Ali Boyla, Guy M. Kirwan, Peter Castell, Barbaros Demirci, Metehan Özen, Hilary Welch, Tim Marlow\
+**Katkı Sağlayanlar:** Güneşin Aydemir, Sancar Barış, Bahtiyar Kurt, Gernant Magnin, Richard F. Porter, Geoff Welch\
+**Çevirmenler:** Özge Keşaplı Can, Özgür Keşaplı, Önder Cırık, Ömer Döndüren, Utku Perktaş, Kuzey Cem Kulaçoğlu, (Türkiye Ornitoloji Tarihi: Bahtiyar Kurt; Bilgi Boşlukları: Sancar Barış)\
+**Kapak İllüstrasyonu:** Tora Benzeyen
 
-1.  [Ördekgiller](01_ordekgiller.html)
-2.  [Tavukgiller ve Kara Kuşları](02_tavukgiller_vd.html)
-3.  [Bataklık Kuşları](03_bataklik-kuslari.html)
-4.  [Cılıbıtgiller](04_cilibitlar.html)
-5.  [Çullukgiller](05_cullukgiller.html)
-6.  [Martıgiller](06_martilar.html)
-7.  [Deniz ve Göl Kuşları](07_deniz-ve-gol-kuslari.html)
-8.  [Yırtıcılar](08_yirticilar.html)
-9.  [Baykuşlar](09_baykuslar.html)
-10. [İbibik - Papağanlar](10_otucu-oncesi.html)
-11. [Sarıasma - Kargagiller](11_kargamsilar.html)
-12. [Baştankaralar - Arapbülbülleri](12_toygarlar.html)
-13. [Prinyalar - Kamışçınlar](13_kamiscinlar.html)
-14. [Çıvgınlar - Yedikardeşler](14_otlegenler.html)
-15. [Çalıkuşları - Tırmaşıkkuşları](15_tirmasiklar.qmd)
-16. [Ardıçlar ve Sinekkapanlar](16_sinekkapanlar.qmd)
-17. Dağbülbülleri - İncirkuşları
-18. İspinozlar ve Çinteler
+Bu çalışma, aynı yazarlar tarafından 2008 yılında yayımlanan *The Birds of Turkey* kitabının Türkçe’ye uyarlanmış, kapsamı genişletilmiş ve içeriği güncellenmiş versiyonudur.
 
-**Editör ve Yayına Hazırlayan**: Kerem Ali Boyla
+Bu kitap *Quarto* yayınlama sistemi kullanılarak hazırlanmıştır.
 
-**Yazarlar**: Kerem Ali Boyla, Guy M. Kirwan, Peter Castell, Barbaros Demirci, Metehan Özen, Hilary Welch ve Tim Marlow
+**Telif Hakkı**
 
-**Katkı Koyanlar**: Güneşin Aydemir, Sancar Barış, Bahtiyar Kurt, Gernant Magnin, Richard F. Porter ve Geoff Welch
+Kitap, Creative Commons Attribution 4.0 International License kapsamında lisanslanmıştır. Tüm hakları yazarlara aittir. Bu lisans, eserin kopyalanmasına, paylaşılmasına, sergilenmesine ve türetilmiş çalışmaların oluşturulmasına izin verir; ancak orijinal yazarların açıkça belirtilmesi zorunludur.
 
-**Çevirmenler**: Özge Keşaplı Can, Özgür Keşaplı, Önder Cırık, Ömer Döndüren, Utku Perktaş, Kuzey Cem Kulaçoğlu, Bahtiyar Kurt (Türkiye Ornitoloji Tarihi), Sancar Barış (Bilgi Boşlukları).
+**Kaynak Gösterimi**
 
-**Kapak İllüstrasyonu**: Tora Benzeyen
+Boyla, K.A., Kirwan, G.M., Demirci, B., Welch, H., Özen, M., Castell, P. & Marlow, T. (2025). *Türkiye Kuşlarının Doğa Tarihi.*
+<https://keremaliboyla.github.io/turkiye-kuslari/>
 
-Bu kitap aynı yazarlar tarafından 2008 yılında yayımlanan “The Birds of Turkey” kitabının Türkçe'ye uyarlanmış, geliştirilmiş ve güncellenmiş bir sürümüdür.
+**Düzeltme ve Geri Bildirim**
 
-## Telif Hakkı
-
-Kitap [Quarto publishing system](https://quarto.org/) ile hazıranmıştır.
-
-Bu kitap [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) ile lisanslanmıştır. Kitabının tüm hakları yazarlarına aittir. Bu, kitabın kopyalanması, dağıtılması, sergilenmesi, ve eserden türetilmiş çalışmaların oluşturulması dahil olmak üzere birçok faaliyeti serbest bırakır, ancak eser üzerindeki orijinal yazarları belirtmeniz şarttır.
-
-Kaynak gösterme: Boyla, K.A., Kirwan, G.M., Demirci, B., Welch, H., Özen, M., Castell, P., & Marlow, T. (2025). *Türkiye Kuşlarının Doğa Tarihi.* <https://keremaliboyla.github.io/turkiye-kuslari/>
-
-## Düzeltme Önerileri
-
-Metindeki yazım hataları, eksik bilgiler veya düzeltme önerilerinizi yazarın e-posta adresine (kerem.boyla \[at\] gmail.com) gönderebilirsiniz. Ayrıca, uzmanlar ve akademisyenler GitHub üzerinden metinlere erişebilir ve düzeltmelerini doğrudan paylaşabilirler.
+Metindeki yazım hataları, eksik bilgiler veya düzeltme önerilerinizi lütfen yazarın e-posta adresine gönderin: kerem.boyla \[at\] gmail.com. Ayrıca, uzmanlar ve akademisyenler GitHub üzerinden içeriğe erişebilir ve düzeltme önerilerini doğrudan iletebilirler.
