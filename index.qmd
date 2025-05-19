@@ -1,26 +1,26 @@
+# Giriş {.unnumbered}
+
+**Yazar:** Kerem Ali Boyla (Ed.)\
+**Yayımlanma Tarihi:** 19 Mayıs 2025
+
 **Kitap Hakkında**
 
 Bu kitap, Türkiye’de gözlenen tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, üreme biyolojisi ve taksonomik konumuna dair kapsamlı bir değerlendirme sunmaktadır. Hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
 
-**Editör ve Yayına Hazırlayan:** Kerem Ali Boyla\
-**Yazarlar:** Kerem Ali Boyla, Guy M. Kirwan, Peter Castell, Barbaros Demirci, Metehan Özen, Hilary Welch, Tim Marlow\
-**Katkı Sağlayanlar:** Güneşin Aydemir, Sancar Barış, Bahtiyar Kurt, Gernant Magnin, Richard F. Porter, Geoff Welch\
-**Çevirmenler:** Özge Keşaplı Can, Özgür Keşaplı, Önder Cırık, Ömer Döndüren, Utku Perktaş, Kuzey Cem Kulaçoğlu, (Türkiye Ornitoloji Tarihi: Bahtiyar Kurt; Bilgi Boşlukları: Sancar Barış)\
+Bu çalışma, aynı yazarlar tarafından 2008 yılında yayımlanan The Birds of Turkey kitabının kapsamı genişletilmiş ve içeriği güncellenmiş ve Türkçe’ye uyarlanmış halidir.
+
+**Metin Yazarları:** Kerem Ali Boyla, Guy M. Kirwan, Peter Castell, Barbaros Demirci, Metehan Özen, Hilary Welch, Tim Marlow
+
+**Katkı Sağlayanlar:** Güneşin Aydemir, Sancar Barış, Bahtiyar Kurt, Gernant Magnin, Richard F. Porter, Geoff Welch
+
+**Çevirmenler:** Özge Keşaplı Can, Özgür Keşaplı, Önder Cırık, Ömer Döndüren, Utku Perktaş, Kuzey Cem Kulaçoğlu, Bahtiyar Kurt (Türkiye Ornitoloji Tarihi) ve Sancar Barış (Bilgi Boşlukları)
+
 **Kapak İllüstrasyonu:** Tora Benzeyen
 
-Bu çalışma, aynı yazarlar tarafından 2008 yılında yayımlanan *The Birds of Turkey* kitabının Türkçe’ye uyarlanmış, kapsamı genişletilmiş ve içeriği güncellenmiş versiyonudur.
+**Telif Hakkı:** Kitap, Creative Commons Attribution 4.0 International License kapsamında lisanslanmıştır. Tüm hakları yazarlara aittir. Bu lisans, eserin kopyalanmasına, paylaşılmasına, sergilenmesine ve türetilmiş çalışmaların oluşturulmasına izin verir; ancak orijinal yazarların açıkça belirtilmesi zorunludur.
+
+**Kaynak Gösterimi:** Boyla, K.A., Kirwan, G.M., Demirci, B., Welch, H., Özen, M., Castell, P. & Marlow, T. (2025). *Türkiye Kuşlarının Doğa Tarihi.* <https://keremaliboyla.github.io/turkiye-kuslari/>
+
+**Düzeltme ve Geri Bildirim:** Metindeki yazım hataları, eksik bilgiler veya düzeltme önerilerinizi lütfen yazarın e-posta adresine gönderin: kerem.boyla \[at\] gmail.com. Ayrıca, uzmanlar ve akademisyenler GitHub üzerinden içeriğe erişebilir ve düzeltme önerilerini doğrudan iletebilirler.
 
 Bu kitap *Quarto* yayınlama sistemi kullanılarak hazırlanmıştır.
-
-**Telif Hakkı**
-
-Kitap, Creative Commons Attribution 4.0 International License kapsamında lisanslanmıştır. Tüm hakları yazarlara aittir. Bu lisans, eserin kopyalanmasına, paylaşılmasına, sergilenmesine ve türetilmiş çalışmaların oluşturulmasına izin verir; ancak orijinal yazarların açıkça belirtilmesi zorunludur.
-
-**Kaynak Gösterimi**
-
-Boyla, K.A., Kirwan, G.M., Demirci, B., Welch, H., Özen, M., Castell, P. & Marlow, T. (2025). *Türkiye Kuşlarının Doğa Tarihi.*
-<https://keremaliboyla.github.io/turkiye-kuslari/>
-
-**Düzeltme ve Geri Bildirim**
-
-Metindeki yazım hataları, eksik bilgiler veya düzeltme önerilerinizi lütfen yazarın e-posta adresine gönderin: kerem.boyla \[at\] gmail.com. Ayrıca, uzmanlar ve akademisyenler GitHub üzerinden içeriğe erişebilir ve düzeltme önerilerini doğrudan iletebilirler.

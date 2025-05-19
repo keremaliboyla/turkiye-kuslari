@@ -4,8 +4,12 @@ project:
   
 book:
   title: "Türkiye Kuşlarının Doğa Tarihi"
-  author: "Kerem Ali Boyla, Ed."
+  author:
+    name: "Kerem Ali Boyla, Editör"
+    orcid: "0000-0002-1825-0097"
   date: "2025-05-19"
+  date-format: "MMMM YYYY"
+  subtitle: "Türlerin Coğrafi Yayılışı, Üreme Biyolojisi ve Taksonomik Durumu"
   cover-image: kapak3.png
   favicon: kapak3.png
   repo-url: https://github.com/keremaliboyla/turkiye-kuslari
@@ -31,11 +35,12 @@ book:
     - 15_tirmasiklar.qmd
     - 16_sinekkapanlar.qmd
     - 17_serceler.qmd
-    - 18_ispinozlar.qmd    # 19 Mayıs
+    - 18_ispinozlar.qmd
     - references.qmd
 
 bibliography: references.bib
 csl: nature.csl
+# number-sections: false
 
 format:
   html:
@@ -46,6 +51,27 @@ format:
       gutter-width: 1.5rem
     theme: cosmo
     number-depth: 1
-  # docx:
-  #   reference-doc: custom-reference-doc.docx
+  # pdf:
+  #   pdf-engine: lualatex
+  #   documentclass: scrreprt
+  #   classoption: twocolumn
+  #   papersize: a4
+  #   toc-title: "İçindekiler"
+  #   number-depth: 0
+  #   mainfont: "TeX Gyre Pagella"
+  #   sansfont: "Arial"
+  #   include-in-header: header.tex
+  #   geometry:
+  #     - inner=2cm
+  #     - outer=2cm
+  #     - top=2cm
+  #     - bottom=2cm
+  #     - headsep=22pt
+  #     - headheight=11pt
+  #     - footskip=33pt
+  #     - ignorehead
+  #     - ignorefoot
+  #     - heightrounded
+    # epub: default
+
 editor: visual

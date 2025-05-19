@@ -785,7 +785,7 @@ Geçişi, geniş bir cepheden sürekli ve yüksek sayılarda olabilir. Örneğin
 
 **Alttürler ve Sınıflandırma**
 
-Türkiye'de çoğunlukla nominat alttürü bulunur. Ancak *pekinensis* alttürünün de göçü sırasında Afrika'dan Çin'e göç ederken Doğu Anadolu'dan geçtiği tespit edilmiştir. Bu DOğu Anadolu'daki daha açık renkli bireylerin *pekinensis* genlerini taşıdığı düşünülür [@zhao2022]. Muhtemeln Doğubeyazıt'ta kaydedilen Boz Ebabil kayıtları bu popülasyona aittir.
+Türkiye'de çoğunlukla nominat alttürü bulunur. Ancak *pekinensis* alttürünün de göçü sırasında Afrika'dan Çin'e göç ederken Doğu Anadolu'dan geçtiği tespit edilmiştir. Bu Doğu Anadolu'daki daha açık renkli bireylerin *pekinensis* genlerini taşıdığı düşünülür [@zhao2022]. Muhtemelen Doğubeyazıt'ta kaydedilen Boz Ebabil kayıtları bu popülasyona aittir.
 
 ## Boz Ebabil
 

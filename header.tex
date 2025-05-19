@@ -1,0 +1,25 @@
+% % Set up graphics package early
+% \usepackage{graphicx}
+% \setkeys{Gin}{width=8.25cm, keepaspectratio}
+
+% Multicolumn setup
+\usepackage{multicol}
+\setlength{\columnsep}{0.5cm}  % Spacing between columns
+
+% --- Page header customization ---
+\usepackage[automark]{scrlayer-scrpage}
+\clearpairofpagestyles  % clear default header/footer
+
+% Book title on odd pages (left side), section on even pages (right side)
+\ihead{Türkiye Kuşlarının Doğa Tarihi}     % inner header: current section (on even pages)
+\ohead{\rightmark}    % outer header: book title (on odd pages)
+
+% Footer setup:
+% Centered page number
+\cfoot{\pagemark}
+
+% Optional: line below header
+\setheadsepline{0.4pt}[\color{gray}]  % thin gray line
+
+% Enable automatic mark updates
+\automark[section]{chapter}

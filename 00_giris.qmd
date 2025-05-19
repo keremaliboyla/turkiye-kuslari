@@ -4,15 +4,11 @@
 
 Bu yeni kitabın basılı bir yayın yerine açık kaynak dijital formatta yayımlanmasının nedenleri şu şekilde sıralanabilir:
 
--   Açık kaynak dijital kitap, hem ücretsiz hem de kuşlarla ilgilenen herkesin her an her yerde ulaşabileceği bir formattır. Tablet, bilgisayar veya cep telefonundan rahatça okunabilir.
-
--   Basılı kitaplar sayfa sınırıyla kısıtlanırken, dijital kitaplarda böyle bir sınırlama yoktur.
+-   Dijital kitap, hem ücretsiz hem de kuşlarla ilgilenen herkesin her an her yerde ulaşabileceği bir formattır. Tablet, bilgisayar veya cep telefonundan rahatça okunabilir. Basılı kitaplar sayfa sınırıyla kısıtlanırken, dijital kitaplarda böyle bir sınırlama yoktur.
 
 -   Ornitoloji gibi dinamik bir alanda basılan kitaplar daha yayımlanmadan güncelliğini kaybedebilir. Kuş gözlemcilerinin güncel kayıtları ve fotoğrafları sayesinde tür listesi, yayılış haritaları ve mevcut durum bilgileri hızla güncellenebilir.
 
--   Kuşlar konusunda araştırma yapan akademisyenler, uzmanlar ve amatörler GitHub üzerinden metni doğrudan düzenleyebilir. Kitabın yazılışı bir kitle çalışmasına dönüşebilir.
-
--   Dijital kitap, içerik tamamlanmadan da fasiküller halinde yayımlanabilir.
+-   Kuşlar konusunda araştırma yapan akademisyenler, uzmanlar ve amatörler GitHub üzerinden metni doğrudan düzenleyebilir.
 
 ## Kitabın Tarihçesi
 
@@ -28,9 +24,9 @@ Editör Cumhur ile üzerinde uzlaştığımız düzeltmeler ve metnin yeniden bi
 
 Git versiyon kontrol sistemi sayesinde tüm metin düzenleme geçmişi ayrıntılı biçimde kaydedildi. Kitabın içeriğini GitHub platformu üzerinden yayımlayarak, GitHub Pages (github.io) altyapısıyla çevrimiçi olarak herkesin erişimine açtım. Ayrıca, her türe eBird Macaulay Library’nin görsel–işitsel arşivinden alınan widget’larla yüksek kaliteli fotoğraflar eklendi.
 
-Ekim 2024 ile Mayıs 2025 arasında yoğun bir çalışma sürecine girdim. Kitabı fasiküller hâlinde yayımlamaya karar verdim. İlk üç fasikül Ekim 2024’te çevrimiçi olarak yayımlandı. Kitabın tamamını ise Mayıs 2025’e kadar tamamlamayı hedefliyorum.
+Ekim 2024 ile Mayıs 2025 arasında yoğun bir çalışma sürecine girdim. Kitabı fasiküller hâlinde yayımlamaya karar verdim. İlk üç fasikül Ekim 2024’te çevrimiçi olarak yayımlandı. Kitabın tamamını ise Mayıs 2025’e kadar tamamlandı.
 
-## Teşekkürler
+# Teşekkürler
 
 Bu kitabın oluşumuna katkıda bulunan herkese en içten teşekkürlerimi sunmak isterim.
 
@@ -48,17 +44,17 @@ Kuşbank 2015 yılında eBird'e taşındı. eBird'e kayıt giren ve fotoğraf y�
 
 Türkiye’de ornitolojinin ilk dönemlerine dair ilk kapsamlı derleme, Kumerloeve tarafından Türkiye Ornitoloji Derneği (OST - Ornithological Society of Turkey) için hazırlanmıştır. Bu yayında son beş yüzyılda yapılan çalışmalara dair bir özet yer alırken, daha sonra Guy Kirwan, Richard F. Porter, Güneşin Aydemir, Bahtiyar Kurt, Guy M. Kirwan ve Gernant Magnin'in katkılarıyla güncellenmiştir. Çeviren ve Uyarlayan: Bahtiyar Kurt ve Kerem Ali Boyla
 
-## İlk Çalışmalar
+**İlk Çalışmalar**
 
 1548’de *Pierre Belon*, Suriye’den İstanbul’a geçerken Anadolu’yu ziyaret etmiş ve gözlemlerini 1555’te yayımladığı *L’histoire de la nature des Oyseaux* adlı eserinde toplamıştır. Bu eser, Anadolu’nun kuşlarına dair ilk yayın olarak tarihe geçmiştir. 1720’de İzmir bölgesinde Britanya Konsolosu olarak görev yapan *W. Sherard*, bir yalıçapkını yakalamış ve bu tür, Linne tarafından *Alcedo smyrnensis* (İzmir Yalıçapkını) olarak adlandırılmıştır. Bu örnek aynı zamanda Türkiye’den toplanan ilk kuş örneği olarak kaydedilmiştir. 1792-1796 yılları arasında *G.A. Oliver*’in gerçekleştirdiği seyahatler ise İstanbul Boğazı’ndaki yelkovanları raporlayan ilk gözlemler olarak kayıtlara geçmiştir.
 
-## 1800’ler
+**1800’ler**
 
 1835-1836 yıllarında *Hugh Strickland*’ın İzmir bölgesinde yaptığı gözlemler, bölgede 129 kuş türünü listeliyordu. Yine bir İngiliz olan *Keith Abbott*, 1835-1837 yılları arasında Trabzon ve Erzurum civarında kuş kayıtları toplamıştır. 1850’lerde *Marchese Orazio Antinori*, kuş derisi toplama ve ticaretiyle ilgilenmiş ve 1856’da günümüzde *Dendrocopus syriacus* (Alaca Ağaçkakan) olarak bilinen türü, Osmanlı İmparatorluğu altında Suriye bölgesinde tanımlamıştır. 1840-1860 yılları arasında fizikçi *L. Rigler*, İstanbul çevresinde 164 kuş türünü raporlayarak önemli bir katkı sağlamıştır. 19. yüzyılın ikinci yarısında yapılan gözlemler genellikle İstanbul civarında yoğunlaşsa da, Anadolu’nun diğer bölgelerinde de araştırmalar başlamıştı. *A. Günther*, 1865'te *Ibis* dergisinde yayımlanan bir makalesinde, İstanbul'da yaşayan *Thomas Robson*’un toplanan bilgilerinden faydalanarak Uzun Kuyruklu Baştankara'nın yeni bir alt türünden bahsetmiştir. *Robson*, kendi adına hiçbir yazı yayımlamasa da ornitolojiye olan katkılarıyla dikkat çekmiştir.
 
 1880 yılında *Comte Amede Alleon* (ve asistanı *Vian*), dünyayı bölgedeki yoğun leylek ve yırtıcı kuş göçü hakkında bilgilendirmeye başladı. Daha güneyde, 1863-1894 yılları arasında ornitolog ve yumurta-tahnit ticaretiyle uğraşan *Theodor Krüper*, İzmir ve Yunanistan’da oldukça aktifti. Kendi adını taşıyan sıvacıkuşunun yanı sıra Maskeli Örümcekkuşu, Boz Kuyrukkakan, Taş Bülbülü ve Yaz Atmacası gibi türler üzerine değerli çalışmalar yaptı. Bu dönemde Orta ve Güney Anadolu ornitolojik açıdan neredeyse hiç araştırılmamışken, İngiliz *Charles Danford* 1870’lerin sonunda bu bölgelere yönelik araştırmalar yürüttü ve Fırat Nehri kıyısında bulunan Birecik'teki Kelaynak kolonisini keşfetti. *Dresser*, *Danford*’un bulgularını ele alarak önemli keşiflerde bulundu ve Toros Dağları’ndan urkeklik türünün bir alt türünü tanımladı. Yüzyılın sonlarına doğru *Radde* (1884) ve *Vilkonskij* (1897) gibi Rus ornitologlar özellikle Kuzeydoğu Anadolu’daki kuşlar üzerine araştırmalara başladı.
 
-## 1900 – 1945 arası
+**1900 – 1945 arası**
 
 Yirminci yüzyılın başlarında İstanbul ve Kuzeybatı Anadolu’dan raporlar sunan *Braun* (1901-11) öne çıkan isimler arasındaydı. Aynı dönemde Kuzeydoğu ve Doğu Anadolu’da gözlemler yapan *Woosnam* ve Güney Anadolu’dan kayıt tutan *Ramsay* da önemli katkılar sağladı. İskenderun ve Belen Geçidi'ndeki leylek göçlerini kaydeden *Hubert Lynes* de bu dönemin öne çıkan gözlemcilerinden biriydi. Ayrıca Kuzeydoğu Anadolu’da *Nesterov*, *Bobrinkij* ve *Dombrovskij* önderliğindeki Rus bilim insanlarının çalışmaları yüzyılın ilk 20 yılında ağırlık kazandı. Erzurum bölgesindeki çalışmalar ise İngiliz ornitologlar tarafından sürdürüldü ve *Weigold*, Birecik’teki kelaynak kolonisini birkaç yıl boyunca düzenli olarak ziyaret etti.
 
@@ -66,25 +62,25 @@ Yirminci yüzyılın başlarında İstanbul ve Kuzeybatı Anadolu’dan raporlar
 
 Bu dönemde *Otto Steinfatt* ve *Lutz Mauve*, İstanbul Boğazı'nda kapsamlı göç izleme çalışmaları yürüttüler. 1933'te Albay *Richard Meinertzhagen*, Amik Gölü’nü ziyaret ederek Yılanboyun kolonisine ilişkin nadir gözlemlerden bazılarını kaydetti. Kuzey Anadolu'da *Hugo Rossner* ve *Gabriele Neuhauser*, Doğu Toroslar ve Güneydoğu Anadolu Dağları'nda *C.G. Bird* ve *E.K. Balls*, Karacabey ve Uluabat Gölü’nde *Miklos Vasvari* ve *Imre Patkai* gibi araştırmacılar da bu dönemde çalışmalar gerçekleştirdiler. *N. J. P. Wadley*, İkinci Dünya Savaşı sırasında Türkiye’de kuşları izleyen nadir araştırmacılardan biri olarak yaklaşık 205 tür kaydetti ve gözlemlerini Ibis dergisinde “*Notes on the birds of Central Anatolia*” başlığı altında yayımladı. 1951'de Türkiye’ye gelen *Phil Hollom*, Kara İskete ve Ada Martısı gibi önemli türleri gözlemleyerek Türkiye ornitolojisine değerli katkılarda bulundu.
 
-![Phil Hollom ve Stanley Cramp Mayıs 1970'te Amik Gölü'nde. Fotoğraf: Richard Porter.](images/hollom_amik.gif)
+Phil Hollom ve Stanley Cramp Mayıs 1970'te Amik Gölü'nde. Fotoğraf: Richard Porter.
 
-## 1950 ve 1960’larda Alman Ekolü
+**1950 ve 1960’larda Alman Ekolü**
 
 1930'larda, Alman *Hans Kumerloeve*'nin *Gunther Niethammer* ile birlikte Türkiye'ye yaptığı ilk ziyaretler bu dönemin başlangıcını işaret eder. Kumerloeve’nin hala referans kabul edilen eseri *Zur Kenntnis der Avifauna Kleinasiens* üzerine temellenmiştir. 1953 yılından itibaren *Kumerloeve*, Anadolu’da detaylı kuş araştırmalarına başlamış ve 1969’a kadar ülkenin hemen her köşesini dolaşmıştır. Araştırmaları esnasında neredeyse her ay bir makale yayımlayan *Kumerloeve*, 1986 yılında kuşlar ve memeliler üzerine o güne kadar yapılan yayınların bibliyografyasını da oluşturmuştur. *Hans Kumerloeve*, 20. yüzyıl Türkiye ornitolojisinin duayeni olarak kabul edilebilir.
 
 *Curt Kosswig* 1936'da Türkiye'ye gelerek İstanbul Üniversitesi Fen Fakültesi Zooloji Kürsüsü başkanlığına atanmıştır. Manyas Gölü’nde balıkçıllar üzerine yaptığı araştırmalarda, buradaki kuş kolonilerini incelemiş ve alan 1958 yılında "Kuş Cenneti" statüsüyle koruma altına alınmıştır. Asistanı *Saadet Ergene* de Kosswig’in etkisiyle kuşlar üzerine çalışmaya yönelmiş ve 1945 yılında, doçentlik çalışması olarak hazırladığı ilk resimli Türkçe kuş kitabı olan *Türkiye’nin Kuşları* yayımlanmıştır.
 
-![Profesör Curt Kosswig Nisan 1970'te Manyas Gölü'nde. Fotoğraf: Richard Porter.](images/Cosswig.gif)
+Profesör Curt Kosswig Nisan 1970'te Manyas Gölü'nde. Fotoğraf: Richard Porter.
 
 Diğer Alman araştırmacılar arasında, İç Anadolu'da çalışmalar yapan *Gottfried Vauk*, *Heinz* *Lehmann* ve ekibi ile *Klaus* *Warncke* öne çıkmaktadır. Bu araştırmacılar Tepeli Pelikan, Boz Kaz, Kuğu, Ulu Doğan, Flamingo ve Alamecek gibi türler hakkında veri toplamışlardır. 1968'de *Willy Bauer* ve *Günther Müller*, Meriç Deltası’ndaki çalışmalarında kuruma tehlikesiyle karşı karşıya kalan alan için bir yönetim planı hazırlamışlardır. Ayrıca, 1967’de Uluslararası Kış Ortası Su Kuşu Sayımları Türkiye’yi de kapsamına almış ve sayımlar *J. Szijj* ve *Hayo Hoekstra* tarafından gerçekleştirilmiştir. Sonraki yıllarda bu sayımlar Hollandalı *Lieuwe Dijksen* ve *Fred Koning* tarafından sürdürülmüştür.
 
-## Richard Porter ve OSME
+**Richard Porter ve OSME**
 
 *Richard Porter* ve arkadaşları 1966'da İstanbul’a gelerek Boğaz üzerindeki ilk kapsamlı modern kuş göçü sayımını gerçekleştirdi. *Porter’*ın bu çalışmasına ilham veren kaynaklardan biri, 1880 yılında *Alleon ve Vian’*ın Boğaziçi’ndeki süzülen kuş göçü üzerine yazıları oldu. Ayrıca, 1950'ler ve 1960'larda *Nisbet ve Smout,* *Ballance ve Lee*’nin *Ibis* dergisinde yayımladıkları yırtıcı göç gözlemleri de Porter için önemli referanslardandı. Bu dönemde C*.T. Nisbet, T.C. Smout, D.K. Ballance, S.L.B. Lee* ve *Hartmut Heckenroth* da İstanbul Boğazı’nda benzer göç izleme çalışmaları gerçekleştirdi.
 
 *Porter’*ın 1966’daki Türkiye ziyaretinde, ülkedeki kuş gözlemcilerin sayısı oldukça sınırlıydı. Milli Parklar bölümünden *Tansu Gürpınar* ve Manyas Gölü Kuş Cenneti’nin bekçisi *Ali Kızılay*, bu gözlemcilerin başında gelmekteydi. *Gürpınar*, Milli Parklar Müdürü Dr. *Zeki Bayar*’ın desteğiyle Türkiye’de ornitoloji ve doğa koruma hareketini yaygınlaştırmaya yönelik çalışmalar yaptı.
 
-![Richard Porter ve Tansu Gürpınar 2004 İzmir Kuş Konferansında. Fotoğraf: Richard Porter.](images/richard_tansu.gif)
+Fotoğraf: Richard Porter ve Tansu Gürpınar 2004 İzmir Kuş Konferansında. Fotoğraf: Richard Porter.
 
 1968'de, *Tansu Gürpınar*’ın da aralarında bulunduğu çoğunluğu yabancı bir grup, Türkiye Ornitoloji Derneği’ni (OST – *Ornithological Society of Turkey*) kurarak çalışmalarını daha kurumsal bir zemine taşıdı. Uluslararası Doğayı Koruma Birliği ve Uluslararası Kuşları Koruma Konseyi’nin desteğiyle Ankara, Bursa ve İstanbul’da düzenlenen konferanslar, Türkiye’de yaban hayatının korunması yönünde önemli kararların alınmasını sağladı ve Ramsar Konferansı’nın ilk adımları bu toplantılarda atıldı. OST’un kurulması kararı da bu konferanslarda alınarak hayata geçirildi. 1968-1978 yılları arasında OST, Türkiye için dört kuş raporu ve 15 bülten yayımladı. Türkiye’nin ilk kuş listesi, OST tarafından 1971'de yayımlandı ve bu listede 394 tür yer alırken 251 türün düzenli olarak ülkede ürediği belirtildi. 1976'da Doğu Karadeniz bölgesinde göç izleme çalışmaları sırasında OST’nin tüm Ortadoğu’yu kapsaması fikri doğdu ve 1978’de OSME (*Ornithological Society of the Middle East*) dünyanın ilk bölgesel kuş gözlem topluluğu olarak kuruldu.
 
@@ -92,13 +88,13 @@ OST dönemindeki çalışmalara katkı sağlayan isimler arasında, OST’nin il
 
 1980’lerde Türkiye kuş gözlem tarihinde önemli bir Alman ornitolog devreye girdi: *Max* *Kasparek*. Türkiye avifaunası üzerine birçok önemli eser yayımlayan *Kasparek*’in “Die Vögel der Türkei” adlı çalışması ile, *Aygün Kılıç* ve *Asaf Ertan* ile birlikte hazırladığı *Türkiye’nin Önemli Kuş Alanları* envanteri Türkiye kuş gözlem tarihinde kritik bir yere sahiptir.
 
-## Doğal Hayatı Koruma Derneği
+**Doğal Hayatı Koruma Derneği**
 
 1960’ların sonunda ve 1970’lerin başında, *Salih Acar* ve *Belkıs (Acar) Balpınar* Türkiye’de gönüllü doğa koruma hareketine öncülük eden bir girişim başlattı. Enerjileri ve vizyonlarıyla Türkiye’de doğa koruma hareketine ilham verdiler ve bu çabaların bir sonucu olarak 1975 yılında Doğal Hayatı Koruma Derneği (DHKD) kuruldu. Bu dönem, OST’nin son yıllarına denk gelirken, aynı zamanda Türkiye ornitolojisinin de başlangıcını işaret ediyordu. 1986’da Uluslararası Kuş Koruma Konseyi (ICBP) (bugünkü BirdLife International), Türkiye’nin kuş çeşitliliği açısından önemini kabul ederek DHKD’yi desteklemek amacıyla Hollandalı araştırmacı *Gernant Magnin*’i görevlendirdi. 1988’de DHKD bünyesinde çalışmaya başlayan *Magnin*, *Murat Yarar* ile birlikte, kuş gözlem ve koruma çalışmaları yapan sınırlı sayıdaki yerli araştırmacıyı bir araya getirdi. *Magnin ve Yarar*, 1992-1997 yılları arasında yaklaşık yarım milyon kilometre yol katederek birçok kuş verisi topladı ve bu çalışmanın sonucunda 1997 yılında *Türkiye’nin Önemli Kuş Alanları* kitabı yayımlandı.
 
 DHKD, İstanbul’daki modern ofisi ve deneyimli çalışanlarıyla güçlü bir kurum haline geldi. Çeşitli yabancı kuruluşlarla işbirliği yaparak doğa koruma projeleri geliştirdi; bunlar arasında Fransa’dan Tour du Valat, Wetlands International, Uluslararası Kıyıkuşu ve Sukuşu Araştırma Vakfı (WIWO, Hollanda) ve OSME gibi prestijli kurumlar yer aldı. Özellikle WIWO, Türkiye’nin Önemli Kuş Alanları’nın güncellenmesinde birçok araştırma ve rapor üreterek aktif bir rol üstlendi. DHKD Kuş Bölümü, 1995’te ODTÜ Biyoloji Bölümü’nde tür isimleri konusunda uzmanların katılımıyla bir toplantı düzenledi. Uzlaşı sağlanan tür isimleri, 1996’da DHKD tarafından *Türkçe Kuş İsimleri Listesi* olarak yayımlandı.
 
-## Kuş Gözlem Toplulukları
+**Kuş Gözlem Toplulukları**
 
 1990’lı yıllar, Türkiye’de ilk kuş gözlem topluluklarının kuruluşuna tanıklık etti. İlk olarak 1991 yılında Ankara Kuş Gözlem Topluluğu, ardından Hacettepe Üniversitesi Kuş Gözlem Topluluğu (Beykuş) kuruldu. 1995’te kurulan ODTÜ Kuş Gözlem Topluluğu, dönemin en aktif ve uzun ömürlü topluluğu olarak bilinir. 2000 yılında DHKD tarafından başlatılan Önemli Kuş Alanları (ÖKA) İzleme Programı kapsamında birçok kuş gözlem topluluğu daha kuruldu. Bahtiyar Kurt’un liderliğinde DHKD, gözlemcilere kitaplar, dürbünler, teleskoplar ve diğer malzemeleri sağlayarak kuş gözlemciliğinin sistematik bir şekilde büyümesine katkıda bulundu. Kuş gözlemcilikteki bu büyümeyi sınırlayan en önemli unsur olan Türkçe kuş rehberi eksikliği de 2002 yılında Collins Kuş Rehberi’nin Kerem Ali Boyla tarafından Türkçe’ye çevrilmesi ve DHKD tarafından yayımlanmasıyla giderildi.
 
@@ -110,19 +106,19 @@ Türkiye'de kuş gözlemciliği, özellikle Türkçe yayınlar, internet gruplar
 
 Ancak, kuş gözlem toplulukları doğa koruma çalışmalarına beklenen katkıyı sağlayamadı. Kuş gözlemcilerinin büyük kısmını üniversite öğrencileri oluşturduğundan, ilkbaharda gözleme ayırabilecekleri süre sınavlar nedeniyle kısıtlıydı. Ayrıca, kuş gözlemcilerinin çoğu mezun olduktan sonra bu ilgilerini sürdürmemekteydi. Maddi olanakların yetersizliği, saha çalışmaları için gerekli dört çeker araçların eksikliği ve gözlemcilerin İstanbul, Ankara, İzmir, Kayseri, Samsun ve Adana gibi belirli büyük şehirlerde yoğunlaşması, bu faaliyetlerin sınırlı kalmasına neden oldu. Ancak, zamanla bu kuş gözlem topluluklarının çoğu dağıldı.
 
-## Kuşbank
+**Kuşbank**
 
 Kuşbank, Dr. Uygar Özesmi'nin liderliğinde geliştirilen ve hayata geçirilen Türkiye’nin ulusal kuş gözlem veritabanıdır. 2014 yılı sonu itibarıyla 550 gözlemcinin yaklaşık 440 türe ait 500.000’den fazla kaydını içeren Kuşbank, aynı yıl eBird platformuna taşınmış ve Türkiye Kuş Kayıt Komitesi kurulmuştur. 2024 yılı itibarıyla 3 milyondan fazla kayıt barındıran veritabanı, ulusal düzeydeki analizlere ve Türkiye Üreyen Kuş Atlası gibi kapsamlı çalışmalara olanak sağlamıştır.
 
 ![KuşBank internet sitesinin ilk hali. Bugün ebird.org olarak devam etmektedir.](images/kusbank.png)
 
-## TRAKUS ve Kuş Fotoğrafçılığı
+**TRAKUS ve Kuş Fotoğrafçılığı**
 
 Türkiye'de doğa fotoğrafçılığı alanında önemli bir gelişme, kuş fotoğrafçılığına ilgi duyan bir topluluğun oluşmasıdır. 2007 yılında kuş fotoğrafçıları ve kuş gözlemcileri için paylaşım platformu olarak kurulan www.trakus.org internet sitesi üyelerinin katkılarıyla, kuş fotoğraflarının çekilmesine adanmış gönüllüler, yer ve zaman bilgisiyle desteklenen çok sayıda kuş fotoğrafını paylaşarak benzersiz bir veri kaynağı oluşturdular. Nadir veya sadece belirli yerlerde görülen türlerin fotoğraflanması, ulusal düzeyde kuş turizmi ve rehberliğini destekleyerek veri kapsam ve niteliğini artırdı. Bu sayede Ak Kaşlı Çinte, Mahmuzlu Çinte, Uzun Kuyruklu Korsan Martı gibi nadir türler kayıt altına alınırken, Balık Baykuşu ve Paçalı Baykuş gibi türlerin üreme davranışları da doğrulanabildi. 2024 yılında yaklaşık 25 kişilik gönüllü bir ekibin yıllarca süren çalışması sonucunda, Türkiye'de bulunan kuş türlerini özgün fotoğraflarından tanıtan ve bu anlamda "ilk" olma özelliği taşıyan "TRAKUS Türkiye'nin Kuşları" kitabı hazırlanmıştır.
 
 ![TRAKUS portalı. http://www.trakus.org](images/trakus.png)
 
-## Halkalama
+**Halkalama**
 
 Ötücü kuşlar ve yağmurcunların halkalanması, Türkiye'de ilk kez WIWO’nun Çukurova [@kivit1994] ve Kızılırmak Deltası [@hustings1994] projeleriyle başlamış olup, 2002 yılında ulusal halkalama programının başlatılmasıyla Ankara, Manyas, Manavgat, Kars, Diyarbakır ve Kızılırmak Deltası gibi alanlarda ilkbahar ve sonbahar dönemlerinde halkalama yapılmaya başlanmıştır. Programdaki en eski ve sürekli çalışan istasyon, Kızılırmak Deltası'ndaki Cernek Halkalama İstasyonu’dur [@baris2005]. Zamanla bazı istasyonlar düzenli çalışmasa da Kızılırmak Deltası, Kars ve Antalya’da halkalama çalışmaları devam etmektedir. Uluslararası projeler kapsamında su kuşlarının kuş gribine katkısını araştırmak amacıyla su kuşları halkalanmış, örneklenmiş ve bazı bireyler uydu vericileriyle takip edilmiştir. Ayrıca 2003-2009 yılları arasında İzmir Tuzla’da yapılan beş flamingo halkalama çalışması, Akdeniz’deki flamingo popülasyonlarına dair önemli veriler sağlamıştır [@balkiz2009].
 
@@ -132,23 +128,23 @@ Hazırlayanlar: Geoff Welch, Hilary Welch and Sancar Barış (2005)
 
 1990 ile 2005 yılları arasında, Türkiye’nin kuşları hakkındaki bilgilerimiz, yerel kuş gözlemciliğinin ve doğa koruma topluluklarının gelişmesine paralel olarak önemli ölçüde ilerlemiştir. Bu bölüm, Türkiye’nin kuşlarıyla ilgili bilgimizi sınırlayan, bazıları genel bazıları ise oldukça spesifik olan temel sorunları tanımlarken aynı zamanda geleceğe yönelik olarak Türk kuş faunasına dair atılabilecek önemli adımları ortaya koymaktadır.
 
-## Türlerin Yayılışı
+**Türlerin Yayılışı**
 
 Gözlem haritaları, Kuşların yayılışı mı, yoksa kuş gözlemcilerinin mi? Yakın zamana dek, Türkiye kuş veri havuzu büyük ölçüde tatil için Batı Avrupa’dan gelen kuş gözlemcilerinin katkılarıyla oluşuyordu. Ülkeyi ziyaret eden yabancı gözlemciler, kısa süreli tatilleri boyunca mümkün olduğunca çok tür ve çeşitli yaşam ortamı görmek isterler. Bu durum önemli ölçüde taraflı bir veri oluşturur; çünkü gözlemciler her zaman aynı yerlere, yılın aynı dönemlerinde giderek hep aynı kuş türlerini gözlemler.
 
 Türkiye'de kuş gözlemciliğinin gelişmesiyle bu sıkıntı büyük ölçüde azalmıştır. Ancak bu kez de yerli kuş gözlemcilerinin gözlem alanları genellikle yaşadıkları bölgeyle sınırlı kalmakta; bu durum, veri toplamada daha geniş bir yelpazeye ulaşmak adına farklı yöntemlerin geliştirilmesi gerekliliğini doğurmaktadır.
 
-## Standart Verinin Eksikliği
+**Standart Verinin Eksikliği**
 
 1998 ile 2003 yılları arasında Türkiye’nin geniş alanlarında, standart yöntemlerle üreyen kuşlar hakkında veri toplayan üç önemli proje yürütülmüştür: Konya Havzası’nda (Eken & Magnin 1999), Akdeniz ormanlarında (Zeydanlı ve ark. 2005) ve Güneydoğu Anadolu’da (Welch 2004). Bu çalışmalar sayesinde, ilk kez, araştırma alanları nadir türlerin varlığı ya da kuşların yoğunlaştığı alanlar gibi önceki bilgilere bağlı kalınmadan tarafsız bir şekilde belirlenmiştir. Elde edilen veriler kuşların kesinlikle nerelerde bulunduğunu göstermenin yanı sıra neredeyse nerelerde bulunmadıklarını da ortaya koymuştur. Ancak, bu tür çalışmalar önemli ölçüde daha fazla insan gücü gerektirir, organize edilmesi zordur ve nispeten pahalıdır.
 
 Yaygın türlerin yayılışı, gözlemcilerin bilinçsizce her yerde var olduklarını düşündükleri kargalar, toygarlar, serçeler, sığırcıklar ve evcil güvercinler gibi kuşları yeterince kaydetmemelerinden dolayı eksik kalmaktadır. Örneğin, kumru her yerde bulunduğu varsayılan, hareket halindeki bir araçtan bile kolayca gözlemlenebilecek bir tür olarak bilinir. Ancak 2005 yılında ülkenin kuzeybatısında yapılan iki haftalık saha çalışmasında Erzurum’un kuzeyinde bulunmadığı, Kars’ta hiç kaydedilmediği ve ancak Yeşilırmak ovasında tekrar ortaya çıktığı tespit edilmiştir.
 
-## Üreme Durumu
+**Üreme Durumu**
 
 Kızıl Sırtlı Örümcekkuşu, Türkiye'deki kuşların yayılışının gözlem verileriyle nasıl doğrulandığına iyi bir örnek teşkil eder. Bu tür, göç dönemlerinde oldukça yaygın görülür ve çoğu kuş kitabı ile arazi rehberinde Türkiye’nin geniş bir alanında üreyen bir tür olarak tanıtılır. Ancak bu gerçekten böyle mi? Kızıl Sırtlı Örümcekkuşu’nun (göç başlangıç ve bitiş tarihleri tam olarak belirlenemeyen) uzun bir göç dönemi vardır. Ağustos 2005 itibarıyla Kuşbank veritabanındaki 313 kaydın 128’i (%41) bir üreme koduyla ilişkilendirilmişken, yalnızca yedisinde (%2) kesin üremeye dair itiraz edilemez kanıt bulunmaktadır. Geriye kalan 121 kaydın büyük bir kısmı, özellikle de 35 tanesi dışında olanlar, muhtemelen göç eden bireylere aittir. Bazı durumlarda birkaç dakikalık bir gözlem, "olasılık" düzeyinde bir üreme kaydını "muhtemel" veya "kesin" üreme kaydına dönüştürebilir.
 
-## Su Kuşu Sayımları
+**Su Kuşu Sayımları**
 
 1986’dan itibaren IWRB/Wetlands International tarafından organize edilen Kış Ortası Su Kuşu Sayımları (KOSKS), Türkiye'de uzun süreli su kuşu verisi sağlamakta önemli bir rol oynamıştır. Ancak, bu program on yıllardır sürdürülse de sayım metodolojisinde çeşitli değişkenlikler gözlenmiştir: ziyaret edilen alanların sayısı, her bir alanın kapsanma şekli, katılımcı sayısı ve deneyim seviyeleri yıllar içinde değişmiştir. Bu yüzden, kışlayan kuş sayılarındaki artış veya azalışı incelemek için yapılan çalışmalarda veri toplama yöntemindeki bu değişikliklerin de dikkate alınması gerekmektedir. Belirli bir türün sayısındaki değişim, gerçekten popülasyon artışına ya da azalmasına mı işaret etmektedir, yoksa bu farklı yıllarda sayılan alanların kapsamı mı değişmiştir? Söz konusu türün tespit zorluğu, alanların bazı yıllarda daha detaylı ya da yüzeysel sayılması, sayım sonuçlarını etkileyebilir. Ayrıca, Türkiye veya Doğu Avrupa-Rusya-Orta Asya’daki hava koşulları ve avcılık baskısı gibi kontrol edilemeyen değişkenler de kuşların dağılımını etkileyebilir.
 
@@ -156,7 +152,7 @@ Kızıl Sırtlı Örümcekkuşu, Türkiye'deki kuşların yayılışının gözl
 
 Bir alanı kullanan kuş sayısının mevsimden mevsime veya yıldan yıla değişim göstermesi doğal bir durumdur. ÖKA (Önemli Kuş Alanı) olarak belirlenmesi gereken bir alan, kötü bir yılda gözden kaçabilir veya komşu alanlarda normalin dışındaki su seviyeleri nedeniyle geçici olarak yüksek sayıda kuş barındırabilir. Bu tür durumlar, yalnızca sulakalanlar ağındaki işleviyle önemli olan bir alanın, koruma açısından en öncelikli yerlerden biri olarak değerlendirilmesine yol açabilir.
 
-## Gözden Kaçan Türler
+**Gözden Kaçan Türler**
 
 Bazı kuşlar daha çok dikkat çekerken bazıları ise gözlenmeden varlıklarını sürdürebilir. Gececil kuşlar özel teknikler kullanılmadıkça olduğundan daha az kayda geçer. Saklanan ve ürkek türler bolca bulunmalarına rağmen fark edilmeyebilir. Örneğin, Paçalı Baykuş, aslında Türkiye'de nispeten yaygın olabilecek bir türdür, ancak 25 yıl öncesine kadar hiç kaydedilmemiştir.
 
@@ -166,7 +162,7 @@ Alpin türler genellikle parçalı bir yayılış gösterir, düşük yoğunlukt
 
 Kuş türlerinin seslerinden tanınması ise ayrı bir zorluk sunar. Türkiye'deki kuş gözlemcileri ötüşle tanıma konusunda nispeten az deneyimlidir. Ayrıca, bölgesel alttür ve ırkların ötüşleri hakkında bilgi eksikliği de bulunur. Türkiye'de üreyen Kızılkuyruk, deneyimli Avrupalı gözlemciler tarafından bile bazen Şakrak ile karıştırılır. Boz Kirazkuşu gibi türler de ötüşleriyle benzer türlerle karışabilir ve yaygın oldukları bölgelerde gözden kaçabilirler.
 
-## Popülasyon Tahminleri
+**Popülasyon Tahminleri**
 
 Batı Avrupa'da her tür için güvenilir, bazen oldukça kesin popülasyon rakamları mevcut olup, bu veriler koruma eylemlerinin uygulanmasına ve Avrupa Birliği düzeyinde uzun vadeli koruma politikalarının geliştirilmesine katkı sağlamaktadır.
 
@@ -176,25 +172,25 @@ Toy, Leylek, Kara Akbaba ve Dağ Horozu gibi yüksek koruma değerine sahip tür
 
 Kuş gözlemcileri için sulakalanlar, kuş çeşitliliği ve gözleme kolaylığı nedeniyle cazip alanlardır ve gözlemlerden elde edilen kayıtların çoğu bu alanlardan gelmektedir. Ancak, yıllar içinde bu sulakalan odaklı gözlem eğilimi, Devlet Su İşleri’nin 1930'lardaki master planlara uygun olarak sulakalanları kurutup baraj inşa etmesiyle, hızla kaybolan türler ve habitatlar listesine dönüşmüştür.
 
-## Göç Sayımları
+**Göç Sayımları**
 
 Gündüz yırtıcılarının ve diğer süzülen kuşların görünür göçü Türkiye'de uzun zamandır biliniyor olsa da, bu göçün sürdürülebilir ve eşgüdümlü olarak izlenmesi için yapılan çalışmalar oldukça sınırlıdır. 1960’lar ve 70’lerde İstanbul Boğazı, Kuzey-Batı Türkiye ve İskenderun Körfezi’nde gündüz yırtıcılarının ve süzülen kuşların gözlenmesi [@porter1968; @beaman1977a; @beaman1977; @sutherland1981a], batılı kuş gözlemcilerinin Türkiye'deki bu önemli göçün farkına varmasını sağlamış ve büyük bir ilgiyle Türkiye’yi ziyaret etmelerine vesile olmuştur.
 
 Görülebilir göç sayımı, uzun süreli yoğun konsantrasyon ve disiplin gerektiren bir iş olup, kendini işe adamış az sayıda gözlemci tarafından gerçekleştirilir. Bu nedenle, dünyada düzenli ve uzun süreli gündüz yırtıcı göçü çalışmaları oldukça sınırlıdır. Ayrıca, elde edilen verilerin koruma değerinin belirginleştirilmesi zor olduğundan, yırtıcı sayımları için mali kaynak bulmak da kolay değildir. Yine de, süzülen kuş göçü görsel açıdan oldukça etkileyici bir doğa olayıdır ve toplumun doğal çevreye olan ilgisini ve korunma gereksinimine dair farkındalığını artırmak için güçlü bir araçtır; bu nedenle, önemi göz ardı edilmemelidir.
 
-## Halkalama İstasyonları
+**Halkalama İstasyonları**
 
 Ötücü kuşlar ve yağmurcunların halkalanmasını içeren çalışmalar, Türkiye'de ilk olarak WIWO’nun 1990'da Çukurova [@kivit1994] ve 1992'de Kızılırmak Deltası'nda [@hustings1994] yürüttüğü çalışmalarında başlamıştır. 2002 yılında ulusal halkalama programının hayata geçirilmesiyle birlikte eğitimli halkalamacılar yetiştirilmiş ve Ankara, Manyas, Manavgat, Kars, Diyarbakır ve Kızılırmak Deltası’nda ilkbahar ve sonbaharda halkalama yapılan bir program oluşturulmuştur. Bu programdaki en eski ve sürekli çalışan istasyon, Kızılırmak Deltası'ndaki Cernek Halkalama İstasyonu olmuştur [@baris2005].
 
 Bu tür çalışmaların uzun vadeli koruma açısından sağladığı en önemli yarar, konaklama alanlarını kullanan kuş sayılarındaki değişimlerin ve popülasyon hareketlerinin izlenmesine olanak tanımasıdır. Böylelikle her alanın kuşlar açısından taşıdığı gerçek önem ortaya konulabilir. Sürekli ve standart çalışan halkalama istasyonları, Türk ornitolojisine sadece veri sağlamakla kalmayıp, uzun vadede daha kapsamlı katkılar sunmaktadır.
 
-## Kuşbank ve eBird
+**Kuşbank ve eBird**
 
 Türkiye için elde edilen tüm bilgilerin erişilebilir ve koruma çalışmalarına katkı sağlayacak bir formatta saklanması büyük önem taşır. Bu amaçla, 2001 yılında kurulan ve 2004’te kullanıma açılan KuşBank ağ-temelli veri tabanı geliştirilmiştir. KuşBank, kuş gözlemcileri tarafından geniş kabul görmüş ve oldukça başarılı olmuştur. Kasım 2005 itibarıyla, veritabanına 350 gözlemci tarafından 400 türe ait 97.000’den fazla kayıt girilmiştir. Ancak verilerin gerçek anlamda değerli olabilmesi için kalite güvence altına alınmalıdır. Bu nedenle, belirli standartların karşılandığından emin olmak amacıyla bir Kayıt Komitesi oluşturulmuştur. Başlangıçta sadece KuşBank’a girilen kayıtları değerlendiren bu komitenin, zamanla ulusal ölçekte nadir türlerin kayıtlarını inceleyen bir komiteye dönüşmüştür.
 
 ![](images/kusbank.png)
 
-## Türkiye Üreyen Kuş Atlası
+**Türkiye Üreyen Kuş Atlası**
 
 Türkiye kuşları hakkında yöntemselliğe dayalı nitelikli çalışmalar ve güvenilir verilerle koruma önceliklerini belirleyebilme gereksinimi, bugün hala aşılması gereken önemli bir sorun olarak karşımızda durmaktadır. Türkiye’de yöntemsel çalışmaları bağımsız olarak yürütebilecek kuş gözlemcilerinin sayısı yüz civarında olsa da, metindeki tespitler ve eleştiriler geçerliliğini korumaktadır. Bu bağlamda, kuş gözlemcilerinin katkılarının koruma çalışmalarına daha etkili yansıması için stratejik yaklaşımlar geliştirilmesi önemlidir. Koruma liderlerinin öncelikli alanlar, türler ya da veri eksikliklerini sistematik olarak belirlemeleri ve giderek artan akademik kapasiteye sahip üniversitelerle iş birliği yapmaları, kuş gözlemcilerinin veri açıklarını kapatma konusunda daha verimli olmasını sağlayabilir. Kış Ortası Su Kuşu Sayımları’nın analiz edilmesi, ulusal düzeyde bilgi sağlayacak bir yaygın kuş gözlem programının yaygınlaştırılması ve dinamik bir kuş atlasının oluşturulması hala gerçekleştirilmesi beklenen adımlar arasında yer almaktadır.
 

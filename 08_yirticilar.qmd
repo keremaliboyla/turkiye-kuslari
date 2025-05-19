@@ -6,15 +6,13 @@ title: "Yırtıcılar"
 
 *Pandion haliaetus*, Western Osprey
 
-**Türkiye'de üreyen nüfusu yok olmuştur. Yaygın olarak az sayıda görülen geçit türüdür. Ege ve Akdeniz kıyılarında az sayıda kışlar.**
+***Türkiye'de üreyen nüfusu yok olmuştur. Yaygın olarak az sayıda görülen geçit türüdür. Ege ve Akdeniz kıyılarında az sayıda kışlar.***
 
 <iframe src="https://macaulaylibrary.org/asset/284352411/embed" height="500" width="640" frameborder="0" allowfullscreen>
 
 </iframe>
 
 Geçmişte birkaç alanda üremiştir: Terkos Gölü ve Belgrad Ormanı'nda 1860 ve 1964 yıllarında [@kumerloeve1964a; @alleon1880] ve Kızılırmak Deltası'nda 1966'da [@dijksen1985] yuvalamıştır. Ancak bu alanlarda veya başka bir yerde tekrar ürediğine dair kanıt bulunmamaktadır. 1992 yılında Kızılırmak Deltası'nda yapılan çok kapsamlı bir üreyen kuş çalışmasında rastlanmamıştır [@dijksen1985]. Türkiye'de azami 20 çiftin üreyebileceği ve dört yeni alanda üreme döneminde kuşların bulunduğu düşünülmüştür [@kasparek1989b]. Bu alanlar: 1962'de Amasya Merzifon Alıcık, 1966'da Giresun kıyıları, Temmuz 1966'da "yuva yakınındaymışçasına öten" bir kuşun görüldüğü Tatvan ve 1983'de Yeniçağa Gölü'dür. Ardından 1995'te Edirne Küplü, Mayıs-Haziran 2004'te İğneada ve 1990'larda Sinop kıyılarında üreme dönemi boyunca gözlemler yapılmıştır.
-
-Geçmişte iki alanda üremiştir. Terkos Gölü ve Belgrad Ormanı'nda 1860 ve 1964 yıllarında [@kumerloeve1964a; @alleon1880] ve Kızılırmak Deltası'nda 1966'da [@dijksen1985] yuvalamıştır. Ancak tekrar her iki alanda veya herhangi başka bir alanda ürediğine dair kanıt yoktur ki 1992 yılında Kızılırmak Deltası'nda çok kapsamlı bir üreyen kuş çalışması yapılmıştır. Türkiye'de azami 20 çiftin üreyebileceğini ve dört yeni alanda üreme zamanı kuşların bulunduğunu bilinir [@kasparek1989b] . Bunlar 1962'de Amasya Merzifon Alıcık, 1966'da Giresun kıyıları, Temmuz 1966'da "yuva yakınındaymışçasına öten" bir kuşun görüldüğü Tatvan ve 1983'de Yeniçağa Gölü'dür. Ardından 1995'de Edirne Küplü ve Mayıs Haziran 2004'de İğneada'da ve 1990'larda Sinop kıyılarında üreme dönemi boyunca görülmüştür.
 
 Geçit sırasında daha yaygın olmakla birlikte seyrek olarak görülür. 240 kayda göre ilkbahar göçü mart ortası ile haziranın ilk haftasında gerçekleşir. Göçün tepe noktası nisan ortası ve sonundadır, medyan tarih 22 Nisan'dır [@kasparek1989b]. Sonbahar göçü ise ağustos ortasından kasım başına kadar devam eder, eylül ortası ile ekim ortasında tepe yapar, medyan tarih 25 Eylül'dür. Sonbahar döneminde daha yaygın olarak görülür. Yırtıcı kuş gözlem noktalarında az sayılarda gözlemlenir. Sonbahar 1976'da Borçka'da kayda değer şekilde toplam 24 birey sayılmıştır [@andrews1977].
 
@@ -37,7 +35,7 @@ Türkiye'de nominat alttürü bulunur.
 
 *Elanus caeruleus*, Black-winged Kite
 
-**Güneydoğu Anadolu'da ve Doğu Akdeniz'de lokal olarak az sayıda görülen, ancak sayıları artan bir türdür. Diğer bölgelerde ise rastlantısal bir konuktur.**
+***Güneydoğu Anadolu'da ve Doğu Akdeniz'de lokal olarak az sayıda görülen, ancak sayıları artan bir türdür. Diğer bölgelerde ise rastlantısal bir konuktur.***
 
 <iframe src="https://macaulaylibrary.org/asset/598242281/embed" height="440" width="640" frameborder="0" allowfullscreen>
 
@@ -64,7 +62,7 @@ Türkiye'de Hindistan kökenli vociferus nominat alttürü olduğu iddia edilmi�
 
 *Gypaetus barbatus*, Bearded Vulture
 
-**Lokal olarak az sayıda bulunan yerli türdür.**
+***Lokal olarak az sayıda bulunan yerli türdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/205215711/embed" height="487" width="640" frameborder="0" allowfullscreen>
 
@@ -89,7 +87,7 @@ Roselaar (1995) Türkiye'nin *aureus* alttürünün yayılış alanında olduğu
 
 *Neophron percnopterus*, Egyptian Vulture
 
-**İç ve Doğu Anadolu'da nispeten yaygın ve sayıda görülen bir yaz konuğu ve geçit türüdür.**
+***İç ve Doğu Anadolu'da nispeten yaygın ve sayıda görülen bir yaz konuğu ve geçit türüdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/554554821/embed" height="552" width="640" frameborder="0" allowfullscreen>
 
@@ -118,7 +116,7 @@ Türkiye'de nominat alttürü bulunur.
 
 *Pernis apivorus*, European Honey Buzzard
 
-**Nispeten lokal ve seyrek yaz konuğu, yaygın ve çok sayıda bulunan geçit türüdür.**
+***Nispeten lokal ve seyrek yaz konuğu, yaygın ve çok sayıda bulunan geçit türüdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/158398021/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -149,7 +147,7 @@ Monotipik bir türdür.
 
 *Pernis ptilorhynchus*, Crested Honey Buzzard
 
-**Çok nadir ve lokal geçit türüdür.**
+***Çok nadir ve lokal geçit türüdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/582879431/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -175,7 +173,7 @@ Tahnit verisi bulunmamaktadır, fakat yayılış gösterdiği alanlarda alttür 
 
 *Aegypius monachus*, Cinereous Vulture
 
-**Nispeten yaygın olarak az sayıda bulunan bir yerlidir.**
+***Nispeten yaygın olarak az sayıda bulunan bir yerlidir.***
 
 <iframe src="https://macaulaylibrary.org/asset/613172769/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
@@ -204,7 +202,7 @@ Monotipik bir türdür.
 
 *Gyps fulvus*, Griffon Vulture
 
-**Lokal ve az sayıda yerli ve yarı göçmendir.**
+***Lokal ve az sayıda yerli ve yarı göçmendir.***
 
 <iframe src="https://macaulaylibrary.org/asset/56251641/embed" height="518" width="640" frameborder="0" allowfullscreen>
 
@@ -235,7 +233,7 @@ Türkiye'de nominat alttürü bulunur.
 
 *Terathopius ecaudatus*, Bateleur
 
-**Rastlantısal konuktur.**
+***Rastlantısal konuktur.***
 
 <iframe src="https://macaulaylibrary.org/asset/436737651/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
@@ -257,7 +255,7 @@ Monotipik bir türdür.
 
 *Circaetus gallicus*, Short-toed Snake Eagle
 
-**Yaygın olarak çok sayıda görülen bir yaz konuğu ve geçit türüdür.**
+***Yaygın olarak çok sayıda görülen bir yaz konuğu ve geçit türüdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/180243781/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
@@ -287,7 +285,7 @@ Monotipik bir türdür.
 
 *Clanga pomarina*, Lesser Spotted Eagle
 
-**Lokal olarak az sayıda yuvalar. Nispeten yayagın ve çok sayıda bulunan geçit türüdür.**
+***Lokal olarak az sayıda yuvalar. Nispeten yayagın ve çok sayıda bulunan geçit türüdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/99214071/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -318,7 +316,7 @@ Monotipik bir türdür. Yeni yapılan genetik çalışmalarla küçük ve büyü
 
 *Clanga clanga*, Greater Spotted Eagle
 
-**Lokal olarak az sayıda görülen bir kış konuğu, nispeten yaygın olarak görülen bir geçit türüdür.**
+***Lokal olarak az sayıda görülen bir kış konuğu, nispeten yaygın olarak görülen bir geçit türüdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/615714182/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
@@ -342,7 +340,7 @@ Monotipik bir türdür. Yeni yapılan genetik çalışmalarla küçük ve büyü
 
 *Hieraaetus pennatus*, Booted Eagle
 
-**Yaygın olarak nispeten çok sayıda bulunan bir yaz konuğu ve geçit türüdür.**
+***Yaygın olarak nispeten çok sayıda bulunan bir yaz konuğu ve geçit türüdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/607109091/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -369,7 +367,7 @@ Monotipik bir türdür.
 
 *Aquila nipalensis*, Steppe Eagle
 
-**Çok lokal ve nadir bir yaz konuğu, nispeten yaygın ve az sayıda görülen bir geçit türüdür.**
+***Çok lokal ve nadir bir yaz konuğu, nispeten yaygın ve az sayıda görülen bir geçit türüdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/624305076/embed" height="486" width="640" frameborder="0" allowfullscreen>
 
@@ -396,7 +394,7 @@ Türkiye'de muhtemelen *orientalis* alttürü bulunur [@roselaar1995].
 
 *Aquila heliaca*, Eastern Imperial Eagle
 
-**Lokal ve yer yer çok sayıda bulunan yerli ve yarı göçmen, nispeten yaygın ve seyrek geçit türü ve kış konuğudur.**
+***Lokal ve yer yer çok sayıda bulunan yerli ve yarı göçmen, nispeten yaygın ve seyrek geçit türü ve kış konuğudur.***
 
 <iframe src="https://macaulaylibrary.org/asset/409366761/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
@@ -426,7 +424,7 @@ Monotipik bir türdür.
 
 *Aquila chrysaetos*, Golden Eagle
 
-**Yaygın olarak ve nispeten çok sayıda bulunan yerlidir.**
+***Yaygın olarak ve nispeten çok sayıda bulunan yerlidir.***
 
 <iframe src="https://macaulaylibrary.org/asset/441976771/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -454,7 +452,7 @@ Kış aylarında Trakya'da görülen bireyler belirgin bir şekilde nominat tür
 
 *Aquila fasciata*, Bonelli's Eagle
 
-**Lokal olarak çok az sayıda bulunan bir yerli türdür.**
+***Lokal olarak çok az sayıda bulunan bir yerli türdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/209353951/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
@@ -482,7 +480,7 @@ Türkiye'de nominat alttürü bulunur.
 
 *Circus aeruginosus*, Western Marsh Harrier
 
-**Nispeten yaygın ve yer yer çok sayıda bulunan yerli ve yarı göçmen bir türdür. Bunun yanında kışın göç alır ve yaygın olarak görülen bir geçit türüdür.**
+***Nispeten yaygın ve yer yer çok sayıda bulunan yerli ve yarı göçmen bir türdür. Bunun yanında kışın göç alır ve yaygın olarak görülen bir geçit türüdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/611085969/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -512,7 +510,7 @@ Türkiye'de nominat alttürü bulunur.
 
 *Circus cyaneus*, Hen Harrier
 
-**Yaygın olarak nispeten çok sayıda bulunan geçit türü ve kış konuğudur.**
+***Yaygın olarak nispeten çok sayıda bulunan geçit türü ve kış konuğudur.***
 
 <iframe src="https://macaulaylibrary.org/asset/433551781/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
@@ -538,7 +536,7 @@ Türkiye'de nominat alttürü bulunur.
 
 *Circus macrourus*, Pallid Harrier
 
-**İç Anadolu'da lokal olarak çok az sayıda yuvalayabilir. Yaygın olarak görülen bir geçit türü, lokal olarak görülen bir kış konuğudur.**
+***İç Anadolu'da lokal olarak çok az sayıda yuvalayabilir. Yaygın olarak görülen bir geçit türü, lokal olarak görülen bir kış konuğudur.***
 
 <iframe src="https://macaulaylibrary.org/asset/549188361/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -568,7 +566,7 @@ Monotipik bir türdür.
 
 *Circus pygargus*, Montagu's Harrier
 
-**Lokal olarak az sayıda üreyen bir yaz konuğu, yaygın olarak nispeten çok sayıda görülen bir geçit türüdür.**
+***Lokal olarak az sayıda üreyen bir yaz konuğu, yaygın olarak nispeten çok sayıda görülen bir geçit türüdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/611479510/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -596,9 +594,9 @@ Monotipik bir türdür.
 
 ## Şikra
 
-Accipiter badius, Shikra
+*Accipiter badius*, Shikra
 
-**Rastlantısal bir konuktur.**
+***Rastlantısal bir konuktur.***
 
 <iframe src="https://macaulaylibrary.org/asset/582903651/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -620,7 +618,7 @@ Türkiye'deki Güney Kafkasya'da olduğu bilinen *cenchroides* alttürünün olm
 
 *Accipiter brevipes*, Levant Sparrowhawk
 
-**Lokal olarak az sayıda gelen bir yaz konuğu, yaygın olarak ve nispeten çok sayıda bulunan bir geçit türüdür.**
+***Lokal olarak az sayıda gelen bir yaz konuğu, yaygın olarak ve nispeten çok sayıda bulunan bir geçit türüdür.***
 
 <iframe src="https://macaulaylibrary.org/asset/170805551/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
@@ -647,7 +645,7 @@ Monotipik bir türdür.
 
 *Accipiter nisus*, Eurasian Sparrowhawk
 
-**Nispeten yaygın olarak çok sayıda bulunan yerli türdür. Kışın göç alır, çok daha yaygın ve çok sayıda bulunur.**
+***Nispeten yaygın olarak çok sayıda bulunan yerli türdür. Kışın göç alır, çok daha yaygın ve çok sayıda bulunur.***
 
 <iframe src="https://macaulaylibrary.org/asset/609744212/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -678,7 +676,7 @@ Türkiye'de nominat alttürü bulunur.
 
 *Accipiter gentilis*, Northern Goshawk
 
-**Lokal olarak az sayıda görülen yerli türdür. Kışın göç alır, üreme dönemi dışında daha yaygın olarak daha çok sayıda görülür.**
+***Lokal olarak az sayıda görülen yerli türdür. Kışın göç alır, üreme dönemi dışında daha yaygın olarak daha çok sayıda görülür.***
 
 <iframe src="https://macaulaylibrary.org/asset/615399464/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -706,7 +704,7 @@ Muhtemelen *marginatus* alttürü bulunur [@roselaar1995]. Bazı kaynaklara gör
 
 *Milvus milvus*, Red Kite
 
-**Az sayıda görülen geçit türü ve kış konuğudur.**
+***Az sayıda görülen geçit türü ve kış konuğudur.***
 
 <iframe src="https://macaulaylibrary.org/asset/282575731/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -734,7 +732,7 @@ Türkiye'de nominat alttürü bulunur.
 
 *Milvus migrans*, Black Kite
 
-**Batı bölgelerinde nadir, doğu bölgelerinde ise yaygın bir yaz konuğudur. Göç sırasında nispeten çok sayıda gözlenir. Güneydoğu Anadolu ve Doğu Akdeniz'de yüksek sayılarda kışlar.**
+***Batı bölgelerinde nadir, doğu bölgelerinde ise yaygın bir yaz konuğudur. Göç sırasında nispeten çok sayıda gözlenir. Güneydoğu Anadolu ve Doğu Akdeniz'de yüksek sayılarda kışlar.***
 
 <iframe src="https://macaulaylibrary.org/asset/557810351/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -765,7 +763,7 @@ Güneydoğu Anadolu'da düzenli ve kalabalık sürüler halinde kışlar [@Biric
 
 *Haliaeetus albicilla*, White-tailed Eagle
 
-**Lokal olarak az sayıda yuvalayn bir yerlidir. Kışın kuzeyden gelen genç bireylerle göç alır.**
+***Lokal olarak az sayıda yuvalayn bir yerlidir. Kışın kuzeyden gelen genç bireylerle göç alır.***
 
 <iframe src="https://macaulaylibrary.org/asset/416477191/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -794,7 +792,7 @@ Monotipik bir türdür.
 
 *Buteo lagopus*, Rough-legged Buzzard
 
-**Lokal olarak az sayıda gelen kış konuğudur.**
+***Lokal olarak az sayıda gelen kış konuğudur.***
 
 <iframe src="https://macaulaylibrary.org/asset/283892071/embed" height="519" width="640" frameborder="0" allowfullscreen>
 
@@ -818,7 +816,7 @@ Türkiye'de nominat alttürü bulunur.
 
 *Buteo buteo*, Common Buzzard
 
-**Yaygın olarak çok sayıda bulunan yerli türdür. Göç zamanı ve kış aylarında sayıları artar.**
+***Yaygın olarak çok sayıda bulunan yerli türdür. Göç zamanı ve kış aylarında sayıları artar.***
 
 <iframe src="https://macaulaylibrary.org/asset/521925321/embed" height="552" width="640" frameborder="0" allowfullscreen>
 
@@ -850,7 +848,7 @@ Kış aylarında alçak ve orta rakımlı bölgelerde görülür. Marmara Bölge
 
 *Buteo rufinus*, Long-legged Buzzard
 
-**Yaygın olarak çok sayıda bulunan yerli ve yarı göçmendir.**
+***Yaygın olarak çok sayıda bulunan yerli ve yarı göçmendir.***
 
 <iframe src="https://macaulaylibrary.org/asset/622536006/embed" height="452" width="640" frameborder="0" allowfullscreen>
 
@@ -860,7 +858,7 @@ Açık arazilerde, kurak tarım alanlarında, bozkırda ve 4000 metreye kadar ol
 
 İlkbahar göçünde, 20 Mart - 31 Mayıs 2006 tarihleri arasında İstanbul Boğazı'ndan 28 kuş geçmiştir [@uner2006spring]. Göçmen olmayan bu tür için bu sayı dikkate değerdir. 2010 yılında yapılan tekrarda, 15 Mart - 31 Mayıs tarihleri arasında 43 birey kaydedilmiş ve bu, şimdiye kadar en yüksek sayıdır [@ikgt2010]. Sonbaharda İstanbul Boğazı ve Borçka'da az sayıda kaydedilir.
 
-![](images/harita_Buteo%20rufinus.png){width="1200"}
+![](images/harita_Buteo%20rufinus.png)
 
 **Üreme**
 

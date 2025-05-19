@@ -343,7 +343,7 @@ Mart başından ekim ortasına kadar oldukça yaygın bir yaz konuğudur ve say�
 
 Kışın, mevcut kayıtlara kıyasla sanıldığından daha yaygın olabilir. İzmir ve Mersin açıklarında yapılan araştırmalarda teknelerde bulunan kuş gözlemcisi bilim insanları tarafından yüzlercesi gözlenmiştir. Kışı çoğunlukla Batı Afrika kıyılarında geçirir.
 
-![](images/harita_Calonectris diomedea.png)
+![](images/harita_Calonectris%20diomedea.png)
 
 **Üreme**
 
@@ -526,7 +526,7 @@ Monotipik bir türdür. Geçmişte tüm sümsükler hep beraber Sula cinsi altı
 
 Bir kaydı bulunur. 1 birey Üsküdar Harem Otogarı'nda (İstanbul) 27 Nisan 24 tarihinde *Andre Yarborough* tarafından kaydedildi.
 
-![](images/harita_Sula%20leucogaster.png)
+![](images/harita_Oenanthe melanoleuca.png)
 
 **Üreme**
 
@@ -583,7 +583,7 @@ Batı ve orta kesimlerdeki birçok küçük koloni son yıllarda küçülmüş y
 
 Sonbahar ve kış döneminde daha yaygın ve boldur. Azami 250 kuşluk küçük gruplar birçok alanda gözlenebilir. Önemli kışlama alanları ve azami sayıları şu şekildedir: Gediz Deltası'nda 1000 birey, Marmara Gölü'nde 300 birey, Meriç Deltası'nda 20.000 birey, Uluabat Gölü'nde 2000 birey ve Kızılırmak Deltası'nda 1000 birey sayılmıştır. İç Anadolu'da da kayda değer sayılarda kışlayabilir. Diğer üreme alanlarındaki sayılar, bu bölgelerdeki kuşlar veya dışarıdan gelen bireylerle artar.
 
-![](images/harita_Microcarbo%20pygmeus.png)
+![](images/harita_Microcarbo pygmaeus.png)
 
 **Üreme**
 
