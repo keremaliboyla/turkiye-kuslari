@@ -8,7 +8,7 @@ Bu kitap ilk aşamada dijital formatta yayımlanmıştır. Basılı bir yayın y
 
 -   Ayrıca dijital yayınlar, daha katılımcı bir süreçle geliştirilebilir. Kuş gözlemcileri, uzmanlar ve akademisyenler GitHub üzerinden metni doğrudan düzenleyebilirler.
 
-## Kitabın Tarihçesi
+# Kitabın Tarihçesi
 
 Türkiye'nin yabani kuş türlerine dair bugüne kadar hazırlanmış en kapsamlı kaynak olan *The Birds of Turkey* 2008 yılında İngilizce olarak yayımlandı \[\@birds-turkey\]. Yazarlarından biri olarak, kitabın yayımlanmasının hemen ardından kitabın Türkçe'inin ömutlaka olması gerektiği fikriyle hareket geçtim. Birds of Turkey kitabının telif hakları alındı ve 2013 yılında, İngilizceye hâkim kuş gözlemcilerinden oluşan bir ekiple metnin ilk çevirisi tamamlandı. Dİğer yandan kitapla ilgilenen yayınevi yayın politkasının değiştirderek bu tip kitapları basmama kararı aldı. Sonuçta kitapla ilgili çalışmalar da yarıda kaldı.
 
@@ -24,7 +24,7 @@ Kitabın içeriğini GitHub platformu üzerinden yayımlayarak, GitHub Pages (gi
 
 Kuşlar hakkındaki bir kitap fotoğrafsız olamazdı! Her türe eBird Macaulay Library’nin görsel–işitsel arşivinden yüksek kaliteli fotoğraflar widget formatında eklendi.
 
-## Teşekkürler
+# Teşekkürler
 
 Bu kitabın oluşumuna çok sayıda kişinin emeği, bilgisi ve desteği yansıdı. Burada adını andığım ve anmadığım herkese çok teşekkür ederim.
 
@@ -42,7 +42,7 @@ Yayının son aşamalarında İş Bankası Yayınları’ndan editör Cumhur Öz
 
 Türkiye’nin dört bir yanından Kuşbank’a gözlem verilerini ulaştıran tüm gözlemciler, bu kitabın bilgi temellerini oluşturdu. 2015’te Kuşbank’ın eBird’e taşınmasının ardından, eBird’e kayıt giren ve görsel yükleyen binlerce kuş gözlemcisi veri akışını sürdürerek bu çalışmanın en önemli bilgi kaynağı haline geldiler.
 
-## Türkiye Ornitoloji Tarihi {.unnumbered}
+# Türkiye Ornitoloji Tarihi {.unnumbered}
 
 Türkiye’de ornitolojinin ilk dönemlerine dair ilk kapsamlı derleme, Kumerloeve tarafından Türkiye Ornitoloji Derneği (OST - Ornithological Society of Turkey) için hazırlanmıştır. Bu yayında son beş yüzyılda yapılan çalışmalara dair bir özet yer alırken, daha sonra Guy Kirwan, Richard F. Porter, Güneşin Aydemir, Bahtiyar Kurt, Guy M. Kirwan ve Gernant Magnin'in katkılarıyla güncellenmiştir. Çeviren ve Uyarlayan: Bahtiyar Kurt ve Kerem Ali Boyla
 
@@ -124,7 +124,7 @@ Türkiye'de doğa fotoğrafçılığı alanında önemli bir gelişme, kuş foto
 
 Ötücü kuşlar ve yağmurcunların halkalanması, Türkiye'de ilk kez WIWO’nun Çukurova [@kivit1994] ve Kızılırmak Deltası [@hustings1994] projeleriyle başlamış olup, 2002 yılında ulusal halkalama programının başlatılmasıyla Ankara, Manyas, Manavgat, Kars, Diyarbakır ve Kızılırmak Deltası gibi alanlarda ilkbahar ve sonbahar dönemlerinde halkalama yapılmaya başlanmıştır. Programdaki en eski ve sürekli çalışan istasyon, Kızılırmak Deltası'ndaki Cernek Halkalama İstasyonu’dur [@baris2005]. Zamanla bazı istasyonlar düzenli çalışmasa da Kızılırmak Deltası, Kars ve Antalya’da halkalama çalışmaları devam etmektedir. Uluslararası projeler kapsamında su kuşlarının kuş gribine katkısını araştırmak amacıyla su kuşları halkalanmış, örneklenmiş ve bazı bireyler uydu vericileriyle takip edilmiştir. Ayrıca 2003-2009 yılları arasında İzmir Tuzla’da yapılan beş flamingo halkalama çalışması, Akdeniz’deki flamingo popülasyonlarına dair önemli veriler sağlamıştır [@balkiz2009].
 
-## Bilgi Kaynakları ve Boşlukları {.unnumbered}
+# Bilgi Kaynakları ve Boşlukları {.unnumbered}
 
 Hazırlayanlar: Geoff Welch, Hilary Welch and Sancar Barış (2005)
 

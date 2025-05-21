@@ -44,15 +44,12 @@ book:
 
 bibliography: references.bib
 csl: nature.csl
-# number-sections: false
+# number-sections: false 
 
 format:
   html:
     grid:
       body-width: 670px
-    #   sidebar-width: 220px
-    #   margin-width: 220px
-    #   gutter-width: 1.5rem
     theme: cosmo
     number-depth: 1
     title-block-style: none
