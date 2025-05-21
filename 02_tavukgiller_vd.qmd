@@ -325,7 +325,7 @@ Akdeniz Bölgesi'nde en yaygın, İç Anadolu'da seyrektir. Genellikle daha kura
 
 **Alttürler ve Sınıflandırma**
 
-Türkiye'de nominat alttürü bulunur. [@roselaar1995] Güneydoğu'da *iranica* alttürü ile bir geçişin görülebilir olduğundan bahseder. [@gibbs2001] daha doğuda *iranica* alttürünün *casiotis* alttürüne geçiş yaptığını, dolayısıyla *iranica*'nın *casiotis*'in bir sinonimi olabileceğini belirtmiştir.
+Türkiye'de nominat alttürü bulunur [@roselaar1995]. Güneydoğu'da *iranica* alttürü ile bir geçişin görülebilir olduğundan bahseder. Doğuda *iranica* alttürünün *casiotis* alttürüne geçiş yaptığından dolayı *iranica* *casiotis* alttürünün bir sinonimi olabilir [@gibbs2001].
 
 ## Üveyik
 
@@ -617,7 +617,7 @@ Monotipik bir türdür. Eskiden yakalı toylar tek bir tür altında *Chlamydoti
 
 İç Anadolu ve Doğu Anadolu’da çok nadir ve lokal olarak bulunur. 1980-2000 yılları arasında soyunun tükenmiş olduğu düşünülmüştür. Ancak uzun bir aradan sonra İç Anadolu’da 1998 yılında iki küçük üreme kolonisi tespit edilmiş [@eken1999] ve 2003 yılında farklı üç alanda kur davranışı sergileyerek uzun süreli kalma gözlenmiştir. Doğu Anadolu’da ise Muş yakınlarında ve Bulanık Ovası’nda daha güçlü bir popülasyonun var olduğu tespit edilmiştir. Buna karşın, Güneydoğu Anadolu’da yapılan kapsamlı arazi çalışmalarında türün varlığına dair herhangi bir veri elde edilememiştir [@welch2004gap].
 
-Türün tarihsel yayılışı ve durumu [@kasparek1989a] tarafından karşılaştırmalı olarak gösterilmiştir. Bu çalışmaya göre, türün esas yayılış alanı Marmara’nın güneyindeki bazı bölgeler, kıyı Ege, İç Anadolu’nun çok lokal alanları, Akdeniz, Doğu ve Güneydoğu Anadolu’dur. Urfa Ceylanpınar’da 1960’lara kadar oldukça yaygındı ve son üç bölgedeki kayıtların çoğu üreme dönemi dışındaydı. [@kasparek1989a] tarafından mezgeldek için yalnızca 40 kadar alan işaret edilmekle birlikte, türün Türkiye’deki durumu ile ilgili literatürün çoğu 1950 öncesine aittir. Toya benzer şekilde, tarımsal uygulamalar, habitat değişimleri ve avcılık nedeniyle popülasyon uzun vadede azalma göstermektedir.
+Türün tarihsel yayılışı ve durumu [@kasparek1989a] tarafından karşılaştırmalı olarak gösterilmiştir. Bu çalışmaya göre, türün esas yayılış alanı Marmara’nın güneyindeki bazı bölgeler, kıyı Ege, İç Anadolu’nun çok lokal alanları, Akdeniz, Doğu ve Güneydoğu Anadolu’dur. Urfa Ceylanpınar’da 1960’lara kadar oldukça yaygındı ve son üç bölgedeki kayıtların çoğu üreme dönemi dışındaydı. Tür için 40 kadar alanın bilinmesinin bir nedeni Türkiye’deki durumu ile ilgili literatürün çoğu 1950 öncesine ait olmasıdır [@kasparek1989a]. Toya benzer şekilde, tarımsal uygulamalar, habitat değişimleri ve avcılık nedeniyle popülasyon uzun vadede azalma göstermektedir.
 
 Geç sonbaharda Karadeniz kıyısı boyunca nadir de olsa az sayıda birey göç geçişi yapar. 26 Ekim 2010’da Rize’de, 9 Kasım 2009’da İstanbul’da, 15 Kasım 2009’da Trabzon’da [@balmer2010around] ve Aralık 2005’te Kızılırmak Deltası’nda kaydedilmiştir. Kış mevsiminde ise az sayıda birey Karadeniz, Marmara, Ege ve Akdeniz kıyılarında görülebilir.
 

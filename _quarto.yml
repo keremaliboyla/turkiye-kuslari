@@ -40,7 +40,7 @@ book:
 
 bibliography: references.bib
 csl: nature.csl
-# number-sections: false
+number-sections: false
 
 format:
   html:
@@ -51,6 +51,7 @@ format:
       gutter-width: 1.5rem
     theme: cosmo
     number-depth: 1
+    title-block-style: none
   # pdf:
   #   pdf-engine: lualatex
   #   documentclass: scrreprt

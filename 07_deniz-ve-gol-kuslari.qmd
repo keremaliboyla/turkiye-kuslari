@@ -526,7 +526,7 @@ Monotipik bir türdür. Geçmişte tüm sümsükler hep beraber Sula cinsi altı
 
 Bir kaydı bulunur. 1 birey Üsküdar Harem Otogarı'nda (İstanbul) 27 Nisan 24 tarihinde *Andre Yarborough* tarafından kaydedildi.
 
-![](images/harita_Oenanthe melanoleuca.png)
+![](images/harita_Oenanthe%20melanoleuca.png)
 
 **Üreme**
 
@@ -583,7 +583,7 @@ Batı ve orta kesimlerdeki birçok küçük koloni son yıllarda küçülmüş y
 
 Sonbahar ve kış döneminde daha yaygın ve boldur. Azami 250 kuşluk küçük gruplar birçok alanda gözlenebilir. Önemli kışlama alanları ve azami sayıları şu şekildedir: Gediz Deltası'nda 1000 birey, Marmara Gölü'nde 300 birey, Meriç Deltası'nda 20.000 birey, Uluabat Gölü'nde 2000 birey ve Kızılırmak Deltası'nda 1000 birey sayılmıştır. İç Anadolu'da da kayda değer sayılarda kışlayabilir. Diğer üreme alanlarındaki sayılar, bu bölgelerdeki kuşlar veya dışarıdan gelen bireylerle artar.
 
-![](images/harita_Microcarbo pygmaeus.png)
+![](images/harita_Microcarbo%20pygmaeus.png)
 
 **Üreme**
 
@@ -953,7 +953,7 @@ Kışlayan bireylerin çoğu güney kıyılarında bulunur. Kış Ortası Su Ku�
 
 **Alttürler ve Sınıflandırma**
 
-Monotipik bir türdür. [@rasmussen2005] batılı nominat ibis ve doğulu coromandus alttürlerini tür seviyesine çıkarmış, bunları "batılı sığır balıkçılı" ve "doğulu sığır balıkçılı" olarak isimlendirmiştir. Dolayısıyla türün Türkçe ismi Batılı Sığır Balıkçılı olmalıdır.
+Monotipik bir türdür. Batılı nominat *ibis* ve doğulu *coromandus* alttürleri tür seviyesine çıkarılmış ve "Batılı Sığır Balıkçılı" ve "Doğulu Sığır Balıkçılı" olarak isimlendirmiştir [@rasmussen2005].
 
 ## Büyük Ak Balıkçıl
 

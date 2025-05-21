@@ -94,7 +94,7 @@ Türkiye'de yuvalamaz. Avrasya ve Alaska'nın tundra kuşağında yuvalar.
 
 **Alttürler ve Sınıflandırma**
 
-Türkiye'de nominat alttürü bulunur. Öte yandan, @have_etal1988 bazılarının daha uzun gagalı doğu ırklarından birine, muhtemelen *menzbieri* alttürüne dâhil olabileceğinden şüphelenmiştir.
+Türkiye'de nominat alttürü bulunur. Gözlenen daha uzun gagalı bazı bireyler doğu ırklarından *menzbieri* alttürüne ait olabilir [@have_etal1988].
 
 ## Çamurçulluğu
 
@@ -279,7 +279,7 @@ Monotipik bir türdür. Geçmişte tek türlü Steganopus cinsi altında sınıf
 
 Son zamanlara ait üç tane alan kaydı ve bir tane de eski örnek kaydı vardır. 1 Haziran 2002'de Kulu Gölü'nde üreme tüy örtüsünde bir dişi gözlenmiş [@demirci2003] S. Holmstedt vd.). Türe aşina olan gözlemciler tarafından kaydedilmiş olmasına rağmen ilk gözlemle ilgili ayrıntılar çok yetersizdir. 3 Mayıs 2003'te Birecik'te çok iyi gözlendiği bir birey 25 Mayıs 2005'te Sodalı Gölü'nde bir birey fotoğraflanmıştır [@balmer2005b]. Ardından 15-30 Eylül 2012'de Çukurova Tuzla Gölü'nde ve 13-17 Nisan 2014'de Kozanlı Saz Gölü'nde kaydedilmiştir.
 
-Hem @ergene1945 hem de @kasparyan1956 Türkiye'de bulunduğundan bahsetmektedir ancak her ikisi de güvenilir olmayan kaynaklardır ve bilgi kaynağını 19. yy sonlarında İstanbul'dan alınan bir dişiden bahseden @matheydupraz1920 dayandırmaktadır. Bu kaydın, @kirwan1997a tarafından yanlışlıkla öne sürdüğü gibi Robson tarafından Boğaziçi'nden alınan dişiye ait olmadığına dikkat edilmelidir çünkü ikincinin daha dikkatli okunmasıyla görüleceği gibi ilk izlenimde @elwes1870 P. lobatus'u kastetmektedir. @brinkmann1990, Nisan-Mayıs 1989'da Büyük Menderes Deltası'nda bir bireyden bahsetmekte ancak kanıtlayıcı hiçbir detay sunmamaktadır.
+Türkiye'de bulunduğu iddia edilmiş güvenilir olmayan kaynakları vardır [@ergene1945; @kasparyan1956]. Tek somut dayanak 19. yy sonlarında İstanbul'dan alınan bir dişi bireydir [@matheydupraz1920]. Bu kaydın yanlışlıkla öne sürdüğü gibi [@kirwan1997a] Robson tarafından Boğaziçi'nden alınan dişiye ait olmadığına dikkat edilmelidir. Tanımlayıcı metinler dikkatli incelendiğinde bu birey Denizdüdükçünü olarak kabul edilmelidir [@elwes1870]. Nisan-Mayıs 1989'da Büyük Menderes Deltası'nda bir birey iddia edilmiştir [@brinkmann1990].
 
 ![](images/harita_Phalaropus%20fulicarius.png)
 
@@ -488,7 +488,7 @@ Tersakan ve Bolluk gölleri, Akşehir Gölü ve Sultansazlığı ve Van Gölü i
 
 **Alttürler ve Sınıflandırma**
 
-Nominat *totanus* ve muhtemelen zayıf biçimde ayrılmış olan *ussuriensis* alttürlerinin bulunduğu düşünülmüştür [@cramp1993; @kivit1994]. Daha sonra, *totanus* alttürünü kuzey Avrupa ile sınırlamayı tercih etmiş ve Türkiye'de üreyenlerin muhtemelen ya *britannica* (*totanus* alttürünün sinonimi) ya da bilinmeyen bir form olduğunu düşünmüştür [@roselaar1995]. Kasım 1945'te Ankara yakınlarında ölçülerine dayanarak Orta Asya'da Pamir'de üreyen *eurhina* ırkından olabileceğini etmiştir [@wadley1951notes]. [@kumerloeve1967a; @kumerloeve1969a] doğuda *eurhina* alttürüne atfettiği örnekler toplamış ancak bu formun teşhis edilmesi ile ilgili zorlukları da itiraf etmiştir. G. M. Kirwan, Temmuz 2003'te Tring Doğa Tarihi Müzesi'nde Wadley örneğini bulamamıştır ancak Türkiye'den iki başka örnek vardır: 5 Şubat 1869'da alınan bir birey (yer ve alan kişi not edilmemiştir) ve 13 Mayıs 1876'da Danford tarafından alınan bir erkek birey daha zayıf biçimde tanımlanan *eurhina* alttürüne uymaktadır.
+Nominat *totanus* ve muhtemelen zayıf biçimde ayrılmış olan *ussuriensis* alttürlerinin bulunduğu düşünülmüştür [@cramp1993; @kivit1994]. Daha sonra, *totanus* alttürünü kuzey Avrupa ile sınırlamayı tercih etmiş ve Türkiye'de üreyenlerin muhtemelen ya *britannica* (*totanus* alttürünün sinonimi) ya da bilinmeyen bir form olduğunu düşünmüştür [@roselaar1995]. Kasım 1945'te Ankara yakınlarında ölçülerine dayanarak Orta Asya'da Pamir'de üreyen *eurhina* ırkından olabileceğini etmiştir [@wadley1951notes]. Doğuda toplanan örnekler *eurhina* alttürüne atfedilse de bu formun teşhisinin zorluğu da itiraf edilmiştir [@kumerloeve1967a; @kumerloeve1969a]. Temmuz 2003'te Tring Doğa Tarihi Müzesi'nde Wadley örneğini bulunamamış olsa da Türkiye'den iki başka örnek zayıf biçimde tanımlanan *eurhina* alttürüne uymaktadır: 5 Şubat 1869'da alınan bir birey ve 13 Mayıs 1876'da Danford tarafından alınan bir erkek birey.
 
 ## Küçük Sarıbacak
 
@@ -752,7 +752,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında yuvalar
 
 **Alttürler ve Sınıflandırma**
 
-Muhtemelen çoğunluğu nominattır ve WIWO'nun Çukurova Deltası'nda 1988 yılında yaptığı halkalama çalışmalarına göre hangi az sayıda *schinzii* alttürü de bulunur. Batı Palearktik'te muhtemelen rastlantısal olduğu düşünülen doğu formu *sakhalina* [@cramp1983] bile Türkiye'de bulunabilir. [@have_etal1988; @kivit1994].
+Muhtemelen çoğunluğu nominattır ve WIWO'nun Çukurova Deltası'nda 1988 yılında yaptığı halkalama çalışmalarına göre hangi az sayıda *schinzii* alttürü de bulunur. Batı Palearktik'te muhtemelen rastlantısal olduğu düşünülen doğu formu *sakhalina* [@cramp1983] bile Türkiye'de bulunabilir [@have_etal1988; @kivit1994].
 
 ## Küçük Kumkuşu
 

@@ -170,7 +170,7 @@ Türkiye’nin diğer bölgelerinde, nadiren üreme durumunu gösteren birkaç k
 
 **Alttürler ve Sınıflandırma**
 
-Türkiye'de iki farklı alttür bulunur. Doğu Akdeniz ve çevresinde daha uzun süredir varlığını sürdüren alttür, Doğu Akdeniz'den Kuzeybatı Hindistan’a kadar yayılış gösteren *seistanicus* alttürüdür. Bazı yazarlar, Hindistan'da bulunan *poliocephalus* alttürünü *seistanicus* ile eş anlamlı olarak değerlendirmiştir. [@aharoni1930], daha önce örnekleri toplanmış olan *seistanicus*'un Amik Gölü'nde ürediğini ileri sürmektedir [@kumerloeve1963a]. Ayrıca, Türkiye'deki kuşların morfolojik özelliklerinin, diğer *seistanicus* popülasyonlarına *caspius* alttüründen daha yakın olduğu düşünülmektedir [@kasparek1989]. 2000’li yılların başında Kızılırmak Deltası'na göç ederek yerleşen popülasyon ise *caspius* alttürüne aittir. İlginç bir şekilde, 15 Temmuz 1893'te İstanbul yakınlarında gözlemlenen bir kuş, Batı Akdeniz’in *porphyrio* taksonuna atfedilmiştir [@matheydupraz1920].
+Türkiye'de iki farklı alttür bulunur. Doğu Akdeniz ve çevresinde daha uzun süredir varlığını sürdüren alttür, Doğu Akdeniz'den Kuzeybatı Hindistan’a kadar yayılış gösteren *seistanicus* alttürüdür. Bazı yazarlar, Hindistan'da bulunan *poliocephalus* alttürünü *seistanicus* ile eş anlamlı olarak değerlendirmiştir. Toplanan örnekler nedeniyle [@aharoni1930], *seistanicus* alttürünün Amik Gölü'nde ürediğini düşünülmüştür [@kumerloeve1963a]. Ayrıca, Türkiye'deki kuşların morfolojik özelliklerinin, diğer *seistanicus* popülasyonlarına *caspius* alttüründen daha yakın olduğu düşünülmektedir [@kasparek1989]. 2000’li yılların başında Kızılırmak Deltası'na göç ederek yerleşen popülasyon ise *caspius* alttürüne aittir. İlginç bir şekilde, 15 Temmuz 1893'te İstanbul yakınlarında gözlemlenen bir kuş, Batı Akdeniz’in *porphyrio* taksonuna atfedilmiştir [@matheydupraz1920].
 
 ## Küçük Sazhorozu
 
@@ -206,7 +206,7 @@ Monotipik bir türdür.
 
 Türkiye’de tek bir kaydı bulunmaktadır; 11 Aralık 2020’de Bodrum’da bir birey, E. Durmuş tarafından ölü olarak bulunmuştur.
 
-![](images/harita_Amaurornis marginalis.png)
+![](images/harita_Amaurornis%20marginalis.png)
 
 **Üreme**
 
