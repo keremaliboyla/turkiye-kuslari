@@ -1,5 +1,5 @@
 ---
-title: "Çalıkuşları, Sıvacılar, Tırmaşıkkuşları"
+title: "Çalıkuşları - Çıtkuşu"
 ---
 
 ## Sürmeli Çalıkuşu
@@ -33,7 +33,7 @@ Türkiye'den şimdiye kadar herhangi bir örnek toplanmamış olmakla birlikte [
 
 *Regulus regulus*, Goldcrest
 
-***Yaygın olarak çok sayıda bulunan yerdir.***
+***Yaygın olarak çok sayıda bulunan yerlidir.***
 
 <iframe src="https://macaulaylibrary.org/asset/500045621/embed" height="452" width="640" frameborder="0" allowfullscreen>
 

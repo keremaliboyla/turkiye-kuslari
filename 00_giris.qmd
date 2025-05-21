@@ -1,14 +1,12 @@
 # Önsöz {.unnumbered}
 
-## Neden Dijital Bir Kitap?
+Bu kitap ilk aşamada dijital formatta yayımlanmıştır. Basılı bir yayın yerine açık erişimli dijital bir formatın tercih edilmesinin birkaç temel nedeni vardır.
 
-Bu yeni kitabın basılı bir yayın yerine açık kaynak dijital formatta yayımlanmasının nedenleri şu şekilde sıralanabilir:
+-   Dijital kitaplar ücretsizdir ve kolaylıkla erişilebilir. Tablet, bilgisayar ya da cep telefonu gibi farklı cihazlarda rahatlıkla okunabilir.
 
--   Dijital kitap, hem ücretsiz hem de kuşlarla ilgilenen herkesin her an her yerde ulaşabileceği bir formattır. Tablet, bilgisayar veya cep telefonundan rahatça okunabilir. Basılı kitaplar sayfa sınırıyla kısıtlanırken, dijital kitaplarda böyle bir sınırlama yoktur.
+-   Ornitoloji gibi sürekli değişen ve gelişen bir alanda, basılı kitaplar daha yayımlandıkları anda güncelliğini yitirebilir. Oysa dijital kitaplarda tür listeleri, yayılış haritaları ve mevcut durum bilgileri hızla güncellenebilir.
 
--   Ornitoloji gibi dinamik bir alanda basılan kitaplar daha yayımlanmadan güncelliğini kaybedebilir. Kuş gözlemcilerinin güncel kayıtları ve fotoğrafları sayesinde tür listesi, yayılış haritaları ve mevcut durum bilgileri hızla güncellenebilir.
-
--   Kuşlar konusunda araştırma yapan akademisyenler, uzmanlar ve amatörler GitHub üzerinden metni doğrudan düzenleyebilir.
+-   Ayrıca dijital yayınlar, daha katılımcı bir süreçle geliştirilebilir. Kuş gözlemcileri, uzmanlar ve akademisyenler GitHub üzerinden metni doğrudan düzenleyebilirler.
 
 ## Kitabın Tarihçesi
 
@@ -18,13 +16,13 @@ Türkiye'nin yabani kuş türlerine dair bugüne kadar hazırlanmış en kapsaml
 
 Uzun bir duraklama döneminin ardından, 2016 yılında yeniden harekete geçtim ve İş Bankası Yayınları ile bir sözleşme imzalayarak editör Cumhur Öztürk ile çalışmalara başladım. Doğa tarihi konusunda deneyimli bir editör olan Cumhur ile metinler bir kez daha gözden geçirildi ve kitabın ilk maketi hazırlandı. Ancak bu süreçte, Türkiye’de yaşanan gelişmeler ve kişisel nedenlerle bu büyük projeye tekrar odaklanmakta güçlük çektim. 2021’e kadar süren duraksama sürecinin ardından, artan kâğıt maliyetleri ve kitabın 500 sayfayı aşan hacmi nedeniyle yayın sürecinden karşılıklı olarak vazgeçildi.
 
-Sonunda teknolojik gelişmeler imdadıma yetişti. Veri bilimiyle ilgili bazı kitaplardan etkilenerek, RStudio tarafından geliştirilen Quarto yayıncılık sistemini öğrendim. Elimdeki metinleri Markdown formatında yeniden düzenledim. Quarto’nun Markdown tabanlı yapısı sayesinde dizgi ve tasarımla ilgili tüm sorunlar ortadan kalktı; kaynakça yönetimi ise çok daha pratik ve düzenli bir hâle geldi.
+Sonunda teknolojik gelişmeler imdadıma yetişti. Veri bilimiyle ilgili bazı kitaplardan etkilenerek, RStudio tarafından geliştirilen Quarto yayıncılık sistemini öğrendim. Elimdeki metinleri Markdown formatında yeniden düzenledim. Quarto sayesinde dizgi ve tasarımla ilgili tüm sorunlar ortadan kalktı; kaynakça yönetimi ise çok pratik ve hızlı bir hâle geldi.
 
-Editör Cumhur ile üzerinde uzlaştığımız düzeltmeler ve metnin yeniden biçimlendirilmesi konusunda yapay zekâyı yönlendirdim; özellikle üreme paragraflarını sistemli bir şekilde yeniden organize ettim. Yine yapay zekâ desteğiyle, tüm metni dilbilgisi ve yazım kuralları açısından uyumlu hale getirip daha akıcı ve anlaşılır bir dile kavuşturdum.
+Editör Cumhur Öztürk ile üzerinde uzlaştığımız düzeltmeler ve metnin yeniden biçimlendirilmesi konusunda yapay zekâyı yönlendirdim; özellikle üreme paragraflarını sistemli bir şekilde yeniden organize ettim. Yine yapay zekâ desteğiyle, tüm metni dilbilgisi ve yazım kuralları açısından uyumlu hale getirip daha akıcı ve anlaşılır bir dile kavuşturdum. Ekim 2024 ile Mayıs 2025 arasında yoğun bir çalışma sürecine girdim. Kitabı fasiküller hâlinde yayımlamaya karar verdim. İlk üç fasikül Ekim 2024’te çevrimiçi olarak yayımlandı. Kitabın tamamını ise Mayıs 2025’e kadar tamamlandı.
 
-Git versiyon kontrol sistemi sayesinde tüm metin düzenleme geçmişi ayrıntılı biçimde kaydedildi. Kitabın içeriğini GitHub platformu üzerinden yayımlayarak, GitHub Pages (github.io) altyapısıyla çevrimiçi olarak herkesin erişimine açtım. Ayrıca, her türe eBird Macaulay Library’nin görsel–işitsel arşivinden alınan widget’larla yüksek kaliteli fotoğraflar eklendi.
+Kitabın içeriğini GitHub platformu üzerinden yayımlayarak, GitHub Pages (github.io) altyapısıyla çevrimiçi olarak herkesin erişimine açtım.
 
-Ekim 2024 ile Mayıs 2025 arasında yoğun bir çalışma sürecine girdim. Kitabı fasiküller hâlinde yayımlamaya karar verdim. İlk üç fasikül Ekim 2024’te çevrimiçi olarak yayımlandı. Kitabın tamamını ise Mayıs 2025’e kadar tamamlandı.
+Kuşlar hakkındaki bir kitap fotoğrafsız olamazdı! Her türe eBird Macaulay Library’nin görsel–işitsel arşivinden yüksek kaliteli fotoğraflar widget formatında eklendi.
 
 ## Teşekkürler
 
@@ -34,7 +32,7 @@ Projenin en başından beri hem destek veren hem de ilham kaynağı olan Guy Kir
 
 Özge Keşaplı Can, Özgür Keşaplı, Ömer Döndüren, artık aramızda olmayan Önder Cirik, Utku Perktaş ve Kuzey Cem Kulaçoğlu ilk çevirileri hazırladılar. Giriş bölümünün çevirilerini Bahtiyar Kurt ve Sancar Barış üstlendi.
 
-Metinlerin bilimsel doğruluğunu artıran tür uzmanları Dilek Şahin (yelkovanlar), Orhan Gül ve Ortaç Onmuş (pelikanlar) ile Özge Balkız (flamingolar), metinleri dikkatle gözden geçirdiler. Emrah Çoraman, Kiraz Erciyas Yavuz ve Ömral Ünsal Özkoç, grafik katkılarıyla kitaba görsel zenginlik kattılar.
+Metinlerin bilimsel doğruluğunu artıran tür uzmanları Dilek Şahin (yelkovanlar), Orhan Gül ve Ortaç Onmuş (pelikanlar) ile Özge Balkız (flamingolar), metinleri dikkatle gözden geçirdiler. Emrah Çoraman, Kiraz Erciyas Yavuz ve Ömral Ünsal Özko kitabın görsel olarak zenginleştirilmesi konusunda önerilerde bulundular.
 
 Ali Atahan, Nizamettin Yavuz, Mustafa Kiraz Erciyas Yavuz ve Metehan Özen, ilk aşamalarda nadir tür kayıtlarını derlediler. Sonraki yıllarda Türkiye Kuş Kayıt Komitesi ve eBird hakem heyeti üyeleri bu süreci sistematik biçimde sürdürdü.
 

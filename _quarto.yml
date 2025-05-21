@@ -7,8 +7,8 @@ book:
   author:
     name: "Kerem Ali Boyla, Editör"
     orcid: "0000-0002-1825-0097"
-  date: "2025-05-19"
-  date-format: "MMMM YYYY"
+  date: "2025-05-21"
+  date-format: "DD/MM/YYYY"
   subtitle: "Türlerin Coğrafi Yayılışı, Üreme Biyolojisi ve Taksonomik Durumu"
   cover-image: kapak3.png
   favicon: kapak3.png
@@ -18,37 +18,41 @@ book:
   chapters:
     - index.qmd
     - 00_giris.qmd
-    - 01_ordekgiller.qmd
-    - 02_tavukgiller_vd.qmd
-    - 03_bataklik-kuslari.qmd
-    - 04_cilibitlar.qmd
-    - 05_cullukgiller.qmd
-    - 06_martilar.qmd
-    - 07_deniz-ve-gol-kuslari.qmd
-    - 08_yirticilar.qmd
-    - 09_baykuslar.qmd
-    - 10_otucu-oncesi.qmd
-    - 11_kargamsilar.qmd
-    - 12_toygarlar.qmd
-    - 13_kamiscinlar.qmd
-    - 14_otlegenler.qmd
-    - 15_tirmasiklar.qmd
-    - 16_sinekkapanlar.qmd
-    - 17_serceler.qmd
-    - 18_ispinozlar.qmd
+    - part: "Ötücü Olmayanlar"
+      chapters: 
+        - 01_ordekgiller.qmd
+        - 02_tavukgiller_vd.qmd
+        - 03_bataklik-kuslari.qmd
+        - 04_cilibitlar.qmd
+        - 05_cullukgiller.qmd
+        - 06_martilar.qmd
+        - 07_deniz-ve-gol-kuslari.qmd
+        - 08_yirticilar.qmd
+        - 09_baykuslar.qmd
+        - 10_otucu-oncesi.qmd
+    - part: "Ötücüler"
+      chapters:
+        - 11_kargamsilar.qmd
+        - 12_toygarlar.qmd
+        - 13_kamiscinlar.qmd
+        - 14_otlegenler.qmd
+        - 15_tirmasiklar.qmd
+        - 16_sinekkapanlar.qmd
+        - 17_serceler.qmd
+        - 18_ispinozlar.qmd
     - references.qmd
 
 bibliography: references.bib
 csl: nature.csl
-number-sections: false
+# number-sections: false
 
 format:
   html:
     grid:
-      body-width: 680px
-      sidebar-width: 220px
-      margin-width: 220px
-      gutter-width: 1.5rem
+      body-width: 670px
+    #   sidebar-width: 220px
+    #   margin-width: 220px
+    #   gutter-width: 1.5rem
     theme: cosmo
     number-depth: 1
     title-block-style: none

@@ -1,15 +1,8 @@
-# Giriş {.unnumbered}
+# Kitap Hakkında {.unnumbered}
 
-**Yazar:** Kerem Ali Boyla (Ed.)\
-**Yayımlanma Tarihi:** 19 Mayıs 2025
+Bu kitap, Türkiye’de gözlenen tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, üreme biyolojisi ve taksonomik konumuna dair kapsamlı bir değerlendirme sunmaktadır. Hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır. Bu çalışma, aynı yazarlar tarafından 2008 yılında yayımlanan *The Birds of Turkey* kitabının kapsamı genişletilmiş ve içeriği güncellenmiş ve Türkçe’ye uyarlanmış halidir.
 
-**Kitap Hakkında**
-
-Bu kitap, Türkiye’de gözlenen tüm yabani kuş türlerinin mevcut durumu, coğrafi yayılışı, üreme biyolojisi ve taksonomik konumuna dair kapsamlı bir değerlendirme sunmaktadır. Hedef kitlesi kuş gözlemcileri, doğa korumacıları ve bilim insanlarıdır.
-
-Bu çalışma, aynı yazarlar tarafından 2008 yılında yayımlanan The Birds of Turkey kitabının kapsamı genişletilmiş ve içeriği güncellenmiş ve Türkçe’ye uyarlanmış halidir.
-
-**Metin Yazarları:** Kerem Ali Boyla, Guy M. Kirwan, Peter Castell, Barbaros Demirci, Metehan Özen, Hilary Welch, Tim Marlow
+**Yazarlar:** Kerem Ali Boyla, Guy M. Kirwan, Peter Castell, Barbaros Demirci, Metehan Özen, Hilary Welch, Tim Marlow
 
 **Katkı Sağlayanlar:** Güneşin Aydemir, Sancar Barış, Bahtiyar Kurt, Gernant Magnin, Richard F. Porter, Geoff Welch
 
