@@ -2,11 +2,11 @@
 
 Bu kitap ilk aşamada dijital formatta yayımlanmıştır. Basılı bir yayın yerine açık erişimli dijital bir formatın tercih edilmesinin birkaç temel nedeni vardır.
 
--   Dijital kitaplar ücretsizdir ve kolaylıkla erişilebilir. Tablet, bilgisayar ya da cep telefonu gibi farklı cihazlarda rahatlıkla okunabilir.
+- Dijital kitaplar ücretsizdir ve kolaylıkla erişilebilir. Tablet, bilgisayar ya da cep telefonu gibi farklı cihazlarda rahatlıkla okunabilir.
 
--   Ornitoloji gibi sürekli değişen ve gelişen bir alanda, basılı kitaplar daha yayımlandıkları anda güncelliğini yitirebilir. Oysa dijital kitaplarda tür listeleri, yayılış haritaları ve mevcut durum bilgileri hızla güncellenebilir.
+- Ornitoloji gibi sürekli değişen ve gelişen bir alanda, basılı kitaplar daha yayımlandıkları anda güncelliğini yitirebilir. Oysa dijital kitaplarda tür listeleri, yayılış haritaları ve mevcut durum bilgileri hızla güncellenebilir.
 
--   Ayrıca dijital yayınlar, daha katılımcı bir süreçle geliştirilebilir. Kuş gözlemcileri, uzmanlar ve akademisyenler GitHub üzerinden metni doğrudan düzenleyebilirler.
+- Ayrıca dijital yayınlar, daha katılımcı bir süreçle geliştirilebilir. Kuş gözlemcileri, uzmanlar ve akademisyenler GitHub üzerinden metni doğrudan düzenleyebilirler.
 
 # Kitabın Tarihçesi
 

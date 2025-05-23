@@ -43,8 +43,10 @@ book:
     - references.qmd
 
 bibliography: references.bib
-csl: nature.csl
-# number-sections: false 
+csl: journal-of-zoology.csl
+# number-sections: false
+# lang: tr
+# language: _language-tr.yml
 
 format:
   html:
@@ -52,7 +54,7 @@ format:
       body-width: 670px
     theme: cosmo
     number-depth: 1
-    title-block-style: none
+    # title-block-style: none
   # pdf:
   #   pdf-engine: lualatex
   #   documentclass: scrreprt
