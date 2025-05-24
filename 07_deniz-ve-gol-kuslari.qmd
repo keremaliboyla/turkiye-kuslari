@@ -774,7 +774,7 @@ Türkiye'de nominat alttürü bulunur.
 
 ## Küçük Balaban
 
-*Ixobrychus minutus*, Little Bittern, \[Vinyet: Sulakalan\]
+*Butaurus minutus*, Little Bittern, \[Vinyet: Sulakalan\]
 
 **Yaygın olarak ve çok sayıda bulunan bir yaz konuğu ve geçit türüdür.**
 
@@ -786,7 +786,7 @@ Bataklık sulakalanlarda ürer, hatta çok küçük alanları bile kullanabilir.
 
 Mart sonu itibariyle az sayıda birey görülmeye başlar. Ana göç dalgası mayısın ilk yarısında gerçekleşir ve mayıs sonuna kadar devam eder, bu sırada 2100 metre irtifaya kadar çıkar. İç bölgelerdeki varış tarihi, kıyısal alanlara göre 10-14 gün gecikir. Dönüşü ağustos ortasında başlar, eylül ortasında zirve yapar ve ekim boyunca devam eder. İstisnai olarak kasım ayında da görülebilir.
 
-![](images/harita_Ixobrychus%20minutus.png)
+![](images/harita_Botaurus%20minutus.png)
 
 **Üreme**
 
@@ -797,7 +797,7 @@ Mart sonu itibariyle az sayıda birey görülmeye başlar. Ana göç dalgası ma
 
 **Alttürler ve Sınıflandırma**
 
-Türkiye'de nominat alttürü bulunur.
+Türkiye'de nominat alttürü bulunur. Eskiden *Ixobrychus* cins ismiyle kullanılırdı.
 
 ## Gece Balıkçılı
 
@@ -926,7 +926,7 @@ Monotipik bir türdür.
 
 ## Sığır Balıkçılı
 
-*Bubulcus ibis*, Western Cattle Egret
+*Ardea ibis*, Western Cattle Egret
 
 **Lokal olarak az sayıda bulunan yerli ve yarı göçmen bir türdür.**
 
@@ -942,7 +942,7 @@ Diğer alanlarda düzensiz ziyaretçi ve az sayıda üreyen yerli ya da yaz gö�
 
 Kışlayan bireylerin çoğu güney kıyılarında bulunur. Kış Ortası Su Kuşu Sayımları (KOSKS) sırasında, Ocak 1996'da toplam 9, Ocak 1999'da ise toplam 13 birey sayılmıştır. Ancak KOSKS’un bu türün gerçek sayılarını yansıtmadığı, çünkü bu türün sulakalanlara bağlı olmadığı söylenebilir. Ortalama kış sıcaklıklarının düşük olması, bu türün yayılması ve yerleşmesine engel olabilir.
 
-![](images/harita_Bubulcus%20ibis.png)
+![](images/harita_Ardea%20ibis.png)
 
 **Üreme**
 
@@ -953,7 +953,7 @@ Kışlayan bireylerin çoğu güney kıyılarında bulunur. Kış Ortası Su Ku�
 
 **Alttürler ve Sınıflandırma**
 
-Monotipik bir türdür. Batılı nominat *ibis* ve doğulu *coromandus* alttürleri tür seviyesine çıkarılmış ve "Batılı Sığır Balıkçılı" ve "Doğulu Sığır Balıkçılı" olarak isimlendirmiştir [@rasmussen2005].
+Monotipik bir türdür. Batılı nominat *ibis* ve doğulu *coromandus* alttürleri tür seviyesine çıkarılmış ve "Batılı Sığır Balıkçılı" ve "Doğulu Sığır Balıkçılı" olarak isimlendirmiştir [@rasmussen2005]. Yakın zamana kadar *Bubulcus* cins ismi kullanılırdı.
 
 ## Büyük Ak Balıkçıl
 

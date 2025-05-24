@@ -1,0 +1,111 @@
+# Kitabın İçeriği {.unnumbered}
+
+**Türler ve Tür Adları**
+
+Kitapta kullanılan İngilizce tür adları, *eBird* veri tabanındaki güncel adlandırmalara dayanmaktadır. Türkçe adların tamamı ise Heinzel, Fitter & Parslow tarafından yazılmış ve Kerem Ali Boyla tarafından Türkçeye çevrilmiş olan *Collins Kuşlar Alan Kılavuzu*ndan alınmıştır. Bu kitap, Türkçede genel olarak doğru ve yerleşik isimlendirme sunan temel kaynak olarak kabul edilmektedir. Ayrıca, Sancar Barış ve Kerem Ali Boyla tarafından yürütülen Türkçe Kuş İsimleri Projesi kapsamında, bu adlar *eBird* sistemine de yüklenmiştir.
+
+Bu kitapta yer alan tür listesi esas olarak Kirwan ve ark. (1999) çalışmasına dayanmaktadır. Listeye daha sonra birkaç yeni tür eklenmiş, 2008 yılında yayımlanan Kirwan listesi 457 türle Türkiye’nin o tarihteki en güncel listesi olmuştur. O günden bu yana geçen süreçte, çok sayıda yeni tür kaydedilmiş ve yaşanan taksonomik revizyonlarla birlikte bazı taksonlar tür seviyesine yükseltilmiştir. 2025 yılı itibarıyla Türkiye kuş türlerinin sayısı 500’ü aşmıştır.
+
+Taksonomik liste seçimi, kolay bir karar değildir. Dünyada yaygın olarak kabul gören üç ana taksonomik liste bulunmaktadır: IOC Listesi, Clements/eBird Listesi ve BirdLife International (HBW) Listesi. Bu kitapta, hem *eBird* ile uyumlu olması hem de Türkiye Kuş Kayıt Komitesi tarafından da tercih edilmesi nedeniyle Clements/eBird Listesi temel alınmıştır. Bu çerçevede, söz konusu listeye yansıyan tüm taksonomik güncellemeler ve revizyonlar bu kitapta da güncel olarak yer almaktadır.
+
+**Mevcut Durum ve Yayılışı**
+
+Bir türün mevcut durumunu değerlendirirken genellikle iki önemli kıstas öne çıkar: küresel ve ulusal kırmızı listeler. Kitapta en güncel küresel kırmızı liste verilmeye çalışılmıştır. Türkiye’nin resmi bir kırmızı kitabı bulunmadığı için, ulusal statüleri değerlendiren Kılıç (2005) çalışması temel alınmıştır.
+
+Her tür metni mümkün olduğunca ilgili türün Türkiye genelindeki durumu hakkında kısa bir özet sunar. Metin, o türe ait yayılış haritası ve bu çalışmada kullanılan coğrafi bölgeleri gösteren genel harita ile birlikte okunmalıdır. Genel coğrafi bölgelerde Erol (1982) temel alınmış, Kasparek (1992) tarafından değiştirilmiş ve kuşların yayılışını etkileyen zoocoğrafi faktörlerle daha yakından örtüşmektedir. Metinlerde geçen yer adlarında, bağlı oldukları il ile birlikte gerekli olmadığı sürece verilmemiştir, navigasyon ve internet haritalarıyla birçok alan rahatlıkla bulunmaktadır.
+
+Çoğu tür için sadece Türkiye kaynaklı olan ve en dikkat çekici ya da önemli bilgilerin kaynakları belirtilmiştir. Bu kaynaklar arasında Kumerloeve (1961), Kasparek (1992a), Roselaar (1995) ve Türkiye Kuş Raporları (OST 1969, 1972, 1975, 1978; Beaman 1986; Martins 1989; Kirwan & Martins 1994, 2000a; Kirwan ve ark. 2003, baskıda) yer almaktadır.
+
+Rastlantısal türler genellikle özet biçimde ele alınmıştır. Burada eBird'e girilen ve TÜrkiye Kuş Kayıt Komitesi ve eBird Hakem heyetinin onayladığı kayıtlar verilmiştir.
+
+**Üreme Biyolojisi**
+
+Bu bölüm, Türkiye’de ürediği bilinen her tür için yuvalama verilerini içermektedir. Türlerin üreme habitatı, yuva yeri ve yuvanın yapısına dair tanımların yanı sıra, bırakılan yumurta ve büyütülen yavru sayısı ile kuluçka sayısı gibi bilgiler sunulmuştur. Bazı türler için üreme yoğunluğu, başarı oranları ve komşu ülkelerle karşılaştırmalar gibi ek veriler de verilmiştir. Ayrıntılı kayıtlar, Türkiye’nin her bölgesi için üreme döneminin belirlenmesine katkı sağlamayı amaçlamaktadır (bkz. Üreme Biyolojisi). Aksi belirtilmedikçe, tüm veriler Türkiye kaynaklıdır. Türkiye’de ürediği bilinen ya da muhtemelen üreyen türler, ayrı bir bölümde yer alan "Üreme Dönemi" başlığı altında detaylı şekilde ele alınmıştır.
+
+**Haritalar**
+
+Haritalar yalnızca bilimsel bilgi sunan araçlar değil, aynı zamanda görsel bir anlatım biçimidir. Bu nedenle, kullanılan renkler özenle seçilmiştir. Türkiye’nin il sınırları, haritanın okunabilirliğini artırmak amacıyla belirli ölçüde sadeleştirilmiştir. Sadece büyük ölçekli haritalarda görülebilen adalar gösterilmiştir.
+
+Kullanılan renkler, *birdsoftheworld.org* platformundaki haritalarla uyumlu olacak şekilde seçilmiştir:
+
+![](images/harita_Fringilla coelebs.png)
+
+-   **Kiremit rengi:** Üreyen ve yaz göçmeni bireyler. Özellikle ilkbahar ve yaz aylarındaki üreme döneminde bulunan türler. Yaz göçmenleri çoğunlukla nisan ile temmuz arasında görülür.
+
+-   **Mor:** Tüm yıl boyunca gözlenen yerli ve üreyen bireyler.
+
+-   **Sarı:** Üreme dışı dönemlerde, geçiş sırasında veya düşük yoğunlukta gözlenen bireyler. Çoğunlukla ilkbaharda mart ve mayıs arasında, sonbaharda ağustos ile kasım arasında görülürler.
+
+-   **Açık mavi:** Özellikle kış ortasında gözlenen kış göçmeni bireyler. Birçok su kuşu için özellikle ocak ve şubat ayındaki yayılışları temsil eder.
+
+-   **Siyah noktalar:** Nadir türlerin kayıtlarını göstermek için kullanılmıştır.
+
+Bu renk kodlaması ve sembol kullanımı sayesinde haritalar, türlerin mevsimsel ve coğrafi dağılımlarını kolay anlaşılır biçimde sunmayı hedeflemektedir. Noktalar, görsel karmaşayı azaltmak amacıyla ızgara sistemine göre konumlandırılmıştır. Bu düzenleme tamamen görsel okunabilirliği artırmak amacıyla yapılmıştır.
+
+Haritalar oluşturulurken çok farklı kaynaklardan ve bilişim sistemlerinde faydalanılmıştır:
+
+-   İlk aşamada, bugüne kadar yayımlanmış yayılış haritaları incelenmiş, Türkiye biyocoğrafyası dikkate alınarak bu haritalar bir arada harmanlanmıştır.
+
+-   Türkiye’de kuş koruma çalışmalarında bir dönüm noktası olan *Önemli Kuş Alanları* yayınları (Kılıç 1989 ve Magnin & Yarar 1997) türlerin alansal yayılışları konusunda temel kaynak olmuştur. Hakan Gönenli tarafından oluşturulan ÖKA veritabanı coğrafi bilgi sistemine aktarılmış ve haritalar entegre edilmiştir.
+
+-   Ayrıca Güneydoğu Anadolu, Akdeniz ormanları ve Konya Havzası gibi çeşitli bölgelerdeki yayımlanmamış bilimsel raporlara ulaşılmış ve bu çalışmalardan elde edilen veri setleri de haritalara entegre edilmiştir.
+
+-   Uydu görüntüleri ve hava fotoğraflarından yararlanılmış; türlerin yayılış alanları belirlenirken özellikle orman gibi belirgin habitatların sınırları dikkate alınmıştır.
+
+-   Dağ türlerinin yayılışları için, sayısal yükseklik modelleri kullanılmış, yüksek potansiyel taşıyan ancak henüz veri bulunmayan ya da hiç ziyaret edilmemiş alanlar bu yöntemle işaretlenmiştir.
+
+-   2007 yılından itibaren artan öneme sahip olan **Kuşbank** ve **eBird** gibi dijital veri tabanları da bu çalışmada yaygın biçimde kullanılmıştır. Bu sistemlerdeki kayıtlar, coğrafi koordinatlarıyla birlikte analiz edilmiş ve mevsimsel dağılımları yansıtan katmanlar oluşturulmuştur.
+
+-   *2018'de yayımlanan Türkiye Üreyen Kuş Atlası* üreyen türlerin yayılışını en doğru şekilde ortaya koymaktadır [@boyla2018]. Haritalara mümkün mertebe entegre edilmiştir
+
+-   Nadir türlerin kayıtları Türkiye Kuş Kayıt Komitesi'nin filtresinden geçmektedir ve düzenli olarak yayımlanmaktadır.
+
+**Alttürler ve taksonomi**
+
+Bu bölümler neredeyse tamamen Guy Kirwan tarafından hazırlanmıştır. İstisnalar, Rodney Martins tarafından önceden taslağı hazırlanmış az sayıdaki taksonomik notlardır. Türkiye kuşlarında alttür sınırlarını ele alırken başlangıç noktamız Roselaar (1995) çalışması olmuştur; daha sınırlı ölçüde de olsa Kumerloeve ve Vaurie’nin tür anlatımlarına giriş niteliğindeki kapsamlı yorumlarından da yararlanılmıştır. Bu çalışmada genel olarak, Türkiye kuşları için alttür sınırlarının yeniden değerlendirilmesi hedeflenmiş ve Barrowclough (1982) ile Haffer (2003) tarafından ortaya konan alttür tanıma kriterleri temel alınmıştır.
+
+Aşağıda, Türkiye’den tanımlanmış (ve bazen Türkiye’ye endemik olduğu düşünülen) ancak bu çalışma kapsamında yalnızca eşanlamlı (sinonim) olarak kabul edilen taksonların listesi yer almaktadır. Bu liste Kumerloeve (1984) tarafından sunulan çalışmaya dayanmakta olup, Roselaar (1995)’ten alınan bazı eklemeleri de içermektedir. Roselaar (1995) tarafından Türkiye’ye endemik olarak değerlendirilen taksonlar yıldız \* ile, geçerli olmayan olarak değerlendirilenler † işaretiyle belirtilmiştir.
+
+-   *Tetraogallus caspius tauricus* Dresser, 1876 (= *T. c. caspius*)
+-   *Tetraogallus caspius challayei* Oustalet, 1877 (= *T. c. caspius*) †
+-   *Francolinus francolinus billypayni* Meinertzhagen, 1933 (= *F. f. francolinus*)
+-   *Anhinga rufa chantrei* (Oustalet, 1882) (= *A. r. rufa*)
+-   *Falco cherrug gurneyi* Menzbier, 1888 (= *F. c. cherrug*?)
+-   *Ceryle rudis syriaca* Roselaar, 1995 (= *C. r. rudis*)
+-   *Dendrocopus major paphlagoniae* Kummerlöwe & Niethammer, 1935 (= *D. m. pinetorum*)
+-   *Dendrocopus medius anatoliae* Hartert, 1912 (= *D. m. medius*)
+-   *Melanocorypha calandra hollomi* Kumerloeve, 1969 (= *M. c. calandra*) †
+-   *Melanocorypha calandra dathei* Kumerloeve, 1970 (= *M. c. gaza*?) †
+-   *Calandrella brachydactyla woltersi* Kumerloeve, 1969 (= *C. b. hermonensis*?)
+-   *Calandrella rufescens niethammeri* Kumerloeve, 1963 (= *C. r. aharonii*)
+-   *Galerida cristata weigoldi* (Kollibay, 1912) (= *G. c. subtaurica*) †
+-   *Galerida cristata ioniae* (Kollibay, 1912) (= *G. c. caucasica*) †
+-   *Galerida cristata ankarae* Kummerlöwe & Niethammer, 1934 (= *G. c. subtaurica*) †
+-   *Eremophila alpestris kumerloevei* Roselaar, 1995 (= *E. a. penicillata*)
+-   *Cinclus cinclus amphitryon* Neumann & Paludan, 1937 (= *C. c. caucasicus*) †
+-   *Prunella modularis euxina* Watson, 1961 (= *P. m. modularis*? – daha fazla araştırma gerekli)
+-   *Erithacus rubecula balcanicus* Watson, 1961 (= *E. r. rubecula*) †
+-   *Saxicola rubetra senguni* Kumerloeve, 1969 (= *S. r. rubetra*) †
+-   *Saxicola torquata gabrielae* Neumann & Paludan, 1937 (= *S. rubicola*) †
+-   *Monticola saxatilis color* Stepanyan, 1964 (= *M. s. saxatilis*)
+-   *Turdus viscivorus bithynicus* Keve, 1943 (= *T. v. viscivorus*) †
+-   *Sylvia communis traudeli* Kumerloeve, 1969 (= *S. c. icterops*) †
+-   *Panurus biarmicus kosswigi* Kumerloeve, 1958 (= *P. b. biarmicus*? – daha fazla araştırma gerekli)
+-   *Aegithalos caudatus tephronotus* (Gunther, 1865) (= *A. c. alpinus*)
+-   *Parus lugubris anatoliae* Hartert, 1905 (= *P. l. lugubris*)
+-   *Sitta europaea levantina* Hartert, 1905 (= *S. e. caesia*)
+-   *Sitta neumayer zarudnyi* Buturlin, 1908 (= *S. n. neumayer*)
+-   *Certhia brachydactyla harterti* Hellmayr, 1901 (= *C. b. brachydactyla*) †
+-   *Certhia brachydactyla stresemanni* Kummerlöwe & Niethammer, 1934 (= *C. b. brachydactyla*)
+-   *Remiz pendulinus persimilis* Hartert, 1918 (= *R. p. pendulinus*) †
+-   *Garrulus glandarius anatoliae* Seebohm, 1883 (= *G. g. krynicki*)
+-   *Garrulus glandarius nigrifrons* Buturlin, 1906 (= *G. g. krynicki*) †
+-   *Garrulus glandarius lendlii* Madarász, 1907 (= *G. g. krynicki*) †
+-   *Garrulus glandarius hansguentheri* Keve, 1967 (= *G. g. krynicki*)
+-   *Passer domesticus colchicus* Portenko, 1962 (= *P. d. domesticus*) †
+-   *Passer domesticus mayaudi* Kumerloeve, 1969 (= *P. d. biblicus*)
+-   *Montifringilla nivalis leucura* Bonaparte, 1855 (= *M. n. alpicola*? – daha fazla araştırma gerekli)
+-   *Montifringilla nivalis fahrettini* Watson, 1961 (= *M. n. alpicola*) †
+-   *Carduelis carduelis niediecki* Reichenow, 1907 (= *C. c. carduelis*)
+-   *Loxia curvirostris vasvarii* Keve, 1943 (= *L. c. guillemardi*) †
+-   *Pyrrhula pyrrhula paphlagoniae* Roselaar, 1995 (= *P. p. pyrrhula*)

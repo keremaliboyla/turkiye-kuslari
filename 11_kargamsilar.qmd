@@ -361,7 +361,7 @@ Roselaar [@roselaar1995], Toroslar, İzmir Bozdağ ve muhtemelen Güneydoğu Ana
 
 ## Küçük Karga
 
-*Corvus monedula*, Western Jackdaw
+*Coloeus monedula*, Western Jackdaw
 
 ***Yaygın olarak çok sayıda bulunan yerlidir.***
 
@@ -373,7 +373,7 @@ Yerleşim alanlarında ve yıkık yapıların çevresinde küçük ve seyrek kol
 
 Kuzeyde, İstanbul Boğazı ve diğer gözlem noktalarında yapılan sayımlarda göç ettiğine dair doğrudan bir veri olmamasına rağmen, sonbahar ve kış aylarında daha yaygın ve yüksek sayılarda görülür. Bu dönemde dikkat çekecek miktarda birey güneye doğru yer değiştirir; büyük sürüler temmuz sonundan itibaren, genellikle ağustos sonundan nisan başına kadar, üremediği kıyı bölgeleri dâhil batı ve orta bölgelerde toplanır. Tür genellikle birkaç bin birey hâlinde geceler. Kasım 1970’te Edirne’de istisnai olarak 40.000 bireyin bir arada görülmesi dikkat çekicidir [@ost1975].
 
-![](images/harita_Corvus%20monedula.png)
+![](images/harita_Coloeus%20monedula.png)
 
 **Üreme**
 
@@ -384,7 +384,7 @@ Kuzeyde, İstanbul Boğazı ve diğer gözlem noktalarında yapılan sayımlarda
 
 **Alttürler ve Sınıflandırma**
 
-Türkiye'nin tamamında *soemmerringii* alttürü bulunur.
+Türkiye'nin tamamında *soemmerringii* alttürü bulunur. Yakın zamana kadar *Corvus* cinsi altında sınıflandırılırdı.
 
 ## Ekin Kargası
 

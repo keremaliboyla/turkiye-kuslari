@@ -4,12 +4,12 @@ project:
   
 book:
   title: "Türkiye Kuşlarının Doğa Tarihi"
+  subtitle: "Türlerin Coğrafi Yayılışı, Üreme Biyolojisi ve Taksonomik Durumu"
   author:
     name: "Kerem Ali Boyla, Editör"
     orcid: "0000-0002-1825-0097"
-  date: "2025-05-21"
+  date: "2025-05-25"
   date-format: "DD/MM/YYYY"
-  subtitle: "Türlerin Coğrafi Yayılışı, Üreme Biyolojisi ve Taksonomik Durumu"
   cover-image: kapak3.png
   favicon: kapak3.png
   repo-url: https://github.com/keremaliboyla/turkiye-kuslari
@@ -17,7 +17,13 @@ book:
   # sharing: [twitter, facebook]
   chapters:
     - index.qmd
-    - 00_giris.qmd
+    - part: "Giriş"
+      chapters: 
+        - 00_giris.qmd
+        - 00_kitabin_icerigi.qmd
+        - 00_ureme.qmd
+        - 00_ornitoloji_tarihi.qmd
+        - 00_bilgi_kaynaklari.qmd
     - part: "Ötücü Olmayanlar"
       chapters: 
         - 01_ordekgiller.qmd
@@ -43,10 +49,11 @@ book:
     - references.qmd
 
 bibliography: references.bib
-csl: journal-of-zoology.csl
+csl: nature.csl
+# csl: journal-of-zoology.csl
 # number-sections: false
-# lang: tr
-# language: _language-tr.yml
+lang: tr
+language: _language-tr.yml
 
 format:
   html:

@@ -764,7 +764,7 @@ Durum belirsizdir. İncelenen üç örnek, nominat *urbicum* ile Akdeniz Havzas�
 
 ## Kızıl Kırlangıç
 
-*Cecropis rufula*, Red-rumped Swallow
+*Cecropis rufula*, European Red-rumped Swallow
 
 ***Yaygın olarak çok sayıda bulunan yaz göçmeni ve geçit türüdür.***
 
@@ -776,7 +776,7 @@ Temelde Ege ve Akdeniz türüdür. Karadeniz’in bazı bölümlerinde ve İç A
 
 Geçiş döneminde Türkiye genelinde biraz daha yaygın olmakla birlikte, Doğu Anadolu’nun batı kesimlerinde çok nadir görülür. İlkbahar göçü mart sonlarında başlar (en erken kayıt 14 Mart) ve mayıs ortasına kadar sürer. Genellikle düşük sayılarda geçiş yapar; ancak 14 Mayıs 1993’te Göksu Deltası’nda kuzeydoğu yönünde uçan yaklaşık 1000 birey kaydedilmiştir. 1978 yılında Zonguldak Ereğli’de ilkbahar geçişi görünüşe göre oldukça erken tamamlanmış ve 11 Nisan’da sona ermiştir [@albrecht1986; @hustings1994]. Sonbaharda bireylerin büyük çoğunluğu eylül sonunda göç eder; ancak ekim başına kadar kalan bireyler de gözlenebilir.
 
-![](images/harita_Cecropis%20daurica.png)
+![](images/harita_Cecropis%20rufula.png)
 
 **Üreme**
 

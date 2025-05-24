@@ -594,7 +594,7 @@ Monotipik bir türdür.
 
 ## Şikra
 
-*Accipiter badius*, Shikra
+*Tachyspiza badia*, Shikra
 
 ***Rastlantısal bir konuktur.***
 
@@ -604,7 +604,7 @@ Monotipik bir türdür.
 
 İlk olarak, 1 Eylül 2006'da Hopa'nın 4 km doğusunda bir atmacacının ağına genç bir kuş takılmış ve türün teşhisi ayrıntılı fotoğraflar üzerinden yapılmıştır [@smith2012]. İkinci kez, 28 Ağustos 2012'de Aras Halkalama İstasyonu'nda bir genç birey yakalanmıştır. Türün Ermenistan'da, Erivan bahçelerinde ürediği ispatlanmıştır [@ananian2010]. Sonra 1 birey, 10 Haziran 2020 tarihinde Trabzon Sancak Mahallesinde *H. Keleş* tarafından kaydedilmiştir. 2 birey ise 9 Nisan 2023 tarihinde Girnavas Nusaybin'de *Ö. F. Durdu* tarafından kaydedilmiştir.
 
-![](images/harita_Accipiter%20badius.png)
+![](images/harita_Tachyspiza%20badia.png)
 
 **Üreme**
 
@@ -612,11 +612,11 @@ Türkiye'de yuvalamaz. En yakında Ermenistan'da, Batı ve Güney Asya'da yuvala
 
 **Alttürler ve Sınıflandırma**
 
-Türkiye'deki Güney Kafkasya'da olduğu bilinen *cenchroides* alttürünün olması beklenir.
+Türkiye'deki Güney Kafkasya'da olduğu bilinen *cenchroides* alttürünün olması beklenir. Eskiden *Accipiter* cinsinin altında *Accipiter badius* ismiyle sınıflandırılırdı.
 
 ## Yaz Atmacası
 
-*Accipiter brevipes*, Levant Sparrowhawk
+*Tachyspiza brevipes*, Levant Sparrowhawk
 
 ***Lokal olarak az sayıda gelen bir yaz konuğu, yaygın olarak ve nispeten çok sayıda bulunan bir geçit türüdür.***
 
@@ -628,7 +628,7 @@ Marmara, Karadeniz Bölgesi ve İç Anadolu'da Aksaray Hasan Dağı'nda yuvalad�
 
 Göç dönemlerinde batı ve orta bölgelerde nispeten yaygındır. İlkbahar göçü nisan başından mayıs ortasına kadar devam ederken, sonbahar göçü ağustos sonundan ekim başına kadar sürer. En yüksek sayılar sonbaharda eylül ayının ikinci yarısında kaydedilmektedir. İstanbul Boğazı'nda 1971 yılında toplamda 5707 birey, yalnızca 15 Eylül'de 2243 birey sayılmıştır. 1978 yılında toplamda 6516 birey kaydedilmiş, en yüksek günlük sayı ise 18 Eylül'de gerçekleşmiştir. Belen Geçidi'nde 1976 sonbaharında 2951 birey gözlenmiş [@sutherland1981a], 16-18 Eylül 1991 tarihlerinde ise 1914 birey kaydedilmiştir. İstanbul Boğazı'nda sonbaharda 7750 bireyden bir günde 6625 birey gözlenmiştir [@kasparek1992a]. Detaylı verilerin bulunduğu 1976 yılında Borçka'da toplamda 290 birey kaydedilmiştir [@andrews1977]. 29 Nisan - 25 Mayıs 1993 tarihleri arasında Rize Fırtına Deresi ağzında toplamda 1945 birey gözlenmiş ve sadece 30 Nisan'da 1286 birey kaydedilmiştir [@faldborg1994]. 1994 ilkbaharında Artvin Hopa'da toplamda 1092 birey gözlenmiş ve 2 Mayıs'ta 797 birey kaydedilmiştir. 1995 ilkbaharında aynı bölgede iki hafta içinde 1163 birey kaydedilmiştir [@peske1995]. Bu durum, bölgeden göç eden birey sayısının önceki tahminlerden çok daha fazla olduğunu göstermektedir.
 
-![](images/harita_Accipiter%20brevipes.png)
+![](images/harita_Tachyspiza%20brevipes.png)
 
 **Üreme**
 
@@ -639,7 +639,7 @@ Göç dönemlerinde batı ve orta bölgelerde nispeten yaygındır. İlkbahar g�
 
 **Alttürler ve Sınıflandırma**
 
-Monotipik bir türdür.
+Monotipik bir türdür. Eskiden *Accipiter* cinsinin altında *Accipiter brevipes*ismiyle sınıflandırılırdı.
 
 ## Atmaca
 
