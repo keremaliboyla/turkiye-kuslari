@@ -61,7 +61,6 @@ format:
       body-width: 670px
     theme: cosmo
     number-depth: 1
-    # title-block-style: none
   # pdf:
   #   pdf-engine: lualatex
   #   documentclass: scrreprt
