@@ -63,14 +63,15 @@ format:
     number-depth: 1
   # pdf:
   #   pdf-engine: lualatex
+  #   include-in-header: header.tex
   #   documentclass: scrreprt
   #   classoption: twocolumn
   #   papersize: a4
   #   toc-title: "İçindekiler"
   #   number-depth: 0
-  #   mainfont: "TeX Gyre Pagella"
-  #   sansfont: "Arial"
-  #   include-in-header: header.tex
+  #   mainfont: "Times New Roman"
+  #   sansfont: "Trebuchet MS"
+  #   fontsize: 9.5pt
   #   geometry:
   #     - inner=2cm
   #     - outer=2cm

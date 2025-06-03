@@ -690,7 +690,7 @@ Tüm ülkede göç döneminde ve kış aylarında üremeye kıyasla daha yaygın
 
 Doğancılar için yumurta ve yavruların toplanmasından dolayı, popülasyonu çok düşük seviyededir. Bıyıklı ve Ulu Doğan, doğancıların özel ilgisini çeker ve üreyen erişkinler, yavruları ile yumurtaları kaçakçılar tarafından hedef alınır. Muhbir köylüler, profesyonel yakalayıcılar ve kaçakçılar, yerleşen bireyler üzerinde ciddi bir baskı oluşturur. Bu baskı sonucunda, yerleşen ve üreyen çiftler birkaç yıl içinde tespit edilmekte ve yasadışı yollarla yakalanarak yurt dışına kaçırılmaktadır. Bu nedenle, yeni yerleşen bireyler çoğunlukla kısa sürede ortadan kaybolmaktadır.
 
-![](images/harita_Ficedula albicollis.png)
+![](images/harita_Ficedula%20albicollis.png)
 
 **Üreme**
 
@@ -718,7 +718,7 @@ Göç döneminde, özellikle sonbahar ve kış aylarında tüm ülkede biraz dah
 
 Bıyıklı ve ulu doğan, doğancıların özel ilgisini çeken türlerdendir. Bu nedenle, üreyen erişkinler, yavrular ve yumurtalar kaçakçılar tarafından hedef alınır. Muhbir köylüler, profesyonel yakalayıcılar ve kaçakçılar yerleşen bireyler üzerinde ciddi bir baskı oluşturur. Bu baskı sonucunda, yerleşen ve üreyen çiftler birkaç yıl içinde tespit edilmekte, yasadışı yollarla yakalanarak yurtdışına kaçırılmaktadır. Dolayısıyla, yeni yerleşen bireyler genellikle kısa sürede kaybolmaktadır.
 
-![](images/harita_Ficedula albicollis.png)
+![](images/harita_Ficedula%20albicollis.png)
 
 **Üreme**
 
