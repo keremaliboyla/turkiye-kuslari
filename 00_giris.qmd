@@ -6,45 +6,27 @@ Dijital kitaplar ücretsizdir ve kolaylıkla erişilebilir. Tablet, bilgisayar y
 
 # Kitabın Tarihçesi
 
-Türkiye'nin yabani kuş türlerine dair bugüne kadar hazırlanmış en kapsamlı kaynak olan *The Birds of Turkey* 2008 yılında İngilizce olarak yayımlandı \[\@birds-turkey\]. Yazarlarından biri olarak, kitabın yayımlanmasının hemen ardından kitabın Türkçe'inin ömutlaka olması gerektiği fikriyle hareket geçtim. Birds of Turkey kitabının telif hakları alındı ve 2013 yılında, İngilizceye hâkim kuş gözlemcilerinden oluşan bir ekiple metnin ilk çevirisi tamamlandı. Dİğer yandan kitapla ilgilenen yayınevi yayın politkasının değiştirderek bu tip kitapları basmama kararı aldı. Sonuçta kitapla ilgili çalışmalar da yarıda kaldı.
+Türkiye'nin yabani kuş türlerine dair bugüne kadar hazırlanmış en kapsamlı kaynak olan *The Birds of Turkey* 2008 yılında İngilizce olarak yayımlandı \[\@birds-turkey\]. Yazarlarından biri olarak, kitabın yayımlanmasının hemen ardından kitabın Türkçesinin mutlaka olması gerektiği fikriyle harekete geçtim. Birds of Turkey kitabının telif hakları alındı ve 2013 yılında, İngilizceye hâkim kuş gözlemcilerinden oluşan bir ekiple metnin ilk çevirisi tamamlandı. Diğer yandan, kitapla ilgilenen yayınevi yayın politikasını değiştirerek bu tür kitapları basmama kararı aldı. Sonuçta kitapla ilgili çalışmalar da yarıda kaldı.
 
-Çevirisi tamamlanan metinler incelendiğinde, kitabın yalnızca dil yönünden değil, içerik açısından da kapsamlı bir revizyona ihtiyaç duyduğu ortaya çıktı. Bu nedenle, yazarların da rızasıyla proje bir çeviri çalışmasından özgün bir kitap projesine dönüştü. Başlangıçta hedeflenen çevirinin ötesine geçilerek, metinler yeniden ele alındı; mevcut durum paragrafları güncellendi, bazı taksonomik tartışmalar metinden çıkarıldı ve üreme biyolojisi bölümleri sadeleştirildi. 2008’de yayımlanan orijinal kitaptan bu yana geçen sürede Türkiye kuş faunasında yaşanan değişiklikler ve yeni gözlemler, metinlere ve haritalara dahil edildi. Türkiye kapsamı dışındaki bilimsel içerikler çıkarıldı; haritalar renklendirildi ve okuyucu dostu unsurlarla zenginleştirildi. Böylece, başlangıçta bir çeviri olarak tasarlanan çalışma, özgün içeriğe sahip yeni bir kitaba dönüştü.
+Çevirisi tamamlanan metinler incelendiğinde, kitabın yalnızca dil yönünden değil, içerik açısından da kapsamlı bir revizyona ihtiyaç duyduğu ortaya çıktı. Bu nedenle, yazarların da rızasıyla proje bir çeviri çalışmasından özgün bir kitap projesine dönüştü. Başlangıçta hedeflenen çevirinin ötesine geçilerek metinler yeniden yazıldı; mevcut durum paragrafları güncellendi, bazı taksonomik tartışmalar çıkarıldı ve üreme biyolojisi bölümleri sadeleştirildi. 2008’de yayımlanan orijinal kitaptan bu yana geçen sürede Türkiye kuş faunasında yaşanan değişiklikler ve yeni gözlemler, metinlere ve haritalara dahil edildi. Türkiye kapsamı dışındaki bilimsel içerikler çıkarıldı; haritalar renklendirildi ve okuyucu dostu unsurlarla zenginleştirildi. Böylece, başlangıçta bir çeviri olarak tasarlanan çalışma, özgün içeriğe sahip yeni bir kitaba dönüştü.
 
-Uzun bir duraklama döneminin ardından, 2016 yılında yeniden harekete geçtim ve İş Bankası Yayınları ile bir sözleşme imzalayarak editör Cumhur Öztürk ile çalışmalara başladım. Doğa tarihi konusunda deneyimli bir editör olan Cumhur ile metinler bir kez daha gözden geçirildi ve kitabın ilk maketi hazırlandı. Ancak bu süreçte, Türkiye’de yaşanan gelişmeler ve kişisel nedenlerle bu büyük projeye tekrar odaklanmakta güçlük çektim. 2021’e kadar süren duraksama sürecinin ardından, artan kâğıt maliyetleri ve kitabın 500 sayfayı aşan hacmi nedeniyle yayın sürecinden karşılıklı olarak vazgeçildi.
+Uzun bir duraklama döneminin ardından, 2016 yılında yeniden harekete geçtim ve İş Bankası Yayınları ile bir sözleşme imzalayarak editör Cumhur Öztürk ile çalışmalara başladım. Doğa tarihi konusunda deneyimli bir editör olan Cumhur ile metinler bir kez daha gözden geçirildi ve kitabın ilk maketi hazırlandı. Ancak bu süreçte, Türkiye’de yaşanan gelişmeler ve kişisel nedenlerle bu büyük projeye tekrar odaklanmakta güçlük çektim. 2021’e kadar süren bu duraklamanın ardından, artan kâğıt maliyetleri ve kitabın 500 sayfayı aşan hacmi nedeniyle yayımlama sürecinden karşılıklı olarak vazgeçildi.
 
 Sonunda teknolojik gelişmeler imdadıma yetişti. Veri bilimiyle ilgili bazı kitaplardan etkilenerek, RStudio tarafından geliştirilen Quarto yayıncılık sistemini öğrendim. Elimdeki metinleri Markdown formatında yeniden düzenledim. Quarto sayesinde dizgi ve tasarımla ilgili tüm sorunlar ortadan kalktı; kaynakça yönetimi ise çok pratik ve hızlı bir hâle geldi.
 
-Editör Cumhur Öztürk ile üzerinde uzlaştığımız düzeltmeler ve metnin yeniden biçimlendirilmesi konusunda yapay zekâyı yönlendirdim; özellikle üreme paragraflarını sistemli bir şekilde yeniden organize ettim. Yine yapay zekâ desteğiyle, tüm metni dilbilgisi ve yazım kuralları açısından uyumlu hale getirip daha akıcı ve anlaşılır bir dile kavuşturdum. Ekim 2024 ile Mayıs 2025 arasında yoğun bir çalışma sürecine girdim. Kitabı fasiküller hâlinde yayımlamaya karar verdim. İlk üç fasikül Ekim 2024’te çevrimiçi olarak yayımlandı. Kitabın tamamını ise Mayıs 2025’e kadar tamamlandı.
+Editör Cumhur Öztürk ile üzerinde uzlaştığımız düzeltmeler ve metnin yeniden biçimlendirilmesi konusunda yapay zekâyı yönlendirdim; özellikle üreme paragraflarını sistemli bir şekilde yeniden organize ettim. Yine yapay zekâ desteğiyle, tüm metni dilbilgisi ve yazım kuralları açısından uyumlu hale getirip daha akıcı ve anlaşılır bir dile kavuşturdum. Ekim 2024 ile Mayıs 2025 arasında yoğun bir çalışma sürecine girdim. Kitabı fasiküller hâlinde yayımlamaya karar verdim. İlk üç fasikül Ekim 2024’te çevrimiçi olarak yayımlandı. Kitabın tamamı ise Mayıs 2025’e kadar tamamlandı.
 
 Kitabın içeriğini GitHub platformu üzerinden yayımlayarak, GitHub Pages (github.io) altyapısıyla çevrimiçi olarak herkesin erişimine açtım.
 
 Kuşlar hakkındaki bir kitap fotoğrafsız olamazdı! Her türe eBird Macaulay Library’nin görsel–işitsel arşivinden yüksek kaliteli fotoğraflar widget formatında eklendi.
 
-# Teşekkürler
+## Kitabın Hazırlanması
 
-Bu kitabın oluşumuna çok sayıda kişinin emeği, bilgisi ve desteği yansıdı. Burada adını andığım ve anmadığım herkese çok teşekkür ederim.
-
-Projenin en başından beri hem destek veren hem de ilham kaynağı olan Guy Kirwan, çalışmanın şekillenmesinde önemli bir rol oynadı. "The Birds of Turkey" kitabının yazarları Guy Kirwan, Peter Castell, Barbaros Demirci, Metehan Özen, Hilary Welch ve Tim Marlow, bu yeni çalışmada da katkılarını sürdürdüler.
-
-Özge Keşaplı Can, Özgür Keşaplı, Ömer Döndüren, artık aramızda olmayan Önder Cirik, Utku Perktaş ve Kuzey Cem Kulaçoğlu ilk çevirileri hazırladılar. Giriş bölümünün çevirilerini Bahtiyar Kurt ve Sancar Barış üstlendi.
-
-Metinlerin bilimsel doğruluğunu artıran tür uzmanları Dilek Şahin (yelkovanlar), Orhan Gül ve Ortaç Onmuş (pelikanlar) ile Özge Balkız (flamingolar), metinleri dikkatle gözden geçirdiler. Emrah Çoraman, Kiraz Erciyas Yavuz ve Ömral Ünsal Özkoç kitabın görsel olarak zenginleştirilmesi konusunda önerilerde bulundular.
-
-Ali Atahan, Nizamettin Yavuz, Mustafa Kiraz Erciyas Yavuz ve Metehan Özen, ilk aşamalarda nadir tür kayıtlarını derlediler. Sonraki yıllarda Türkiye Kuş Kayıt Komitesi ve eBird hakem heyeti üyeleri bu süreci sistematik biçimde sürdürdü.
-
-Yayın sürecinde Cavit Bilen en başından itibaren her aşamada destek sağladı. Hülya Tokmak ve Ahmet Boratav kitabın ilk maketini oluşturmada yardımcı oldular. NTV Yayınları’nın kurucu editörü Mustafa Dağıstanlı, çalışmayı sahiplenerek başlarda önemli bir motivasyon kaynağı oldu. Grafik tasarımcı Budak Akalın özellikle haritaların hazırlanmasında teknik destek verdi. Kemal Nuraydın, Oya Ayman ve Nesibe Bat içerik akışını planlamada yardımcı oldular.
-
-Yayının son aşamalarında İş Bankası Yayınları’ndan editör Cumhur Öztürk metinlerin son haline ulaşmasında belirleyici katkı sağladı.
-
-Türkiye’nin dört bir yanından Kuşbank’a gözlem verilerini ulaştıran tüm gözlemciler, bu kitabın bilgi temellerini oluşturdu. 2015’te Kuşbank’ın eBird’e taşınmasının ardından, eBird’e kayıt giren ve görsel yükleyen binlerce kuş gözlemcisi veri akışını sürdürerek bu çalışmanın en önemli bilgi kaynağı haline geldiler.
-
-# Kitabın Hazırlanması
-
-Bu yazarların çalışmaları, müze örnekleri, kendi arazi gözlemlerimiz ve diğer otoritelerin değerlendirmeleriyle karşılaştırılarak yeniden gözden geçirilmiştir. GMK, proje süresince aşağıdaki kurumlarda bulunan Türkiye, İran ve çevre bölgelerden gelen materyaller üzerinde çalışmıştır: Natural History Museum (Tring, Birleşik Krallık), Manchester Museum (Manchester, Birleşik Krallık), University Museum of Zoology (Cambridge, Birleşik Krallık), Muséum national d’Histoire Naturelle (Paris, Fransa), Field Museum of Natural History (Chicago, ABD), Robert Koleji (İstanbul, Türkiye), Zoological Institute, Russian Academy of Sciences (St. Petersburg), National Museum of Natural History, Smithsonian Institution (Washington DC, ABD) ve National Museum of Natural History (Sofya, Bulgaristan). Ayrıca, aşağıdaki kurumlar koleksiyonlarında bulunan belirli materyallerle ilgili olarak özellikle değerli katkılar sağlamıştır: Liverpool Museum, National Museums & Galleries on Merseyside (Liverpool, Birleşik Krallık); Alexander Koenig Zooloji Araştırma Enstitüsü ve Müzesi (Bonn, Almanya); ve American Museum of Natural History (New York, ABD). Ne yazık ki, proje süresi içinde bu son kurum ziyaret edilememiştir.
+Bu yazarların çalışmaları, müze örnekleri, kendi arazi gözlemlerimiz ve diğer otoritelerin değerlendirmeleriyle karşılaştırılarak yeniden gözden geçirilmiştir.
 
 **Metinlerin Yazılması**
 
-Bu kitaptaki metinler ilk aşamada İngilizce ve aşağıdaki yazarlar tarafından hazırlanmıştır. Bu metinlerin büyük çoğunluğu Guy Kirwan tarafından yazılmıştır. Diğer metinleri hazırlayan yazarlar şu şekildedir:
+Bu kitaptaki metinler ilk aşamada İngilizce olarak, aşağıdaki yazarlar tarafından hazırlanmıştır. Bu metinlerin büyük çoğunluğu Guy Kirwan tarafından yazılmıştır. Diğer metinleri hazırlayan yazarlar şu şekildedir:
 
 **Barbaros Demirci:** *Poyrazkuşu, Uzunbacak, Kılıçgaga, Kocagöz, Halkalı Küçük Cılıbıt, Halkalı Cılıbıt, Akça Cılıbıt, Büyük Cılıbıt, Altın Yağmurcun, Yağmurcun, Mahmuzlu Kızkuşu, Kızkuşu, Ak Kumkuşu, Küçük Kumkuşu, Sarı Bacaklı Kumkuşu, Kızıl Kumkuşu, Kara Karınlı Kumkuşu, Dövüşkenkuş, Küçük Suçulluğu, Suçulluğu, Çulluk, Çamurçulluğu, Kervançulluğu, Kara Kızılbacak, Kızılbacak, Bataklık Düdükçünü, Yeşilbacak, Yeşil Düdükçün, Orman Düdükçünü, Çizgili İshakkuşu, İshakkuşu, Puhu, Kumkuşu, Alaca Baykuş, Kulaklı Orman Baykuşu, Kır Baykuşu.*
 
@@ -52,14 +34,10 @@ Bu kitaptaki metinler ilk aşamada İngilizce ve aşağıdaki yazarlar tarafınd
 
 **Tim Marlow:** *Benekli Suyelvesi, Bataklık Suyelvesi, Küçük Suyelvesi, Bıldırcınkılavuzu, Sutavuğu, Sakarmeke, Turna, Büyük Karabaş Martı, Akdeniz Martısı, Küçük Martı, Karabaş Martı, İnce Gagalı Martı, Küçük Gümüş Martı, Kara Sırtlı Martı, Gülen Sumru, Hazar Sumrusu, Kara Gagalı Sumru, Sumru, Küçük Sumru, Bıyıklı Sumru, Kara Sumru, Bağırtlak, Kılkuyruk Bağırtlak, Derekuşu, Sürmeli Dağbülbülü, Taş Bülbülü, Boz Kuyrukkakan, Ak Sırtlı Kuyrukkakan, Küçük Sinekkapan, Alaca Sinekkapan, Halkalı Sinekkapan, Kara Sinekkapan, Bıyıklı Baştankara, Uzun Kuyruklu Baştankara, Anadolu Sıvacısı, Sıvacı, Kaya Sıvacısı, Büyük Kaya Sıvacısı, Duvar Tırmaşıkkuşu.*
 
-Güven Eken de *Keklik, Çil Keklik, Bıldırcın ve Saz Delicesi* metinlerini hazırlayarak katkı vermiştir.
+Güven Eken *Keklik, Çil Keklik, Bıldırcın ve Saz Delicesi* metinlerini hazırlayarak katkı vermiştir.
 
 **Türkçeye Çevrilmesi ve Uyarlanması**
 
-Tüm metinler daha sonra editör **Kerem Ali Boyla** tarafından tekrar gözden geçirilmiştir.
-
 Metinlerdeki bilgi akışı yeniden düzenlenmiş, bilgi sıralaması sıradan bir gözlemcinin anlayışına göre şekillendirilmiştir. Çok uzman kullanıcıların ilgisini çekebilecek özel bilgiler – örneğin çok yaygın bir türün Doğu Karadeniz’de bulunmadığı gibi ayrıntılar – genel giriş paragrafından sonra, metnin ilerleyen bölümlerine yerleştirilmiştir. Benzer şekilde, tartışmalı ya da karmaşık konular sadeleştirilmiş, ana fikir ön plana çıkarılmıştır. Bu sayede genel okuyucunun metindeki temel mesajı kolayca kavraması hedeflenmiştir.
 
-Metinler son bilgilerle güncellenmiştir. Son yayın 2008 yılında çıktığına göre metinlerin çoğu 2000'li yıllarda tamamlanmıştır. Arada geçen 25 yılda kuşlar hakkında bildiklerimiz son derece artmıştır.
-
-Nadir türlerin kayıtları gelmeye ve sağlıklı şekilde teyit edilmeye devam etmektedir. Yaygın türlerin bilinmeyen alanlardan kayıtları ve hatta üreme kayıtları gelmiştir.
+Metinler en güncel bilgilerle güncellenmiştir. Son yayın 2008 yılında yapıldığı için, metinlerin çoğu 2000’li yıllarda tamamlanmıştır. Arada geçen 25 yılda kuşlar hakkında bildiklerimiz son derece artmıştır. Nadir türlerin kayıtları gelmeye ve sağlıklı şekilde teyit edilmeye devam etmektedir. Yaygın türler için de daha önce bilinmeyen alanlardan gözlem ve üreme kayıtları elde edilmiştir.

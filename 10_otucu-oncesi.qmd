@@ -290,7 +290,7 @@ Yaprak döken, nadiren karışık ormanlarda ve zeytinliklerde yaşar. İbreli o
 **Üreme**
 
 **Yuvalama alanı:** Yaprak döken, özellikle meşe ormanlarında, hem kuru hem de nemli alanlarda yuvalar. Ayrıca Dalyan’da sığla ormanı, zeytinlikler ve çam ormanlarının bulunduğu alçak dağ yamaçlarında da ürer. Akseki’de açık yaşlı çam ormanının kıyısındaki küçük meşeleri tercih ettiği gözlenmiştir.\
-**Yuvası:** Yuvasını ağaçlarda açtığı deliğin dibine yapar ve yuva zemini kaplanmamıştır.\
+**Yuvası:** Yuvasını ağaçlarda açtığı deliğin dibine yapar ve yuva zemini kaplanmamıştır. Belgrad Ormanı'nda diğer ağaçkakan türlerine kıyasla yuvalarını daha alçakta yapma eğilimindedir [@akpinar2023].\
 **Yumurta sayısı:** Türkiye'de yumurta sayısı bilinmemektedir. Diğer ülkelerde olağan kuluçka büyüklüğü 4-8 yumurtadır.\
 **Üreme dönemi:** Yavrular mayıs sonu ile haziran ortasında gözlenmiştir. **EGE:** 21 Mayıs 1980’de Bafa Gölü’nde yavrulu bir yuva gözlenmiştir [@kasparek1988a]. **AKD:** Nisan ve mayıs 1989’da Ağla ve Dalyan’da ikişer çiftin ürediği, 5 Haziran’da Akseki’de yavrulu bir yuvanın bulunduğu kaydedilmiştir. Mayıs 1990 sonlarında Akseki’de gözlenen bir çift ve en az iki tüylenmiş yavru, yumurtlamanın 21 Nisan’da başladığını göstermektedir. Ayrıca 8 Mayıs 1995’te Midilli’de zeytin ağaçlarındaki iki yuvada yavrular görülmüştür. **KAR:** 27 Mayıs ve 10 Haziran 1992’de Kızılırmak Deltası’nda yavrulu iki yuva bulunmuştur [@hustings1994].
 
@@ -448,7 +448,7 @@ Sonbaharda Van Gölü Havzası’ndan iki kayıt vardır [@ven1980birds1; L. J. 
 **Üreme**
 
 **Yuvalama alanı:** Yaprak döken ve ibreli ormanlarda ürer.\
-**Yuvası:** Ağaçlara açtığı kovuklarda yuvalar.\
+**Yuvası:** Ağaçlara açtığı kovuklarda yuvalar. Belgrad Ormanı'nda diğer ağaçkakan türlerine kıyasla yuvalarını daha alçakta yapma eğilimindedir [@akpinar2023].\
 **Yumurta sayısı:** Türkiye'den veri yoktur. Türkiye dışındaki gözlemlere göre olağan yumurta sayısı 5-7’dir.\
 **Üreme dönemi:** İlk yumurtalar nisan ayında bırakılır, yavrular haziran sonu ve temmuzda yuvadan çıkar. **MAR:** 1993 yılında Kocaçay Deltası’nda yapılan çalışmada 31 hektarlık alanda hektar başına 0-29 çiftin ürediği tahmin edilmiştir. 19 Mayıs 1967’de bir yuvada, yavruların yuvanın girişinde beslendiği gözlenmiştir. Bu gözlem, yavruların büyük olduğunu ve ilk yumurtanın 10 Nisan civarında bırakıldığını göstermektedir [@ertan1996]. **EGE:** Temmuz 1966’da genç bireyler erişkinlerle birlikte gözlenmiştir. 1 Haziran 1995’te Marmaris yakınlarında genç bir birey gözlenmiş olup bu kayıt yumurtlamanın nisan ortasında gerçekleştiğini göstermektedir. **AKD:** 15 Temmuz 2004’te Akseki’de genç bireyler kaydedilmiştir. **KAR:** Kızılırmak Deltası’nda temmuz 1971’de iki yavrulu bir çift ve tek yavrulu iki çift gözlenmiştir [@dijksen1985]. **İÇA:** 9 Temmuz 1968’de Porsuk’ta bir aile grubu gözlenmiş, örnek olarak bir genç alınmıştır [@rokitansky1971].
 

@@ -8,7 +8,7 @@ book:
   author:
     name: "Kerem Ali Boyla, Editör"
     orcid: "0000-0002-1825-0097"
-  date: "2025-05-25"
+  date: "2025-06-03"
   date-format: "DD/MM/YYYY"
   cover-image: kapak3.png
   favicon: kapak3.png
@@ -20,10 +20,10 @@ book:
     - part: "Giriş"
       chapters: 
         - 00_giris.qmd
-        - 00_kitabin_icerigi.qmd
-        - 00_ureme.qmd
+        - 00_tesekkurler.qmd
         - 00_ornitoloji_tarihi.qmd
         - 00_bilgi_kaynaklari.qmd
+        - 00_kitabin_icerigi.qmd
     - part: "Ötücü Olmayanlar"
       chapters: 
         - 01_ordekgiller.qmd
