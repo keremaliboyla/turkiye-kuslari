@@ -1,4 +1,4 @@
-# Teşekkürler
+# Teşekkürler {.unnumbered}
 
 Bu kitabın oluşumuna çok sayıda kişinin emeği, bilgisi ve desteği yansıdı. Adını andığım ya da anmadığım herkese gönülden teşekkür ederim.
 
