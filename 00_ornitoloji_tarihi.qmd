@@ -81,5 +81,3 @@ Türkiye'de doğa fotoğrafçılığı alanında önemli bir gelişme, kuş foto
 **Halkalama**
 
 Ötücü kuşlar ve yağmurcunların halkalanması, Türkiye'de ilk kez WIWO’nun Çukurova [@kivit1994] ve Kızılırmak Deltası [@hustings1994] projeleriyle başlamış olup, 2002 yılında ulusal halkalama programının başlatılmasıyla Ankara, Manyas, Manavgat, Kars, Diyarbakır ve Kızılırmak Deltası gibi alanlarda ilkbahar ve sonbahar dönemlerinde halkalama yapılmaya başlanmıştır. Programdaki en eski ve sürekli çalışan istasyon, Kızılırmak Deltası'ndaki Cernek Halkalama İstasyonu’dur [@baris2005]. Zamanla bazı istasyonlar düzenli çalışmasa da Kızılırmak Deltası, Kars ve Antalya’da halkalama çalışmaları devam etmektedir. Uluslararası projeler kapsamında, kuş gribine etkileri araştırılmak üzere su kuşları halkalanmış, örneklenmiş ve bazı bireyler uydu vericileriyle takip edilmiştir. Ayrıca 2003-2009 yılları arasında İzmir Tuzla’da yapılan beş flamingo halkalama çalışması, Akdeniz’deki flamingo popülasyonlarına dair önemli veriler sağlamıştır [@balkiz2009].
-
-#  {.unnumbered}

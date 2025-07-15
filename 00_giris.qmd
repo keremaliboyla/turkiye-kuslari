@@ -1,12 +1,12 @@
 # Önsöz {.unnumbered}
 
-Bu kitap ilk aşamada dijital formatta yayımlanmıştır. Basılı bir yayın yerine açık erişimli dijital bir formatın tercih edilmesinin birkaç temel nedeni vardır.
+Bu kitap ilk aşamada dijital formatta yayımlanmıştır. Basılı bir yayın yerine açık erişimli dijital bir formatın tercih edilmesinin nedenleri vardır.
 
 Dijital kitaplar ücretsizdir ve kolaylıkla erişilebilir. Tablet, bilgisayar ya da cep telefonu gibi farklı cihazlarda rahatlıkla okunabilir. Ornitoloji gibi sürekli değişen ve gelişen bir alanda, basılı kitaplar daha yayımlandıkları anda güncelliğini yitirebilir. Oysa dijital kitaplarda tür listeleri, yayılış haritaları ve mevcut durum bilgileri hızla güncellenebilir. Ayrıca dijital yayınlar, daha katılımcı bir süreçle geliştirilebilir. Kuş gözlemcileri, uzmanlar ve akademisyenler GitHub üzerinden metni doğrudan düzenleyebilirler.
 
-# Kitabın Tarihçesi
+## Kitabın Tarihçesi
 
-Türkiye'nin yabani kuş türlerine dair bugüne kadar hazırlanmış en kapsamlı kaynak olan *The Birds of Turkey* 2008 yılında İngilizce olarak yayımlandı \[\@birds-turkey\]. Yazarlarından biri olarak, kitabın yayımlanmasının hemen ardından kitabın Türkçesinin mutlaka olması gerektiği fikriyle harekete geçtim. Birds of Turkey kitabının telif hakları alındı ve 2013 yılında, İngilizceye hâkim kuş gözlemcilerinden oluşan bir ekiple metnin ilk çevirisi tamamlandı. Diğer yandan, kitapla ilgilenen yayınevi yayın politikasını değiştirerek bu tür kitapları basmama kararı aldı. Sonuçta kitapla ilgili çalışmalar da yarıda kaldı.
+Türkiye'nin yabani kuş türlerine dair bugüne kadar hazırlanmış en kapsamlı kaynak olan *The Birds of Turkey* 2008 yılında İngilizce olarak yayımlandı [@birds-turkey]. Yazarlarından biri olarak, kitabın yayımlanmasının hemen ardından kitabın Türkçesinin mutlaka olması gerektiği fikriyle harekete geçtim. Cavit Bilen'in desteği ile "The Birds of Turkey" kitabının telif hakları alındı ve 2013 yılında, İngilizceye hâkim kuş gözlemcilerinden oluşan bir ekiple metnin taslak çevirileri tamamlandı. Diğer yandan, kitapla ilgilenen yayınevi yayın politikasını değiştirerek bu tür kitapları basmama kararı aldı. Sonuçta kitapla ilgili çalışmalar da yarıda kaldı.
 
 Çevirisi tamamlanan metinler incelendiğinde, kitabın yalnızca dil yönünden değil, içerik açısından da kapsamlı bir revizyona ihtiyaç duyduğu ortaya çıktı. Bu nedenle, yazarların da rızasıyla proje bir çeviri çalışmasından özgün bir kitap projesine dönüştü. Başlangıçta hedeflenen çevirinin ötesine geçilerek metinler yeniden yazıldı; mevcut durum paragrafları güncellendi, bazı taksonomik tartışmalar çıkarıldı ve üreme biyolojisi bölümleri sadeleştirildi. 2008’de yayımlanan orijinal kitaptan bu yana geçen sürede Türkiye kuş faunasında yaşanan değişiklikler ve yeni gözlemler, metinlere ve haritalara dahil edildi. Türkiye kapsamı dışındaki bilimsel içerikler çıkarıldı; haritalar renklendirildi ve okuyucu dostu unsurlarla zenginleştirildi. Böylece, başlangıçta bir çeviri olarak tasarlanan çalışma, özgün içeriğe sahip yeni bir kitaba dönüştü.
 

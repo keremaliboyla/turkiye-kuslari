@@ -1,7 +1,5 @@
 # Kitabın İçeriği {.unnumbered}
 
-## Metinler
-
 **Türler ve Tür Adları**
 
 Kitapta kullanılan İngilizce tür adları, *eBird* veri tabanındaki güncel adlandırmalara dayanmaktadır. Türkçe adların tamamı ise Heinzel, Fitter & Parslow tarafından yazılmış ve Kerem Ali Boyla tarafından Türkçeye çevrilmiş olan *Collins Kuşlar Alan Kılavuzu*ndan alınmıştır. Bu kitap, Türkçede genel olarak doğru ve yerleşik isimlendirme sunan temel kaynak olarak kabul edilmektedir. Ayrıca, Sancar Barış ve Kerem Ali Boyla tarafından yürütülen Türkçe Kuş İsimleri Projesi kapsamında, bu adlar *eBird* sistemine de yüklenmiştir.
@@ -62,7 +60,7 @@ Haritalar oluşturulurken çok farklı kaynaklardan ve bilişim sistemlerinde fa
 
 -   Nadir türlerin kayıtları Türkiye Kuş Kayıt Komitesi'nin filtresinden geçmektedir ve düzenli olarak yayımlanmaktadır.
 
-## **Alttürler ve taksonomi**
+**Alttürler ve taksonomi**
 
 Bu bölümler neredeyse tamamen Guy Kirwan tarafından hazırlanmıştır. İstisnalar, Rodney Martins tarafından önceden taslağı hazırlanmış az sayıdaki taksonomik notlardır. Türkiye kuşlarında alttür sınırlarını ele alırken başlangıç noktamız @roselaar1995 çalışması olmuştur; daha sınırlı ölçüde de olsa Kumerloeve ve Vaurie’nin tür anlatımlarına giriş niteliğindeki kapsamlı yorumlarından da yararlanılmıştır. Bu çalışmada genel olarak, Türkiye kuşları için alttür sınırlarının yeniden değerlendirilmesi hedeflenmiş ve @barrowclough1982 ile Haffer (2003) tarafından ortaya konan alttür tanıma kriterleri temel alınmıştır.
 
