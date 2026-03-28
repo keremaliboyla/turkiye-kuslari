@@ -350,7 +350,7 @@ Vanellus cinereus, Grey-headed Lapwing
 
 1 birey Kızılırmak Deltası'nda 5 Mart 2018 tarihinde kaydedilmiştir.
 
-![](images/harita_Vanellus cinereus.png)
+![](images/harita_Vanellus%20cinereus.png)
 
 **Üreme**
 
@@ -541,7 +541,7 @@ Türkiye'de *columbinus* alttürü görülür. Bu alttür genellikle daha küç�
 
 Göç dönemlerinde ülke genelinde daha yaygın olarak ve yüksek sayılarda görülür. Ege ve Akdeniz’deki kışlayan popülasyonlar nedeniyle ilkbahar göçünün başlangıcını belirlemek zordur. Diğer bölgelerinde ilk kayıtlar martın ikinci haftasında başlar. Göçün en yoğun dönemi güney kıyılarında mart sonunda, diğer bölgelerde ise nisanın ilk yarısında gerçekleşir. Haziran başına kadar süren ilkbahar göçlerinde en yoğun geçişler bu dönemde gözlenir. Çukurova'da 1990 baharında, mart sonundan mayıs başına kadar akça cılıbıt popülasyonunun %70 oranında azaldığını görülmüştür [@kivit1994]. Bu çalışma kapsamında 27 Mart'ta sayılan toplam 4.745 birey, ülkemizde kayda geçen en büyük sayıyı temsil etmektedir. Sonbahar göçü temmuz ayında başlar, ancak çoğunluğu ağustos sonu ile eylül ortası arasında geçer ve kasım ayında da belirgin şekilde devam eder.
 
-Ege ve Akdeniz bölgelerinde yüksek sayılarda kışlayan popülasyonlar bulunmaktadır. Gediz, Güllük ve Büyük Menderes Deltaları ile Çukurova Deltası, toplamda yaklaşık 2.000 bireylik kışlayan popülasyona ev sahipliği yapar. Akdeniz’deki kayıtların çoğunluğu Göksu ve Çukurova Deltalarından gelir ve
+Ege ve Akdeniz bölgelerinde yüksek sayılarda kışlayan popülasyonlar bulunmaktadır. Gediz, Güllük ve Büyük Menderes Deltaları ile Çukurova Deltası, toplamda yaklaşık 2.000 bireylik kışlayan popülasyona ev sahipliği yapar. Akdeniz’deki kayıtların çoğunluğu Göksu ve Çukurova Deltalarından gelir.
 
 ![](images/harita_Anarhynchus%20alexandrinus.png)
 
