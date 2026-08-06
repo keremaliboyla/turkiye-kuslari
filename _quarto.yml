@@ -5,16 +5,20 @@ project:
 book:
   title: "Türkiye Kuşlarının Doğa Tarihi"
   subtitle: "Türlerin Coğrafi Yayılışı, Üreme Biyolojisi ve Taksonomik Durumu"
+
   author:
     name: "Kerem Ali Boyla, Editör"
     orcid: "0000-0002-1825-0097"
+
   date: "2026-01-18"
   date-format: "DD/MM/YYYY"
+
   cover-image: kapak3.png
   favicon: kapak3.png
+
   repo-url: https://github.com/keremaliboyla/turkiye-kuslari
   repo-actions: [edit, issue]
-  # sharing: [twitter, facebook]
+
   chapters:
     - index.qmd
     - 01_ordekgiller.qmd
@@ -35,7 +39,7 @@ book:
     - 16_sinekkapanlar.qmd
     - 17_serceler.qmd
     - 18_ispinozlar.qmd
-    - references.qmd
+
     - part: "Ek Bilgiler"
       chapters: 
         - 00_giris.qmd
@@ -44,10 +48,13 @@ book:
         - 00_ornitoloji_tarihi.qmd
         - 00_bilgi_kaynaklari.qmd
 
+    - references.qmd
+
 bibliography: references.bib
 csl: nature.csl
 # csl: journal-of-zoology.csl
-# number-sections: false
+
+
 lang: tr
 language: _language-tr.yml
 
@@ -57,28 +64,17 @@ format:
       body-width: 670px
     theme: cosmo
     number-depth: 1
-  # pdf:
-  #   pdf-engine: lualatex
-  #   include-in-header: header.tex
-  #   documentclass: scrreprt
-  #   classoption: twocolumn
-  #   papersize: a4
-  #   toc-title: "İçindekiler"
-  #   number-depth: 0
-  #   mainfont: "Times New Roman"
-  #   sansfont: "Trebuchet MS"
-  #   fontsize: 9.5pt
-  #   geometry:
-  #     - inner=2cm
-  #     - outer=2cm
-  #     - top=2cm
-  #     - bottom=2cm
-  #     - headsep=22pt
-  #     - headheight=11pt
-  #     - footskip=33pt
-  #     - ignorehead
-  #     - ignorefoot
-  #     - heightrounded
-    # epub: default
+
+  typst:
+    toc: true
+    number-sections: true
+    section-numbering: "1.1"
+    papersize: a4
+    fontsize: 11pt
+    margin:
+      top: 2.5cm
+      bottom: 2.5cm
+      left: 3cm
+      right: 3cm
 
 editor: visual
