@@ -23,32 +23,32 @@ book:
     - index.qmd
     - 01_ordekgiller.qmd
     - 02_tavukgiller_vd.qmd
-    - 03_bataklik-kuslari.qmd
-    - 04_cilibitlar.qmd
-    - 05_cullukgiller.qmd
-    - 06_martilar.qmd
-    - 07_deniz-ve-gol-kuslari.qmd
-    - 08_yirticilar.qmd
-    - 09_baykuslar.qmd
-    - 10_otucu-oncesi.qmd
-    - 11_kargamsilar.qmd
-    - 12_toygarlar.qmd
-    - 13_kamiscinlar.qmd
-    - 14_otlegenler.qmd
-    - 15_tirmasiklar.qmd
-    - 16_sinekkapanlar.qmd
-    - 17_serceler.qmd
-    - 18_ispinozlar.qmd
-
-    - part: "Ek Bilgiler"
-      chapters: 
-        - 00_giris.qmd
-        - 00_tesekkurler.qmd
-        - 00_kitabin_icerigi.qmd
-        - 00_ornitoloji_tarihi.qmd
-        - 00_bilgi_kaynaklari.qmd
-
-    - references.qmd
+    # - 03_bataklik-kuslari.qmd
+    # - 04_cilibitlar.qmd
+    # - 05_cullukgiller.qmd
+    # - 06_martilar.qmd
+    # - 07_deniz-ve-gol-kuslari.qmd
+    # - 08_yirticilar.qmd
+    # - 09_baykuslar.qmd
+    # - 10_otucu-oncesi.qmd
+    # - 11_kargamsilar.qmd
+    # - 12_toygarlar.qmd
+    # - 13_kamiscinlar.qmd
+    # - 14_otlegenler.qmd
+    # - 15_tirmasiklar.qmd
+    # - 16_sinekkapanlar.qmd
+    # - 17_serceler.qmd
+    # - 18_ispinozlar.qmd
+    # 
+    # - part: "Ek Bilgiler"
+    #   chapters:
+    #     - 00_giris.qmd
+    #     - 00_tesekkurler.qmd
+    #     - 00_kitabin_icerigi.qmd
+    #     - 00_ornitoloji_tarihi.qmd
+    #     - 00_bilgi_kaynaklari.qmd
+    # 
+    # - references.qmd
 
 bibliography: references.bib
 csl: nature.csl

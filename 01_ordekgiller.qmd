@@ -43,7 +43,7 @@ Geçiş sırasında tüm bölgelerde görülen ve ekimden itibaren mart sonuna k
 
 Ekim sonu ile nisan başı arasında lokal olarak görülen bir kış konuğudur. Genellikle ocak ve şubat aylarında daha yaygın ve yüksek sayıda olur. Soğuk geçen kışlarda Türkiye'de kışlayan birey sayısı artar. En kalabalık sürüler Meriç Nehri boyunca, Tuz Gölü çevresinde ve Konya Ovası'nda yoğunlaşır. Büyük Menderes Deltası ve Doğu Akdeniz'deki sulakalanlarda da önemli sayılarda toplanabilir. Son zamanlarda Güneydoğu Anadolu'daki baraj göllerinde küçük sürüler halinde görülmeye başlanmıştır. Nadiren yaz aylarında sulakalanlarda az sayıda birey kalabilir.
 
-Kış ortası su kuşu sayımlarında (KOSKS) ülke genelinde en yüksek sayı 1968–69 kışında 98.600 birey olarak kaydedilmiştir. 1987’de 84.000 birey sayılmış, ancak ardından sayı ciddi biçimde düşmüştür. 1990’lı yıllarda 20.000–30.000 arasında değişen sayılar kaydedilmiş; 1993’te 11.822 [@dogalhayati1993], 1999’da 3956 [@dogalhayati1999] ve 2005’te 3891 birey [@caglayan2005] tespit edilmiştir. 11 Şubat 2006’da Büyükçekmece’de 15.000 birey sayılmıştır ki bu, son yıllardaki en yüksek değerdir. Bu verilere göre Türkiye’de kışlayan nüfus 1970’lerdeki 100.000’ler seviyesinden 2010’larda yaklaşık 5000 bireye düşmüştür.
+Kış ortası su kuşu sayımlarında (KOSKS) ülke genelinde en yüksek sayı 1968–69 kışında 98.600 birey olarak kaydedilmiştir. 1987’de 84.000 birey sayılmış, ancak ardından sayı ciddi biçimde düşmüştür. 1990’lı yıllarda 20.000–30.000 arasında değişen sayılar kaydedilmiş; 1993’te 11.822 [@dhkd1993], 1999’da 3956 [@dhkd1999] ve 2005’te 3891 birey [@caglayan2005] tespit edilmiştir. 11 Şubat 2006’da Büyükçekmece’de 15.000 birey sayılmıştır ki bu, son yıllardaki en yüksek değerdir. Bu verilere göre Türkiye’de kışlayan nüfus 1970’lerdeki 100.000’ler seviyesinden 2010’larda yaklaşık 5000 bireye düşmüştür.
 
 ![](images/harita_Anser%20albifrons.png)
 
@@ -69,7 +69,7 @@ Her yıl çok az sayıda kaydedilen bir kış konuğudur. Sayıları genellikle 
 
 Doğu Anadolu'da 20 Kasım 2004'te Haçlı Gölü'nde uydudan izlenen bir birey sinyal verince, doğuda bir kışlama alanı olasılığı gündeme gelmiştir [@morozov2004]. Nitekim Van Gölü ve Erçek Gölü kıyılarında sayıları 340'a ulaşan sürüler düzenli olarak tespit edilmiştir. Bugün, Türkiye'de kışlayan ana nüfusun Doğu Anadolu'da bulunduğu söylenebilir [@aou2000].
 
-2000 öncesindeki kayıtlarda; 29 Aralık 1997’de Göksu Deltası’nda bir birey [@kirwan2003], 23 Ocak 1993’te yine Göksu Deltası’nda bir birey [@dogalhayati1993], 6 Nisan 1990’da Seyfe Gölü’nde 12 birey [@kirwanmartins1994], 24 Aralık 1986’da Bafa Gölü’nde bir erişkin ve iki genç birey [@kasparek1988a] ve 16 Şubat 1967’de Kocabaş Çayı ağzında (Çanakkale) iki birey [@ost1969] kaydedilmiştir. 1945 ile 1965 arasında ve özellikle ekim ile ocak ayları arasında, çoğunluğu Büyükçekmece ve Küçükçekmece Gölleri’nden gelen 12 kayıt mevcuttur. Ancak bu gözlemler, tür teşhisini doğrulayacak belgelerden yoksundur [@kumerloeve1970a].
+2000 öncesindeki kayıtlarda; 29 Aralık 1997’de Göksu Deltası’nda bir birey [@kirwan2003], 23 Ocak 1993’te yine Göksu Deltası’nda bir birey [@dhkd1993], 6 Nisan 1990’da Seyfe Gölü’nde 12 birey [@kirwanmartins1994], 24 Aralık 1986’da Bafa Gölü’nde bir erişkin ve iki genç birey [@kasparek1988a] ve 16 Şubat 1967’de Kocabaş Çayı ağzında (Çanakkale) iki birey [@ost1969] kaydedilmiştir. 1945 ile 1965 arasında ve özellikle ekim ile ocak ayları arasında, çoğunluğu Büyükçekmece ve Küçükçekmece Gölleri’nden gelen 12 kayıt mevcuttur. Ancak bu gözlemler, tür teşhisini doğrulayacak belgelerden yoksundur [@kumerloeve1970a].
 
 ![](images/harita_Anser%20erythropus.png)
 
@@ -95,7 +95,7 @@ Monotipik bir türdür.
 
 *Tundra Kazı*, önceleri *Tayga Kazı* ile beraber tek bir tür altında *Tarla Kazı* olarak sınıflandırılıyordu. Dolayısıyla, taksonomik revizyonun yapıldığı tarihten önceki kayıtlarda *Tarla Kazı* olarak tanımlanmıştır. 2000 yılından sonra çekilen fotoğraflarda özellikle gaga renklenmesi incelenmiş ve bu kuşların tamamı *Tundra Kazı* olarak tanımlanmıştır. Fotoğrafı veya betimlemesi olmayan eski kayıtların hangi türe ait olduğu ise belirsiz kalacaktır.
 
-*Tarla Kazı* olarak tanımlanan kuşlar, Ege, Akdeniz ve İç Anadolu’daki sulakalanlarda zaman zaman yüksek sayılarda kaydedilmiştir. Mersin’de 1870’ler ve 1880’lerde toplanan bireyler [@schrader1891], bilinen en eski kayıtlardandır. 1966–2000 arasında, çoğunlukla ocak–mart aylarında 15 kez kaydedilmiştir. 2 Mart 1965’te Ereğli ile Karapınar arasında 90 birey [@kumerloeve1970a], 15–16 Ekim 1969’da Karamık Sazlıkları’nda 13 birey [@ost1972], 30 Nisan 1988’de Seyfe Gölü’nde, 30 Ocak 1992’de Marmara Gölü’nde 61 birey, 9 Ocak 1993’te Büyükçekmece Gölü’nde 64 birey ve 24 Ocak 1993’te Göksu Deltası’nda bir birey kaydedilmiştir [@dogalhayati1993]. Türkiye’de kışlayan Sakarca sayısındaki ciddi azalma, bu tür için de geçerli olabilir.
+*Tarla Kazı* olarak tanımlanan kuşlar, Ege, Akdeniz ve İç Anadolu’daki sulakalanlarda zaman zaman yüksek sayılarda kaydedilmiştir. Mersin’de 1870’ler ve 1880’lerde toplanan bireyler [@schrader1891], bilinen en eski kayıtlardandır. 1966–2000 arasında, çoğunlukla ocak–mart aylarında 15 kez kaydedilmiştir. 2 Mart 1965’te Ereğli ile Karapınar arasında 90 birey [@kumerloeve1970a], 15–16 Ekim 1969’da Karamık Sazlıkları’nda 13 birey [@ost1972], 30 Nisan 1988’de Seyfe Gölü’nde, 30 Ocak 1992’de Marmara Gölü’nde 61 birey, 9 Ocak 1993’te Büyükçekmece Gölü’nde 64 birey ve 24 Ocak 1993’te Göksu Deltası’nda bir birey kaydedilmiştir [@dhkd1993]. Türkiye’de kışlayan Sakarca sayısındaki ciddi azalma, bu tür için de geçerli olabilir.
 
 ![](images/harita_Anser%20serrirostris.png)
 
@@ -193,7 +193,7 @@ Monotipik bir türdür.
 
 Geçmişte, birkaç alanda yüzlerce çiftlik bir üreme nüfusu bulunuyordu. Marmara Gölü'nde 50 çift, Akşehir Gölü'nde ise 100 çift üremiştir [@kumerloeve1961]. Ereğli Sazlığı en çok gözlem kaydının alındığı alandır. Lenz burada 1968'de 11 yuva, 1969'da bir yuva ve 1970'te üç yuva bulmuştur. Ereğli Sazlığı'nın yok olması ayrıntılı olarak belgelenmiştir [@kilic1990], bu nedenle üreyen nüfusun azalışı da gözlenmiştir. Eski üreme alanlarında yok olmasının başlıca nedeni sulakalanların kurutulmasıdır.
 
-Kış aylarında Karadeniz, Marmara ve Ege Bölgelerinde yaygın olarak en yüksek sayılarda gözlenir. Toplam kışlama popülasyonu 1000-10000 birey arasında değişmektedir. Meriç Deltası ve Gala Gölü kışlayan nüfusun büyük kısmının toplandığı alanlardır. 1993'te 1244, 1999'da 8900 ve 2003'te 2000 birey kaydedilmiştir [@dogalhayati1993; @dogalhayati1999]. Kışın sert geçtiği yıllarda bu sayı artmakta olup, 1999'da ülke genelinde toplamda 9088 birey kaydedilmiştir.
+Kış aylarında Karadeniz, Marmara ve Ege Bölgelerinde yaygın olarak en yüksek sayılarda gözlenir. Toplam kışlama popülasyonu 1000-10000 birey arasında değişmektedir. Meriç Deltası ve Gala Gölü kışlayan nüfusun büyük kısmının toplandığı alanlardır. 1993'te 1244, 1999'da 8900 ve 2003'te 2000 birey kaydedilmiştir [@dhkd1993; @dhkd1999]. Kışın sert geçtiği yıllarda bu sayı artmakta olup, 1999'da ülke genelinde toplamda 9088 birey kaydedilmiştir.
 
 ![](images/harita_Cygnus%20olor.png)
 
@@ -242,7 +242,7 @@ Türkiye'de Eski Dünya'da yaşayan *bewickii* alttürü bulunur; bu alttür, ga
 
 </iframe>
 
-Ekim sonu ile nisan başı arasında yaygın olarak az sayıda görülen bir kış konuğudur. Ocak ve şubat aylarında en yüksek sayıya ulaşır. Trakya'da Meriç Deltası hem Türkiye'deki ana toplama bölgesidir, üstelik türün Balkanlar'daki en önemli kışlama alanıdır. 25 Ocak 1998'de Meriç Deltası'nda 1200 birey kaydedilmiş, bu Türkiye'deki en yüksek sayıdır [@boyla1998a]. Türkiye'ye gelen kuşlar, Ukrayna ve Kırım ile Batı Karadeniz Bölgesi arasındaki deniz üzeri göç rotasını kullanır [@brazil2003]. Doğuda, 30 Ekim 1995'te Sodalı Gölü'nde 164 birey [@adizel1998], 1992'de Diyarbakır Kabaklı Barajı'nda 133 birey kaydedilmiştir [@dogalhayati1992].
+Ekim sonu ile nisan başı arasında yaygın olarak az sayıda görülen bir kış konuğudur. Ocak ve şubat aylarında en yüksek sayıya ulaşır. Trakya'da Meriç Deltası hem Türkiye'deki ana toplama bölgesidir, üstelik türün Balkanlar'daki en önemli kışlama alanıdır. 25 Ocak 1998'de Meriç Deltası'nda 1200 birey kaydedilmiş, bu Türkiye'deki en yüksek sayıdır [@boyla1998a]. Türkiye'ye gelen kuşlar, Ukrayna ve Kırım ile Batı Karadeniz Bölgesi arasındaki deniz üzeri göç rotasını kullanır [@brazil2003]. Doğuda, 30 Ekim 1995'te Sodalı Gölü'nde 164 birey [@adizel1998], 1992'de Diyarbakır Kabaklı Barajı'nda 133 birey kaydedilmiştir [@dhkd1992].
 
 ![](images/harita_Cygnus%20cygnus.png)
 
