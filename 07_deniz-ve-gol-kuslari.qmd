@@ -2,7 +2,7 @@
 title: "Deniz ve Göl Kuşları"
 ---
 
-# Flamingo
+## Flamingo
 
 *Phoenicopterus roseus*, Greater Flamingo, \[Vinyet: Sulakalan\]
 
@@ -47,7 +47,7 @@ Türkiye'de üreyen flamingoların çoğunun ülke sınırlarında kaldığı, k
 
 Monotipik bir türdür.
 
-# Küçük Flamingo
+## Küçük Flamingo
 
 *Phoeniconaias minor*, Lesser Flamingo, \[Vinyet: Sulakalan\] \[Vinyet: Rastlantısal\]
 
@@ -71,7 +71,7 @@ Türkiye'de ürememektedir. Yayılış alanı Sahra altı Afrika'dır.
 
 Monotipik bir türdür. Bu tür bazen Phoenicopterus cinsi altına yerleştirilir.
 
-# Küçük Batağan
+## Küçük Batağan
 
 *Tachybaptus ruficollis*, Little Grebe, \[Vinyet: Sulakalan\]
 
@@ -98,7 +98,7 @@ Kışın çoğunlukla batı ve orta kesimlerdeki tatlı su gölleri, bataklıkla
 
 Batı Anadolu'da nominat *ruficollis* alttürü bulunur. Doğu Anadolu'da *capensis* alttürü olabileceği iddia edilmiştir [@roselaar1995]. Avrupalı ruficollis ve Afro-Asyalı *capensis* ve *albescens* alttürlerinin göz renginin farkıyla rahatlıkla tespit edilebileceğini belirtmiştir [@vanswelm2001]. Dolayısıyla Roselaar'ın varsaydığı alttür, *albescens*, hatta Irak'ta bulunan *iraquensis* olabilir. Doğu Anadolu'daki kuşların hangi alttüre ait olduğu kesinleştirilmelidir.
 
-# Kulaklı Batağan
+## Kulaklı Batağan
 
 *Podiceps auritus*, Horned Grebe (Slavonian Grebe), \[Vinyet: Sulakalan\] \[Vinyet: VU (2016)\]
 
@@ -124,7 +124,7 @@ Türkiye'de ürememektedir. Üreme dönemindeki yayılış alanı K. Avrasya, Ka
 
 Monotipik bir türdür.
 
-# Kızıl Boyunlu Batağan
+## Kızıl Boyunlu Batağan
 
 *Podiceps grisegena*, Red-necked Grebe, \[Vinyet: Sulakalan\]
 
@@ -153,7 +153,7 @@ Yirminci yüzyılın ilk yarısından gelen kayıtlar, bu türün eskiden daha y
 
 Türkiye'de nominat alttürü bulunur.
 
-# Bahri
+## Bahri
 
 *Podiceps cristatus*, Great Crested Grebe, \[Vinyet: Sulakalan\]
 
@@ -180,7 +180,7 @@ Türkiye'de nominat alttürü bulunur.
 
 Türkiye'de nominat alttürü bulunur.
 
-# Kara Boyunlu Batağan
+## Kara Boyunlu Batağan
 
 *Podiceps nigricollis*, Black-necked Grebe (Eared Grebe), \[Vinyet: Sulakalan\]
 
@@ -207,7 +207,7 @@ Türkiye'de nominat alttürü bulunur.
 
 Türkiye'de nominat alttürü bulunur.
 
-# Kızıl Gerdanlı Dalgıç
+## Kızıl Gerdanlı Dalgıç
 
 *Gavia stellata*, Red-throated Loon, \[Vinyet: Deniz\]
 
@@ -233,7 +233,7 @@ Türkiye'de ürememektedir. Üreme dönemindeki yayılış alanı K. Kuzey Ameri
 
 Monotipik bir türdür.
 
-# Kara Gerdanlı Dalgıç
+## Kara Gerdanlı Dalgıç
 
 *Gavia arctica*, Black-throated Loon, \[Vinyet: Deniz\]
 
@@ -257,7 +257,7 @@ Türkiye'de ürememektedir. Üreme dönemindeki yayılış alanı K. Avrasya ve 
 
 Türkiye'de nominat alttürü bulunur.
 
-# Buz Dalgıcı
+## Buz Dalgıcı
 
 *Gavia immer*, Great Northern Loon, \[Vinyet: Deniz\] \[Vinyet: Rastlantısal\]
 
@@ -281,7 +281,7 @@ Türkiye'de ürememektedir. Üreme dönemindeki yayılış alanı K. Kuzey Ameri
 
 Monotipik bir türdür.
 
-# Fırtınakırlangıcı
+## Fırtınakırlangıcı
 
 *Hydrobates pelagicus*, European Storm Petrel, \[Vinyet: Deniz\]
 
@@ -305,7 +305,7 @@ Türkiye'de ürediği bilinmez. Yunanistan'ın Ege Adalarında daha önce iki ke
 
 Akdeniz popülasyonu [@lalanne2001] tarafından tanımlanan *melitensis* alttürüne aittir. Bu alttür kanat ölçüleri ve ağırlığı ile nominat alttürden ayrılır.
 
-# Atlantik Boz Yelkovanı
+## Atlantik Boz Yelkovanı
 
 *Calonectris borealis*, Cory's Shearwater, \[Vinyet: Deniz\]
 
@@ -327,7 +327,7 @@ Türkiye'de ürememektedir. \[EKLENECEK\]
 
 Boz Yelkovan'dan kısa zaman önce ayrılmıştır.
 
-# Boz Yelkovan
+## Boz Yelkovan
 
 *Calonectris diomedea*, Scopoli's Shearwater, \[Vinyet: Deniz\]
 
@@ -356,7 +356,7 @@ Kışın, mevcut kayıtlara kıyasla sanıldığından daha yaygın olabilir. İ
 
 Monotipik bir türdür. Cabo Verde adalarında üreyen *edwardsii* ve Azorlar, Madeira, Kanarya Adaları ve Portekiz açıklarındaki Berlenga Adaları'nda üreyen *borealis* taksonları, yakın zamanda tür seviyesine yükseltilmiştir. Bu çalışmadan önce çıkan birçok kaynakta İngilizce ismi Cory's Shearwater olarak geçmektedir. Bu İngilizce isim artık sadece Kuzey Atlantik kuşları için kullanılmaktadır.
 
-# Külrengi Yelkovan
+## Külrengi Yelkovan
 
 *Ardenna grisea*, Sooty Shearwater
 
@@ -378,7 +378,7 @@ Türkiye'de ürememektedir. \[EKLENECEK\]
 
 Türkiye'de görülen birey Kızıldeniz ve Hint Okyanusunda bulunan/Atlantik kıyılarında bulunan *leucogaster* alttürüne aittir.
 
-# Yelkovan
+## Yelkovan
 
 *Puffinus yelkouan*, Yelkouan Shearwater, \[Vinyet: Deniz\] \[Vinyet: VU (2016)\]
 
@@ -403,7 +403,7 @@ Karadeniz, Ege ve Akdeniz kıyılarında yıl boyunca görülse de sayıları me
 
 Monotipik bir türdür. Yakın zamana kadar Batı Akdeniz'de üreyen allopatrik Balear yelkovanı P. *mauretanicus* ile aynı tür altında, 30 yıl öncesine kadar Atlantik Yelkovanı'nın *P. puffinus* bir alttürü olarak değerlendirilmiştir.
 
-# Kara Leylek
+## Kara Leylek
 
 *Ciconia nigra*, Black Stork
 
@@ -435,7 +435,7 @@ Kızılırmak Deltası, Gediz Deltası ve Çukurova sulakalanlarında, ortalama 
 
 Monotipik bir türdür.
 
-# Leylek
+## Leylek
 
 *Ciconia ciconia*, White Stork
 
@@ -468,7 +468,7 @@ Az sayıda birey, ılıman bölgelerde kışlayabilir.
 
 Türkiye'de nominat alttürü bulunur.
 
-# Sarı Gagalı Leylek
+## Sarı Gagalı Leylek
 
 *Mycteria ibis*, Yellow-billed Stork, \[Vinyet: Rastlantısal\]
 
@@ -492,7 +492,7 @@ Türkiye'de ürememektedir. Yayılış alanı Sahra altı Afrika'dır.
 
 Monotipik bir türdür.
 
-# Sümsük
+## Sümsük
 
 *Morus bassanus*, Northern Gannet, \[Vinyet: Deniz\]
 
@@ -514,7 +514,7 @@ Türkiye'de ürememektedir. Üreme dönemindeki yayılış alanı Kuzey Atlantik
 
 Monotipik bir türdür. Geçmişte tüm sümsükler hep beraber Sula cinsi altında sınıflandırılmış, daha sonra Sümsük, Kap sümsüğü ve Avustralya sümsüğünün tropikal Sula sümsüklerinden farklı kemik yapısı ortaya çıkınca [@vantets1988], Morus cinsi altına alınmıştır [@sangster1997a].
 
-# Kara Sümsük
+## Kara Sümsük
 
 *Sula leucogaster*, Brown Booby
 
@@ -536,7 +536,7 @@ Türkiye'de ürememektedir. Yayılış alanı tropikal denizlerdir.
 
 Türkiye'de görülen birey Atlantik Okyanus'unda bulunan *leucogaster* alttürüne aittir.
 
-# Afrika Yılanboyunu
+## Afrika Yılanboyunu
 
 *Anhinga rufa*, African Darter, \[Vinyet: Sulakalan\]
 
@@ -567,7 +567,7 @@ Bu kuşların büyük çoğunluğu İsrail'de, kuzeyde Hula Bataklıkları ve Ü
 
 Daha gri kanat üstü örtüler ve açık boyun önü ile ayrılan *chantrei* alttürü tanımlanmış [@oustalet1882] ve bu alttürün varlığı destek ve kabul görmüştür [@vaurie1965]. Ardından güncel kaynaklar bu taksonu geçersiz (sinomim) saymıştır [@cramp1977]. İngiltere Tring Doğa Tarihi Müzesi'nde Irak'tan gelen ve Meinertzhagen tarafından toplanan Amik Gölü tahnitlerini iddianın geçersizliğini teyit eder. Türkiye ve Irak popülasyonunu Asya Yılanboyunu *A. melanogaster* olarak sınıflandırmış [@sibley1990] olsa da, bunun tamamen bir yanlışlık olduğunu varsayabiliriz. Nitekim incelenen tahnitler bu kuşların (Afrika) Yılanboyunu *A. rufa* olduğuna şüphe bırakmaktadır.
 
-# Küçük Karabatak
+## Küçük Karabatak
 
 *Microcarbo pygmeus*, Pygmy Cormorant, \[Vinyet: Sulakalan\]
 
@@ -596,7 +596,7 @@ Sonbahar ve kış döneminde daha yaygın ve boldur. Azami 250 kuşluk küçük 
 
 Monotipik bir türdür. Küçük karabatak diğer üç küçük boylu karabatakla beraber *Microcarbo* cinsi altına alınmıştır [@siegelcausey1988].
 
-# Karabatak
+## Karabatak
 
 *Phalacrocorax carbo*, Great Cormorant, \[Vinyet: Sulakalan\] \[Vinyet: Deniz\]
 
@@ -625,7 +625,7 @@ Sonbahar ve kış döneminde çok daha yaygın olarak gözlenir. Küçükçekmec
 
 Türkiye'de *sinensis* alttürü bulunur.
 
-# Tepeli Karabatak
+## Tepeli Karabatak
 
 *Gulosus aristotelis*, European Shag, \[Vinyet: Deniz\]
 
@@ -650,7 +650,7 @@ Küçük kayalık adalarda, deniz mağaralarında ve deniz yarlarında Karabatak
 
 Türkiye'de desmarestii alttürü bulunur.
 
-# Çeltikçi
+## Çeltikçi
 
 *Plegadis falcinellus*, Glossy Ibis, \[Vinyet: Sulakalan\]
 
@@ -679,7 +679,7 @@ Göç sırasında bazı bölgelerde yüksek sayılarda gözlenir. 26 Temmuz 2004
 
 Monotipik bir türdür.
 
-# Kelaynak
+## Kelaynak
 
 *Geronticus eremita,* Northern Bald Ibis, \[Vinyet: CR (2016)\]
 
@@ -718,7 +718,7 @@ Birecik dışında, Amik Gölü (Antakya) bölgesinde de iki örnek toplanmışt
 
 Monotipik bir türdür. Türkiye-Suriye popülasyonu ile Fas popülasyonu arasında genetik farklılıklar vardır.
 
-# Kaşıkçı
+## Kaşıkçı
 
 *Platalea leucorodia*, Eurasian Spoonbill, \[Vinyet: Sulakalan\]
 
@@ -745,7 +745,7 @@ Göç sırasında genellikle küçük gruplar halinde görülür. İlkbahar gö�
 
 Türkiye'de nominat alttürü bulunur.
 
-# Balaban
+## Balaban
 
 *Botaurus stellaris*, Eurasian Bittern, \[Vinyet: Sulakalan\]
 
@@ -772,7 +772,7 @@ Geçit döneminde ve kışın batı ve orta kesimlerde az sayıda rastlanır. So
 
 Türkiye'de nominat alttürü bulunur.
 
-# Küçük Balaban
+## Küçük Balaban
 
 *Butaurus minutus*, Little Bittern, \[Vinyet: Sulakalan\]
 
@@ -799,7 +799,7 @@ Mart sonu itibariyle az sayıda birey görülmeye başlar. Ana göç dalgası ma
 
 Türkiye'de nominat alttürü bulunur. Eskiden *Ixobrychus* cins ismiyle kullanılırdı.
 
-# Gece Balıkçılı
+## Gece Balıkçılı
 
 *Nycticorax nycticorax*, Black-crowned Night Heron, \[Vinyet: Sulakalan\]
 
@@ -828,7 +828,7 @@ Kışın düzensiz aralıklarla kaydedilir. Önemli kışlama kayıtları şöyl
 
 Türkiye'de nominat alttürü bulunur.
 
-# Küçük Ak Balıkçıl
+## Küçük Ak Balıkçıl
 
 *Egretta garzetta*, Little Egret, \[Vinyet: Sulakalan\]
 
@@ -857,7 +857,7 @@ Orta sayılarda, ağırlıklı olarak Ege ve Akdeniz bölgelerinde kışlar. Mar
 
 Türkiye'de nominat alttürü bulunur.
 
-# Kıyı Balıkçılı
+## Kıyı Balıkçılı
 
 *Egretta gularis*, Western Reef Heron
 
@@ -877,7 +877,7 @@ Türkiye'de ürememektedir. \[EKLENECEK\]
 
 Türkiye'de görülen bireyin hangi alttüre ait olduğu henüz değerlendirilmemiştir.
 
-# Yeşil Sırtlı Balıkçıl
+## Yeşil Sırtlı Balıkçıl
 
 *Butorides striata*, Striated Heron
 
@@ -897,7 +897,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Afrika, Asya ve Güney Amerika'nın tro
 
 Türkiye'de görülen bireyin hangi alttüre ait olduğu henüz değerlendirilmemiştir.
 
-# Alaca Balıkçıl
+## Alaca Balıkçıl
 
 *Ardeola ralloides*, Squacco Heron, \[Vinyet: Sulakalan\]
 
@@ -924,7 +924,7 @@ Bataklık sulakalanlarda yuvalar. Bilinen önemli üreme alanları arasında; Me
 
 Monotipik bir türdür.
 
-# Sığır Balıkçılı
+## Sığır Balıkçılı
 
 *Ardea ibis*, Western Cattle Egret
 
@@ -955,7 +955,7 @@ Kışlayan bireylerin çoğu güney kıyılarında bulunur. Kış Ortası Su Ku�
 
 Monotipik bir türdür. Batılı nominat *ibis* ve doğulu *coromandus* alttürleri tür seviyesine çıkarılmış ve "Batılı Sığır Balıkçılı" ve "Doğulu Sığır Balıkçılı" olarak isimlendirmiştir [@rasmussen2005]. Yakın zamana kadar *Bubulcus* cins ismi kullanılırdı.
 
-# Büyük Ak Balıkçıl
+## Büyük Ak Balıkçıl
 
 *Ardea alba*, Great Egret, \[Vinyet: Sulakalan\]
 
@@ -984,7 +984,7 @@ Kışın büyük topluluklar halinde kaydedilir. Özellikle orta ve batıdaki k�
 
 Türkiye'de nominat alttürü bulunur.
 
-# Gri Balıkçıl
+## Gri Balıkçıl
 
 *Ardea cinerea*, Grey Heron, \[Vinyet: Sulakalan\]
 
@@ -1011,7 +1011,7 @@ Genellikle ormanlık alanlarda, sulakalanların çevresinde ve nehir boylarında
 
 Türkiye'de nominat alttürü bulunur.
 
-# Erguvani Balıkçıl
+## Erguvani Balıkçıl
 
 *Ardea purpurea*, Purple Heron, \[Vinyet: Sulakalan\]
 
@@ -1038,7 +1038,7 @@ Kızılırmak Deltası'nda 1992 yılında 475-500 çiftin yuvaladığı tespit e
 
 Türkiye'de nominat alttürü bulunur.
 
-# Ak Pelikan
+## Ak Pelikan
 
 *Pelecanus onocrotalus*, Great White Pelican, \[Vinyet: Sulakalan\]
 
@@ -1069,7 +1069,7 @@ Kışın nadirdir, ara sıra batı ve orta bölgelerde, genellikle kıyısal sul
 
 Monotipik bir türdür.
 
-# Küçük Pelikan
+## Küçük Pelikan
 
 *Pelecanus rufescens*, Pink-backed Pelican, \[Vinyet: Rastlantısal\]
 
@@ -1091,7 +1091,7 @@ Türkiye'de ürememektedir. Yayılış alanı Sahra Altı Afrika’dır.
 
 Monotipik bir türdür.
 
-# Tepeli Pelikan
+## Tepeli Pelikan
 
 *Pelecanus crispus*, Dalmatian Pelican, \[Vinyet: Sulakalan\] \[Vinyet: VU (2016)\]
 

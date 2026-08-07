@@ -2,7 +2,7 @@
 title: "Yırtıcılar"
 ---
 
-# Balık Kartalı
+## Balık Kartalı
 
 *Pandion haliaetus*, Western Osprey
 
@@ -31,7 +31,7 @@ Batıda Gediz ve Büyük Menderes Deltası, Fethiye bölgesi, Göksu Deltası ve
 
 Türkiye'de nominat alttürü bulunur.
 
-# Ak Çaylak
+## Ak Çaylak
 
 *Elanus caeruleus*, Black-winged Kite
 
@@ -58,7 +58,7 @@ Ocak 1876'da [@danford1877], Mersin Zebil'de (şimdiki adıyla Sebil) muhtemelen
 
 Türkiye'de Hindistan kökenli vociferus nominat alttürü olduğu iddia edilmiştir.
 
-# Sakallı Akbaba
+## Sakallı Akbaba
 
 *Gypaetus barbatus*, Bearded Vulture
 
@@ -83,7 +83,7 @@ Genellikle 1500-4000 metre yüksekliklerde dağlık alanlarda oldukça yaygın y
 
 Roselaar (1995) Türkiye'nin *aureus* alttürünün yayılış alanında olduğunu doğrular. Ancak birçok yazar Kuzey Afrika'da tanımlanmış nominat alttürler *aureus* arasında çok fark olmadığını ve *aureus* formunu alttür olarak değerlendirmemeyi tercih eder.
 
-# Küçük Akbaba
+## Küçük Akbaba
 
 *Neophron percnopterus*, Egyptian Vulture
 
@@ -112,7 +112,7 @@ Türün eskiden daha yaygın olduğu bilinmektedir. İstanbul'da bir defasında 
 
 Türkiye'de nominat alttürü bulunur.
 
-# Arı Şahini
+## Arı Şahini
 
 *Pernis apivorus*, European Honey Buzzard
 
@@ -143,7 +143,7 @@ Borçka'da detaylı sayımların yapıldığı ve yayınladığı tek yıl 1976 
 
 Monotipik bir türdür.
 
-# Tepeli Arı Şahini
+## Tepeli Arı Şahini
 
 *Pernis ptilorhynchus*, Crested Honey Buzzard
 
@@ -169,7 +169,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Doğu Asya'dır.
 
 Tahnit verisi bulunmamaktadır, fakat yayılış gösterdiği alanlarda alttür *orientalis* olmalıdır.
 
-# Kara Akbaba
+## Kara Akbaba
 
 *Aegypius monachus*, Cinereous Vulture
 
@@ -198,7 +198,7 @@ Türkiye'de üreyen popülasyonunun 20. yüzyılda ciddi oranda azaldığı ve m
 
 Monotipik bir türdür.
 
-# Kızıl Akbaba
+## Kızıl Akbaba
 
 *Gyps fulvus*, Griffon Vulture
 
@@ -229,7 +229,7 @@ Batı ve orta bölgelerde az sayıda kışlayan bireyler bulunur. Türün çoğu
 
 Türkiye'de nominat alttürü bulunur.
 
-# Cambaz Kartal
+## Cambaz Kartal
 
 *Terathopius ecaudatus*, Bateleur
 
@@ -251,7 +251,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Sahra Altı Afrikası'dır.
 
 Monotipik bir türdür.
 
-# Yılan Kartalı
+## Yılan Kartalı
 
 *Circaetus gallicus*, Short-toed Snake Eagle
 
@@ -281,7 +281,7 @@ Sonbahar göçü sırasında ağustos ortasından ekim sonuna kadar gözlenir. �
 
 Monotipik bir türdür.
 
-# Küçük Orman Kartalı
+## Küçük Orman Kartalı
 
 *Clanga pomarina*, Lesser Spotted Eagle
 
@@ -312,7 +312,7 @@ Arada bir kış aylarında kalabilir. 24 Ocak 1993'te Meriç Deltası'nda bir bi
 
 Monotipik bir türdür. Yeni yapılan genetik çalışmalarla küçük ve büyük orman kartalları *Aquila* cinsinden *Clanga* cinsine alınmıştır.
 
-# Büyük Orman Kartalı
+## Büyük Orman Kartalı
 
 *Clanga clanga*, Greater Spotted Eagle
 
@@ -336,7 +336,7 @@ Türkiye'de yuvalamaz. Yuvalama bölgesi Baltık Denizi ile Kuzeydoğu Asya aras
 
 Monotipik bir türdür. Yeni yapılan genetik çalışmalarla küçük ve büyük orman kartalları *Aquila* cinsinden *Clanga* cinsine alınmıştır.
 
-# Küçük Kartal
+## Küçük Kartal
 
 *Hieraaetus pennatus*, Booted Eagle
 
@@ -363,7 +363,7 @@ Göç sırasında Türkiye genelinde daha yaygındır ve sayıca daha fazladır.
 
 Monotipik bir türdür.
 
-# Bozkır Kartalı
+## Bozkır Kartalı
 
 *Aquila nipalensis*, Steppe Eagle
 
@@ -390,7 +390,7 @@ Monotipik bir türdür.
 
 Türkiye'de muhtemelen *orientalis* alttürü bulunur [@roselaar1995].
 
-# Şah Kartal
+## Şah Kartal
 
 *Aquila heliaca*, Eastern Imperial Eagle
 
@@ -420,7 +420,7 @@ Kış aylarında batı, güney ve iç bölgelerde daha yaygın olarak görülür
 
 Monotipik bir türdür.
 
-# Kaya Kartalı
+## Kaya Kartalı
 
 *Aquila chrysaetos*, Golden Eagle
 
@@ -448,7 +448,7 @@ Genellikle 1500 metre üzerinde ürer, ancak üreme dönemi dışında alçak ra
 
 Kış aylarında Trakya'da görülen bireyler belirgin bir şekilde nominat tür olarak tanımlanırken, Anadolu'da olanlar *homeyeri* alttürüdür [@roselaar1995].
 
-# Tavşancıl
+## Tavşancıl
 
 *Aquila fasciata*, Bonelli's Eagle
 
@@ -476,7 +476,7 @@ Karadeniz kıyılarının doğu yarısı, İç Anadolu ve Doğu Anadolu'dan üre
 
 Türkiye'de nominat alttürü bulunur.
 
-# Saz Delicesi
+## Saz Delicesi
 
 *Circus aeruginosus*, Western Marsh Harrier
 
@@ -506,7 +506,7 @@ Kış aylarında batı ve orta bölgelerde, özellikle büyük nehir deltaların
 
 Türkiye'de nominat alttürü bulunur.
 
-# Gökçe Delice
+## Gökçe Delice
 
 *Circus cyaneus*, Hen Harrier
 
@@ -532,7 +532,7 @@ Türkiye'de yuvalamaz. Orta ve Kuzey Avrupa, benzer enlemlerde Orta ve Doğu Asy
 
 Türkiye'de nominat alttürü bulunur.
 
-# Bozkır Delicesi
+## Bozkır Delicesi
 
 *Circus macrourus*, Pallid Harrier
 
@@ -562,7 +562,7 @@ Kışın, Çukurova ve Göksu Deltası'nda düzenli olarak en fazla 5 kuş gör�
 
 Monotipik bir türdür.
 
-# Çayır Delicesi
+## Çayır Delicesi
 
 *Circus pygargus*, Montagu's Harrier
 
@@ -592,7 +592,7 @@ Kışın, Aralık 2001'de Göksu Deltası'nda (Kuşçu Bülteni 10:7) ve 19 Aral
 
 Monotipik bir türdür.
 
-# Şikra
+## Şikra
 
 *Tachyspiza badia*, Shikra
 
@@ -614,7 +614,7 @@ Türkiye'de yuvalamaz. En yakında Ermenistan'da, Batı ve Güney Asya'da yuvala
 
 Türkiye'deki Güney Kafkasya'da olduğu bilinen *cenchroides* alttürünün olması beklenir. Eskiden *Accipiter* cinsinin altında *Accipiter badius* ismiyle sınıflandırılırdı.
 
-# Yaz Atmacası
+## Yaz Atmacası
 
 *Tachyspiza brevipes*, Levant Sparrowhawk
 
@@ -641,7 +641,7 @@ Göç dönemlerinde batı ve orta bölgelerde nispeten yaygındır. İlkbahar g�
 
 Monotipik bir türdür. Eskiden *Accipiter* cinsinin altında *Accipiter brevipes*ismiyle sınıflandırılırdı.
 
-# Atmaca
+## Atmaca
 
 *Accipiter nisus*, Eurasian Sparrowhawk
 
@@ -672,7 +672,7 @@ Borçka ve Arhavi bölgelerinde lisanslı olarak sürdürülen atmacacılık gel
 
 Türkiye'de nominat alttürü bulunur.
 
-# Çakır
+## Çakır
 
 *Accipiter gentilis*, Northern Goshawk
 
@@ -700,7 +700,7 @@ Deniz seviyesinden 2000 metre yüksekliklere kadar olan orman ve koruluklarda ü
 
 Muhtemelen *marginatus* alttürü bulunur [@roselaar1995]. Bazı kaynaklara göre bu alttür nominat alttürün sinonimi olarak kabul edilmelidir[@fergusonlees2001].
 
-# Kızıl Çaylak
+## Kızıl Çaylak
 
 *Milvus milvus*, Red Kite
 
@@ -728,7 +728,7 @@ Türkiye'de yuvalamaz. ORta ve Güney Batı Avrupa'da yuvalar.
 
 Türkiye'de nominat alttürü bulunur.
 
-# Kara Çaylak
+## Kara Çaylak
 
 *Milvus migrans*, Black Kite
 
@@ -759,7 +759,7 @@ Güneydoğu Anadolu'da düzenli ve kalabalık sürüler halinde kışlar [@Biric
 
 Üreyen ve orta ve batı bölgelerinden geçiş yapan nominat alttürdür. Özellikle doğu bölgelerinden geçiş yapan ve Güneydoğu Anadolu'da kalabalık sürüler halinde kışlayanların öne sürülen lineatus alttürü olduğu iddia edilmiştir [@sibley1990].
 
-# Ak Kuyruklu Kartal
+## Ak Kuyruklu Kartal
 
 *Haliaeetus albicilla*, White-tailed Eagle
 
@@ -788,7 +788,7 @@ Göç döneminde ve kış aylarında daha yaygındır. İlkbahar göçü mart so
 
 Monotipik bir türdür.
 
-# Paçalı Şahin
+## Paçalı Şahin
 
 *Buteo lagopus*, Rough-legged Buzzard
 
@@ -812,7 +812,7 @@ Türkiye'de yuvalamaz. Kuzey Avrupa, Asya ve Amerika'da yuvalar.
 
 Türkiye'de nominat alttürü bulunur.
 
-# Şahin
+## Şahin
 
 *Buteo buteo*, Common Buzzard
 
@@ -844,7 +844,7 @@ Kış aylarında alçak ve orta rakımlı bölgelerde görülür. Marmara Bölge
 
 Ülke genelinde ve özellikle göç ve geçit döneminde ağırlıkla. *vulpinus* alttürü bulunur. Kuzeydoğu Anadolu'da ise buna çok benzeyen *menetriesi* alttürü mevcuttur. Özellikle Trakya ve İstanbul Boğazı'nda kışın en soğuk günlerinde *buteo* alttürün özelliklerinin gösteren kuşlar sıkla görülür.
 
-# Kızıl Şahin
+## Kızıl Şahin
 
 *Buteo rufinus*, Long-legged Buzzard
 

@@ -2,7 +2,7 @@
 title: "Ördekgiller"
 ---
 
-# Boz Kaz
+## Boz Kaz
 
 *Anser anser*, Greylag Goose
 
@@ -31,7 +31,7 @@ Geçiş sırasında tüm bölgelerde görülen ve ekimden itibaren mart sonuna k
 
 Ülkemizde *rubrirostris* alttürü bulunur. Bu alttür turuncu gagasıyla Batı ve Orta Avrupa'da bulunan pembe gagalı *anser* alttüründen ayrılır.
 
-# Sakarca
+## Sakarca
 
 *Anser albifrons*, Greater White-fronted Goose
 
@@ -55,7 +55,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra bölgelerinde yuvala
 
 Türkiye'de nominat alttürü bulunur.
 
-# Küçük Sakarca
+## Küçük Sakarca
 
 *Anser erythropus*, Lesser White-fronted Goose
 
@@ -81,7 +81,7 @@ Türkiye'de yuvalamaz. Kuzey İskandinavya'dan Doğu Sibirya'ya kadar uzanan tun
 
 Monotipik bir türdür.
 
-# Tundra Kazı
+## Tundra Kazı
 
 *Anser serrirostris*, Tundra Bean Goose
 
@@ -107,7 +107,7 @@ Türkiye'de yuvalamaz. Üreme alanı Kuzey İskandinavya'dan Doğu Sibirya'ya uz
 
 Tayga Kazı, yakın zamana kadar Tarla Kazı olarak bilinen bir türden ayrılan yeni bir türdür. Beş alttüre sahip olan Tarla Kazı (*Anser fabalis*), iki gruba ayrılmıştır: *fabalis*, *johanseni* ve *middendorffii* alttürleri Tayga Kazı (*Anser fabalis*), *serrirostris* ve *rossicus* alttürleri ise Tundra Kazı (*Anser serrirostris*) olarak sınıflandırılmıştır.
 
-# Yosun Kazı
+## Yosun Kazı
 
 *Branta bernicla*, Brant Goose
 
@@ -129,7 +129,7 @@ Türkiye'de yuvalamaz. Orta ve Kuzey Sibirya'nın Kutup Denizi kıyılarında yu
 
 Bir kayıtta kuşun alttürü *bernicla* olarak tanımlanmıştır. Keza, Kuzeybatı Avrupa'da kışlayan *bernicla* alttürünün Türkiye'de görülmesi olasıdır. Yunanistan'daki bir kayıt da bu alttüre aittir [@handrinos1997].
 
-# Ak Yanaklı Kaz
+## Ak Yanaklı Kaz
 
 *Branta leucopsis*, Barnacle Goose
 
@@ -151,7 +151,7 @@ Türkiye'de yuvalamaz. Grönland, İzlanda, Kuzey Batı Rusya ve Baltık Denizi 
 
 Monotipik bir türdür.
 
-# Sibirya Kazı
+## Sibirya Kazı
 
 *Branta ruficollis*, Red-breasted Goose
 
@@ -179,7 +179,7 @@ Türkiye'de yuvalamaz. Doğu Sibirya'da tundra kuşağında yuvalar.
 
 Monotipik bir türdür.
 
-# Sessiz Kuğu
+## Sessiz Kuğu
 
 *Cygnus olor*, Mute Swan
 
@@ -208,7 +208,7 @@ Kış aylarında Karadeniz, Marmara ve Ege Bölgelerinde yaygın olarak en yüks
 
 Monotipik bir türdür.
 
-# Küçük Kuğu
+## Küçük Kuğu
 
 *Cygnus columbianus*, Tundra Swan
 
@@ -232,7 +232,7 @@ Türkiye'de yuvalamaz. Sibirya Tundra kuşağında yuvalar.
 
 Türkiye'de Eski Dünya'da yaşayan *bewickii* alttürü bulunur; bu alttür, gaga kökü ve yüz derisinin sarı olmasıyla tanınır. Amerika'da yaşayan *columbianus* alttürü ise siyah gaga ve siyah yüz derisi ile kolaylıkla ayırt edilebilir.
 
-# Ötücü Kuğu
+## Ötücü Kuğu
 
 *Cygnus cygnus*, Whooper Swan
 
@@ -254,7 +254,7 @@ Türkiye'de yuvalamaz. Üreme bölgesi Kuzey Avrasya'dadır
 
 Monotipik bir türdür.
 
-# Nil Kazı
+## Nil Kazı
 
 *Alopochen aegyptiaca*, Egyptian Goose
 
@@ -280,7 +280,7 @@ Türkiye'de yuvalamaz. Üreme alanları çoğunlukla Sahra Altı Afrika'dadır.
 
 Monotipik bir türdür.
 
-# Suna
+## Suna
 
 *Tadorna tadorna*, Common Shelduck
 
@@ -309,7 +309,7 @@ Kışlayan toplam nüfus genellikle 1000-5000 birey arasında değişir. Ana kı
 
 Monotipik bir türdür.
 
-# Angıt
+## Angıt
 
 *Tadorna ferruginea*, Ruddy Shelduck
 
@@ -338,7 +338,7 @@ Kış aylarında daha yaygın olarak görülür. En yüksek kış sayımında T�
 
 Monotipik bir türdür.
 
-# Boz Ördek
+## Boz Ördek
 
 *Mareca strepera*, Gadwall
 
@@ -365,7 +365,7 @@ Kızılırmak Deltası, bu türün Türkiye'deki en önemli üreme alanıdır ve
 
 Türkiye'de nominat alttür görülür. Tür eskiden *Anas* cinsi altında sınıflandırılıyordu.
 
-# Fiyu
+## Fiyu
 
 *Mareca penelope*, Eurasian Wigeon
 
@@ -389,7 +389,7 @@ Türkiye'de yuvalamaz. Kuzey Avrupa'da yuvalar.
 
 Monotipik bir türdür. Eskiden *Anas* cinsi altında sınıflandırılırdı.
 
-# Yeşilbaş
+## Yeşilbaş
 
 *Anas platyrhynchos*, Mallard
 
@@ -418,7 +418,7 @@ Sonbaharda göç alır ve popülasyonu artar. Kışlayan gruplar nisan başına 
 
 Türkiye'de nominat alttürü bulunur.
 
-# Kaşıkgaga
+## Kaşıkgaga
 
 *Spatula clypeata*, Northern Shoveler
 
@@ -448,7 +448,7 @@ Tüm bölgelerde yaygın olarak kaydedilen bir geçit türüdür. Göçmen grupl
 
 Monotipik bir türdür.
 
-# Kılkuyruk
+## Kılkuyruk
 
 *Anas acuta*, Northern Pintail
 
@@ -477,7 +477,7 @@ Genellikle eylül ortasından nisan başına kadar batı ve orta bölgelerde gö
 
 Türkiye'de nominat alttürü bulunur.
 
-# Çıkrıkçın
+## Çıkrıkçın
 
 *Spatula querquedula*, Garganey
 
@@ -506,7 +506,7 @@ Nadiren Marmara, Ege ve Akdeniz'de az sayıda kışlar. Olağandışı yumuşak 
 
 Monotipik bir türdür.
 
-# Çamurcun
+## Çamurcun
 
 *Anas crecca*, Eurasian Teal
 
@@ -535,7 +535,7 @@ Kışın hem iç bölgelerde hem de kıyısal sulakalanlarda yüksek sayıda bul
 
 Türkiye'de nominat alttürü bulunur.
 
-# Yaz Ördeği
+## Yaz Ördeği
 
 *Marmaronetta angustirostris*, Marbled Duck
 
@@ -566,7 +566,7 @@ Amik Gölü'nün kurutulmasından önce muhtemelen önemli sayılarda bulunuyord
 
 Monotipik bir türdür.
 
-# Macar Ördeği
+## Macar Ördeği
 
 *Netta rufina*, Red-crested Pochard
 
@@ -596,7 +596,7 @@ Monotipik bir türdür.
 
 Monotipik bir türdür.
 
-# Elmabaş Patka
+## Elmabaş Patka
 
 *Aythya ferina*, Common Pochard
 
@@ -623,7 +623,7 @@ Kışın ve geçiş dönemlerinde ülke genelinde yaygın ve boldur. Son yıllar
 
 Monotipik bir türdür.
 
-# Pasbaş Patka
+## Pasbaş Patka
 
 *Aythya nyroca*, Ferruginous Duck
 
@@ -652,7 +652,7 @@ Geçiş sırasında az ve orta sayılarda bulunur ve ülke genelinde biraz daha 
 
 Monotipik bir türdür.
 
-# Tepeli Patka
+## Tepeli Patka
 
 *Aythya fuligula*, Tufted Duck
 
@@ -679,7 +679,7 @@ Monotipik bir türdür.
 
 Monotipik bir türdür.
 
-# Karabaş Patka
+## Karabaş Patka
 
 *Aythya marila*, Greater Scaup
 
@@ -705,7 +705,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
 Türkiye'de nominat alttürü bulunur.
 
-# Pufla
+## Pufla
 
 *Somateria mollissima*, Common Eider
 
@@ -731,7 +731,7 @@ Türkiye'de yuvalamaz. Ukrayna'daki koloni insan eliyle oluşturulmuş, kolonide
 
 Ülkede gözlenen alttür nominat *mollissima* (Kuzeybatı Avrupa) alttürüdür.
 
-# Kadife Ördek
+## Kadife Ördek
 
 *Melanitta fusca*, Velvet Scoter
 
@@ -762,7 +762,7 @@ Gürcistan'da yuvalamaya devam eden bireyler Karadeniz kıyılarına az sayıda 
 
 Monotipik bir türdür. Eskiden Amerika ve Doğu Sibirya'da yaşayan Ak Kanatlı Kadife Ördek *Melanitta deglandi* ile aynı tür olarak kabul ediliyordu.
 
-# Kara Ördek
+## Kara Ördek
 
 *Melanitta nigra,* Common Scoter
 
@@ -786,7 +786,7 @@ Türkiye'de yuvalamaz. Avrasya'nın kuzeyinde yuvalar.
 
 Monotipik bir türdür.
 
-# Telkuyruk
+## Telkuyruk
 
 *Clangula hyemalis*, Long-tailed Duck
 
@@ -810,7 +810,7 @@ Türkiye'de yuvalamaz. Kuzey İskandinavya dağlarında ve Rusya ve Kuzey Amerik
 
 Monotipik bir türdür.
 
-# Altıngöz
+## Altıngöz
 
 *Bucephala clangula,* Common Goldeneye
 
@@ -834,7 +834,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
 Türkiye'de nominat alttürü bulunur.
 
-# Sütlabi
+## Sütlabi
 
 *Mergellus albellus,* Smew
 
@@ -862,7 +862,7 @@ Türkiye'de yuvalamaz. Avrasya'nın kuzeyinde yuvalar.
 
 Monotipik bir türdür. Türkiye'de tanımlanmıştır.
 
-# Büyük Tarakdiş
+## Büyük Tarakdiş
 
 *Mergus merganser,* Common Merganser
 
@@ -886,7 +886,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
 Türkiye'de nominat alttürü bulunur.
 
-# Tarakdiş
+## Tarakdiş
 
 *Mergus serrator*, Red-breasted Merganser
 
@@ -910,7 +910,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
 Monotipik bir türdür.
 
-# Dikkuyruk
+## Dikkuyruk
 
 *Oxyura leucocephala,* White-headed Duck
 

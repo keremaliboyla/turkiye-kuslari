@@ -2,7 +2,7 @@
 title: "Sinekkapansılar"
 ---
 
-# Derekuşu
+## Derekuşu
 
 *Cinclus cinclus*, White-throated Dipper
 
@@ -27,7 +27,7 @@ Batı ve Orta Anadolu’da 2200 metreye, Doğu Anadolu’da ise 2500 metreye kad
 
 Türkiye'nin kuzeyinde *caucasicus*, Trakya’da *aquaticus*, Marmara'nın geri kalanında ve Toroslar boyunca *olympicus*, güneydoğunun uç kesimlerinde ise *caucasicus* ile *persicus* arasında bir form bulunduğunu ileri sürülmüştür [@roselaar1995]. Türkiye dışında bulunan *rufiventris* alttürü coğrafi olarak yakın olsa da, Toroslar’daki kuşların bu form ile *caucasicus* arasında olabileceği ihtimalini reddetmiş görünmektedir. Daha az sayıda örnek incelenen başka bir çallışmada, Türkiye'deki tüm kuşları *caucasicus* olarak değerlendirmiş, *olympicus* formunu yalnızca Kıbrıs’ta mevcut kabul etmiş ve Türkiye'de tükenmiş olabileceğini belirtmiştir [@brewer2001]. Ayrıca *olympicus taksonunun* *caucasicus* alttürünün sinonimi olabileceğini de öne sürmüşlerdir. Tring Doğa Tarihi Müzesi ve Manchester Müzesi'ndeki örneklerin incelenmesine dayanarak *caucasicus* alttürünün Türkiye genelinde yaygın olduğu görüşü benimsenmiştir. Toroslar’daki bireyler gerçekten olympicus olması durumunda, *caucasicus* ile *olympicus* arasındaki farkın az olduğu ve ancak geniş bir örneklemle tespit edilebileceği belirtilmelidir.
 
-# Sığırcık
+## Sığırcık
 
 *Sturnus vulgaris*, Common Starling
 
@@ -54,7 +54,7 @@ Sonbahar ve kış aylarında batı ve orta bölgelerde çok daha yaygındır. Bu
 
 Durum oldukça karmaşık ve belirsizdir. İç Anadolu ile Akdeniz Bölgesi’nin büyük bölümünde *tauricus*, Doğu Anadolu’da güneyde Başkale’den kuzeyde Erzurum’a kadar *purpurascens* ve Güneydoğu Anadolu’da, Nizip ve Birecik’ten başlayarak Mardin’in Cizre ilçesinin doğusuna kadar olan alanda *oppenheimi* alttürlerinin yayılım gösterdiği düşünülmektedir. Alttürler arasında melezleşme kuşakları oldukça geniştir. Trakya’daki bireyler *nominat* ve *tauricus* alttürlerinin melezi olarak değerlendirilmekte, bu popülasyonlar bazen *balcanicus* alttürü olarak da sınıflandırılmaktadır. Doğu bölgelerde *tauricus* ve *purpurascens* alttürlerinin Yukarı Murat Vadisi’nde ve Doğu Anadolu’nun doğu kesimlerinde, örneğin Eleşkirt ve Elazığ çevresinde melezleştikleri bilinmektedir. @roselaar1995, Ege, Marmara ve Karadeniz Bölgeleri'nin büyük kısmında *tauricus* bulunmadığını, bu bölgelerde görülen bireylerin *vulgaris* ve *tauricus* melezleri olduğunu ileri sürmüş; Güneydoğu Anadolu’daki popülasyonları ise *oppenheimi* olarak kabul etmiştir. Aynı zamanda, görünüşte çok farklılık gösteren *balcanicus* alttürünün aslında oldukça homojen bir yapıya sahip olduğunu belirtmiştir. Buna karşılık diğer bazı kaynaklar, Türkiye’de yalnızca *tauricus* ve *purpurascens* alttürlerini tanımaktadır [@vaurie1959a; @feare1998]. Alttür ayrımı temelde biyometrik ölçümlere dayanmaktadır. Sığırcığın çok geniş bir yayılış alanına sahip olduğu dikkate alındığında, bu son iki yazarın yaklaşımı daha pratik ve uygulanabilir bir sınıflandırma modeli sunmaktadır.
 
-# Alasığırcık
+## Alasığırcık
 
 *Pastor roseus*, Rosy Starling
 
@@ -81,7 +81,7 @@ Göçü sırasında tüm bölgelerde mayıs başından haziran başına kadar d�
 
 Monotipik bir türdür. Cins ismi *Pastor* olarak verilmiştir, ancak 1940’ların başından beri çoğunlukla *Sturnus* cinsi içinde değerlendirilmiştir. Türün *Sturnus* cinsinin diğer üyeleriyle belirgin benzerlikleri bulunmaktadır. Benzer şekilde, Asya'da yaşayan *Sturnia* cinsi sığırcıklar da sıklıkla *Sturnus* içine dahil edilmiştir. Öte yandan, Alasığırcık’ın kavisli gaga yapısı ve parlak, belirgin tepesi *Sturnus* türlerinden çok *Acridotheres* cinsiyle benzerlik gösterir. Ayrıca, sığırcıkların gagalarını kapalı olarak toprağa sokup içeride açmalarını sağlayan çene kasları ve kafatası yapısı, Alasığırcık’ta gelişmemiştir. Bunun yanında, bu türün kayalık alanlarda üremesi ve diğer *Sturnus* türlerinden farklı kur davranışları göstermesi, onu *Pastor* adlı ayrı bir cins içinde değerlendirmenin gerekçesi olmuştur [@feare1998].
 
-# Çiğdeci
+## Çiğdeci
 
 *Acridotheres tristis*, Common Myna
 
@@ -106,7 +106,7 @@ Monotipik bir türdür. Cins ismi *Pastor* olarak verilmiştir, ancak 1940’lar
 
 Türkiye'deki bireylerin hangi alttüre ait olduğu bilinmemektedir.
 
-# Ökse Ardıcı
+## Ökse Ardıcı
 
 *Turdus viscivorus*, Mistle Thrush
 
@@ -133,7 +133,7 @@ Karadeniz ve Trakya’da kısmen göçmendir. İstanbul Boğazı’ndan sonbahar
 
 Türkiye'de nominat alttürü bulunur.
 
-# Öter Ardıç
+## Öter Ardıç
 
 *Turdus philomelos*, Song Thrush
 
@@ -160,7 +160,7 @@ Geçit sırasında ülke genelinde yaygın olarak görülür. Kuzey ve Kuzeydoğ
 
 Türkiye'de nominat alttür bulunur.
 
-# Kızıl Ardıç
+## Kızıl Ardıç
 
 *Turdus iliacus*, Redwing
 
@@ -182,7 +182,7 @@ Türkiye'de yuvalamaz. Yuvalama alanı Kuzey Avrupa ve Kuzey Asya'dır.
 
 Nominat alttür bulunur.
 
-# Karatavuk
+## Karatavuk
 
 *Turdus merula*, Common Blackbird
 
@@ -211,7 +211,7 @@ Kuzey, batı ve güneyin büyük bölümündeki bireyler *aterrimus*, güney kı
 
 Ayrıca, kış döneminde Gaziantep’te gözlenen bir erkek bireyin görünüşe göre *nominat merula* alttürüne ait olduğu bildirilmiştir. Bu formun kış aylarında Lübnan, Ürdün ve Suriye’ye kadar indiği bilinmektedir. Bu türün taksonomisinin netleştirilmesi için daha kapsamlı bir değerlendirme gerekmektedir.
 
-# Tarla Ardıcı
+## Tarla Ardıcı
 
 *Turdus pilaris*, Fieldfare
 
@@ -233,7 +233,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Kuzey Avrasya'dır.
 
 Monotipik bir türdür.
 
-# Boğmaklı Ardıç
+## Boğmaklı Ardıç
 
 *Turdus torquatus*, Ring Ouzel
 
@@ -262,7 +262,7 @@ Az sayıda birey Akdeniz’in düşük ve orta rakımlarında ve güneybatı Ege
 
 Doğu Karadeniz ve Doğu Anadolu’daki bireyler *amicorum* formuna aittir. Toroslar’daki bireyler ise *alpestris* ile *amicorum* arasında geçiş formlarıdır. *Amicorum* ile *alpestris* ve *nominat torquatus* arasındaki varyasyon klinaldir [@roselaar1995], ancak güneydeki kuşların *alpestris* formuna çok daha yakın olduğu görüşündeyiz.
 
-# Kara Gerdanlı Ardıç
+## Kara Gerdanlı Ardıç
 
 *Turdus atrogularis*, Black-throated Thrush
 
@@ -284,7 +284,7 @@ Türkiye'de yuvalamaz. Yuvalama alanı Orta Sibirya'dır. Kışı Güneybatı As
 
 Bu takson, burada olduğu gibi Kızıl Gerdanlı Ardıç’tan ayrı bir tür olarak ele alındığında monotipiktir [@dickinson2003; @rasmussen2005; @gill2006]. Yakın zamana kadar Kızıl Gerdanlı Ardıç (*Turdus ruficollis*) ile birlikte değerlendirilmiş ve aynı tür altında sınıflandırılmıştır [@stepanyan1990]. Her ne kadar Altaylar’ın bazı bölgelerinde ayrı habitatlarda bulunup melezleşmedikleri bilinse de, Rusya [@dementev1951] ve Moğolistan’daki diğer yerlerde geniş ölçekte melezleştikleri bildirildiği için uzun süre tek tür olarak kabul edilmişlerdir [@vaurie1959a]. Ancak, aralarındaki belirgin morfolojik farklılıklar ve ötüşlerinin yakın dönemde önemli ölçüde farklı olduğunun ortaya konması [@arkhipov2003], bu iki formun ayrı türler olarak sınıflandırılmasını desteklemektedir.
 
-# Benekli Sinekkapan
+## Benekli Sinekkapan
 
 *Muscicapa striata*, Spotted Flycatcher
 
@@ -311,7 +311,7 @@ Geçit sırasında tüm ülkede yaygın ve oldukça bol görülür. Bahar göç�
 
 Türkiye’deki popülasyonlar başlangıçta *neumanni* alttürü olarak değerlendirilmiş [@svensson1992], ancak daha sonra ülkenin en batı ucundakiler dahil çoğunun *striata* alttürüne ait olduğu öne sürülmüştür [@roselaar1995]. Saha ve müze çalışmaları, Türkiye genelinde *striata* alttürünün ürediğini doğrulamakta, *neumanni* taksonunun ise *striata* alttürünün sinonimi olarak değerlendirilmesini desteklemektedir. Kırım’da ürediği bildirilen *inexpectata* alttürünün geçit sırasında Türkiye’den geçmesi olasıdır [@svensson1992], ancak şimdiye dek çok az örneği incelendiği için bu alttürün varlığı şüphelidir.
 
-# Çalı Bülbülü
+## Çalı Bülbülü
 
 *Cercotrichas galactotes*, Rufous-tailed Scrub Robin
 
@@ -336,7 +336,7 @@ Ovalardaki çalılıklarda bulunur. Lokal olarak Tuz Gölü’nün kuzeyi, Traky
 
 Türkiye'deki kuşlar gri sırtlı formlardan birine aittir. Gaziantep'in batısındakileri *syriacus*, doğusundakileri *familiaris* olarak tanımlamış, ancak İç ve Doğu Anadolu'dakileri herhangi bir alttürde sınıflandıramamıştır. *Syriacus* ve *familiaris* arasındaki fark çok az olup bu iki grubun birbirlerine karışması bireysel farklılıkla, yıpranmaya ve ağarmaya bağlıdır [@roselaar1995]. Ayrıca, Burdur Gölü ve batısındaki bazı bireylerin üst kısımlarının *familiaris* alttürüne olduğu kadar soluk olduğunu söylemiştir. Kızıl sırtlı ve gri sırtlı kuşlar morfolojilerine dayanarak iki türü temsil ediyor olabilir. Gri sırtlı formun alnı, ensesi ve kanatları kızıl-kahverengi kuyruk sokumu ve kuyruğuyla kontrast oluşturacak şekilde gri-kahverengidir ve sadece nadiren kızıllık belirtisi olabilir; kuyruk ucundaki beyaz benekler daha az belirgin, ancak kenar içi (subterminal) benekler daha geniş olup, orta kuyruk tüyleri üst kısımlarda daha koyudur; kafa deseninde daha çok zıtlık vardır, kanat formülü farklıdır ve göğsü ile yanları daha gridir[@svensson1999; @kok2002]. İki grup, Doğu Akdeniz'de buluşur, ancak bu bölgeden çok az bilgi vardır ve buradaki ilişkileri ile ilgili niteliksel bir çalışma yürütülmemiştir. Bazen *Erythropygia* cinsi altında sınıflandırılır [@delhoyo2004].
 
-# Kızılgerdan
+## Kızılgerdan
 
 *Erithacus rubecula*, European Robin
 
@@ -363,7 +363,7 @@ Geçit döneminde sayıca artar ve daha yaygın hâle gelir. Bu durum özellikle
 
 Batı bölgelerdeki bireylerin *nominat rubecula* alttürüne ait olduğu, Türkiye’de tanımlanan *balcanicus* formunun da bu alttür kapsamında değerlendirilmesi gerektiği ileri sürülmüştür [@roselaar1995]. Doğu Karadeniz’e doğru gidildikçe *caucasicus* etkisinin arttığı görülür. Bu yoruma katılmakla birlikte, iki form arasındaki geçiş bölgesinin genişliği nedeniyle *caucasicus* alttürünün teşhisinin oldukça şüpheli olduğu düşünülmektedir. Kış aylarında *hyrcanus* alttürünün Türkiye’de bulunması da mümkündür.
 
-# Taş Bülbülü
+## Taş Bülbülü
 
 *Irania gutturalis*, White-throated Robin
 
@@ -388,7 +388,7 @@ Batı bölgelerdeki bireylerin *nominat rubecula* alttürüne ait olduğu, Türk
 
 Monotipik bir türdür.
 
-# Benekli Bülbül
+## Benekli Bülbül
 
 *Luscinia luscinia*, Thrush Nightingale
 
@@ -410,7 +410,7 @@ Türkiye'de yuvalamaz. Kuzey Avrupa ülkelerinde yuvalar.
 
 Monotipik bir türdür.
 
-# Bülbül
+## Bülbül
 
 *Luscinia megarhynchos*, Common Nightingale
 
@@ -437,7 +437,7 @@ Monotipik bir türdür.
 
 Zonguldak’tan Çukurova’ya kadar çizilen hattın batısından gelen örneklerin tümünü *baehrmanni* olarak tanımlanmıştır [@roselaar1995]. Doğu Anadolu’nun uç kesimlerindeki bireyler ise *africana* alttürüne ait olabilir; bu durum, aynı alttürün İran ve Ermenistan’da da görülmesiyle uyumludur. Ancak Roselaar, doğudaki bireyler için kesin bir teşhis yöntemi belirleyememiştir. Batıdan gelen örnekleri inceledikten sonra bu bireylerin *baehrmanni* olarak tanımlanmasının zor olduğu söylenir [@cramp1988; @delhoyo2004]. Bazı bireyler *nominat* alttürün tüy renklerini gösterirken, çoğunda hem alt hem de üst tarafların zemin rengi önemli ölçüde örtüşmektedir.
 
-# Mavigerdan
+## Mavigerdan
 
 *Luscinia svecica*, Bluethroat
 
@@ -468,7 +468,7 @@ Türkiye’de üreyen tüm bireyleri *magna* alttürüne aittir [@roselaar1995].
 
 *Kırmızı benekli volgae* ve muhtemelen *beyaz benekli cyanecula* alttürleri ise Türkiye’de geçit sırasında görülür. Her iki forma ait bireyler 1967’de Mogan Gölü’nde [@ost1969] ve 2005 Nisan’ında Malatya’daki Karakaya Barajı’nda tanımlanmıştır. İsrail’deki taksonomik çeşitlilik göz önünde bulundurulduğunda [@shirihai1996; @morgan1997], Türkiye’de *svecica* ya da *pallidogularis* gibi en az bir kırmızı benekli alttürün daha bulunması muhtemeldir [@kumerloeve1961]. Ancak bireyler arasında çok sayıda ara form bulunması ve geniş bireysel varyasyon olması nedeniyle [@morgan1997], birçok bireyin alttürünü güvenle tanımlamak genellikle mümkün değildir.
 
-# Mavi Kuyruklu Bülbül
+## Mavi Kuyruklu Bülbül
 
 *Tarsiger cyanurus,* Red-flanked Bluetail
 
@@ -490,7 +490,7 @@ Türkiye'de yuvalamaz. Yuvalama alanı Finlandiya ile Doğu Sibirya arasındaki 
 
 Monotipik bir türdür.
 
-# Küçük Sinekkapan
+## Küçük Sinekkapan
 
 *Ficedula parva*, Red-breasted Flycatcher
 
@@ -517,7 +517,7 @@ Karadeniz Bölgesi’nde yaygın ve bazı noktalarda oldukça bol geçit yapar. 
 
 Monotipik bir türdür. Doğu Karadeniz'de olan kuşları tanımlayan *colchica* taksonunu geçersizdir [@roselaar1995]. Eskiden doğu formu olarak kabul edilen albicilla taksonu ise vokalizasyon, morfoloji ve ekoloji gibi belirleyici farklara dayanılarak tür seviyesine yükseltilmiş ve Tayga Sinekkapanı (*Ficedula albicilla*) olarak tanımlanmıştır [@svensson1992; @cederroth1999].
 
-# Alaca Sinekkapan
+## Alaca Sinekkapan
 
 *Ficedula semitorquata*, Semicollared Flycatcher
 
@@ -541,7 +541,7 @@ Geçit sırasında ülke genelinde, özellikle de batı yarısında nispeten sey
 
 Monotipik bir türdür.
 
-# Kara Sinekkapan
+## Kara Sinekkapan
 
 *Ficedula hypoleuca*, European Pied Flycatcher
 
@@ -563,7 +563,7 @@ Türkiye'de yuvalamaz. Batı ve Kuzey Avrupa'da yuvalar.
 
 Nominat.
 
-# Halkalı Sinekkapan
+## Halkalı Sinekkapan
 
 *Ficedula albicollis*, Collared Flycatcher
 
@@ -585,7 +585,7 @@ Türkiye'de yuvalamaz. Üreme döneminde yayılış alanı Doğu Avrupa'dır.
 
 Monotipik bir türdür.
 
-# Kızılkuyruk
+## Kızılkuyruk
 
 *Phoenicurus phoenicurus*, Common Redstart
 
@@ -612,7 +612,7 @@ Geçit döneminde daha yaygın ve sayıca daha boldur. Sonbaharda, ilkbahara kı
 
 Türkiye’deki kuşların, Avrupa’da üreyen nominat *phoenicurus* ile Kırım, Kafkaslar ve Orta Asya’da üreyen, ayırt edici kanat lekesine sahip *samamisicus* arasında geçiş formları olduğu düşünülmüştür [@svensson1992]. Ancak @roselaar1995, Türkiye’deki tüm popülasyonların *samamisicus* olduğunu ileri sürmüştür. Türkiye’de nadiren görülen kanat lekesi olmayan bireyler ya çok yıpranmış *samamisicus* bireylerdir ya da göç sırasında geçen *phoenicurus* alttürüne aittir. Örneğin, Manchester Doğa Tarihi Müzesi’ndeki Erzurum’dan gelen iki örnek (BB06770 ve BB06769) bu gruba dahildir. Öte yandan, üreyen bireylerin en azından çoğu *samamisicus* olarak tanımlanmıştır [@ost1969; @ost1972; @ost1975; @ost1978]. İncelediğimiz Türkiye örneklerinin çoğu morfolojik olarak *phoenicurus*’a benzemekle birlikte, bunların tamamının göçmen bireyler olduğu düşünülmektedir. Manchester Müzesi’ndeki örneklerin neredeyse tamamı *samamisicus* olarak tanımlanabilir; sadece BB12192 numaralı birey bu gruba dâhil değildir.
 
-# Kara Kızılkuyruk
+## Kara Kızılkuyruk
 
 *Phoenicurus ochruros*, Black Redstart
 
@@ -639,7 +639,7 @@ Göç döneminde ve kışın ülke genelinde daha yaygındır. Başta güney ve 
 
 Batı ve ORta bölgelerinde üreyen bireylerin büyük çoğunluğunun *ochruros* alttürüne ait olduğu düşünülmektedir. Doğu Anadolu'da *semirufus* ile bazı karışımlar olabilir. Ayrıca, kış aylarında özellikle batı bölgelerinde (Marmara ve Ege’nin büyük kısmında) *gibraltariensis* alttürünün yaygın olduğu kabul edilmektedir [@roselaar1995]. Batı ve Orta Anadolu’da kış döneminde yapılan arazi gözlemleri *gibraltariensis*’in bu bölgelerde yaygın olduğunu doğrulamaktadır.
 
-# Taşkızılı
+## Taşkızılı
 
 *Monticola saxatilis*, Common Rock Thrush
 
@@ -666,7 +666,7 @@ Batı ve ORta bölgelerinde üreyen bireylerin büyük çoğunluğunun *ochruros
 
 Monotipik bir türdür. Bingöl Dağları’nda tanımlanan *coloratus* alttürünün [@stepanyan1964] geçerliliği önce şüpheli yaklaşılmış [@roselaar1995] ve ardından bu formun geçersiz olduğunu ortaya koymuştur [@kirwan2001a].
 
-# Gökardıç
+## Gökardıç
 
 *Monticola solitarius*, Blue Rock Thrush
 
@@ -688,7 +688,7 @@ Akdeniz ve Ege’nin güneyinde kısmen göçmen olup ülkenin diğer bölgeleri
 
 Kuzeydeki bireylerin tamamı *solitarius*, güneydekilerin ise büyük ölçüde *solitarius* ile *longirostris* arasında ara formlar olduğu düşünülmektedir. Güneydoğu Anadolu’dan örnek bulunmamakla birlikte, bu bölgedeki popülasyonların büyük olasılıkla gerçek *longirostris* olduğu öne sürülmektedir [@roselaar1995; @clement2001]. Tür, Avrasya kıtası boyunca klinal varyasyon gösterir ve tarafımızdan incelenen örneklerde *longirostris* alttürünü teşhis etmeyi sağlayacak ayırt edici bir karakter saptamak oldukça güç olmuştur. *Longirostris* için öne sürülen karakterlerden biri olan küçük vücut boyutu daha önce de sorgulanmıştır [@svensson1992]. Girit’te tanımlanmış ancak geçersiz kabul edilen *behnkei* formu, Türkiye’nin güneyindeki popülasyonlar için de önerilmiştir. Bu takson *solitarius*’un sinonimi olarak değerlendirilmelidir [@cramp1988; @delhoyo2006].
 
-# Çayır Taşkuşu
+## Çayır Taşkuşu
 
 *Saxicola rubetra*, Whinchat
 
@@ -712,7 +712,7 @@ Genellikle yaylalarda, uzun ve bazen dikenli çalıların bulunduğu engebeli ot
 
 Monotipik bir türdür. Van Gölü civarından tanımlanan *senguni* formu geçersizdir [@vaurie1959a; @urquhart2002].
 
-# Taşkuşu
+## Taşkuşu
 
 *Saxicola rubicola*, European Stonechat
 
@@ -739,7 +739,7 @@ Geçit dönemlerinde daha kuzeyden gelen göçmen bireylerin varlığına dair �
 
 Türkiye'de yalnızca nominant alttür *rubicola* görülür [@roselaar1995]. Yakın zamana kadar, üç taşkuşu türü tek bir tür (*Saxicola torquatus*) altında sınıflandırılmaktaydı. Ancak günümüzde Afrika Taşkuşu (*S. torquatus*), Avrupa Taşkuşu (*S. rubicola*) ve Sibirya Taşkuşu (*S. maura*) olmak üzere üç ayrı türe ayrılmıştır [@wink2002evolutionary; @urquhart2002]. Avrupa ve Batı Afrika popülasyonları için *rubicola* adı kullanılmalıdır, çünkü *torquatus* adının tip lokalitesi Güney Afrika’daki Ümit Burnu’dur [@urquhart2002].
 
-# Sibirya Taşkuşu
+## Sibirya Taşkuşu
 
 *Saxicola maurus*, Siberian Stonechat
 
@@ -768,7 +768,7 @@ Kış döneminde özellikle Güneydoğu Anadolu ve Akdeniz Bölgesi’nden kayı
 
 Türkiye'de görülen bireylerin tamamı *variegatus* alttürüne aittir. Tanımlanmış olan *armenicus* alttürü, *variegatus*’un bir sinonimi olarak kabul edilmektedir. Bu türün Türkiye’de görülen taksonlarının çoğu Hazar Denizi’nin güneyi, Güney Kafkasya, Doğu Anadolu ve İran’da yayılım gösterir. Diğer alttürler ise Hazar Denizi’nin kuzeyinde bulunur. Bu durum dikkate alındığında, “Sibirya Taşkuşu” olarak önerilen Türkçe isim yanıltıcıdır; zira Türkiye'de görülen bireylerin Sibirya ile ilişkisi oldukça sınırlıdır. Bazı yazarların fikirlerinin tersine [@roselaar1995], 10 Haziran 2000’de Rize-Sivrikaya’da gözlenen bir birey büyük olasılıkla *maurus* alttürüne aittir. Ayrıca, deneyimli bir gözlemci 23 Aralık 2004’te Göksu Deltası’nda iki *maurus* bireyini gözlemlemiş, 4 Ocak 2005’te muhtemelen aynı birey aynı yerde tekrar görülmüştür. Kafkaslar'ın kuzeyinde yaşadığı bildirilen *hemprichii* alttürüne dair Türkiye'den herhangi bir kayıt bulunmamaktadır ve şimdiye kadar bu alttüre ait olduğu düşünülen bireyler mevcut fotoğraflar üzerinden detaylı bir şekilde incelenmemiştir.
 
-# Kara Taşkuşu
+## Kara Taşkuşu
 
 *Saxicola caprata,* Pied Bushchat
 
@@ -790,7 +790,7 @@ Türkiye'de üremez. Doğal yayılış alanı Güney Asya'dır.
 
 Türkiye’de kaydedilen bireylerin, muhtemelen Doğu İran, Kazakistan ve Afganistan’da üreyen ve ayrıca Arabistan ile İsrail’de de gözlenen *rossorum* alttürüne ait olduğu düşünülmektedir.
 
-# Kuyrukkakan
+## Kuyrukkakan
 
 *Oenanthe oenanthe*, Northern Wheatear
 
@@ -817,7 +817,7 @@ Karadeniz ve Akdeniz bölgeleri ile İç ve Güneydoğu Anadolu'nun bozkırları
 
 Türkiye’de üreyen bireylerin tamamı *libanotica* alttürüne dâhil edilmiştir [@roselaar1995]. Göçmenler arasında ise *oenanthe* alttürüne ait bireyler de vardır; örneğin, *NHM 98.9.1.2432* numaralı örnek Danford tarafından Toroslar’da toplanmıştır. Bu alttürler arasındaki sınırlar detaylı şekilde bilinmemektedir.
 
-# Boz Kuyrukkakan
+## Boz Kuyrukkakan
 
 *Oenanthe isabellina*, Isabelline Wheatear
 
@@ -844,7 +844,7 @@ En erken kayıt 25 Şubat’ta Alanya’dan, 29 Şubat’ta ise üreme yayılı�
 
 Monotipik bir türdür.
 
-# Keşiş Kuyrukkakanı
+## Keşiş Kuyrukkakanı
 
 *Oenanthe monacha*, Hooded Wheatear
 
@@ -866,7 +866,7 @@ Türkiye'de yuvalamaz. Yayılış alanı İran, Arabistan ve Mısır'dır.
 
 Monotipiktir.\
 
-# Çöl Kuyrukkakanı
+## Çöl Kuyrukkakanı
 
 *Oenanthe deserti*, Desert Wheatear
 
@@ -893,7 +893,7 @@ Son yıllarda elde edilen bulgular, türün Güneydoğu Anadolu’da ve muhtemel
 
 Türkiye’de üreyen bireylerin büyük olasılıkla nominat alttür olduğu düşünülmektedir [@roselaar1995].
 
-# Kıbrıs Kuyrukkakanı
+## Kıbrıs Kuyrukkakanı
 
 *Oenanthe cypriaca*, Cyprus Wheatear
 
@@ -915,7 +915,7 @@ Türkiye'de yuvalamaz. Üreme döneminde Kıbrıs adasına endemiktir.
 
 Monotipik bir türdür.
 
-# Kara Kulaklı Kuyrukkakan
+## Kara Kulaklı Kuyrukkakan
 
 *Oenanthe melanoleuca*, Black-eared Wheatear
 
@@ -942,7 +942,7 @@ Nisan başından eylül sonuna kadar, Karadeniz ve Trakya kıyıları hariç olm
 
 Monotipik bir türdür. Yakın zamana kadar Batılı Kara Kulaklı Kuyrukkakan, Doğu Akdeniz'de bulunan *melanoleuca* alttürü olarak değerlendirilmiştir. *Hispanica* ve *melanoleuca* arasında Balkanlar’daki geniş bir melezleşme kuşağı bulunmasına rağmen, bu iki formun ayrı türler olabileceği öne sürülmüştür [@sangster1999]. Bu taksonların arazi teşhisi, yakın zamanda kapsamlı bir değerlendirmeye konu olmuştur [@ullman2003].
 
-# Alaca Kuyrukkakan
+## Alaca Kuyrukkakan
 
 *Oenanthe pleschanka*, Pied Wheatear
 
@@ -966,7 +966,7 @@ Geçit sırasında çoğunlukla Doğu Anadolu üzerinden, daha nadir olarak kıy
 
 Monotipik bir türdür.
 
-# Ak Tepeli Kuyrukkakan
+## Ak Tepeli Kuyrukkakan
 
 *Oenanthe leucopyga*, White-crowned Wheatear
 
@@ -988,7 +988,7 @@ Türkiye'de yuvalamaz. Yuvalama alanı Sahra Çölü ve Arabistan çölleridir.
 
 Hangi formun bulunduğu bilinmemektedir.
 
-# Ak Sırtlı Kuyrukkakan
+## Ak Sırtlı Kuyrukkakan
 
 *Oenanthe finschii*, Finsch's Wheatear
 
@@ -1013,7 +1013,7 @@ Hangi formun bulunduğu bilinmemektedir.
 
 Kafkaslar ve Batı İran'la birlikte Türkiye'nin doğu bölgeleri, vücut rengi bakımından *finschii*, kuyruk deseni açısından ise *barnesi* özellikleri gösteren kuşların bulunduğu geniş bir geçiş kuşağındadır. Ancak Türkiye’deki bireylerin tamamı, görünüşe göre nominat *finschii* alttürüne aittir [@roselaar1995]. Biz de bu geçiş kuşağının Türkiye bölümünden yalnızca bir örnek inceledik. Tring Doğa Tarihi Müzesi'nde bulunan bu dişi birey (1907.12.21.131) her açıdan nominat *finschii* ile birebir örtüşmektedir. *Barnesi*, Collar (del Hoyo vd. 2005) tarafından ayrı bir alttür olarak değerlendirilse de, Tring ve Şikago’daki müze örneklerine göre yalnızca çok zayıf düzeyde farklılaşmış bir form gibi görünmektedir. Geçmişte Kara Sırtlı Kuyrukkakan ile aynı tür olarak ele alınmıştır.
 
-# Kara Sırtlı Kuyrukkakan
+## Kara Sırtlı Kuyrukkakan
 
 *Oenanthe lugens*, Mourning Wheatear
 
@@ -1035,7 +1035,7 @@ Türkiye'de yuvalamaz. Nominat form, Suriye’de Halep’e kadar kuzeye ulaşan 
 
 Türkiye’deki ilk kaydın alttür düzeyinde tanımlaması yapılmamıştır ve görünüşe göre, eskiden Münih’te bulunan bu örnek günümüzde kayıptır [@kumerloeve1975a]. İkinci örnek ise, Kuzey Afrika’da Fas’tan Mısır’ın batısındaki çöl bölgelerine kadar uzanan alanda üreyen *halophila* alttürüne ait gibi görünmektedir [@bahaeldin2000]. *Kara Sırtlı Kuyrukkakan* üsttürü, Batı Palearktik kuşlarıyla çalışan taksonomistler için önemli taksonomik zorluklar sunar. Bu kompleksin beş veya daha fazla tür içerebileceği öne sürülmektedir.
 
-# Kızılca Kuyrukkakan
+## Kızılca Kuyrukkakan
 
 *Oenanthe xanthoprymna*, Kurdish Wheatear
 
@@ -1062,7 +1062,7 @@ Geçit sırasında Akdeniz Bölgesi’nde görülür; örneğin Halfeti’de 20 
 
 Monotipik bir türdür. Eskiden İran Kuyrukkakanı (*Oenanthe chrysopygia*), Kızılca Kuyrukkakan’ın (*Oenanthe xanthoprymna*) *chrysopygia* adlı bir alttürü olarak sınıflandırılmıştır. Ancak bu iki formun ayrı türler olduğu uzun süredir savunulmakta ve birçok yazar tarafından desteklenmektedir [@ivanov1941; @bates1935; @helbig1984; @nikolaus1987; @roselaar1995; @dickinson2003; @rasmussen2005; @delhoyo2004]. @roselaar1995 *chrysopygia* formunun Doğu Anadolu’da Aras Vadisi çevresinde ve batıda Erzurum’a kadar uzanabileceğini öne sürmüştür. Ancak bu tahmin doğrulanmamıştır. Bununla birlikte, İran Kuyrukkakanı’nın Ermenistan’da, Türkiye sınırına yalnızca 15 km uzaklıkta ürediği bilinmektedir [@ananian2005]. Nadiren ara formların raporlanmış olması, *xanthoprymna* ile *chrysopygia* arasında sınırlı da olsa melezleşme olasılığına işaret etmektedir. Bu potansiyel melezleşme bölgesi, Malatya’nın kuzeyi ile Erzincan’ın güneyi arasında kalan dar bir alandır ve belgelenmiş olan alaca kuyrukkakan ile kara kulaklı kuyrukkakan arasındaki melezleşme bölgesine kıyasla çok daha önemsizdir [@haffer1977].
 
-# İpekkuyruk
+## İpekkuyruk
 
 *Bombycilla garrulus*, Bohemian Waxwing
 
@@ -1086,7 +1086,7 @@ Türkiye'de yuvalamaz. Kuzey Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
 Türkiye'de nominat alttürü bulunur.
 
-# Hurmayiyen
+## Hurmayiyen
 
 *Hypocolius ampelinus*, Grey Hypocolius
 
@@ -1108,7 +1108,7 @@ Türkiye'de yuvalamaz. Hurmayiyen, esas olarak kuzeyde Musul’a kadar uzanan Di
 
 Monotipik bir türdür.
 
-# Filistin Nektarkuşu
+## Filistin Nektarkuşu
 
 *Cinnyris osea*, Palestine Sunbird
 

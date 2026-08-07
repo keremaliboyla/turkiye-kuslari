@@ -2,7 +2,7 @@
 title: "Çalıkuşları - Çıtkuşu"
 ---
 
-# Sürmeli Çalıkuşu
+## Sürmeli Çalıkuşu
 
 *Regulus ignicapilla*, Common Firecrest
 
@@ -29,7 +29,7 @@ Ancak geçit döneminde nispeten yaygın ve boldur. Bu dönemde Trakya ve deniz 
 
 Türkiye'den şimdiye kadar herhangi bir örnek toplanmamış olmakla birlikte [@roselaar1995], ülkedeki popülasyonların nominat formu temsil ettiği kabul edilmektedir [@vaurie1959a]. Ancak, bu tür için kıta içindeki coğrafi varyasyon seviyesi bir alttür tanımlamak için yetersizdir [@baker1997]. Kırım’ın güneyinde gözlenen, ancak kışın Doğu Karadeniz ve Kafkaslar’a indiği düşünülen ve tüylerinin koyuluğuyla ayırt edilen tauricus formu [@redkin2001], nominat alttürün sinonimi olarak değerlendirilmiştir. Ayrıca, tür isminin doğru yazımı *ignicapillus* değil, *ignicapilla* olmalıdır [@david2002a].
 
-# Çalıkuşu
+## Çalıkuşu
 
 *Regulus regulus*, Goldcrest
 
@@ -56,7 +56,7 @@ Karadeniz Bölgesi’nde geçiş yaptığına işaret eden sayılarda görülür
 
 Türkiye’de bulunan tüm örnekleri genellikle daha mat, soluk ve gri renkli olan *buturlini* alttürü olarak değerlendirmiş olsa da, *regulus* alttürünün Trakya’ya uzanma olasılığı [@roselaar1995] vardır.
 
-# Duvar Tırmaşıkkuşu
+## Duvar Tırmaşıkkuşu
 
 *Tichodroma muraria*, Wallcreeper
 
@@ -81,7 +81,7 @@ Akdeniz ve İç Anadolu sınırında, Doğu Karadeniz’de ve nadiren Doğu Anad
 
 Türkiye’de *nominat* alttür görülür.
 
-# Anadolu Sıvacısı
+## Anadolu Sıvacısı
 
 *Sitta krueperi*, Krüper's Nuthatch
 
@@ -106,7 +106,7 @@ Hem ibreli hem de karışık ormanlarda görülür, özellikle kızılçam (*Pin
 
 Monotipik bir türdür.
 
-# Kaya Sıvacısı
+## Kaya Sıvacısı
 
 *Sitta neumayer*, Western Rock Nuthatch
 
@@ -136,7 +136,7 @@ Batı ve orta bölgelerin *syriaca* alttürü tarafından mesken edildiğini, bu
 
 *Rupicola*’nın hem alt hem de üst kısımlarındaki renklenmede önemli varyasyonlar bulunur. Azerbaycan’daki bireylerin üst ve alt kısımları *syriaca* veya *neumayer* ile karşılaştırıldığında genellikle daha açık renkli olsa da, tür içinde gözlenen geniş varyasyon bu farkların yorumlanmasını zorlaştırır. Gözlemlerimize göre bazı bireylerin üst tarafı, alt tarafı kadar koyu olabilir; bazı bireylerde ise alt kısımdaki koyuluk Batı Anadolu’daki kuşlardan daha geniş ve doygundur. Bu tür küçük ölçekli varyasyonların belgelenmesi sırasında ortaya çıkan tutarsızlıklar, böyle bir çalışmanın ne kadar sınırlı ve gereksiz olduğunu da ortaya koymaktadır. Bu nedenle *rupicola*, *syriaca* ve *zarudnyi* alttürlerinin hepsi *neumayer*’in sinonimi olarak değerlendirilmelidir.
 
-# Büyük Kaya Sıvacısı
+## Büyük Kaya Sıvacısı
 
 *Sitta tephronota*, Eastern Rock Nuthatch
 
@@ -161,7 +161,7 @@ Kayalık yarlarda, iri taş ve kaya parçalarının bulunduğu dik kayalık yama
 
 Güneydoğu ve Doğu Anadolu’nun büyük kısmında *dresseri*, Aras Vadisi ve batısında ise daha küçük yapılı bir form olan *obscura* alttürü bulunur [@roselaar1995; @harrap1996]. Gözlenen *obscura* alttürübireylerin Ermenistan’dakiler gibi son derece açık renklere sahiptir. Bu bağlamda, *obscura* alttürünün tüy rengi oldukça değişkendir. İran popülasyonlarının bu alttürle ilişkisini netleştirmek amacıyla yeni arazi çalışmaları yapılması gereklidir. Şikago Doğa Tarihi Müzesi’ndeki (Field Museum of Natural History) İran örnekleri incelendiğinde *dresseri* ve *obscura* alttürlerinin birbirine çok yakın olduğu, ancak *dresseri*’nin genel olarak biraz daha büyük yapılı olduğu tespit edilmiştir. Bu iki form arasında renk farkı net bir ayırt edici özellik sunmaz; örneğin Zagros Dağları’ndaki Luristan Eyaleti’nden gelen *dresseri* örnekleri *obscura* kadar koyu renkte olabilirken, daha kuzeybatı ve güneydoğudan gelen bireyler daha açık renkli olabilir. Sürmenin kalınlığı ve uzunluğu da büyük ölçüde değişkenlik gösterir ve alttürler arasında büyük ölçüde örtüşür. Aynı durum alt tarafın renklenmesi için de geçerlidir. Buna karşın, kuzey ve doğuda bulunan *tephronota* alttürü, kış tüylerinde belirgin biçimde pembemsi devetüyü rengi ve arkada çok daha belirsiz, ince sürme çizgisiyle ayırt edilebilir. Yine de, alt tarafın rengine dayalı alttür tayini güvenilir değildir.
 
-# Sıvacı
+## Sıvacı
 
 *Sitta europaea*, Eurasian Nuthatch
 
@@ -186,7 +186,7 @@ Genellikle orman ve ormanlık alanlarda, ayrıca park ve bahçelerde bulunur. Ba
 
 Türkiye'deki bireyler, devetüyü renkli *caesia* grubuna aittir [@harrap1996]. Kuzey Trakya’da incelenen iki örnek, beyaz göğüslü *europaea* ile *caesia* arasında geçiş formu olabilir [@roselaar1995]. *Levantina* alttürü geçerli kabul edilirse Türkiye’ye endemik bir alttürdür ve bu durumda Roselaar’ın incelediği kuşlar *caesia* ile *levantina* arasındaki geçiş formu olarak değerlendirilebilir. Marmara ve Kuzey Ege’deki bireyler *caesia*, Güney Anadolu’dakiler *levantina*, Karadeniz Bölgesi’ndekiler ise *caucasica* alttürüne ait olabilir. Batı Karadeniz popülasyonları, *caesia* ve *levantina* arasında geçiş formu olduklarına dair bulgular göstermektedir. Güneydoğu Anadolu’da ise Roselaar, gözlenen kuşların *persica* olabileceğinden şüphelenmektedir. Tring Doğa Tarihi Müzesi’ndeki örneklerin incelenmesi sonucunda ikisi devetüyü karınlı, biri beyaz karınlı olmak üzere üç ayrı grubun tanınması gerektiği anlaşılmıştır. Bu, diğer bazı yazarların değerlendirmeleriyle de örtüşmektedir. Öte yandan, *caesia* grubu içindeki varyasyonun çok düşük olması nedeniyle bu grupta tanımlanmış altı formun *caesia*’nın sinonimi olarak değerlendirilmesi mümkündür.
 
-# Orman Tırmaşıkkuşu
+## Orman Tırmaşıkkuşu
 
 *Certhia familiaris*, Eurasian Treecreeper
 
@@ -213,7 +213,7 @@ Ekim 1969’da Toroslar’daki Karanfil Dağı’nda alınan bir sonbahar kaydı
 
 Trakya’da nominat *familiaris*, ülkenin geri kalanında ise *caucasica* alttürü bulunur [@roselaar1995]. Buna karşın ülkenin kuzeyi boyunca *persica* alttürünün bulunduğu öne sürülmüştür [@harrap1996]. Bu görüş, *caucasica* alttürünün büyük olasılıkla *persica*’nın bir sinonimi olduğu varsayımına dayanmaktadır. Ancak *persica*’nın yayılış alanı Hazar Denizi çevresindeki ovalar ve Kuzey İran ile sınırlıdır [@roselaar1995]. Orman Tırmaşıkkuşu’nun Kuzey Avrasya’daki taksonları arasında varyasyon düzeyi düşüktür ve büyük ölçüde klinal bir yapı gösterir [@harrap1996]. Bu varyasyon temelde, kızıl rengin batıdan doğuya giderek azalmasına dayanır. Bu nedenle, *familiaris* grubundaki isimlendirilmiş coğrafi varyasyonların nominat *familiaris*’in sinonimi olarak değerlendirilmesi en uygun yaklaşımdır. Yine de en az beş takson içeren kuzeydeki *familiaris* grubu ile dört takson tanımlanmış olan Çin-Himalaya grubu arasındaki taksonomik ilişkilerin daha fazla araştırılması gerektiği açıktır [@collar2007].
 
-# Bahçe Tırmaşıkkuşu
+## Bahçe Tırmaşıkkuşu
 
 *Certhia brachydactyla*, Short-toed Treecreeper
 
@@ -240,7 +240,7 @@ Yaprak döken, karışık ve ibreli ormanlarda, izole koruluklarda ve ağaç sı
 
 Türkiye’de bulunanların yalnızca *harterti* alttürü olduğu düşünülmüştür [@harrap1996]. Diğer yandan [@roselaar1995], Trakya popülasyonlarının büyük olasılıkla nominat *brachydactyla* olduğunu, Doğu Karadeniz popülasyonlarına *harterti*, Toros popülasyonlarına ise *stresemanni* adı verildiğini belirtmiştir. Ancak tahnit edilmiş örnek sayısının azlığı bu karmaşık durumu çözmeyi zorlaştırmaktadır. Bazı yazarlar *stresemanni*’yi *harterti*’nin, *harterti*’yi ise *brachydactyla*’nın sinonimi olarak değerlendirmiştir. Bu karışıklık karşısında Roselaar, *stresemanni*’nin geçerliliğini savunmuş ve geçerli kabul edilmesi hâlinde bu alttürün Türkiye’ye endemik olduğunu belirtmiştir. Ancak morfolojik farklılıkların son derece sınırlı olması, ses özelliklerinin tamamen aynı olması ve varyasyonun büyük ölçüde klinal olması gibi nedenlerle, taksonomik olarak bu sınıflamaların yapılması gereksiz görülmelidir. Bu nedenle *stresemanni* ve *harterti* alttürleri *brachydactyla*’nın sinonimi olarak değerlendirilmelidir.
 
-# Çıtkuşu
+## Çıtkuşu
 
 *Troglodytes troglodytes*, Eurasian Wren
 

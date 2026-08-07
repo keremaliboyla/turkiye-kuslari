@@ -2,7 +2,7 @@
 title: "Dağbülbülleri - İncirkuşları"
 ---
 
-# Büyük Dağbülbülü
+## Büyük Dağbülbülü
 
 *Prunella collaris*, Alpine Accentor
 
@@ -29,7 +29,7 @@ Kış dönemine dair bilgiler oldukça sınırlıdır. Bu mevsimde irtifa göç�
 
 Doğu Anadolu’da [@roselaar1995] ve muhtemelen Güney Marmara ile Batı Karadeniz’de [@kumerloeve1961] *montana* alttürünün bulunduğu düşünülmektedir. Toroslar’da ise *subalpine* alttürünün varlığı öne sürülmektedir. Bu bölgeden incelenen örneklerde, üst taraflardaki kızıl çizgilenmenin yoğunluğu ve genişliği ile boğaz tüylerinin uçlarındaki koyuluk (yıpranma etkisinden bağımsız olarak) *montana* alttürüyle uyum göstermektedir.
 
-# Sibirya Dağbülbülü
+## Sibirya Dağbülbülü
 
 *Prunella montanella,* Siberian Accentor
 
@@ -51,7 +51,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Kuzey Asya'dır. Kışı
 
 Türkiye’de gözlenen bireylerin büyük olasılıkla nominat alttür *montanella* olduğu düşünülmektedir.
 
-# Sürmeli Dağbülbülü
+## Sürmeli Dağbülbülü
 
 *Prunella ocularis*, Radde's Accentor
 
@@ -78,7 +78,7 @@ En azından bir kısmı kışın daha düşük rakımlara iner. Bu dönemde düz
 
 Monotipik bir türdür.
 
-# Kara Boğazlı Dağbülbülü
+## Kara Boğazlı Dağbülbülü
 
 *Prunella atrogularis*, Black-throated Accentor
 
@@ -100,7 +100,7 @@ Türkiye'de yuvalamaz. Ural Dağları ve Altay Dağları'nda yuvalar, kışı Or
 
 Monotipiktir.
 
-# Dağbülbülü
+## Dağbülbülü
 
 *Prunella modularis*, Dunnock
 
@@ -127,7 +127,7 @@ Kış aylarında Batı ve Orta Anadolu’nun düşük rakımlı bölgelerinde ol
 
 Marmara'nın güneyinden gelen bireyler ve muhtemelen Batı Karadeniz'deki kuşlar Türkiye'ye endemik *euxina* alttürüne, Karadeniz'in kuzeydoğusundakiler ise *obscura* alttürüne dâhil edilmiştir [@roselaar1995]. Kış aylarında Trakya’da görülen bireylerin, muhtemelen *meinertzhageni* ve belki de *modularis* alttürlerine ait olabileceği ileri sürülmüştür. Robson tarafından şubat ayı sonunda toplanan ve Tring Doğa Tarihi Müzesi'nde bulunan bir örnek (88 April 1920.1244) *modularis* alttürüne ait olabilir. İncelediğimiz diğer Türkiye örnekleri ise alttür düzeyinde güvenle tanımlanamamaktadır. Alt taraf tüy rengi gibi bazı değişken özellikler farklılık gösterse de, bu varyasyonların tanımlanmış alttürlerle tam olarak örtüşmediği görülmektedir [@svensson1992].
 
-# Serçe
+## Serçe
 
 *Passer domesticus*, House Sparrow
 
@@ -152,7 +152,7 @@ Gözlemcilerin dikkatini çeken bir tür olmadığı için, mevcut durumu ve yay
 
 Alttür düzeyindeki coğrafi varyasyonları ve popülasyonları ayırt etmek oldukça zordur. Batı ve iç bölgelerde *balearoibericus*, Karadeniz kıyısı boyunca *domesticus*, Erzurum ve Van'ın doğusundaki Doğu Anadolu’nun dağlık bölgelerinde ise endemik olarak tanımlanan *mayaudi* alttürü kaydedilmiştir [@roselaar1995]. Ancak Van’da *mayaudi* adıyla tanımlanan bu alttür artık geçerli kabul edilmemektedir. Güneydoğu Anadolu’da, Birecik’ten Ceylanpınar’ın doğusuna kadar uzanan bölgede, Doğu Akdeniz, Suriye ve İran’daki popülasyonlarla uyumlu olan *biblicus* alttürü görülmektedir. Türkiye'nin kuzey ve doğusundaki diğer bölgelerinde bulunan alttürün hangisi olduğu ise henüz netlik kazanmamıştır, çünkü bu bölgelerden yeterli müze materyali bulunmamaktadır. Kuzeydoğu Anadolu'daki Artvin ve Güney Gürcistan'da tanımlanmış *colchicus* alttürü ise geçerli kabul edilmemektedir [@portenko1962]. *Summers-Smith* [@summerssmith1988], Türkiye’deki tüm serçelerin *biblicus* alttürüne ait olduğunu öne sürmüştür. Bu nedenle, Anadolu’daki taksonomik durum oldukça karmaşık olup detaylı bir çalışma gerektirmektedir.
 
-# Söğüt Serçesi
+## Söğüt Serçesi
 
 *Passer hispaniolensis*, Spanish Sparrow
 
@@ -179,7 +179,7 @@ Göç dönemlerinde tür, toplu hâlde daha yaygın hâle gelir. Sürüler genel
 
 Türkiye’deki kuşlar, genellikle nominat alttür *hispaniolensis* ile *transcaspicus* alttürü arasında geçiş formu olarak kabul edilir. Marmara, Ege ve Göller Bölgesi gibi batı bölgelerinde bulunan daha küçük gövdeli bireyler *hispaniolensis* olarak değerlendirilirken, Göksu ve Çukurova deltalarında görülen ve doğuda Başkale’ye, kuzeyde Yukarı Murat Vadisi’ne kadar uzanan daha iri yapılı bireyler *transcaspicus* alttürüne dâhil edilmiştir [@roselaar1995]. Buna karşın, *Kumerloeve* Ceylanpınar’a kadar olan doğu yayılımını *hispaniolensis* olarak tanımlamış, ancak daha önce tüm Anadolu popülasyonlarının alttür açısından belirlenemez olduğunu savunmuştur [@kumerloeve1970a; @vaurie1959a]. Batı Akdeniz, Karadeniz ve İç Anadolu’nun büyük bir bölümünden tahnit örneği incelenmeden, *hispaniolensis* alttürünün İç Anadolu’nun büyük kısmında, en azından Tuz Gölü’nün güneyi ve doğusunda bulunan *transcaspicus* alttürüyle birlikte Karadeniz Bölgesi’nde de bulunabileceğini öne sürülmüştür [@roselaar1995]. Ancak bu durum tartışmalıdır, çünkü *transcaspicus*, özellikle dişilerde, sadece tüy değişimi sonrasında tespit edilebilecek düzeyde daha soluk ve daha az kestane rengi barındıran bireylerle ayırt edilebilir [@summerssmith1988]. Bu düzeydeki coğrafi varyasyonlar için alttür ismi vermek çoğu zaman gerekli görülmemektedir.
 
-# Küçük Serçe
+## Küçük Serçe
 
 *Passer moabiticus*, Dead Sea Sparrow
 
@@ -205,7 +205,7 @@ Kışlama davranışı hakkında bazı bilgiler mevcuttur [@summerssmith1988; @s
 
 Türkiye’de nominat alttür bulunur. Öncesinde, Ceylanpınar ve Birecik popülasyonları araştırılmış, buradaki bireyler *mesopotamicus* adı altında tanımlanmıştır [@roselaar1995]. Ancak bu alttür, *mesopotamicus* olarak kabul edilmemiştir [@summerssmith1988]. Güneydoğu Anadolu’da gözlenen bireyler ile Tring Doğa Tarihi Müzesi’nde bulunan Güneybatı İran ve Irak kaynaklı tahnit örnekleri morfolojik olarak *nominat moabiticus* ile tamamen örtüşmektedir. Ceylanpınar’dan topladığı örnekler de nominat *moabiticus* ile uyumludur [@kumerloeve1970a]. Sonuçta, Güney Türkiye, Kuzey Suriye, Irak ve Güneybatı İran’daki bireyler için önerilen *mesopotamicus* adı nominat alttürün bir sinonimi olarak değerlendirilmiştir.
 
-# Ağaç Serçesi
+## Ağaç Serçesi
 
 *Passer montanus*, Eurasian Tree Sparrow
 
@@ -227,7 +227,7 @@ Yerleşim alanlarının çevresindeki tarım arazilerinde, yer yer 1750 m yükse
 
 Ülkenin kuzeyi ve doğusunda, Erzurum ve Elazığ’a kadar olan bölgelerde *transcaucasicus* alttürü bulunur. Diğer bölgelerdeki alttür durumu belirsizdir. Ankara, İç Anadolu ve muhtemelen Karadeniz Bölgesi'nde bulunan bireyler, *montanus* alttürüne benzer özellikler taşır. İstanbul’daki ve muhtemelen tüm Marmara ile Batı Karadeniz’deki bireyler *transcaucasicus* olarak tanımlanmıştır [@keve1978]. İç Anadolu’daki popülasyonların açıkça *montanus* olduğunu belirtmiştir [@roselaar1995]; ancak daha sonraki araştırmacılar bu bölgedeki bireyleri *montanus* ile *transcaucasicus* arasında melez olarak değerlendirmiştir. Türkiye’de bulunan tek alttürün *montanus* olduğunu öne sürenler de vardır [@summerssmith1988]. Görüldüğü üzere, *montanus* ve *transcaucasicus* arasındaki farklılaşma değişkendir. Türkiye'nin doğusuna doğru gidildikçe, bireylerin özellikleri *dilutus* alttürüne yaklaşmaktadır.
 
-# Sarı Boğazlı Serçe
+## Sarı Boğazlı Serçe
 
 *Gymnoris xanthocollis*, Yellow-throated Sparrow
 
@@ -249,7 +249,7 @@ Genellikle Antep fıstığı bahçelerinde ya da meşe ormanlarında ürer. Sess
 
 Türkiye’de bulunan kuşların, İran ve Irak sınırlarına kadar yayılan *transfuga* alttürüne ait olduğu düşünülmektedir [@roselaar1995], ancak bunu doğrulayacak herhangi bir müze örneği mevcut değildir. Tür, geleneksel olarak *Petronia* cinsi içinde sınıflandırılmış olsa da, tüylenme yapısındaki farklılıklar, fizyolojik özellikleri, yaşam alanı tercihleri ve Kaya Serçesi'nden ayrılan davranış özellikleri nedeniyle diğer üç Afrotropikal tür olan Sarı Benekli Serçe (*Gymnoris pyrgita*), Ak Kaşlı Serçe (*Gymnoris superciliaris*) ve Çalı Serçesi (*Gymnoris dentata*) ile birlikte *Gymnoris* cinsine alınmıştır [@cramp1994; @roselaar1995; @beaman1998; @gill2006].
 
-# Kaya Serçesi
+## Kaya Serçesi
 
 *Petronia petronia*, Rock Sparrow
 
@@ -276,7 +276,7 @@ Kışın çoğunlukla daha alçak bölgelere göçer ve bazen kıyılara kadar i
 
 Ege ve Güney Marmara’daki kuşları *nominat*, İç ve Doğu Anadolu’nun kuzeyindeki bireyleri *exigua* ve Güneydoğu Anadolu’dakileri *puteicola* alttürüne dâhil etmiştir [@roselaar1995]. Kaya Serçesi'nin taksonomik varyasyonlarını ayırt etmek için kullanılabilecek morfolojik farklar son derece sınırlıdır [@clement1993finches]. Bu nedenle, birçok formun *nominat* alttürün sinonimi olarak değerlendirilmesi daha doğru bir yaklaşım olabilir.
 
-# Boz Serçe
+## Boz Serçe
 
 *Carpospiza brachydactyla*, Pale Rockfinch
 
@@ -303,7 +303,7 @@ Geç gelen bir göçmendir; genellikle mayıs başı veya ortasında gelir, baz�
 
 Monotipik bir türdür. Türün taksonomik konumu adeta bilmece gibidir ve moleküler araştırma gerektirmektedir. Birçok yazara göre üreme biyolojisi ve morfolojisi ispinozların (Fringillidae) bir altfamilyası olan sakagilleri (Carduelinae) işaret ederken kafatası yapısı sakagillerden ayrıdır [@morony1975; @roselaar1995; @cramp1994; @fry2004]. Türün sesinde, davranışında ve morfolojisinde Petronia cinsi ve eskiden Petronia altında sınıflandırılan *Gymnoris* gibi cinsler ile yakın bir ilişki bulunmaz. Türün çene morfolojisi, dil aparatı ve kafatası yapısına bakıldığında söz konusu türün oldukça sıradışı olduğunu; tohumcul ötücülerin ortak atalarından üç ana familya olan serçegiller (Passeridae), çintegiller (Emberizidae) ve ispinozgillere (Fringillidae) çeşitlenme sürecinin çok erken bir evresinde dallanmış, çağdaş zamanların nesli tükenen bir canlısı gibidir. Üreme biyolojisi, yumurtaların rengi ve üzerlerindeki lekeler, görece dar gagası ve yuvaların seyrek şekilde yapılması daha çok Fringillidae'ye benzer. Carduelinae altfamilyası kapsamında değerlendirmiştir [@fry2004]. Passeridae ailesi içinde değerlendirmek için iskelet yapısında kanıtlar bulmuştur [@bock2004]. Bu farklı görüşler göz önünde bulundurulduğunda, türün sınıflandırması hakkında kesin bir yargıya varılmadan önce genetik analizlerin sonuçlarını beklemek en doğru yaklaşım olacaktır.
 
-# Kar Serçesi
+## Kar Serçesi
 
 *Montifringilla nivalis*, White-winged Snowfinch
 
@@ -328,7 +328,7 @@ Doğu Anadolu, Doğu Karadeniz Dağları’nın büyük bölümü, Güneydoğu A
 
 Türkiye'deki bireylerin tamamı, Türkiye’ye endemik *leucura* alttürü altında sınıflandırılmıştır [@roselaar1995]. Bu alttür, bazı araştırmacılar tarafından *alpicola* alttürünün sinonimi olarak kabul edilir. Roselaar, *alpicola*'nın yayılışını Güney Kafkasya ve Güneybatı İran ile sınırlandırırken, diğer yazarlar bu alttürün Orta Asya’dan Moğolistan’a kadar uzandığını belirtir. Öte yandan nominat *nivalis*, Güneybatı Avrupa’dan Balkanlar’a kadar yayılış gösterir. *Leucura* alttürü, görünüşe göre nominat *nivalis* ile *alpicola* arasında bir geçiş formudur ve bu üç alttür arasında morfolojik varyasyonlar süreklilik göstermektedir. *Nivalis* ile *alpicola* arasındaki farklar açıkça belirlenmişken, *leucura* ile *alpicola* arasındaki farklar belirsizdir. Bu nedenle, *leucura*’nın *alpicola*’nın sinonimi olduğu görüşü giderek daha fazla kabul görmektedir. Orta Toroslar’daki kuşlar için Watson tarafından tanımlanan *fahrettini* formu ise geçersizdir.
 
-# Dağ Kuyruksallayanı
+## Dağ Kuyruksallayanı
 
 *Motacilla cinerea*, Grey Wagtail
 
@@ -355,7 +355,7 @@ Sonbahar göçü ağustos ortasında başlar, eylül sonu ile ekim başında yo�
 
 Türkiye'de görülen bireyler nominat *cinerea* alttürüne aittir.
 
-# Sarı Kuyruksallayan
+## Sarı Kuyruksallayan
 
 *Motacilla flava*, Western Yellow Wagtail
 
@@ -386,7 +386,7 @@ Türkiye’de üreyen alttür *feldegg*’dir. Göç dönemlerinde ise *flava*, 
 
 Politipik bir tür olan Sarı Kuyruksallayan, taksonomistler için önemli bir sorun teşkil etmektedir. Bu kompleks hakkında çok sayıda çalışma yapılmış olup, son yıllarda iki farklı ornitolog grubu bu karmaşıklığı çözmeye çalışmıştır. DNA dizilimi verileri, doğudaki taksonlar (*taivana*, *macronyx* ve *tschutschensis*) ile batıdaki diğer taksonlar arasında (bu çalışmada *leucocephala* dâhil edilmemiştir) derin bir genetik ayrım olduğunu göstermektedir. Bu bulgulara dayanarak Sarı Kuyruksallayan iki tür olarak ele alınmıştır: Sarı Kuyruksallayanı (*Motacilla flava*) ve Çukçen Kuyruksallayanı (*Motacilla tschutschensis*) [@rasmussen2005]. Ayrıca morfolojik ve vokal veriler de türün monofiletik olmadığını ve birden fazla türün tanınması gerektiğini desteklemektedir. Bu yaklaşımı benimsemeyen bazı araştırmacılar ise bu gruptaki tüm taksonları *Motacilla flava* altında alttür olarak değerlendirmeyi tercih etmektedir [@alstrom2003].
 
-# Sarı Başlı Kuyruksallayan
+## Sarı Başlı Kuyruksallayan
 
 *Motacilla citreola*, Citrine Wagtail
 
@@ -413,7 +413,7 @@ Geçit sırasında, özellikle ilkbaharda yaygındır. Mart ortasından itibaren
 
 Türkiye’de gözlenen bireylerin tamamının *werae* alttürüne ait olduğu düşünülmektedir. Beyşehir Gölü’nden alınan ve göçmen olduğu tahmin edilen bir dişinin ölçümleri *werae* alttürüne uyumludur [@vauk1973; @roselaar1995]. Ancak Türkiye’den bilinen başka tahnit örneği bulunmamaktadır. Öte yandan, H. Dufourny Mayıs 2003 sonunda Van’daki Bendimahi Deltası’nda *nominat citreola* özelliklerini taşıyan bir çift gözlediğini bildirmiştir. Tüy rengi farklılıklarının belirgin olmaması nedeniyle *werae* ve *citreola* alttürlerinin sinonim olduğu savunulmuştur [@alstrom2003]. Aynı çalışmada, Tanrı Dağları ve doğusunda üreyen *calcarata* alttürünün, filogenetik tür kavramı çerçevesinde ayrı bir tür olarak değerlendirilmesi gerektiği de öne sürülmüştür.
 
-# Ak Kuyruksallayan
+## Ak Kuyruksallayan
 
 *Motacilla alba*, White Wagtail
 
@@ -442,7 +442,7 @@ Kış döneminde özellikle Marmara, Ege ve Akdeniz kıyılarındaki sulakalanla
 
 Türkiye'deki popülasyonlar *nominat alba* (Batı ve Orta Anadolu’da kuzeyde Bolu’dan güneyde Haruniye’ye kadar) ve *dukhunensis* (Doğu Anadolu’da kuzeyde Sümela’dan güneyde Hakkâri’ye kadar) alttürlerine atfedilir [@roselaar1995]. Roselaar, kuzeyde Kastamonu ve Zonguldak civarından Tirebolu’ya, güneyde ise Gaziantep yakınlarından Cizre’ye kadar uzanan geniş bir geçiş alanı tanımlar; bu bölgede *alba* ve *dukhunensis* yerine *alba* ile *personata* alttürlerinin melezleştiğini ve hatta Türkiye'de üçüncü bir takson olan *intermedia*'nın tanınması gerektiğini öne sürer. Ancak bu öneri, Türkiye ve İran popülasyonlarının tamamının *nominat alba* olduğu ve *dukhunensis*’in de bu alttürün bir sinonimi olduğu görüşünü savunanlar tarafından reddedilmiştir [@alstrom2003].
 
-# Mahmuzlu İncirkuşu
+## Mahmuzlu İncirkuşu
 
 *Anthus richardi*, Richard's Pipit
 
@@ -466,7 +466,7 @@ Türkiye'de yuvalamaz. Doğu Rusya, Moğolistan ve Kuzey Çin'de yuvalar. Kış�
 
 Türkiye’den henüz hiçbir örnek incelenmemiş olmasına rağmen, mevcut tüm kayıtların muhtemelen nominat alttüre ait olduğu düşünülmektedir. Moleküler tekniklerin uygulanması sonucunda *Anthus novaeseelandiae* kompleksinin parafiletik olduğu kabul edilmiştir. Morfolojik ve vokal karakterlerin de bu sonucu desteklediği dikkate alındığında, Mahmuzlu İncirkuşu grubu dört ila altı türden oluşmaktadır [@sibley1996]. Bu grupta, Afrika ve Güneybatı Arabistan’da Afrika İncirkuşu (*Anthus cinnamomeus*), Güney Asya’da Çeltik İncirkuşu (*Anthus rufulus*), Kuzey Asya ve Çin’de Mahmuzlu İncirkuşu (*Anthus richardi*) ve ayrı evrimsel kökene sahip iki grubu temsil eden Avustralya ile Yeni Zelanda’da sırasıyla *Anthus australis* ve *Anthus novaeseelandiae* yer almaktadır [@alstrom2003].
 
-# Moğol İncirkuşu
+## Moğol İncirkuşu
 
 *Anthus godlewskii*, Blyth's Pipit
 
@@ -490,7 +490,7 @@ Türkiye'de yuvalamaz. Moğolistan'da yuvalar, Hindistan'da kışlar.
 
 Monotipik bir türdür.
 
-# Kır İncirkuşu
+## Kır İncirkuşu
 
 *Anthus campestris*, Tawny Pipit
 
@@ -519,7 +519,7 @@ Zaman zaman kıyılarda kışladığı da bildirilmiştir. Örneğin, 19 Ocak 19
 
 Roselaar'a (1995) göre boehmei Türkiye genelinde bulunur. Öte yandan, Alström ve Mild (2003) bu tür içindeki coğrafi varyasyonun bir alttür tanımlayacak kadar yeterli olmadığını ifade eder. Bu nedenle monotipik olarak değerlendirilmelidir.
 
-# Çayır İncirkuşu
+## Çayır İncirkuşu
 
 *Anthus pratensis*, Meadow Pipit
 
@@ -547,7 +547,7 @@ Türkiye’de üreme kaydı yoktur. Üreme alanı Kuzey ve Orta Avrupa’dadır.
 
 Türkiye’de nominat alttürün bireyleri gözlenir.
 
-# Ağaç İncirkuşu
+## Ağaç İncirkuşu
 
 *Anthus trivialis*, Tree Pipit
 
@@ -573,7 +573,7 @@ Sonbahar göçü kuzeyde temmuz sonunda, diğer bölgelerde ise genellikle ağus
 
 Türkiye’de hem üreyen hem de göç sırasında geçen kuşların çoğu *nominat trivialis* alttürüne aittir [@roselaar1995]. Bolu Dağı, Rize, Eleşkirt ve Sarıkamış’tan alınan örnekler temel alınarak Türkiye’deki üreyen bireyler daha önce tanımlanmamış bir alttür olan *differens* olarak değerlendirilmiştir [@clancey1987]. Ancak bu bireylerin, tüyleri yıpranmış hâlde bile kuzey Avrupa’daki *trivialis* örneklerine çok benzediği görülmüş ve bu nedenle *differens* taksonu *trivialis*’in sinonimi olarak kabul edilmiştir [@roselaar1995; @alstrom2003].
 
-# Yeşil Sırtlı İncirkuşu
+## Yeşil Sırtlı İncirkuşu
 
 *Anthus hodgsoni*, Olive-backed Pipit
 
@@ -595,7 +595,7 @@ Türkiye’de yuvalamaz. Üreme alanı Kuzey Asya ve Orta Çin’dir. Kış ayla
 
 Türkiye’den kaydedilen ilk birey, büyük olasılıkla Himalaya alttürü *hodgsoni* değil, *yunnanensis* formundandır. Bu alttür, doğuda Beyaz Deniz’den Japonya’ya, güneyde ise Çin’e kadar uzanan geniş bir alanda ürer ve Ortadoğu ile Avrupa’nın çeşitli bölgelerinde de rastlantısal olarak kaydedilmiştir.
 
-# Kızıl Gerdanlı İncirkuşu
+## Kızıl Gerdanlı İncirkuşu
 
 *Anthus cervinus*, Red-throated Pipit
 
@@ -617,7 +617,7 @@ Türkiye'de yuvalamaz. Avrasya'nın tundra kuşağında yuvalar.
 
 Monotipik bir türdür [@alstrom2003].
 
-# Dağ İncirkuşu
+## Dağ İncirkuşu
 
 *Anthus spinoletta*, Water Pipit
 
@@ -641,7 +641,7 @@ Sonbaharda ve kışın genellikle deniz seviyesine iner; bu dönem çoğunlukla 
 
 Türkiye genelinde görülen bireyler ağırlıklı olarak *coutellii* alttürüne aittir; nitekim Kuzeydoğu Anadolu ve Uludağ’dan alınan örnekler bu alttürle uyumludur [@roselaar1995]. Öte yandan, sonbahar ve kış aylarında İç ve Orta Anadolu’daki üç farklı lokaliteden toplanan örnekler ise morfolojik olarak büyük ölçüde nominat *spinoletta* alttürüne benzemektedir.
 
-# Pasifik İncirkuşu
+## Pasifik İncirkuşu
 
 *Anthus japonicus*, Siberian Pipit
 

@@ -2,7 +2,7 @@
 title: "Baykuşlar"
 ---
 
-# Peçeli Baykuş
+## Peçeli Baykuş
 
 *Tyto alba*, Western Barn Owl
 
@@ -27,7 +27,7 @@ Geniş yayılışlı, olup her türlü düz arazide habitatında görülebilen s
 
 Kasparek (1986b) beyaz göğüslü (*alba*/*erlangeri*) ve kahverengi göğüslü (guttata) form ya da ırklara alttürlerin ait mevcut yayılışı verilerinin tamamını gözden geçirmiş olsa da somut bir fikre sahip olabilmek için daha fazla veriye ihtiyaç duyulmaktadır. Diğer Çeşitli yazarlar (örn. Bruce in [@delhoyo1999; @roselaar1995; @konig1999] *guttata* alttürünün Türkiye'de bulunmadığını ve *erlangeri* taksonunun alttür sayılabilecek derecede ayrıntılı tanımlanmadığını savunmaktadırlar. Kasparek adı geçen yayında kabaca İzmir çevresinden - Manyas Gölü 'ne ve oradan da - Trakya eksininin 'ya uzanan kabaca bir "hibrit (melez) bölge" alttürlerin melezleştiği bir geçiş bölgesinin bulunduğuna kanaat getirmiştir. Beyaz göğüslü kuşların bölgenin kuzey batısında bulunduğunu, kahverengi göğüslülerin Güneydoğu Avrupa'dan (örn. Romanya, Bulgaristan) Marmara ve Ege bölgeleri üzerinden güney sahillerine kadar uzandığını ve beyaz göğüslülerin güney sahillerinin doğusunda ve daha güney doğu kesimlerde tekrar ortaya çıktığını düşünmektedir. Ancak İç Anadolu'daki üreme kayıtları beyaz göğüslü kuşları da içermekte ve Doğu Anadolu'dan gelen tek kaydın fotoğraflanıp *alba* alttürüne ait olduğunun belirtilmesinin yanında, Kızılırmak Deltası'nda gözlemlenen bireylerin hem beyaz hem de koyu göğüslü *guttata* alttürü olduğu kaydedilmiştir. Güneydoğu ve Doğu Akdeniz kıyılarındaki kişisel gözlemlerimiz de beyaz göğüslü kuşlara ait olup Kasparek'in teorisini desteklemektedir.
 
-# İshakkuşu
+## İshakkuşu
 
 *Otus scops*, Eurasian Scops Owl
 
@@ -52,7 +52,7 @@ Açık dağlık, ormanlık alanları ve genellikle de sık habitatı tercih eder
 
 Türkiye'nin kuzeyinde nominat alttür, güneyde ise *cycladum* alttürü gözükmektedir. Kıbrıs'a endemik *cyprius* alttürü de gelebilir. Ayrıca Irak sınırında *turanicus* alttürü de bulunabilir. Bunların hepsinin seslerinde benzerlik yüksektir.
 
-# Çizgili İshakkuşu
+## Çizgili İshakkuşu
 
 *Otus brucei*, Pallid Scops Owl
 
@@ -78,7 +78,7 @@ Küresel üreme yayılışının kıyısında yayılış gösteren bir tür olar
 
 Türkiye'de *obsoletus* alüttürü bulunduğı düşünülür. Bu taksonun isimlendirilmesi ve alttürleri hakkındaki en ayrıntılı çalışmaya göre [@mlikovsky2009], türün nominat *brucei* ve *semenowi* olarak sadece iki alttürde sınıflandırılmasını önermişlerdir. Buna göre *obsoletus* alttürü nominat alttürün sinonimi olur.
 
-# Puhu
+## Puhu
 
 *Bubo bubo*, Eurasian Eagle-owl
 
@@ -103,7 +103,7 @@ Tüm ülke boyunca kayalık alanlarda seyrek olarak bulunan yerli bir türdür. 
 
 Türkiye'de bulunan alttürü interpositus olarak anılmaktadır.
 
-# Balık Baykuşu
+## Balık Baykuşu
 
 *Ketupa zeylonensis*, Brown Fish Owl
 
@@ -134,7 +134,7 @@ Türün ilk kayıtları, güneyde çalışan bir koleksiyoncu olan G. Schrader'i
 
 Türkiye ve doğuda Pakistan'a kadar uzanan daha açık, devetüyü rengine çalan ve kırçılları daha az belirgin olan semenowi alttürü bulunur.
 
-# Kukumav
+## Kukumav
 
 *Athene noctua*, Little Owl
 
@@ -160,7 +160,7 @@ Karadeniz kıyıları dışında, ülkenin çoğu yerinde, bol bulunan yerli bir
 
 Ülkenin çoğunda *indigena* alttürü, güneydoğuda gövde altı daha az çizgili, art kafasındaki çehresi daha belirgin ve oldukça soluk kum kahverengi renge sahip olan *lilith* alttürü bulunur. *Lilith* alttürü Güneydoğu Anadolu Bölgesi bulunur ve Doğu Anadolu'nun iç kısımlarına, Van Gölü'nün kuzeyinde ve Muş Bulanık'a kadar uzanır.
 
-# Alaca Baykuş
+## Alaca Baykuş
 
 *Strix aluco*, Tawny Owl
 
@@ -186,7 +186,7 @@ Karadeniz kıyıları dışında, ülkenin çoğu yerinde, bol bulunan yerli bir
 
 Türkiye'nin orta ve batı kesimlerinde *sylvatica* alttürü, kuzeydoğu kesimlerinde ise *willkonskii* alttürü görülmektedir. Güneydoğu sınırında *sanctinicolai* alttürü bulunabilir [@roselaar1995].
 
-# Kulaklı Orman Baykuşu
+## Kulaklı Orman Baykuşu
 
 *Asio otus*, Long-eared Owl
 
@@ -211,7 +211,7 @@ Türkiye'nin orta ve batı kesimlerinde *sylvatica* alttürü, kuzeydoğu kesiml
 
 Türkiye'de nominat alttürü bulunur.
 
-# Kır Baykuşu
+## Kır Baykuşu
 
 *Asio flammeus*, Short-eared Owl
 
@@ -240,7 +240,7 @@ Sonbahar göçü eylül başında başlar. Çamlıca Tepelerinden (İstanbul) ge
 
 Türkiye'de nominat alttürü bulunur.
 
-# Paçalı Baykuş
+## Paçalı Baykuş
 
 *Aegolius funereus*, Boreal Owl
 

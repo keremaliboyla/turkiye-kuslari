@@ -2,7 +2,7 @@
 title: "Sarıasma - Kargagiller"
 ---
 
-# Sarıasma
+## Sarıasma
 
 *Oriolus oriolus*, Eurasian Golden Oriole
 
@@ -29,7 +29,7 @@ Geçiş dönemlerinde daha yaygındır ve sayıca fazladır. İlkbahar geçişi 
 
 Monotipik bir türdür.
 
-# Kızıl Sırtlı Örümcekkuşu
+## Kızıl Sırtlı Örümcekkuşu
 
 *Lanius collurio*, Red-backed Shrike
 
@@ -56,7 +56,7 @@ Geçiş döneminde ise ülke genelinde daha yaygın, bol ve bazı yerlerde çok 
 
 Roselaar (1995), Türkiye'de batı ve güneydeki bireyleri nominat *collurio*, Doğu Anadolu’nun uç kesimlerindekileri ise *kobylini* alttürü olarak değerlendirmiştir. Orta Anadolu’da ise geniş bir melezleşme alanı bulunduğunu belirtmiştir. Ancak *collurio* ve *kobylini* arasındaki farkların zayıf olması ve varyasyonun güçlü biçimde klinal bir özellik göstermesi [@roselaar1995] dikkate alındığında, *kobylini* ve diğer alttürlerin ayrı taksonlar olarak tanınması temelsiz bir iddia olabilir. Batı Avrupa’da *collurio* alttürüne ait erkek bireylerin bile farklı alttürlere ait özellikler gösterebildiği bilinmektedir [@lefranc1997]. Bizim örnekler üzerinde yaptığımız incelemeler de bu görüşü desteklemektedir [@stepanyan1978; @lefranc1997]. Bu nedenle tür, monotipik olarak değerlendirilmelidir. Ayrıca, 1990 ilkbaharında Çukurova’da yakalanan bazı bireylerin, Sibirya’da üreyen *pallidus* formunu andıran tüy örtüsü özellikleri taşıdığı gözlenmiştir [@kivit1994].
 
-# Türkistan Örümcekkuşu
+## Türkistan Örümcekkuşu
 
 *Lanius phoenicuroides*, Red-tailed Shrike
 
@@ -78,7 +78,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Orta Asya ve İran'dır.
 
 Eskiden Moğolistan örümcekkuşu ile birlikte, Kızıl Kuyruklu Örümcekkuşu adı altında tek bir türün alttürü olarak değerlendirilmekteydi. [@kryukov1995], *cristatus* grubundaki örümcekkuşları arasındaki etkileşimleri incelemiş ve tüy örtüsü karakterleri, biyometrik ölçümler ve yuvalama dönemlerini dikkate alarak *phoenicuroides*’in geçici olarak monotipik bir tür olarak değerlendirilmesi gerektiği sonucuna varmıştır. Daha sonra yapılan bir araştırma, orijinal *cristatus* grubunun tür düzeyinde altı taksondan oluşabileceğini ortaya koymuştur: “kahverengi” örümcekkuşlar (*cristatus*, *lucionensis* ve *superciliosus*) ve “devetüyü rengi” örümcekkuşları (*phoenicuroides*, *isabellinus* ve *arenarius*). Bu türlerin ayrımı en iyi şekilde [@worfolk2000identification] tarafından tanımlanmıştır. *Isabellinus* tip örneği üzerine yapılan çalışmalar [@pearson2000], *speculigerus* alttürünün *isabellinus*’un bir sinonimi olabileceği görüşünü destekler [@schodde2002].
 
-# Moğolistan Örümcekkuşu
+## Moğolistan Örümcekkuşu
 
 *Lanius isabellinus*, Isabelline Shrike
 
@@ -102,7 +102,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Moğolistan ve Kuzey Çi
 
 Eskiden Türkistan örümcekkuşu ile birlikte, Kızıl Kuyruklu Örümcekkuşu adı altında tek bir türün alttürü olarak değerlendirilmekteydi. *Phoenicuroides* taksonu, *cristatus* grubundaki örümcekkuşları arasında tüy örtüsü karakterleri, biyometrik ölçümler ve yuvalama dönemindeki farklar nedeniyle monotipik bir tür olarak önerilmiştir [@kryukov1995]. Daha sonra yapılan bir araştırma, orijinal *cristatus* grubunun tür düzeyinde altı taksondan oluşabileceğini ortaya koymuştur: “kahverengi” örümcekkuşlar (*cristatus*, *lucionensis* ve *superciliosus*) ve “devetüyü rengi” örümcekkuşları (*phoenicuroides*, *isabellinus* ve *arenarius*). Bu türlerin ayrımı en iyi şekilde tanımlanmıştır [@worfolk2000identification]. *Isabellinus* tip örneği üzerine çalışanlar [@pearson2000], *speculigerus* alttürünün *isabellinus*’un bir sinonimi olabileceği desteklemiştir [@schodde2002].
 
-# Uzun Kuyruklu Örümcekkuşu
+## Uzun Kuyruklu Örümcekkuşu
 
 *Lanius schach*, Long-tailed Shrike
 
@@ -124,7 +124,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Orta Asya, Hindistan, Çinhindi ve Gün
 
 Toplanan örnek yayılış alanının batısında bulunan erythronotus alttürüne benzemektedir. Ancak alttürü kesin olarak tanımlanamamıştır [@shirihai1994].
 
-# Büyük Örümcekkuşu
+## Büyük Örümcekkuşu
 
 *Lanius excubitor*, Great Grey Shrike
 
@@ -150,7 +150,7 @@ Modern dönemde arazide gözlenen bireylerden yalnızca üçünün alttürü tan
 
 Türkiye’de *pallidirostris* alttürüne ait dört kayıt mevcuttur. Öte yandan, Bulgaristan’da üreyen *homeyeri* alttürünün Türkiye’de en yaygın form olması beklenmesine rağmen [@lefranc1997], Türkiye’deki örnekler bu alttüre ait değildir. Yakın zamanda İberya Örümcekkuşu olarak tür statüsü kazanan *meridionalis* taksonuna ait bir örneğin Robert Koleji koleksiyonunda bulunduğu ileri sürülmüştür [@matheydupraz1920]. Ancak bu örnek günümüzde müzede mevcut değildir [@kirwan1997a]. Bu nedenle söz konusu kayıt geçerli kabul edilemez.
 
-# Kara Alınlı Örümcekkuşu
+## Kara Alınlı Örümcekkuşu
 
 *Lanius minor*, Lesser Grey Shrike
 
@@ -177,7 +177,7 @@ Göç dönemlerinde özellikle Doğu Anadolu’da olmak üzere ülke genelinde d
 
 Monotipik bir türdür.
 
-# Maskeli Örümcekkuşu
+## Maskeli Örümcekkuşu
 
 *Lanius nubicus*, Masked Shrike
 
@@ -206,7 +206,7 @@ Görünüşe göre büyük oranda habitat kaybı nedeniyle popülasyonunun en az
 
 Monotipik bir türdür.
 
-# Kızıl Başlı Örümcekkuşu
+## Kızıl Başlı Örümcekkuşu
 
 *Lanius senator*, Woodchat Shrike
 
@@ -233,7 +233,7 @@ Geçiş dönemlerinde, özellikle ilkbaharda daha yaygın ve boldur. İlkbaharda
 
 Trakya, Marmara ve Ege boyunca güneyde Bodrum çevresine kadar nominat *senator* alttürü bulunur. Marmara ve Ege’deki bazı bireylerde, orta kuyruk teleklerinin tabanında bir miktar beyazlık görülebilir. Hatay’ın doğusundan başlayarak kuzeyde Kars’a kadar olan bölgede ise *niloticus* alttürü yayılış gösterir. Göksu Deltası’ndaki bireylerin de *niloticus* olması muhtemeldir. Akdeniz kıyıları ile Ege’nin güneybatı ucundaki bireylerin hangi alttüre ait olduğu ise belirsizdir.
 
-# Alakarga
+## Alakarga
 
 *Garrulus glandarius*, Eurasian Jay
 
@@ -260,7 +260,7 @@ Trakya, Marmara ve Ege boyunca güneyde Bodrum çevresine kadar nominat *senator
 
 Kabul görmeyen formlar arasında İstanbul’a özgü olduğu ileri sürülen *hansguentheri* alttürü (*anatoliae*’nin sinonimi), Toroslar’da tanımlanmış *lendlii* alttürü (*anatoliae*’nin sinonimi) ve Artvin ile Batum çevresinde kaydedilen *nigrifrons* alttürü (*krynicki*’nin sinonimi) yer alır [@roselaar1995].
 
-# Saksağan
+## Saksağan
 
 *Pica pica*, Eurasian Magpie
 
@@ -285,7 +285,7 @@ Genellikle deniz seviyesinden 3000 metreye kadar, dağınık ağaç, çalı ve f
 
 Ülkenin batısında, kuzeyde Tokat’ın doğusundan güneyde Osmaniye’ye kadar nominat *Pica* alttürü bulunur. Kuzeydoğu Anadolu’da incelenmiş bir tahnit örneği olmamakla birlikte, bu bölgedeki bireylerin de büyük olasılıkla *pica* alttürüne ait olduğu düşünülmektedir [@roselaar1995]. Güneydoğuda, Gaziantep’in doğusundan İran sınırına ve Ağrı’nın güneyine kadar uzanan alanda bulunan kuşlar, daha iri gövdeleri ve el teleklerinde daha fazla beyazlık bulunmasıyla, *pica* ile Güneydoğu Rusya ve İran’ın doğusunda yaşayan *bactriana* formları arasında bir geçiş oluşturur [@roselaar1995].
 
-# Göknar Kargası
+## Göknar Kargası
 
 *Nucifraga caryocatactes*, Spotted Nutcracker
 
@@ -309,7 +309,7 @@ Türkiye'de yuvalamaz. Yuvalama alanı Doğu ve Orta Avrupa dağları ve Kuzey A
 
 Ülkemizde nominat alttür bulunur.
 
-# Kırmızı Gagalı Dağ Kargası
+## Kırmızı Gagalı Dağ Kargası
 
 *Pyrrhocorax pyrrhocorax*, Red-billed Chough
 
@@ -334,7 +334,7 @@ Genellikle 1800 metrenin üzerindeki dağlık bölgelerde görülür, Karadeniz 
 
 Türkiye’nin tamamında *docilis* alttürü bulunur.
 
-# Sarı Gagalı Dağ Kargası
+## Sarı Gagalı Dağ Kargası
 
 *Pyrrhocorax graculus*, Alpine Chough
 
@@ -359,7 +359,7 @@ Toros Dağları boyunca, İç Anadolu’nun güney sınırında ve Doğu Anadolu
 
 Roselaar [@roselaar1995], Toroslar, İzmir Bozdağ ve muhtemelen Güneydoğu Anadolu’da *digitatus* alttürünün bulunduğunu öne sürmüştür. Öte yandan, Uludağ ve Kuzeydoğu Anadolu Dağları’nda tahnit örnekleri incelenmemiş olsa da burada bulunan bireylerin *graculus* alttürüne ait olduğu varsayılmaktadır.
 
-# Küçük Karga
+## Küçük Karga
 
 *Coloeus monedula*, Western Jackdaw
 
@@ -386,7 +386,7 @@ Kuzeyde, İstanbul Boğazı ve diğer gözlem noktalarında yapılan sayımlarda
 
 Türkiye'nin tamamında *soemmerringii* alttürü bulunur. Yakın zamana kadar *Corvus* cinsi altında sınıflandırılırdı.
 
-# Ekin Kargası
+## Ekin Kargası
 
 *Corvus frugilegus*, Rook
 
@@ -413,7 +413,7 @@ Göç döneminde ve kışın daha geniş bir yayılış gösterir, ancak yine de
 
 Türkiye'de *frugilegus* alttürü bulunur.
 
-# Leş Kargası
+## Leş Kargası
 
 *Corvus cornix*, Hooded Crow
 
@@ -440,7 +440,7 @@ Sonbahar sonu ve kış aylarında, nadiren de olsa 400 bireye varan büyük sür
 
 Taksonomik durumu karışıktır. Karadeniz, Marmara, Ege, Akdeniz, İç Anadolu ve Doğu Anadolu’daki bireyler *pallescens* ve *sharpii* alttürlerine dâhil edilirken, Güneydoğu Anadolu’daki bireylerin büyük kısmı *sharpii* alttürü olarak tanımlanmıştır. *Sardonius* alttürü ise *sharpii* içine dâhil edilmektedir [@roselaar1995]. British Ornithologists’ Union (İngiliz Ornitologlar Birliği) Kayıt Komitesi, kara ve gri bireylerin eş seçiminde kendi renklerine yönelmeleri, ötüş ve ekolojik farklılıklar ile melez bireylerin düşük kondisyonları nedeniyle kara leş kargası ve gri leş kargasını iki ayrı tür olarak değerlendirmiştir [@parkin2003]. Doğuya özgü simsiyah renkli Kara Leş Kargası'nın *orientalis* türüne ait bazı kayıtlar reddedilmiştir: Ekim 1968’de Pozantı’nın kuzeyinde bir birey, Ağustos 1971’de Van’da yaklaşık 20 birey ve Nisan 1972’de Kadınhanı’nda bir birey kaydedildiği iddia edilmiştir [@ost1972; @ost1975]. Ancak bu taksonun genç Ekin Kargaları ile kolaylıkla karıştırılabileceği ve yayılış alanında göçmen olmadığı belirtilmiş, bu nedenle söz konusu kayıtlar geçerli kabul edilmemiştir [@roselaar1995].
 
-# Çöl Kuzgunu
+## Çöl Kuzgunu
 
 *Corvus ruficollis*, Brown-necked Raven
 
@@ -462,7 +462,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Kuzey Afrika, Arabistan, Güney İran v
 
 Monotipik bir türdür.
 
-# Kısa Kuyruklu Kuzgun
+## Kısa Kuyruklu Kuzgun
 
 *Corvus rhipidurus*, Fan-tailed Raven
 
@@ -484,7 +484,7 @@ Türkiye’de yuvalamaz. Doğal yayılış alanı, Kızıldeniz çevresi, Sahra�
 
 Gözlenen bireyin alttürü kesin olarak belirlenememiştir, ancak Türkiye’ye ulaşan kuşların coğrafi kökeni dikkate alındığında, büyük olasılıkla *stanleyi* alttürüne ait olduğu düşünülmektedir.
 
-# Kuzgun
+## Kuzgun
 
 *Corvus corax*, Northern Raven
 

@@ -2,7 +2,7 @@
 title: "İspinozlar - Çinteler"
 ---
 
-# İspinoz
+## İspinoz
 
 *Fringilla coelebs*, Common Chaffinch
 
@@ -31,7 +31,7 @@ Marmara, Ege, Akdeniz ve daha seyrek olarak Karadeniz bölgelerinde, uygun habit
 
 İspinoz taksonomisinin karmaşık olduğu ve örneklerin eksikliği nedeniyle konunun belirsizliği bilinmektedir. Trakya’da *coelebs* alttürü, Güney Marmara, Karadeniz Bölgesi, İç Anadolu ve Doğu Anadolu’nun kuzeyinde *caucasica* alttürü bulunur; bu takson daha sonra *transcaspia*’nın sinonimi olarak kabul edilmiştir. Doğu Anadolu’nun güneyi, Güneydoğu Anadolu ve Hatay’daki bireyler geçici olarak *syriaca* alttürüne dahil edilebilir. Güney Ege, Toroslar ve Akdeniz kıyılarındaki bireyler ise, Girit Adası’ndaki bireylerde de görüldüğü üzere *schiebeli* ile *syriaca* arasında geçiş formu olabilir. Ayrıca, Kırım ve çevresinde bulunan *solomkoi* alttürünün Türkiye’de kışlama ihtimali de vardır. Roselaar, alttürler arasında yalnızca çok hafif farklar bulunduğunu, bu farkların da genellikle tüylerin yıpranması ve solması nedeniyle ayırt edilemediğini belirtmiş ve ispinoz taksonomisinin sorunlu olduğunu vurgulamıştır [@roselaar1995].
 
-# Dağ İspinozu
+## Dağ İspinozu
 
 *Fringilla montifringilla*, Brambling
 
@@ -57,7 +57,7 @@ Türkiye'de yuvalamaz. Kuzey Avrupa ve Asya'da yuvalar.
 
 Monotipik bir türdür.
 
-# Kocabaş
+## Kocabaş
 
 *Coccothraustes coccothraustes*, Hawfinch
 
@@ -84,7 +84,7 @@ Ekim ayından itibaren tüm ülkede geçit sırasında kaydedilir; İstanbul Bo�
 
 Doğu ve Güney Balkanlar’daki kuşların nominat *coccothraustes* ile Güney Kafkasya’daki *nigricans* arasında yer alan bir klinal varyasyonun parçası olduğu düşünülmektedir [@roselaar1995]. Türkiye’nin batısındaki bireylerin *nominat* alttür altında değerlendirilmesi güvenli bir yaklaşımdır. Doğu Anadolu’dan örnekler toplanmış ancak sonradan kaybolmuştur; dolayısıyla *nigricans* alttürünün Türkiye’nin kuzeydoğusuna kadar ulaşıp ulaşmadığı kesin olarak söylenemez. Kayıt eksikliği nedeniyle Karadeniz Bölgesi’de olmadığı düşünülerek klinal varyasyonun geçerli olmadığı öne sürülmüştür [@roselaar1995], ancak bu durumun gözlem eksikliğinden kaynaklandığından dolayı klinal bir varyasyon varsayımı mantıklı görünmektedir.
 
-# Çütre
+## Çütre
 
 *Carpodacus erythrinus*, Common Rosefinch
 
@@ -111,7 +111,7 @@ Karadeniz Bölgesi'nde en bol ve yaygın olarak bulunur. İç Anadolu'nun kuzeyi
 
 Kuzey ve kuzeydoğu Anadolu'da *kubanensis* alttürü bulunur. En uç kuzeydoğuda ise *erythrinus* nominat alttürünün görülme ihtimali vardır [@roselaar1995]. *Kubanensis*, Orta Avrupa ile daha doğudaki popülasyonlar arasında taksonomik bir köprü olarak değerlendirilir [@helb1995].
 
-# Şakrak
+## Şakrak
 
 *Pyrrhula pyrrhula*, Eurasian Bullfinch
 
@@ -138,7 +138,7 @@ Karadeniz Bölgesi’nde, 2500 m’ye kadar olan yükseltilerde yaygındır. Mar
 
 Anadolu’da üreyen bireyler *rossikowi* alttürü olarak tanımlanmıştır. Batı Karadeniz için Karadere, Bolu Dağı, Abant Gölü ve Ilgaz Dağları’nda toplanan örnekler ile morfolojik ölçüm verilerine dayanarak *paphlagoniae* adlı bir alttür tanımlanmıştır [@roselaar1995]. Ancak bu üreme bölgesinden çok sayıda örnek incelenmiş ve taksonomik düzeyde tanımlanmasını destekleyecek argümanların zayıf olduğu belirtilmiştir [@kirwan2006]. Bu nedenle *paphlagoniae* taksonunu *rossikowi*’nin bir sinonimi olarak değerlendirmek daha uygundur. Tring Doğa Tarihi Müzesi, Manchester Müzesi ve Sofya Ulusal Doğa Tarihi Müzesi’ndeki Avrupa ve Batı Asya’dan toplanan örnekler incelendiğinde, pek çok coğrafi tanımın geçerli olmadığı düşünülmektedir. Örneğin, *germanica* ve *europaea* alttürlerini uzun bir örnek serisiyle bile birbirinden kesin biçimde ayırmak mümkün değildir; bu nedenle *germanica* alttürü bir sinonim kabul edilmiştir. Ayrıca, nominat *pyrrhula* alttürünün Türkiye’ye kış aylarında ulaşması olasıdır. Nitekim 2004 sonbaharındaki bir akın sırasında Bulgaristan’da bu tipe benzeyen kuşların gözlendiği bildirilmiştir [@pennington2006].
 
-# Alamecek
+## Alamecek
 
 *Rhodopechys sanguineus*, Crimson-winged Finch
 
@@ -165,7 +165,7 @@ Kış aylarında İç Anadolu’nun bozkırlarında nadiren görülür. Ege’de
 
 Tip örneği Erzurum'dan toplanmıştır; dolayısıyla nominat alttür bulunur. Kuzeydoğu Afrika'da Atlas Dağlarındaki *alienus* alttürünün bütün giysilerindeki farklılıklar ve morfolojik özellikleri dikkate alınarak iki allopatrik tür olduğu öne sürülmüş [@kirwan2006a], bu öneri kabul görmemiştir. Bilimsel ismin doğru yazılışına dikkat edilmelidir [@david2002b]. Cins düzeyinde taksonomik tartışmalar için doğu alameceğine bakınız.
 
-# Küçük Alamecek
+## Küçük Alamecek
 
 *Bucanetes githagineus*, Trumpeter Finch
 
@@ -194,7 +194,7 @@ Küçük Alamecek ile Doğu Alameceği’nin Tuzluca ve Doğubayazıt çevresind
 
 Türkiye’den toplanmış hiçbir örnek bulunmamaktadır. Ancak ülkede gözlenen bireylerin güvenle *crassirostris* alttürüne ait olduğu söylenebilir [@roselaar1995]. Taksonomik değerlendirme için Doğu Alameceği altındaki tartışmalara bakınız.
 
-# Doğu Alameceği
+## Doğu Alameceği
 
 *Bucanetes mongolicus*, Mongolian Finch
 
@@ -225,7 +225,7 @@ Doğu Alameceği (*Rhodopechys mongolicus*), bir dönem Küçük Alamecek'in (*R
 
 Mevcut durumda, *mongolicus* türünün tanımı için *Bucanetes* dışında geçerli olabilecek bir cins ismi bulunmamaktadır \[Sharpe 1888\]. Tür ilk tanımlandığında *Erythrospiza* cinsine yerleştirilmiş olsa da (Bonaparte, *Fauna Italica*, Pl. 35, fig. 3 \[1832–41\]), bu isim daha sonra çütre (*Carpodacus erythrinus*) için kullanılan *Erythrina* altcinsinin sinonimi olarak değerlendirilmiş ve geçersiz sayılmıştır \[Wolters 1975–82\]. Son olarak, *mongolicus* türü için Kirwan ve Gregory (2005), yeni bir cins ismi olarak *Eremopsaltria* adını önermiştir. Bu öneri henüz geniş ölçekte kabul görmemiştir ancak taksonomik tartışmalar sürmektedir.
 
-# Boz Alamecek
+## Boz Alamecek
 
 *Rhodospiza obsoleta*, Desert Finch
 
@@ -256,7 +256,7 @@ Türkiye'deki ilk güvenilir kayıt, 1911 yılının nisan ortasında Urfa'nın 
 
 Monotipik bir türdür. *Rhodospiza* cinsi geçmişte sıklıkla *Rhodopechys* cinsinin bir alt grubu olarak değerlendirilmiştir. Ancak birbirinden bağımsız çalışmalarla elde edilen güçlü genetik veriler, bu türün ayrı bir cins olarak ele alınması gerektiğini desteklemektedir [@groth1998; @arnaizvillena2008]. Taksonomiyle ilgili daha fazla bilgi için Doğu Alamecek'i hakkındaki tartışmalara bakınız.
 
-# Florya
+## Florya
 
 *Chloris chloris*, European Greenfinch
 
@@ -283,7 +283,7 @@ Göç döneminde, özellikle sonbaharda daha yaygındır. Eylül sonundan kasım
 
 Türkiye genelinde floryaların büyük çoğunluğu Güney Avrupa kökenli *aurantiiventris* alttürüne aittir. Güneydoğu Anadolu ve çevresinde ise *chlorotica* alttürü bulunur. Floryanın bölgesel formlarını sınıflandırma çabaları çoğunlukla sonuçsuz kalmıştır. Daha önce Marmara ve Kuzey Ege’de *muehlei*, Kuzeydoğu Anadolu’da *bilkevitchi* ve Hatay’da *chlorotica* alttürlerinin bulunduğu öne sürülmüş, ayrıca Güney Ege’den örnek bulunmamasına rağmen burada da *aurantiiventris* alttürünün varlığı önerilmiştir [@roselaar1995]. Ancak günümüzde *muehlei* ve *bilkevitchi* taksonları, *aurantiiventris* alttürünün sinonimi olarak kabul edilmektedir.
 
-# Sarı Gagalı Ketenkuşu
+## Sarı Gagalı Ketenkuşu
 
 *Linaria flavirostris*, Twite
 
@@ -310,7 +310,7 @@ Genellikle ekim ve nisan başı arasında kışı geçirmek üzere daha alçak b
 
 Türkiye, Kafkaslar, Kuzey Irak ve Kuzey İran’da *brevirostris* alttürü bulunur [@vaurie1959a; @roselaar1995]. Bu alttürün üst ve alt taraf zemini, nominat *flavirostris* ve Britanya’daki *pipilans* alttürüne kıyasla belirgin şekilde daha açıktır [@roselaar1995]. Alt taraftaki çizgiler daha siliktir; özellikle erkeklerde lekeler daha belirgin, düzenli ve kalındır [@sharpe1888; @sushkin1925; @kumerloeve1967c]. Pembe kuyruk sokumu, Kuzeybatı Avrupa alttürlerine göre daha canlı ve kırmızımsı tondadır.
 
-# Ketenkuşu
+## Ketenkuşu
 
 *Linaria cannabina*, Common Linnet
 
@@ -341,7 +341,7 @@ Bu alttürün morfolojik varyasyonları ayrıntılı olarak incelenmiştir [@vau
 
 Ketenkuşu ve Sarı Gagalı Ketenkuşu geçmişte *Acanthis* cinsi altında sınıflandırılmıştır [@marten1986; @vandenelzen1991; @fehrer1996; @arnaizvillena2001]. Bazı kaynaklarda ise *Carduelis* cinsine dahil edilmiştir.
 
-# Huş İsketesi
+## Huş İsketesi
 
 *Acanthis flammea*, Common Redpoll
 
@@ -365,7 +365,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Kuzey Avrupa, Asya ve Am
 
 Türkiye’den gelen tüm kayıtların *nominat flammea* alttürüne ait olduğu kabul edilebilir. Alléon tarafından toplanan iki örnek bu alttüre aittir ve günümüzde Robert Kolej koleksiyonunda bulunmayan örneğin de *flammea* olduğu belirtilmiştir [@matheydupraz1920]. *Flammea*, İskandinavya’dan doğuda Kamçatka’ya ve ötesinde Alaska ile Kuzey Kanada’ya kadar uzanan geniş bir üreme alanına sahiptir [@clement1993finches].
 
-# Çaprazgaga
+## Çaprazgaga
 
 *Loxia curvirostra*, Red Crossbill
 
@@ -392,7 +392,7 @@ Sonbahar ve kış aylarında, özellikle yurtdışından gelen bireylerin de kat
 
 Türkiye’deki tüm popülasyonların *guillemardi* alttürüne ait olduğu kabul edilmektedir. Batı Karadeniz’deki bireyler daha önce *vasvarii*, Kafkas Dağları ve Güney Kafkasya’daki bireyler ise *caucasica* olarak tanımlanmıştır [@roselaar1995]. Bu iki takson Kıbrıs’ta tanımlanan *guillemardi* alttürünün sinonimi olarak değerlendirilmelidir.
 
-# Saka
+## Saka
 
 *Carduelis carduelis*, European Goldfinch
 
@@ -424,7 +424,7 @@ Kara başlı alttürler arasında görülen varyasyonlar çoğunlukla klinaldir.
 
 (Not: Saka taksonomisi Özgün Sözüer tarafından revize edilmiştir.)
 
-# Küçük İskete
+## Küçük İskete
 
 *Serinus serinus*, European Serin
 
@@ -451,7 +451,7 @@ Geçit sırasında, sonbaharda ağustos ortasından ekim başına kadar, ilkbaha
 
 Monotipik bir türdür.
 
-# Kara İskete
+## Kara İskete
 
 *Serinus pusillus*, Red-fronted Serin
 
@@ -478,7 +478,7 @@ Sonbahar ve kış aylarında (ekim sonundan mart ortasına, istisnai olarak nisa
 
 Monotipik bir türdür.
 
-# Kara Başlı İskete
+## Kara Başlı İskete
 
 *Spinus spinus*, Eurasian Siskin
 
@@ -505,7 +505,7 @@ Eylül sonundan nisan başına kadar yaygın olarak çok sayıdadır. Özellikle
 
 Monotipik bir türdür.
 
-# Mahmuzlu Çinte
+## Mahmuzlu Çinte
 
 *Calcarius lapponicus*, Lapland Longspur
 
@@ -529,7 +529,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında ürer.
 
 Türkiye’de kaydedilen bireyler büyük olasılıkla nominat alttüre aittir. Bu takson, Kuzey Norveç’ten Doğu Sibirya’ya kadar olan bölgede ürer [@byers1995].
 
-# Alaca Çinte
+## Alaca Çinte
 
 *Plectrophenax nivalis*, Snow Bunting
 
@@ -553,7 +553,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında ürer.
 
 Türkiye’den toplanmış herhangi bir örnek günümüzde mevcut değildir. Ancak kaydedilen bireylerin neredeyse kesin olarak *vlasowae* alttürüne ait olduğu kabul edilebilir. Bu alttür, Kuzeydoğu Avrupa Rusyası’ndan Sibirya’nın doğusundaki Çukotski Yarımadası’na kadar uzanan bölgede ürer, kış aylarında güneye göç eder ve batıda Macaristan ile Romanya’ya kadar ulaşır [@byers1995].
 
-# Kara Başlı Çinte
+## Kara Başlı Çinte
 
 *Emberiza melanocephala*, Black-headed Bunting
 
@@ -580,7 +580,7 @@ En azından mayıs ortasına kadar Türkiye’nin kuzey ve batısında üreyen b
 
 Monotipik bir türdür.
 
-# Kızıl Başlı Çinte
+## Kızıl Başlı Çinte
 
 *Emberiza bruniceps*, Red-headed Bunting
 
@@ -602,7 +602,7 @@ Türkiye'de yuvalamaz. Orta Asya'da yuvalar, kışı Hindistan'da geçirir.
 
 Monotipik bir türdür.
 
-# Tarla Çintesi
+## Tarla Çintesi
 
 *Emberiza calandra*, Corn Bunting
 
@@ -629,7 +629,7 @@ Tarım arazileri, çalılık yarı bozkırlar ve benzeri açık alanlarda 2300 m
 
 Ülkenin neredeyse tamamında nominat *calandra* alttürü bulunur. Güneydoğu Anadolu’da, özellikle Fırat ile Ceylanpınar arasındaki bölgede *buturlini* alttürünün varlığı olasıdır [@roselaar1995; @byers1995]. Ancak tür içindeki coğrafi varyasyonlar genellikle düşük ve klinal yapıdadır; bu nedenle diğer alttürlerin geçerliliği tartışmalıdır[@vaurie1956a]. Tür, eski kaynaklarda *Miliaria* cinsi altında sınıflandırılmıştır.
 
-# Kaya Çintesi
+## Kaya Çintesi
 
 *Emberiza cia*, Rock Bunting
 
@@ -656,7 +656,7 @@ Taksonomik durumu karmaşıktır ve revizyona açıktır. Kuzey Anadolu ve Traky
 
 Tring Doğa Tarihi Müzesi’ndeki Türkiye kökenli ve *hordei* olarak tanımlanan tahnitler, Roselaar tarafından belirtilen tüm karakterlere göre incelenmiş, ancak nominat *cia* alttürüne son derece benzer olduğu görülmüştür. Bu nedenle *hordei* geçerli bir takson olarak kabul edilmemektedir. *Prageri* örnekleri incelenememiş olsa da, *par* alttürüne ait olduğu düşünülen örnekler de bu iki formun geçerliliğini ciddi şekilde sorgulatmaktadır.
 
-# Bahçe Çintesi
+## Bahçe Çintesi
 
 *Emberiza cirlus*, Cirl Bunting
 
@@ -681,7 +681,7 @@ Batı Karadeniz, Marmara ve Ege Bölgesi’nin kuzey ve iç kesimlerinde yaygın
 
 Monotipik bir türdür [@svensson1992].
 
-# Sarı Çinte
+## Sarı Çinte
 
 *Emberiza citrinella*, Yellowhammer
 
@@ -708,7 +708,7 @@ Geçit kuşu olarak Türkiye genelinde, kış konuğu olarak ise ekim başından
 
 Üreyen kuşlar incelenmemiş olsa da, tüm kayıtların görünüşe göre *erythrogenys* alttürüne ait olduğu düşünülmektedir [@roselaar1995]. Bu alttürde, ak başlı çintede görülen bazı karakterler de bulunur. Bunun, iki tür arasında uzun bir zaman dilimine yayılan melezleşme ve gen akışı sonucu oluştuğu ileri sürülmüştür [@panov2003; @byers1995].
 
-# Ak Başlı Çinte
+## Ak Başlı Çinte
 
 *Emberiza leucocephalos*, Pine Bunting
 
@@ -738,7 +738,7 @@ Türkiye'de yuvalamaz. Asya'nın güney tayga kuşağında yuvalar.
 
 Türkiye'den belgelenen bireyler nominat alttüre aittir.
 
-# Doğu Kirazkuşu
+## Doğu Kirazkuşu
 
 *Emberiza buchanani*, Grey-necked Bunting
 
@@ -765,7 +765,7 @@ Türün bilinen yayılış bölgesinin oldukça batısında olan Aladağlar’da
 
 Türkiye'de *cerrutii* alttürü bulunur. Toplam üç alttür tanımlanmış olsa da tür içindeki coğrafi varyasyon sınırlıdır. Bu nedenle, türün monotipik olarak değerlendirilmesi daha uygun bir yaklaşımdır.
 
-# Boz Çinte
+## Boz Çinte
 
 *Emberiza cineracea*, Cinereous Bunting
 
@@ -794,7 +794,7 @@ Doğuda bulunan *semenowi* alttürü ise Gaziantep’in 40 km batısından başl
 
 Batıda bulunan *cinerecea* alttürü Marmara Bölgesi’nin güney ucundan başlayarak kıyı boyunca Doğu Toroslar’a kadar uzanır. Doğuda bulunan *semenowi* alttürü ise Gaziantep’in batısından başlayarak İran ve Irak sınırına kadar yayılış gösterir. [@roselaar1995]. Bu iki alttürün yayılış sınırını Fırat Nehri olduğu iddia edilmiş, Gaziantep çevresinde *semenowi* alttürünün bulunmasıyla iddia çürütülmüştür [@martins1989; @kirwanmartins2000; @kirwan2003]. Her iki alttür, birbirleriyle karışmadan farklı bölgelerde ürer. Tring Doğa Tarihi Müzesi ve Manchester Müzesi’nde incelenen örneklerde ara form varlığına işaret eden belirgin bir bulguya rastlanmamıştır.
 
-# Kirazkuşu
+## Kirazkuşu
 
 *Emberiza hortulana*, Ortolan Bunting
 
@@ -821,7 +821,7 @@ Hem ilkbahar hem de sonbahar göçü sırasında tüm bölgelerde daha yaygın v
 
 Monotipik bir türdür.
 
-# Kızıl Kirazkuşu
+## Kızıl Kirazkuşu
 
 *Emberiza caesia*, Cretzschmar's Bunting
 
@@ -848,7 +848,7 @@ Başlıca Ege, Akdeniz bölgelerinde bulunur. Trakya’da ve İç Anadolu’nun 
 
 Monotipik bir türdür.
 
-# Bataklık Çintesi
+## Bataklık Çintesi
 
 *Emberiza schoeniclus*, Common Reed Bunting
 
@@ -880,7 +880,7 @@ Kış göçmenlerinin büyük çoğunluğu, *schoeniclus* nominal formuna ya da 
 
 *Stresemanni*, nominal *schoeniclus* alttüründen ayırt edilebilecek kadar belirgin morfolojik özellikler göstermediğinden ayrı bir alttür olarak kabul edilmemeli ve *schoeniclus* altında değerlendirilmelidir. Benzer şekilde, *tschusii*, *othmari* ve muhtemelen *reiseri* alttürlerinin de tek bir isim altında birleştirilmesi uygun olacaktır. Bu durumda öncelik hakkı *othmari* adına verilmelidir.
 
-# Küçük Çinte
+## Küçük Çinte
 
 *Emberiza pusilla*, Little Bunting
 
@@ -906,7 +906,7 @@ Türkiye'de yuvalamaz.
 
 Monotipik bir türdür.
 
-# Ak Kaşlı Çinte
+## Ak Kaşlı Çinte
 
 *Emberiza rustica*, Rustic Bunting
 

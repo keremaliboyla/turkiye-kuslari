@@ -2,7 +2,7 @@
 title: "Cılıbıtlar ve diğerleri"
 ---
 
-# Kocagöz
+## Kocagöz
 
 *Burhinus oedicnemus*, Eurasian Stone-curlew
 
@@ -29,7 +29,7 @@ Ağustos ve eylül aylarında daha çok sulakalanlarda küçük göç sürüleri
 
 Ayrıntılı bir çalışma bulunmamakla birlikte, nominat alttürün Türkiye'nin kuzeydoğusunda, *saharae* alttürünün ise diğer bölgelerde görüldüğü belirtilmiştir [@vaurie1963]. Bireysel varyasyonların yüksek olması, coğrafi varyasyonun tanınmasını zorlaştırmaktadır. Özellikle toprak yapısı ve bağıl nem koşulları sırt tonunda çeşitlilik yaratmaktadır. Bu koşullar altında, anakarada bulunan (Kanarya Adaları hariç) alttürlerin geçerliliği sorgulanabilir.
 
-# Uzunbacak
+## Uzunbacak
 
 *Himantopus himantopus*, Black-winged Stilt
 
@@ -58,7 +58,7 @@ Kış kayıtları genelde düşük sayılardadır, ancak arada sırada görülme
 
 Türkiye'de nominat alttürü bulunur.
 
-# Kılıçgaga
+## Kılıçgaga
 
 *Recurvirostra avosetta*, Pied Avocet
 
@@ -87,7 +87,7 @@ Türkiye’nin iklimin daha ılıman olduğu batı kesimlerinde önemli sayılar
 
 Monotipik bir türdür.
 
-# Poyrazkuşu
+## Poyrazkuşu
 
 *Haematopus ostralegus*, Eurasian Oystercatcher
 
@@ -112,7 +112,7 @@ Göç döneminde daha sık rastlanır. Özellikle kıyısal alanlarda yaygın ol
 
 Önceleri nominat alttürün bulunduğunu düşünülmüş [@delhoyo1996], sonradan *longipes* alttürünün olma olasulığını söyler [@roselaar1995]. Türkiye'den herhangi bir örnek olmamasına rağmen, Türkiye kuşlarını *longipes* alttürüne dahil ediyoruz.
 
-# Gümüş Yağmurcun
+## Gümüş Yağmurcun
 
 *Pluvialis squatarola*, Grey Plover
 
@@ -136,7 +136,7 @@ Türkiye'de yuvalamaz.
 
 Monotipik bir türdür.
 
-# Altın Yağmurcun
+## Altın Yağmurcun
 
 *Pluvialis apricaria*, European Golden Plover
 
@@ -160,7 +160,7 @@ Türkiye'de yuvalamaz.
 
 Monotipik bir türdür.
 
-# Amerika Altın Yağmurcunu
+## Amerika Altın Yağmurcunu
 
 *Pluvialis dominica*, American Golden Plover
 
@@ -182,7 +182,7 @@ Türkiye'de yuvalamaz.
 
 Monotipik bir türdür. Daha önce küçük altın yağmurcun ile aynı tür olduğu düşünülmekteydi.
 
-# Küçük Altın Yağmurcun
+## Küçük Altın Yağmurcun
 
 *Pluvialis fulva*, Pacific Golden Plover
 
@@ -208,7 +208,7 @@ Türkiye'de yuvalamaz.
 
 Monotipik bir türdür. Eskiden Amerika Altın Yağmurcunu ile tek tür olarak değerlendirilmiştir.
 
-# Dağ Cılıbıtı
+## Dağ Cılıbıtı
 
 *Eudromias morinellus*, Eurasian Dotterel
 
@@ -232,7 +232,7 @@ Türkiye'de yuvalamaz. Avrupa ve Asya'nın kuzey bölgelerinde yuvalar.
 
 Monotipik bir türdür. Zaman zaman *Charadrius* cinsi altında değerlendirilir.
 
-# Halkalı Cılıbıt
+## Halkalı Cılıbıt
 
 *Charadrius hiaticula*, Common Ringed Plover
 
@@ -256,7 +256,7 @@ Türkiye'de yuvalamaz. Avrasya'nın kuzey bölgelerinde başta tundra kuşağın
 
 İncelenen bireylerin çoğu *tundrae* alttürünün karakteristik özelliklerini taşımaktadır [@have_etal1988]. Ekim 1945’te Mogan Gölü’nden alınan bir örnek [@wadley1951], bu alttürün Türkiye’de varlığını kanıtlamaktadır. Ancak G. M. Kirwan, bu örneği İngiltere’deki Tring Doğa Tarihi Müzesi’nde bulamamıştır.
 
-# Halkalı Küçük Cılıbıt
+## Halkalı Küçük Cılıbıt
 
 *Thinornis dubius*, Little Ringed Plover
 
@@ -283,7 +283,7 @@ En yaygın olarak üreyen kıyı kuşudur. Karadeniz ve Doğu Anadolu’nun dağ
 
 Türkiye'de *curonicus* alttürü bulunur. Geçmişte *Charadrius* türü altında sınıflandırılmıştır.
 
-# Kızkuşu
+## Kızkuşu
 
 *Vanellus vanellus*, Northern Lapwing
 
@@ -311,7 +311,7 @@ Göç döneminde tüm bölgelerde gözlenir ve bu dönemde daha yaygın olarak v
 
 Monotipik bir türdür.
 
-# Mahmuzlu Kızkuşu
+## Mahmuzlu Kızkuşu
 
 *Vanellus spinosus*, Spur-winged Lapwing
 
@@ -338,7 +338,7 @@ Göç sırasında ülke genelinde daha bol ve yaygındır. Akdeniz'de en erken g
 
 Monotipik bir türdür. Geçmişte *Hoplopterus* cinsi altında değerlendirilmiştir.
 
-# Gri Başlı Kızkuşu
+## Gri Başlı Kızkuşu
 
 Vanellus cinereus, Grey-headed Lapwing
 
@@ -360,7 +360,7 @@ Türkiye'de yuvalamaz. Üreme alanı Kuzedoğu Çin'dedir. Kışı Güneydoğu A
 
 Monotipik bir türdür.
 
-# Büyük Kızkuşu
+## Büyük Kızkuşu
 
 *Vanellus indicus*, Red-wattled Lapwing
 
@@ -385,7 +385,7 @@ Monotipik bir türdür.
 
 Ülkede *aigneri* alttürü bulunmaktadır, ancak bu tür içerisindeki varyasyon klinal bir yapı göstermektedir [@delhoyo1996]. Geçmişte *Hoplopterus* cinsi altında sınıflandırılmıştır.
 
-# Sürmeli Kızkuşu
+## Sürmeli Kızkuşu
 
 *Vanellus gregarius*, Sociable Lapwing
 
@@ -413,7 +413,7 @@ Türkiye'de yuvalamaz. Orta Asya'da yuvalar, kışı Sudan, Pakistan ve Hindista
 
 Monotipik bir türdür. Geçmişte *Chettusia* cinsi altında değerlendirilmiştir.
 
-# Ak Kuyruklu Kızkuşu
+## Ak Kuyruklu Kızkuşu
 
 *Vanellus leucurus*, White-tailed Lapwing
 
@@ -450,7 +450,7 @@ Türkiye’deki ilk kayıt, Dalman koleksiyonundaki (Kudüs) bir çifte dayanmak
 
 Monotipik bir türdür. Geçmişte *Chettusia* cinsi altında değerlendirilmiştir.
 
-# Doğu Cılıbıtı
+## Doğu Cılıbıtı
 
 *Anarhynchus asiaticus*, Caspian Plover
 
@@ -474,7 +474,7 @@ Türkiye'de yuvalamaz. Yuvalama alanı Orta Asya'dır. Kışı Doğu ve Güney A
 
 Monotipik bir türdür. Geçmişte *Charadrius* türü altında sınıflandırılmıştır.
 
-# Tibet Cılıbıtı
+## Tibet Cılıbıtı
 
 *Anarhynchus atrifrons*, Tibetan Sand-Plover
 
@@ -498,7 +498,7 @@ Türkiye'de yuvalamaz.
 
 Türkiye'de görülen kuşun alttür sınıflandırılması yapılamamıştır. Geçmişte *Charadrius* türü altında sınıflandırılmıştır.
 
-# Büyük Cılıbıt
+## Büyük Cılıbıt
 
 *Anarhynchus leschenaultii*, Greater Sand-Plover
 
@@ -527,7 +527,7 @@ Tarımsal faaliyetlere bağlı habitat kaybı nedeniyle son 30 yılda üreyen n�
 
 Türkiye'de *columbinus* alttürü görülür. Bu alttür genellikle daha küçük, kısa bacaklı ve küçük ve ince gagalıdır ve sıklıkla Tibet Cılıbıtı ile karıştırılır [@hirschfeld2000]. Geçmişte *Charadrius* türü altında sınıflandırılmıştır.
 
-# Akça Cılıbıt
+## Akça Cılıbıt
 
 *Anarhynchus alexandrinus*, Kentish Plover
 
@@ -556,7 +556,7 @@ Ege ve Akdeniz bölgelerinde yüksek sayılarda kışlayan popülasyonlar bulunm
 
 Türkiye'de nominat alttürü bulunur. Geçmişte *Charadrius* türü altında sınıflandırılmıştır.
 
-# Yengeç Yağmurcunu
+## Yengeç Yağmurcunu
 
 *Dromas ardeola*, Crab-plover
 
@@ -578,7 +578,7 @@ Türkiye'de yuvalamaz.
 
 Monotipik bir türdür.
 
-# Çölkoşarı
+## Çölkoşarı
 
 *Cursorius cursor*, Cream-colored Courser
 
@@ -607,7 +607,7 @@ Birecik, Suruç, Harran ve Akçakale çevresinde yaz konuğudur [@kasparek1992a]
 
 Türkiye'de *bogolubovi* alttürü bulunur [@dickinson2003]. Buna rağmen nominat alttürünün olduğu iddia edilmiştir [@roselaar1995]. Türkiye'den geçerli bir kayıt yoktur. Bu yüzden emin olmak imkânsızdır ancak Suriye ve Irak çöllerinde bulunan *cursor* alttürünün Türkiye'nin buralara komşu bölgelerinde bulunması *bogolubovi* alttüründen daha akla yakın görünmektedir. Bu alttürün yayılışı güney Hazar Denizi'nin batısına kadar ulaşmaktadır. Her ne olursa olsun, bu formlar arasındaki varyasyon düşüktür ve bogolubovi burada vurgulanan referanslar altında tanımlanamaz.
 
-# Bataklıkkırlangıcı
+## Bataklıkkırlangıcı
 
 *Glareola pratincola*, Collared Pratincole
 
@@ -632,7 +632,7 @@ En önemli üreme alanları şunlardır: Meriç Deltası (200 çift), Kocaçay D
 
 Türkiye'de nominat alttürü bulunur.
 
-# Kara Kanatlı Bataklıkkırlangıcı
+## Kara Kanatlı Bataklıkkırlangıcı
 
 *Glareola nordmanni*, Black-winged Pratincole
 

@@ -2,7 +2,7 @@
 title: "Baştankaralar - Arapbülbülleri"
 ---
 
-# Çam Baştankarası
+## Çam Baştankarası
 
 *Periparus ater*, Coal Tit
 
@@ -29,7 +29,7 @@ Kıyı bölgelerindeki ibreli ormanlarda ve Torul, Kızılcahamam, Beynam, Akda�
 
 türle ilgili farklı varyasyon düzeyleri tanımlamış olsalar da temel farklar üzerinde hemfikirdirler [@harrap1996; @roselaar1995]. Türkiye'de iki alttür grubu görülür; Marmara, Batı Karadeniz, Ege, ve güneyde Toroslarda görülen *ater* grubu altındaki *ater* alttürü ile Doğu Karadeniz'de görülen *phaeonotus* grubu altındaki *derjugini* alttürü [@harrap1996]. Bunun dışında Artvin ve Sarıkamış'da *derjugini* alttürü bilinse de, burada *abietum/rufolateralis* ve *michalowskii* altrürleri arasında geçişin yaşandığıiddia edilmiştir [@roselaar1995]. Türkiye'de Doğu Karadeniz'den çekilmiş fotoğraflar incelendiğinde ülkenin kalanından çekilmiş fotoğraflardan çok fark görmek mümkün değildir. *Derjugini* ve *michalowskii* alttürlerini içeren Kafkas gruplarında görülen bireysel varyasyonun, grup içi ve gruplar arası geçiş göze alındığında Kafkas grubunu dahi ater grubundan farklı olması fikri zayıf kalmaktadır. Nitekim derjugini'nin bazı belirgin özelliklerini Ilgaz Dağları'na kadar batıda gözlenmiştir [@roselaar1995]. Buna karşın Ege ve Akdeniz kuşlarının *rufolateralis* isminin altrür olabileceği önerilmiştir [@roselaar1995]. Türde görülen coğrafi varyasyonu kısaca ele almış, varyasyonun çoğunun klinal olduğunu belirtmiş [@snow1997]. Bu tür önceden *Parus* cinsi altında sınıflandırılıyordu [@sangster2005; @gill2005].
 
-# Ak Yanaklı Baştankara
+## Ak Yanaklı Baştankara
 
 *Poecile lugubris*, Sombre Tit
 
@@ -54,7 +54,7 @@ Ege, Marmara ve Akdeniz bölgelerinde kuru, açık ağaçlık alanlarda ve çal�
 
 Trakya'da görülenler nominat *lugubris* alttürünün sırtı daha kahverengiye çalar. @roselaar1995 tarafından tanımlanan *lugens*, nominat lugubris ile sinonimidir [@harrap1996]. Anadolu'da ise *anatoliae* alttürü görülür. Güneydoğu bölgesinin en ucundakilerin İran'da görülen *dubius* ile geçiş yaptıkları kesindir. *Anatoliae* alttürünü *lugubris* alttüründen ayıran özellikler belirgindir [@harrap1996; @roselaar1995; @svensson1992]. Bu tür önceden *Parus* cinsi altında sınıflandırılıyordu [@sangster2005; @gill2005].
 
-# Kayın Baştankarası
+## Kayın Baştankarası
 
 *Poecile palustris*, Marsh Tit
 
@@ -79,7 +79,7 @@ Karadeniz ve Marmara bölgelerinde, özellikle tepelik ve dağlık alanlarda, ya
 
 Marmara Bölgesi ile Orta Karadeniz’in doğusunda bulunan bireyler, *stagnatilis* alttürüne ait gibi görünmektedir. Doğu Karadeniz’e ait herhangi bir örnek incelenmemiştir [@roselaar1995]. Bu bölgedeki popülasyonun *stagnatilis* ile Kafkasya’da yayılış gösteren *kabardensis* alttürleri arasında geçiş formlarını temsil etmesi muhtemeldir [@harrap1996]. Bununla birlikte, bu iki form genellikle *nominat* grup içerisinde sınıflandırılmaktadır [@stepanyan1990]. *Palustris* grubu içerisinde beş alttür tanımlanmış olsa da [@harrap1996], bu popülasyonlar arasındaki varyasyon son derece sınırlıdır ve neredeyse tamamen klinal yapıdadır [@vaurie1957c; @vaurie1959a]. Bu tür, geçmişte *Parus* cinsi altında sınıflandırılmıştır [@sangster2005; @gill2005].
 
-# Mavi Baştankara
+## Mavi Baştankara
 
 *Cyanistes caeruleus*, Eurasian Blue Tit
 
@@ -106,7 +106,7 @@ Açık, yaprak döken ve karışık yaşlı ormanlarda, nehir kıyısındaki ağ
 
 Türkiye’deki popülasyonların tamamı *nominat caeruleus* grubuna dâhildir. @harrap1996 ülkenin batı ve kuzeyinde görülen bireyleri *caeruleus*, doğu ve güneyde bulunan, batıda *nominat* grupla geçiş yapan bireyleri ise *satunini* olarak değerlendirmiştir. @roselaar1995 Trakya’daki kuşları *caeruleus*, Kuzey Anadolu’dakileri *caeruleus* ile *satunini* arasında, güneydekileri ise açıkça *caeruleus* ve *persicus* arasında özellikler gösteren bireyler olarak tanımlamıştır. Aynı çalışmada, Ege Bölgesi’nde *calamensis* alttürünün bulunabileceği ihtimali de öne sürülmüştür. Ancak yukarıda adı geçen formlara ait örnekler incelendiğinde, aralarındaki farklılıkların oldukça sınırlı olduğu ve büyük ölçüde klinal bir varyasyon gösterdiği söylenebilir. Her ne kadar *persicus* alttürünün Batı Avrupa popülasyonlarından belirgin şekilde farklı olduğu bazı yayınlarda vurgulanmışsa da [@hollom1988; @porter1996], ve *persicus*’un “iyi ayırt edilebilir” bir form olduğu öne sürülmüşse de [@vaurie1957b], bu farkların özellikle yayınlardaki renk tasvirlerinde aşırıya kaçılması nedeniyle abartılmış olabileceği düşünülmektedir. Tür, geçmişte *Parus* cinsi altında sınıflandırılmıştır [@sangster2005; @gill2005].
 
-# Büyük Baştankara
+## Büyük Baştankara
 
 *Parus major*, Great Tit
 
@@ -133,7 +133,7 @@ Türkiye’deki popülasyonların tamamı *nominat caeruleus* grubuna dâhildir.
 
 Türkiye’de ağırlıklı olarak *major* alttürü yayılış gösterir [@svensson1992; @harrap1996]. Geniş yayılışlı ve oldukça değişken bir taksondur. @roselaar1995, @rokitansky1971 tarafından toplanan ve 72377 numaralı örneğin Viyana Doğa Tarihi Müzesi’ndeki incelemesine dayanarak, Güneybatı Ege’de daha küçük yapılı *aphrodite* alttürünün bulunabileceğinden şüphelenmiştir. Ayrıca, Toroslar’ın doğusundan toplanan iki örnekte Levanten kökenli *terrasanctae* alttürünün bazı özelliklerinin görülebileceğini belirtmiştir [@roselaar1995]. Ancak Tring Doğa Tarihi Müzesi’nde bulunan tüm Toros örnekleri *major* formundan belirgin bir farklılaşma göstermemektedir. Aynı şekilde, müzedeki diğer örneklerin incelenmesi sonucunda, *terrasanctae* alttürünün *major*’dan yalnızca zayıf düzeyde ayrıldığı görülmektedir [@vaurie1957c].
 
-# Çulhakuşu
+## Çulhakuşu
 
 *Remiz pendulinus*, Eurasian Penduline Tit
 
@@ -160,7 +160,7 @@ Yıl boyunca düzenli olarak üreme bölgelerinde bulunur, ancak ürediği bilin
 
 Türkiye’de nominat *pendulinus* alttürü yayılış gösterir. Roselaar (1995), İç ve Doğu Anadolu’daki bireyleri *menzbieri* alttürü olarak tanımlamıştır. *Menzbieri* alttürüne ait bazı bireyler oldukça soluk renklere ve belirsiz desenlere sahip olsa da, *pendulinus* ile *menzbieri* arasındaki farklar hem çok zayıf tanımlanmış hem de oldukça değişkendir. Bazı gözlemciler nominat *pendulinus*’un Aras Vadisi’nde, Ermenistan sınırında da bulunduğunu ileri sürmüştür. Bu nedenle *menzbieri*’nin *nominat pendulinus*’un bir sinonimi olarak değerlendirilmesi en doğru yaklaşımdır.
 
-# Bıyıklı Baştankara
+## Bıyıklı Baştankara
 
 *Panurus biarmicus*, Bearded Reedling
 
@@ -189,7 +189,7 @@ Batı Türkiye’de, özellikle Marmara ve Ege bölgelerindeki popülasyonlar b�
 
 Tür, klinal varyasyon göstermektedir: güney ve batıdaki bireyler daha koyu ve canlı renkliyken, kuzey ve doğudakiler daha soluk renklidir. Bu varyasyonun yanı sıra, türün kolonizasyon yeteneği de önemlidir. Yeni alanlara yayılma ve geçmişte bulunduğu bölgelere yeniden yerleşme kapasitesi, bu türün dağılım dinamiklerinde belirleyici rol oynamaktadır. Sonuç olarak, Türkiye’de tanımlanmış olan *kosswigi* ve *russicus* alttürlerinin geçerliliği tartışmalıdır ve muhtemelen taksonomik olarak ayrı statülerde değerlendirilmemelidir.
 
-# İbibik Toygarı
+## İbibik Toygarı
 
 *Alaemon alaudipes*, Greater Hoopoe-Lark
 
@@ -218,7 +218,7 @@ Tür göç döneminde Doğu Akdeniz kıyılarında da görülmektedir. Türkiye 
 
 Türkiye’de görülen bireylerin büyük olasılıkla nominat alttüre ait olduğu düşünülmektedir.
 
-# Küçük Çöl Toygarı
+## Küçük Çöl Toygarı
 
 *Ammomanes cinctura*, Bar-tailed Lark
 
@@ -247,7 +247,7 @@ Türün Türkiye’deki ilk güvenilir kayıtları Göksu Deltası’ndan bildir
 
 Türkiye’de *arenicolor* alttürünün bulunması beklenmektedir. Ayrıca, tür adının yazımında doğru formun kullanılması önemlidir [@david2002b].
 
-# Çöl Toygarı
+## Çöl Toygarı
 
 *Ammomanes deserti*, Desert Lark
 
@@ -274,7 +274,7 @@ Ekim ile şubat ayları arasında kaydı bulunmamasına rağmen, yıl boyunca ay
 
 Suriye’de görülen *coxi* alttürünün, Türkiye’de de bulunması muhtemeldir; ancak bugüne kadar ülkeden hiçbir tahnit örneği kaydedilmemiştir.
 
-# Orman Toygarı
+## Orman Toygarı
 
 *Lullula arborea*, Woodlark
 
@@ -301,7 +301,7 @@ Sonbahar ve kış aylarında sürü hâlinde görülür; orta sayılarda yaygın
 
 Türkiye genelinde *pallida* alttürü yayılış gösterir [@roselaar1995].
 
-# Ak Kanatlı Toygar
+## Ak Kanatlı Toygar
 
 *Alauda leucoptera*, White-winged Lark
 
@@ -331,7 +331,7 @@ Türkiye'de yuvalamaz.
 
 Monotipik bir türdür.
 
-# Tarlakuşu
+## Tarlakuşu
 
 *Alauda arvensis*, Eurasian Skylark
 
@@ -360,7 +360,7 @@ Batı ve Orta Anadolu’nun alçak alanları ile kıyı bölgelerinde az ya da o
 
 Alttürlerin durumu Türkiye’nin birçok bölgesinde net değildir. İç Anadolu’ya ait bir örnek, morfolojik ölçümler açısından *armenica* ve *cantarella* alttürleri arasında yer almakta, ancak tüy örtüsü özellikleri bakımından *cantarella* alttürüne daha yakın görünmektedir [@roselaar1995]. Bulgaristan ve Yunanistan’da yayılış gösteren *cantarella* alttürünün Batı Anadolu’da üremesi muhtemel olsa da, Marmara, Ege, Akdeniz, Karadeniz ve Güneydoğu Anadolu’nun büyük bölümünde gözlenen bireylerin hangi alttüre ait olduğu belirsizliğini korumaktadır. Doğu Anadolu’nun uç kesimlerinde *armenica* alttürü bulunur. Ağrı, Erzurum ve Kars’tan elde edilen örnekler, tüy örtüsünün rengi ve gaga büyüklüğü açısından en çok Kafkaslar ve Doğu Avrupa’da yayılış gösteren *cantarella*’ya benzemektedir. Ancak bu bireyler daha uzun kanatlara sahiptir. Kış döneminde ise Türkiye’de, Orta ve Kuzey Avrupa’dan gelen *arvensis* ile Volga bozkırları ve Kazakistan kökenli olması beklenen *dulcivox* alttürleri gözlenebilir [@roselaar1995].
 
-# Küçük Tarlakuşu
+## Küçük Tarlakuşu
 
 *Alauda gulgula*, Oriental Skylark
 
@@ -382,7 +382,7 @@ Türkiye'de üremez. Yayılış alanı Orta Asya, Hint Yarımadası, Çinhindi v
 
 Türkiye’de herhangi bir alttür ayrımı yapılmamıştır, ancak en yakın popülasyon Orta Asya’da yayılış gösteren *inconspicua* alttürü olduğundan, Türkiye’de gözlenen bireylerin bu alttüre ait olması muhtemeldir.
 
-# Tepeli Toygar
+## Tepeli Toygar
 
 *Galerida cristata*, Crested Lark
 
@@ -413,7 +413,7 @@ Tür içindeki varyasyon, özellikle alt ve üst kısımların zemin renginde, g
 
 Bölgesel varyasyonların tümünü tanımlamak isteyen bir yaklaşım, yüzlerce alttür adlandırmasını gerektirebilir [@roselaar1995]. Her ne kadar [@watson1962c; @roselaar1995] tarafından önerilen varyasyon tanımlamaları ve yayılış haritaları büyük ölçüde kabul görse de, bu kadar muğlak ve küçük farklılıkların taksonomik anlamda tanınması tartışmalıdır. Nitekim, Doğu Akdeniz’deki bireyler üzerine yapılan vokalizasyon ve DNA analizleri de bu görüşü desteklemektedir. Avrupa, Batı Asya, Kuzeydoğu Afrika ve Kuzeybatı Fas’taki popülasyonların, tek bir monofiletik klad olan *cristata* içinde değerlendirilmesi önerilmektedir [@guillaument2006].
 
-# Kulaklı Toygar
+## Kulaklı Toygar
 
 *Eremophila alpestris*, Horned Lark
 
@@ -438,7 +438,7 @@ Akdeniz ve İç Anadolu'da 700 m'nin üzerinde, Toroslar'da 1500-3150 m'de ve Do
 
 Türkiye’de *penicillata* alttürü yayılış gösterir. Bu alttür, nominat formdan yanaklardaki siyah bölgenin göğüs üzerindeki siyahlıkla birleşmesiyle ayırt edilir. @roselaar1995, 1876 yılında Danford tarafından Niğde’nin Bereketli köyünde toplanan bir tip örneğe dayanarak, Uludağ, Elmadağ ve Toroslar’daki bazı lokalitelerde endemik olduğu öne sürülen *kumerloevei* alttürünü tanımlamıştır. Aynı çalışmada, Doğu Anadolu’da görülen bireyler ise *penicillata* alttürüne atanmıştır [@roselaar1995]. Tanımlayıcı karakterleri hem yetersiz biçimde açıklanmış hem de doğal varyasyon sınırları içinde değerlendirilebilecek düzeydedir [@kirwan2006]. *Penicillata* ile olan morfolojik örtüşmenin derecesi ve Roselaar’ın (1995) oldukça ayrıntılı şekilde tarif ettiği üst kısımlardaki renk ve desen farklılıkları, yeterli düzeyde ayrışma göstermemektedir. Arazi ve müze çalışmaları, özellikle yüz desenleri ve renklenme gibi bazı karakterlerin klinal varyasyon sergilediğini ortaya koymuştur. Bu nedenle, *kumerloevei* büyük olasılıkla *penicillata* alttürünün sinonimi olarak değerlendirilmelidir. Öte yandan, *kumerloevei* tanımlanmadan önce İç Anadolu’daki bireyler *balcanica* alttürüne ait olarak sınıflandırılmıştır [@kumerloeve1961].
 
-# Çöl Kulaklı Toygarı
+## Çöl Kulaklı Toygarı
 
 *Eremophila bilopha*, Temminck’s Lark
 
@@ -460,7 +460,7 @@ Türkiye'de üremez. Sahra Çölü'nün kuzey sınırı boyunca ve Arabistan yar
 
 Monotipik bir türdür.
 
-# Bozkır Toygarı
+## Bozkır Toygarı
 
 *Calandrella brachydactyla*, Greater Short-toed Lark
 
@@ -491,7 +491,7 @@ Popülasyonlar birkaç alttürün özelliklerini taşıdığından ya da yüksek
 
 Roselaar (1995), daha fazla örnek ve daha kapsamlı tüy örtüsü incelemelerine dayanarak bu coğrafi varyasyonu detaylı biçimde tanımlamıştır. Ancak, tanımladığı varyasyon düzeyi bize yeterince ikna edici gelmemektedir. Özellikle *woltersi* gibi bazı alttürleri temsil eden örneklere erişilememiştir. Bu kadar küçük varyasyonları taksonomik olarak tanımlamaya çalışmak, eldeki verilerle anlamlı bir katkı sağlamayabilir.
 
-# Küçük Boğmaklı Toygar
+## Küçük Boğmaklı Toygar
 
 *Melanocorypha bimaculata*, Bimaculated Lark
 
@@ -518,7 +518,7 @@ Orta ve yüksek rakımlarda, özellikle taşlık yamaçlarda, bozkır ve yarı b
 
 Tür monotipiktir. Eskiden iki alttür olduğu düşünülmüştür. Güney, Orta ve Doğu Anadolu’da, özellikle Toros Dağları, İç Anadolu, Birecik ve Ceylanpınar çevresinde, *rufescens* alttürü tanımlanmış; Iğdır ve Kars çevresi gibi Kuzeydoğu Anadolu’nun uç kesimlerinde ise kuşlar açık biçimde *bimaculata* olarak sınıflandırılmıştır. Van ve Erçek Gölü çevresindeki popülasyonlar ise bu iki form arasında kabul edilmiştir [@roselaar1995]. Ancak diğer birçok toygar türünde olduğu gibi, lokal toprak özellikleri bu türde de mikro ölçekte coğrafi varyasyonu güçlü biçimde etkileyebilir. Örneğin, Gaziantep çevresinden elde edilen bireyler, tüy örtüleri oldukça yıpranmış olmasına rağmen, alt taraflarında görülen belirgin pembemsi ton nedeniyle İngiltere’deki Tring Doğa Tarihi Müzesi’ndeki örnekler arasında hemen ayırt edilebilmektedir. Geçmişte alttür tanımlamalarında kullanılan bireysel farklılıkların, aslında belirgin geçiş formlarından, tüy yıpranmasından ya da solmadan kaynaklandığı düşünülmektedir. Bu nedenle tür, monotipik olarak değerlendirilmektedir [@delhoyo2004].
 
-# Boğmaklı Toygar
+## Boğmaklı Toygar
 
 *Melanocorypha calandra*, Calandra Lark
 
@@ -551,7 +551,7 @@ Bu türde yerel toprak ve iklim koşulları bireylerin görünüşünü belirgin
 
 *Kumerloeve*’nin Ceylanpınar’dan topladığı beş örneğe dayanarak tanımladığı *dathei* alttürüne ait herhangi bir örnek günümüzde bulunamamıştır [@kumerloeve1970c] ve bu alttür, genellikle *gaza*’nın sinonimi olarak kabul edilmektedir [@roselaar1995]. Genel olarak *calandra*, *hebraica*, *gaza* ve büyük olasılıkla *psammochroa* alttürleri arasında klinal bir varyasyon olduğu düşünülmektedir.
 
-# Kara Toygar
+## Kara Toygar
 
 *Melanocorypha yeltoniensis*, Black Lark
 
@@ -575,7 +575,7 @@ Türkiye'de yuvalamaz. Yayılış alanın merkezi Kazakistan'ın kuzeyidir.
 
 Monotipik bir türdür.
 
-# Arabistan Toygarı
+## Arabistan Toygarı
 
 *Eremalauda eremodites*, Arabian Lark
 
@@ -597,7 +597,7 @@ Türkiye'de üremez. Arabistan'da lokal olarak yayılış gösterir.
 
 Monotipik bir türdür.
 
-# Çorak Toygarı
+## Çorak Toygarı
 
 *Alaudala rufescens,* Mediterranean Short-toed Lark
 
@@ -617,7 +617,7 @@ Lokal olarak bulunan bir yaz göçmeni olup, yerli olma ihtimali de vardır. Gaz
 
 Eskiden Asya Çorak Toygarı ile aynı tür altında sınıflandırılmışken, daha sonra Suriye, Kuzey Afrika ve İspanya popülasyonları *Alaudala rufescens* ismiyle, Anadolu, Arabistan ve Orta Asya popülasyonları *Alaudala heinei* ismiyle farklı türler olarak tanımlanmıştır. Müze koleksiyonları ve saha gözlemleri temel alındığında, Türkiye’de yayılış gösteren popülasyonun *minor* alttürüne ait olduğu anlaşılmaktadır.
 
-# Asya Çorak Toygarı
+## Asya Çorak Toygarı
 
 *Alaudala heinei,* Turkestan Short-toed Lark
 
@@ -650,7 +650,7 @@ Alström ve çalışma arkadaşlarının gözlemlerine göre, *cheleensis–rufe
 
 Tring’de incelenen müze örnekleri, *aharonii* ile *heinei* alttürlerinin özellikle boyut ve genel renk bakımından belirgin şekilde ayrılmadığını; ancak kuyruk tüyü desenleri ve kanat formülleri ile ayırt edilebildiklerini ortaya koymuştur. Bu nedenle, türün sistematiğinin netleştirilmesi için yeni arazi çalışmaları yapılması ve incelenen örnek sayısının artırılması gereklidir.
 
-# Kum Kırlangıcı
+## Kum Kırlangıcı
 
 *Riparia riparia*, Sand Martin
 
@@ -677,7 +677,7 @@ Tring’de incelenen müze örnekleri, *aharonii* ile *heinei* alttürlerinin ö
 
 Görünüşe göre Türkiye’de gözlenen bireylerin tamamı nominat alttüre aittir. Ankara ve Van’dan alınan örneklerin tüy örtüsü özellikleri ve morfolojik ölçümleri bu alttürle uyumludur. 1988 ilkbaharında İç Anadolu’da yakalanan 51 bireyin kanat uzunlukları mevcut riparia verileriyle uyumludur [@schekkerman1993]. Ancak 27 Eylül 1974’te Kayseri’den alınan bir birey, Türkiye’de incelenen diğer tüm örneklerden belirgin şekilde daha koyu renklidir. Göç sırasında İsrail’in güneyinde kaydedilen *eilata* alttürüne benzerlik göstermektedir. Bununla birlikte, kanat uzunluğu *eilata* için fazladır. Diğer ihtimaller, Doğu Asya’da yaşayan *ijimae* alttürü ve Hırvatistan kıyılarında göç sırasında az sayıda kaydedilmiş ve hakkında sınırlı bilgi bulunan koyu renkli *fuscocollaris* alttürleri olabilir [@roselaar1995].
 
-# Kır Kırlangıcı
+## Kır Kırlangıcı
 
 *Hirundo rustica*, Barn Swallow
 
@@ -706,7 +706,7 @@ Kış dönemine ait altı kayıt mevcuttur: 31 Ocak 1995’te Göksu Deltası’
 
 Üreyen bireylerin tamamı *nominat rustica* alttürü olarak değerlendirilmiştir [@roselaar1995]. Lübnan, İsrail ve Ürdün’de yayılış gösteren *transitiva* alttürü, özellikle Türkiye’nin güney kıyılarında az sayıda bireyle gözlenir. Bu alttürün varlığı, ilk kez Mayıs 1973’te Burdur ile Afyon arasında gözlenen bireyler [@ost1975] ile Eylül 1974’te Göksu Deltası’nda kaydedilen bazı bireyler [@ost1978] sayesinde ortaya konmuştur. 2000’li yıllarda ise Akyatan’da ilkbahar döneminde bu alttüre ait ondan fazla birey halkalanmıştır (Özge Keşaplı). *Transativa* alttürü kızıl karnı ile tanınabilir.
 
-# Kaya Kırlangıcı
+## Kaya Kırlangıcı
 
 *Ptyonoprogne rupestris*, Eurasian Crag Martin
 
@@ -733,7 +733,7 @@ Güneybatı Ege ve Akdeniz bölgelerinde 500 metrenin altında kışladığı ka
 
 Monotipik bir türdür ve geçmişte *Hirundo* cinsi içerisinde sınıflandırılmıştır.
 
-# Ev Kırlangıcı
+## Ev Kırlangıcı
 
 *Delichon urbicum*, Common House Martin
 
@@ -762,7 +762,7 @@ Fevkalade erken ilkbahar kayıtları da mevcuttur: Şubat 1974’ün son haftas�
 
 Durum belirsizdir. İncelenen üç örnek, nominat *urbicum* ile Akdeniz Havzası boyunca İran’a kadar yayılış gösteren *meridionalis* alttürleri arasında yer almaktadır [@roselaar1995]. Ancak kanat uzunlukları, *meridionalis* alttürüne daha yakındır. Tür adı olarak doğru kullanımın *urbicum* olduğu belirtilmiştir [@david2002b].
 
-# Kızıl Kırlangıç
+## Kızıl Kırlangıç
 
 *Cecropis rufula*, European Red-rumped Swallow
 
@@ -789,7 +789,7 @@ Geçiş döneminde Türkiye genelinde biraz daha yaygın olmakla birlikte, Doğu
 
 Türkiye genelinde *rufula* alttürü yayılış gösterir [@roselaar1995]. Son dönemde yapılan taksonomik çalışmalar sonucunda, Çin’de yaşayan *daurica*, Afrika’da yaşayan *melanocrissus* ve Avrupa ile çevresinde yaşayan *rufula* alttürleri tür seviyesine yükseltilmiştir. Tür, geçmişte *Hirundo* cinsi altında sınıflandırılmıştır [@sangster2005]; [@collinson2006].
 
-# Doğulu Kızıl Kırlangıç
+## Doğulu Kızıl Kırlangıç
 
 *Cecropis daurica*, Eastern Red-rumped Swallow
 
@@ -811,7 +811,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Doğu Asya'dır.
 
 Çin'de yaşayan *daurica*, Afrika'da yaşayan *melanocrissus* ve Avrupa'da yaşayan *rufula* alttürleri tür seviyesine çıkarılmıştır.
 
-# Çizgili Gerdanlı Kırlangıç
+## Çizgili Gerdanlı Kırlangıç
 
 *Petrochelidon fluvicola*, Streak-throated Swallow
 
@@ -833,7 +833,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Hindistan Yarımadasıdır.
 
 Monotipik bir türdür.
 
-# Ak Yanaklı Arapbülbülü
+## Ak Yanaklı Arapbülbülü
 
 *Pycnonotus leucotis*, White-eared Bulbul
 
@@ -860,7 +860,7 @@ Bunun dışında, özellikle İstanbul’da 2017 yılından itibaren yerleşmiş
 
 Türkiye'de görülen Mezopotamya'da bulunan *mesopotamia* alttürüdür.
 
-# Arapbülbülü
+## Arapbülbülü
 
 *Pycnonotus xanthopygos*, White-spectacled Bulbul
 

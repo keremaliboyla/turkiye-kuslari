@@ -2,7 +2,7 @@
 title: "İbibik - Papağanlar"
 ---
 
-# İbibik
+## İbibik
 
 *Upupa epops*, Eurasian Hoopoe
 
@@ -29,7 +29,7 @@ Geçit sırasında daha yaygın görülür. İlkbahar göçü mart başında ba�
 
 Türkiye'de nominat alttürü bulunur.
 
-# Yeşil Arıkuşu
+## Yeşil Arıkuşu
 
 *Merops persicus*, Blue-cheeked Bee-eater
 
@@ -56,7 +56,7 @@ Güneydoğu Anadolu’daki kuru ve açık tarım alanlarında üreyen bir yaz ko
 
 Türkiye'de nominat alttürü bulunur.
 
-# Arıkuşu
+## Arıkuşu
 
 *Merops apiaster*, European Bee-eater
 
@@ -85,7 +85,7 @@ Güneyin bazı kısımlarında nadir ve daha lokaldir. Deniz seviyesinden en az 
 
 Monotipik bir türdür.
 
-# Güneyli Yakut Renkli Arıkuşu
+## Güneyli Yakut Renkli Arıkuşu
 
 *Merops nubicoides*, Southern Carmine-coloured Bee-eater
 
@@ -105,7 +105,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Güney Afrika'dır.
 
 Monotipik bir türdür.
 
-# Yalıçapkını
+## Yalıçapkını
 
 *Alcedo atthis*, Common Kingfisher
 
@@ -132,7 +132,7 @@ Geçit dönemlerinde ülke genelinde daha yaygın ve genellikle daha boldur. İl
 
 Üreme sezonunda muhtemelen nominat alttür bulunur. Buna karşılık, Kuzeybatı Afrika ve İspanya’dan Rusya’ya kadar görülen ve Kıbrıs ile Irak’ta kışlayan *ispida* alttürü, kış döneminde Türkiye’de yüksek sayılarda bulunuyor olabilir.
 
-# İzmir Yalıçapkını
+## İzmir Yalıçapkını
 
 *Halcyon smyrnensis*, White-throated Kingfisher
 
@@ -163,7 +163,7 @@ Bilinen üreme alanları dışındaki bazı kayıtlar, özellikle ağustos sonu 
 
 Türkiye'de nominat alttürü bulunur. İzmir'de tanımlanmıştır.
 
-# Alaca Yalıçapkını
+## Alaca Yalıçapkını
 
 *Ceryle rudis*, Pied Kingfisher
 
@@ -191,7 +191,7 @@ Genellikle aynı bölgelerde kışın daha yaygın görülür. Bu dönemde daha 
 
 Türkiye’de *syriacus* alttürü bulunur. İzmir, Antalya ve yeri bilinmeyen bir lokalite olan “Harpara”dan elde edilen örneklerde, gaga uzunluğu dışında tüm ölçümlerin sürekli daha küçük olmasına dayanarak, Türkiye, Kıbrıs, Doğu Akdeniz, Irak ve İran’daki bireyler için bu yeni alttür tanımlanmıştır [@roselaar1995]. Ancak bu öneri, ölçümlerdeki farklılıkların Bergman kuralıyla açıklanabileceği gerekçesiyle reddedilmiştir [@kasparek1996b].
 
-# Gökkuzgun
+## Gökkuzgun
 
 *Coracias garrulus*, European Roller
 
@@ -218,7 +218,7 @@ Yuvası:** Yuvasını yaşlı ağaçlardaki (özellikle zeytin), kayalıklardaki
 
 Türkiye'de nominat alttürü bulunur.
 
-# Hint Gökkuzgunu
+## Hint Gökkuzgunu
 
 *Coracias benghalensis*, Indian Roller
 
@@ -242,7 +242,7 @@ Türkiye'de yuvalamaz. Yuvalama alanı İran, Pakistan, Hindistan ve çevresidir
 
 Tahnit örneği muhtemelen İran'ın doğusuna kadar yayılış gösteren nominat alttüre aittir.
 
-# Boyunçeviren
+## Boyunçeviren
 
 *Jynx torquilla*, Eurasian Wryneck
 
@@ -271,7 +271,7 @@ Kış döneminde kıyı alanlarında nadiren görülür. Aralık ile şubat aras
 
 Türkiye'de muhtemelen nominat alttür bulunur. Sonbaharda Orta Anadolu üzerinden geçiş yapan göçmenlerin tamamı bu forma dâhildir [@berk1990]. Bununla birlikte, Akdeniz'de Korsika’dan Adriyatik kıyılarına kadar bazı adalarda üreyen tschusii alttürü göçe yatkın olmasa da [@vaurie1959c], geçiş sırasında Türkiye’de gözlenebilir.
 
-# Ortanca Ağaçkakan
+## Ortanca Ağaçkakan
 
 *Dendrocoptes medius*, Middle Spotted Woodpecker
 
@@ -302,7 +302,7 @@ Balkanlar’dan İran’a kadar olan bölgede, sarı ve kırmızının alt kıs�
 
 Bu nedenle, nominat *medius*’tan belirgin şekilde ayrılmayan *anatoliae* ve Batı Anadolu’dan birçok örneği bilinen ancak şüpheli bir form olan *splendidior*’u tanımak için yeterli gerekçe bulunmamaktadır. Öte yandan, *caucasicus* ve *sanctijohannis* alttürleri daha belirgin uçları temsil eder ve *caucasicus* Bergman kuralını destekleyen bir örnek oluşturur. *Anatoliae*’nin, *caucasicus*’un sinonimi olduğu da öne sürülmüştür [@vaurie1965; @kirwan2005b]. Genel olarak, ortanca ağaçkakanın Türkiye’deki morfolojik varyasyonu hem kuzeyden güneye hem de doğudan batıya klinal bir yapı göstermektedir [@vaurie1959b; @vaurie1965].
 
-# Ak Sırtlı Ağaçkakan
+## Ak Sırtlı Ağaçkakan
 
 *Dendrocopos leucotos*, White-backed Woodpecker
 
@@ -327,7 +327,7 @@ Bu nedenle, nominat *medius*’tan belirgin şekilde ayrılmayan *anatoliae* ve 
 
 Türkiye’de bulunan *lilfordi* alttürü, nominat *leucotos*’tan belirgin şekilde ayrılır. Sırt bölgesi tamamen beyaz değil, siyah-beyaz çizgilidir. Alın, göz pınarı, kulak örtü tüyleri ve çene bölgesi belirgin şekilde sarımsı renktedir. Kulak örtülerinin arkasından enseye uzanan siyah çizgi dikkat çekicidir. Gıdı çizgisi daha kalındır; böğür, göğüs yanları ve karın bölgesinde daha geniş siyah çizgiler bulunur. Kuyruk sokumu siyahtır ve beyazlık yalnızca tüy uçlarında yer alır. Omuz tüyeleri daha uzundur. Kanat telekleri, örtüleri ve kın telekleri eşit kalınlıkta ve düzensiz şekilde siyah-beyaz çizgilidir; bu çizgilenme kalın siyah ve ince beyaz şeritler şeklinde değildir. Alt kısımların zemin rengi sarımsıdır; *leucotos*’ta bu renk daha soluk, krem tonundadır.
 
-# Orman Alaca Ağaçkakanı
+## Orman Alaca Ağaçkakanı
 
 *Dendrocopos major*, Great Spotted Woodpecker
 
@@ -352,7 +352,7 @@ Dağlık ibreli ormanlarda yaygındır ancak genellikle az sayıda bulunur. En b
 
 Türkiye’ye endemik olan *paphlagoniae* alttürü bulunur. Bu alttür, Winkler ve Christie tarafından İngiltere’den Kafkaslar’a kadar yayılan *pinetorum* alttürüne dahil edilmiştir [@vaurie1959b] [@delhoyo2002].
 
-# Alaca Ağaçkakan
+## Alaca Ağaçkakan
 
 *Dendrocoptes syriacus*, Syrian Woodpecker
 
@@ -377,7 +377,7 @@ Alçak ve orta yüksekliklerde en yaygın ağaçkakan türüdür. Meyve bahçele
 
 Türkiye'de nominat alttürü bulunur.
 
-# Küçük Ağaçkakan
+## Küçük Ağaçkakan
 
 *Dryobates minor*, Lesser Spotted Woodpecker
 
@@ -402,7 +402,7 @@ Türkiye'de nominat alttürü bulunur.
 
 Türkiye'de alt kısımları koyu renkli olan ve bazen kahverengimsi tonlar gösteren, ayrıca tepenin arkasından kulak örtülerinin arkasına kadar uzanan siyah banda sahip *danfordi* alttürü bulunur.
 
-# Küçük Yeşil Ağaçkakan
+## Küçük Yeşil Ağaçkakan
 
 *Picus canus*, Grey-headed Woodpecker
 
@@ -429,7 +429,7 @@ Yoğun olarak Batı Karadeniz ve Trakya'da bulunur. Deniz seviyesinden 2300 metr
 
 Türkiye'de nominat alttürü bulunur.
 
-# Yeşil Ağaçkakan
+## Yeşil Ağaçkakan
 
 *Picus viridis*, European Green Woodpecker
 
@@ -456,7 +456,7 @@ Sonbaharda Van Gölü Havzası’ndan iki kayıt vardır [@ven1980birds1; L. J. 
 
 Nominat alttürden biraz daha küçük, soluk ve daha az sarı olan karelini alttürü görülür. İran ve Irak'ta yaşayan ve Siirt ile Şırnak’ta bulunması muhtemel olan *innominatus* alttürünün ise genetik verilere dayanarak ayrı bir tür olabileceği öne sürülmüştür [@perktas2011]. Ancak bu alttür ile *karelini* arasındaki tüy örtüsü farkları yalnızca ince renk tonlarıyla sınırlıdır.
 
-# Kara Ağaçkakan
+## Kara Ağaçkakan
 
 *Dryocopus martius*, Black Woodpecker
 
@@ -483,7 +483,7 @@ Kışın üreme alanının dışına ulaşır, Ankara Kazan'da ve Hacettepe Üni
 
 Türkiye'de nominat alttürü bulunur.
 
-# Küçük Kerkenez
+## Küçük Kerkenez
 
 *Falco naumanni*, Lesser Kestrel
 
@@ -514,7 +514,7 @@ Türün Marmara, Ege ve Akdeniz bölgeleri ile Kuzey Anadolu’daki popülasyonl
 
 Monotipik bir türdür.
 
-# Kerkenez
+## Kerkenez
 
 *Falco tinnunculus*, Common Kestrel
 
@@ -541,7 +541,7 @@ Göç geçişi Türkiye’nin doğu yarısında muhtemelen daha yoğundur. İsta
 
 Türkiye'de nominat alttürü bulunur.
 
-# Aladoğan
+## Aladoğan
 
 *Falco vespertinus*, Red-footed Falcon
 
@@ -570,7 +570,7 @@ Her ne kadar üremeyle ilgili kesin kanıtlar az olsa da, Güneydoğu Anadolu ha
 
 Monotipik bir türdür.
 
-# Ada Doğanı
+## Ada Doğanı
 
 *Falco eleonorae*, Eleonora's Falcon
 
@@ -599,7 +599,7 @@ Tür üreme öncesi dağılma döneminde üreme alanlarından uzakta kaydedilir.
 
 Monotipik bir türdür.
 
-# Gri Doğan
+## Gri Doğan
 
 *Falco concolor*, Sooty Falcon
 
@@ -621,7 +621,7 @@ Türkiye'de yuvalamaz. Yuvalama bölgesi Kızıldeniz çevresi, Hürmüz Boğaz�
 
 Monotipik bir türdür.
 
-# Boz Doğan
+## Boz Doğan
 
 *Falco columbarius*, Merlin
 
@@ -645,7 +645,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzey bölgelerinde yuvalar
 
 En yaygın görülen alttürün, Avrupa ve Kuzeybatı Sibirya’da üreyen ve kış aylarını Kuzey Afrika’ya kadar uzanan bölgelerde geçiren *aesalon* olduğu düşünülmektedir. Ancak Tring Doğa Tarihi Müzesi’ndeki Hume Koleksiyonu’nda, İzmir’den geldiği belirtilen bir dişi örnek (85.8.19.2483), Orta Kuzey Sibirya’da yuvalayan ve Kuzeydoğu Afrika ile Orta Doğu’da kışlayan *insignis* alttürüne ait olabilir [@bird1937] (; G. M. Kirwan kişisel gözlem). Öte yandan, Orta Asya bozkırlarında yuvalayan *pallidus* alttürü, Trabzon’dan toplanmış bir örnekle belgelenmiştir [@vaurie1965] ve bu form Malatya yakınlarında kışlayan bireylerden biri olabilir.
 
-# Delice Doğan
+## Delice Doğan
 
 *Falco subbuteo*, Eurasian Hobby
 
@@ -674,7 +674,7 @@ Genellikle az ağaçlı ovalar, bozkırlar ve dağlık bölgelerdeki açık alan
 
 Türkiye'de nominat alttürü bulunur.
 
-# Bıyıklı Doğan
+## Bıyıklı Doğan
 
 *Falco biarmicus*, Lanner Falcon
 
@@ -702,7 +702,7 @@ Doğancılar için yumurta ve yavruların toplanmasından dolayı, popülasyonu 
 
 Türkiye'de *feldeggi* alttürü bulunur.
 
-# Ulu Doğan
+## Ulu Doğan
 
 *Falco cherrug*, Saker Falcon
 
@@ -731,7 +731,7 @@ Bıyıklı ve ulu doğan, doğancıların özel ilgisini çeken türlerdendir. B
 
 Nominat alttür bulunmaktadır.
 
-# Gökdoğan
+## Gökdoğan
 
 *Falco peregrinus*, Peregrine Falcon
 
@@ -758,7 +758,7 @@ Yaygın, lokal olarak yerli ve kısmen göçmen bir türdür. Ege, Karadeniz ve 
 
 Tüm ülkede üreyen yerli popülasyon *brookei* alttürüne aittir. Uzun mesafe göçmeni olan *peregrinus* ve *calidus* alttürleri göç döneminde ve kışın Türkiye’de bulunur [@shirihai2000]. Ortadoğu’da görülen *pelegrinoides* alttürüne ait Türkiye’deki tek kesin kayıt, 12 Haziran 2012’de Van Çaldıran’da M. Zenginer ve S. Bekir tarafından fotoğraflanan genç bireydir. Van Gölü ve doğusunda gökdoğan nadir görüldüğünden, Kuzey İran’da üreyen kızıl enseli doğanların (*pelegrinoides*) bu bölgeyi sıklıkla ziyaret etmesi olasıdır. Bu alttür ilk kez Ağustos 1990’da Birecik’te yapılan bir gözlemle gündeme gelmiş [@gosney1996], Haziran 1994’te ise aynı alanda H. Shirihai ve Francis tarafından kaydedilmiştir.
 
-# İskender Papağanı
+## İskender Papağanı
 
 *Psittacula eupatria*, Alexandrine Parakeet
 
@@ -783,7 +783,7 @@ Türkiye’de artık iyice yerleştiği düşünülen egzotik bir türdür. İlk
 
 Hangi alttürün olduğu bilinmemektedir.
 
-# Yeşil Papağan
+## Yeşil Papağan
 
 *Psittacula krameri*, Rose-ringed Parakeet
 

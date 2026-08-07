@@ -2,7 +2,7 @@
 title: "Çullukgiller"
 ---
 
-# Sürmeli Kervançulluğu
+## Sürmeli Kervançulluğu
 
 *Numenius phaeopus*, Whimbrel
 
@@ -26,7 +26,7 @@ Türkiye'de yuvalamaz. Avrasya'da ve Kuzey Amerika'da dağlık tundrada yuvalar.
 
 Türkiye'de nominat alttürü bulunur.
 
-# İnce Gagalı Kervançulluğu
+## İnce Gagalı Kervançulluğu
 
 *Numenius tenuirostris*, Slender-billed Curlew
 
@@ -48,7 +48,7 @@ Türkiye'de yuvalamadı. Eskiden Kazakistan bozkırları ile Rusya ormanları ar
 
 Monotipik bir türdür.
 
-# Kervançulluğu
+## Kervançulluğu
 
 *Numenius arquata*, Eurasian Curlew
 
@@ -72,7 +72,7 @@ Türkiye'de yuvalamaz. Kuzey Batı Avrupa'da ve tüm Avrasya boyunca tayga kuşa
 
 Bir kısmı nominat *arquata* alttürüdür. Özellikle son yıllarda yapılan ayrıntılı gözlem ve fotoğrafların neticesinde *orientalis* alttürü sıkça kaydedilmektedir [@konrad1994].
 
-# Kıyı Çamurçulluğu
+## Kıyı Çamurçulluğu
 
 *Limosa lapponica*, Bar-tailed Godwit
 
@@ -96,7 +96,7 @@ Türkiye'de yuvalamaz. Avrasya ve Alaska'nın tundra kuşağında yuvalar.
 
 Türkiye'de nominat alttürü bulunur. Gözlenen daha uzun gagalı bazı bireyler doğu ırklarından *menzbieri* alttürüne ait olabilir [@have_etal1988].
 
-# Çamurçulluğu
+## Çamurçulluğu
 
 *Limosa limosa*, Black-tailed Godwit
 
@@ -122,7 +122,7 @@ Türkiye'de yuvalamaz. Avrupa, Batı Sibirya ve Doğu Asya'da ılıman ve tayga 
 
 Türkiye'de nominat alttürü bulunur.
 
-# Küçük Suçulluğu
+## Küçük Suçulluğu
 
 *Lymnocryptes minimus*, Jack Snipe
 
@@ -146,7 +146,7 @@ Türkiye'de yuvalamaz. Kuzey Avrupa ve Asya'nın tundra ve tayga kuşağında yu
 
 Monotipik bir türdür.
 
-# Çulluk
+## Çulluk
 
 *Scolopax rusticola*, Eurasian Woodcock
 
@@ -170,7 +170,7 @@ Nisan 1992'de Kızılırmak Deltası'nın ormanlık alanlarında 17 Nisan'da gö
 
 Monotipik bir türdür.
 
-# Büyük Suçulluğu
+## Büyük Suçulluğu
 
 *Gallinago media*, Great Snipe
 
@@ -196,7 +196,7 @@ Türkiye'de yuvalamaz. Avrupa ve Orta Sibirya'da tundra ve tayga kuşağında yu
 
 Monotipik bir türdür.
 
-# Sibirya Suçulluğu
+## Sibirya Suçulluğu
 
 *Gallinago stenura*, Pin-tailed Snipe
 
@@ -218,7 +218,7 @@ Türkiye'de yuvalamaz. Doğu Sibirya'da yuvalar. Kışı Hindistan ve Güneydoğ
 
 Monotipik bir türdür.
 
-# Suçulluğu
+## Suçulluğu
 
 *Gallinago gallinago*, Common Snipe
 
@@ -245,7 +245,7 @@ Monotipik bir türdür.
 
 Türkiye'de nominat alttürü bulunur.
 
-# Büyük Denizdüdükçünü
+## Büyük Denizdüdükçünü
 
 *Phalaropus tricolor*, Wilson's Phalarope
 
@@ -267,7 +267,7 @@ Türkiye'de yuvalamaz. Kuzey Amerika'nın preri bölgesinde yuvalar.
 
 Monotipik bir türdür. Geçmişte tek türlü Steganopus cinsi altında sınıflandırılmıştır.
 
-# Kızıl Denizdüdükçünü
+## Kızıl Denizdüdükçünü
 
 *Phalaropus fulicarius*, Red Phalarope
 
@@ -291,7 +291,7 @@ Türkiye'de yuvalamaz. Kuzey Amerika ve Orta ve Doğu Sibirya'nın tundra kuşa�
 
 Monotipik bir türdür.
 
-# Denizdüdükçünü
+## Denizdüdükçünü
 
 *Phalaropus lobatus*, Red-necked Phalarope
 
@@ -315,7 +315,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında yuvalar
 
 Monotipik bir türdür.
 
-# Terek Düdükçünü
+## Terek Düdükçünü
 
 *Xenus cinereus*, Terek Sandpiper
 
@@ -339,7 +339,7 @@ Türkiye'de yuvalamaz. Kuzey Avrasya'da Kuzeydoğu Avrupa ile Bering Denizi aras
 
 Monotipik bir türdür. Zaman zaman Tringa cinsi altında değerlendirilir.
 
-# Dere Düdükçünü
+## Dere Düdükçünü
 
 *Actitis hypoleucos*, Common Sandpiper
 
@@ -366,7 +366,7 @@ Geçit sırasında sulakalanlarda ve kıyılarda boldur. İlkbahar geçişi mart
 
 Monotipik bir türdür. Eskiden *Tringa* cinsi altında sınıflandırılmıştır [@sibley1990].
 
-# Benekli Düdükçün
+## Benekli Düdükçün
 
 *Actitis macularius*, Spotted Sandpiper
 
@@ -388,7 +388,7 @@ Türkiye'de yuvalamaz. Kuzey Amerika'da yuvalar.
 
 Monotipik bir türdür. Eskiden *Tringa* cinsi altında sınıflandırılmıştır [@sibley1990].
 
-# Yeşil Düdükçün
+## Yeşil Düdükçün
 
 *Tringa ochropus*, Green Sandpiper
 
@@ -417,7 +417,7 @@ Genellikle 50 bireyden daha küçük gruplar halinde gözlenir ancak 200 bireyde
 
 Monotipik bir türdür.
 
-# Bataklık Düdükçünü
+## Bataklık Düdükçünü
 
 *Tringa stagnatilis*, Marsh Sandpiper
 
@@ -439,7 +439,7 @@ Türkiye'de yuvalamaz. Ukrayna'dan Mançurya'ya uzanan bozkır ve tayga kuşağ�
 
 Monotipik bir türdür.
 
-# Orman Düdükçünü
+## Orman Düdükçünü
 
 *Tringa glareola*, Wood Sandpiper
 
@@ -463,7 +463,7 @@ Türkiye'de yuvalamaz. Avrasya'da tundra ve tayga kuşağı arasında yuvalar.
 
 Monotipik bir türdür.
 
-# Kızılbacak
+## Kızılbacak
 
 *Tringa totanus*, Common Redshank
 
@@ -490,7 +490,7 @@ Tersakan ve Bolluk gölleri, Akşehir Gölü ve Sultansazlığı ve Van Gölü i
 
 Nominat *totanus* ve muhtemelen zayıf biçimde ayrılmış olan *ussuriensis* alttürlerinin bulunduğu düşünülmüştür [@cramp1993; @kivit1994]. Daha sonra, *totanus* alttürünü kuzey Avrupa ile sınırlamayı tercih etmiş ve Türkiye'de üreyenlerin muhtemelen ya *britannica* (*totanus* alttürünün sinonimi) ya da bilinmeyen bir form olduğunu düşünmüştür [@roselaar1995]. Kasım 1945'te Ankara yakınlarında ölçülerine dayanarak Orta Asya'da Pamir'de üreyen *eurhina* ırkından olabileceğini etmiştir [@wadley1951]. Doğuda toplanan örnekler *eurhina* alttürüne atfedilse de bu formun teşhisinin zorluğu da itiraf edilmiştir [@kumerloeve1967phalaropus; @kumerloeve1969a]. Temmuz 2003'te Tring Doğa Tarihi Müzesi'nde Wadley örneğini bulunamamış olsa da Türkiye'den iki başka örnek zayıf biçimde tanımlanan *eurhina* alttürüne uymaktadır: 5 Şubat 1869'da alınan bir birey ve 13 Mayıs 1876'da Danford tarafından alınan bir erkek birey.
 
-# Küçük Sarıbacak
+## Küçük Sarıbacak
 
 *Tringa flavipes*, Lesser Yellowlegs
 
@@ -512,7 +512,7 @@ Türkiye'de yuvalamaz. Kuzey Amerika'da tayga kuşağında yuvalar.
 
 Monotipik bir türdür.
 
-# Kara Kızılbacak
+## Kara Kızılbacak
 
 *Tringa erythropus*, Spotted Redshank
 
@@ -536,7 +536,7 @@ Türkiye'de yuvalamaz. Avrasya'da ağaçlık ve çalılık tundrada yuvalar.
 
 Monotipik bir türdür.
 
-# Yeşilbacak
+## Yeşilbacak
 
 *Tringa nebularia*, Common Greenshank
 
@@ -558,7 +558,7 @@ Türkiye'de yuvalamaz. Avrasya'nın tayga kuşağında yuvalar.
 
 Monotipik bir türdür.
 
-# Taşçeviren
+## Taşçeviren
 
 *Arenaria interpres*, Ruddy Turnstone
 
@@ -582,7 +582,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında yuvalar
 
 Türkiye'de nominat alttürü bulunur.
 
-# Büyük Kumkuşu
+## Büyük Kumkuşu
 
 *Calidris canutus*, Red Knot
 
@@ -612,7 +612,7 @@ Türkiye'de yuvalamaz. Kuzey Amerika, Orta ve Doğu Sibirya'da tundra kuşağın
 
 Batı ve Güney Afrika'da kışlayan ve Sibirya'nın kuzeyi ile muhtemelen Yakutistan'da üreyen nominat canutus alttürü bulunur.
 
-# Döğüşkenkuş
+## Döğüşkenkuş
 
 *Calidris pugnax*, Ruff
 
@@ -636,7 +636,7 @@ Türkiye'de yuvalamaz. Avrasya'nın kuzey çayırlık alanlarında yuvalar. En y
 
 Monotipik bir türdür. Önceleri *Philomachus pugnax* olarak adlandırılırdı.
 
-# Sürmeli Kumkuşu
+## Sürmeli Kumkuşu
 
 *Calidris falcinellus*, Broad-billed Sandpiper
 
@@ -660,7 +660,7 @@ Türkiye'de yuvalamaz. İskandinaya Dağları'nda ve Orta ve Doğu Sibirya'da da
 
 Türkiye'de nominat alttürü bulunur. Eskiden *Limicola falcinellus* olarak adlandırıldı.
 
-# Kızıl Kumkuşu
+## Kızıl Kumkuşu
 
 *Calidris ferruginea*, Curlew Sandpiper
 
@@ -682,7 +682,7 @@ Türkiye'de yuvalamaz. Orta ve Doğu Sibirya'nın tundra kuşağında yuvalar.
 
 Monotipik bir türdür.
 
-# Sarı Bacaklı Kumkuşu
+## Sarı Bacaklı Kumkuşu
 
 *Calidris temminckii*, Temminck's Stint
 
@@ -706,7 +706,7 @@ Türkiye'de yuvalamaz. Avrasya'nın tundra kuşağında yuvalar.
 
 Monotipik bir türdür.
 
-# Ak Kumkuşu
+## Ak Kumkuşu
 
 *Calidris alba*, Sanderling
 
@@ -730,7 +730,7 @@ Türkiye'de yuvalamaz. Kuzey Kutup Denizi adalarında ve Kuzey Amerika ve Avrasy
 
 Monotipik bir türdür.
 
-# Kara Karınlı Kumkuşu
+## Kara Karınlı Kumkuşu
 
 *Calidris alpina*, Dunlin
 
@@ -754,7 +754,7 @@ Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında yuvalar
 
 Muhtemelen çoğunluğu nominattır ve WIWO'nun Çukurova Deltası'nda 1988 yılında yaptığı halkalama çalışmalarına göre hangi az sayıda *schinzii* alttürü de bulunur. Batı Palearktik'te muhtemelen rastlantısal olduğu düşünülen doğu formu *sakhalina* [@cramp1983] bile Türkiye'de bulunabilir [@have_etal1988; @kivit1994].
 
-# Küçük Kumkuşu
+## Küçük Kumkuşu
 
 *Calidris minuta*, Little Stint
 
@@ -778,7 +778,7 @@ Türkiye'de yuvalamaz. Avrupa ve Asya'nın tundra kuşağında yuvalar.
 
 Monotipik bir türdür.
 
-# Ak Sokumlu Kumkuşu
+## Ak Sokumlu Kumkuşu
 
 *Calidris fuscicollis*, White-rumped Sandpiper
 
@@ -800,7 +800,7 @@ Türkiye'de yuvalamaz. Kuzey Amerika'nın tundra kuşağında yuvalar. Kışı G
 
 Monotipik bir türdür.
 
-# Çizgili Kumkuşu
+## Çizgili Kumkuşu
 
 *Calidris melanotos*, Pectoral Sandpiper
 

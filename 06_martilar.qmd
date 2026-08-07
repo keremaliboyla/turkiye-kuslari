@@ -2,7 +2,7 @@
 title: "Martıgiller"
 ---
 
-# Uzun Kuyruklu Korsanmartı
+## Uzun Kuyruklu Korsanmartı
 
 *Stercorarius longicaudus*, Long-tailed Jaeger
 
@@ -26,7 +26,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Eski ve Yeni Dünya'nın
 
 Muhtemelen nominat alttür görülmektedir; ancak ülkedeki kayıtların hiçbiri alttür düzeyinde tanımlanmamıştır.
 
-# Korsanmartı
+## Korsanmartı
 
 *Stercorarius parasiticus*, Parasitic Jaeger
 
@@ -48,7 +48,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Eski ve Yeni Dünya'nın
 
 Monotipik bir türdür.
 
-# Küt Kuyruklu Korsanmartı
+## Küt Kuyruklu Korsanmartı
 
 *Stercorarius pomarinus*, Pomarine Skua
 
@@ -72,7 +72,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Eski ve Yeni Dünya'nın
 
 Monotipik bir türdür.
 
-# Büyük Korsanmartı
+## Büyük Korsanmartı
 
 *Stercorarius skua*, Great Skua
 
@@ -96,7 +96,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Kuzey Atlantik'tir.
 
 Genellikle modern otoritelerin çoğu tarafından monotipik olduğu düşünülür. Bazı kaynaklarda Catharacta cinsi altında değerlendirir.
 
-# Küçük Martı
+## Küçük Martı
 
 *Hydrocoloeus minutus*, Little Gull
 
@@ -120,7 +120,7 @@ Türkiye'de yuvalamaz. Avrasya'nın ve çok yeni ve lokal olarak Kuzey Amerika'n
 
 Monotipik bir türdür.
 
-# Kara Ayaklı Martı
+## Kara Ayaklı Martı
 
 *Rissa tridactyla*, Black-legged Kittiwake
 
@@ -144,7 +144,7 @@ Türkiye'de yuvalamaz.
 
 Türkiye'de nominat alttürü bulunur.
 
-# Çatal Kuyruklu Martı
+## Çatal Kuyruklu Martı
 
 *Xema sabini*, Sabine's Gull
 
@@ -166,7 +166,7 @@ Türkiye'de yuvalamaz. Avrasya ve Amerika'nın Kuzey Kutup Denizi kıyılarında
 
 Monotipik bir türdür.
 
-# İnce Gagalı Martı
+## İnce Gagalı Martı
 
 *Chroicocephalus genei*, Slender-billed Gull
 
@@ -195,7 +195,7 @@ Karadeniz kıyılarında göç sırasında görülür, az sayıda kışlayabilir
 
 Monotipik bir türdür. Eskiden Larus cinsi altında sınıflandırılırdı.
 
-# Karabaş Martı
+## Karabaş Martı
 
 *Chroicocephalus ridibundus*, Black-headed Gull
 
@@ -224,7 +224,7 @@ En yüksek sayılar göç döneminde kaydedilir. 24 Eylül 2004’te Sarıyer Ba
 
 Monotipik bir türdür. Eskiden Larus cinsi altında sınıflandırılırdı.
 
-# Büyük Karabaş Martı
+## Büyük Karabaş Martı
 
 *Ichthyaetus ichthyaetus*, Pallas's Gull
 
@@ -248,7 +248,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Orta Asya'dır.
 
 Monotipik bir türdür.
 
-# Ada Martısı
+## Ada Martısı
 
 *Ichthyaetus audouinii*, Audouin's Gull
 
@@ -276,7 +276,7 @@ Marmara Denizi’nin güney kıyılarında ara sıra görülse de düzenli deği
 
 Monotipik bir türdür.
 
-# Akdeniz Martısı
+## Akdeniz Martısı
 
 *Ichthyaetus melanocephalus*, Mediterranean Gull
 
@@ -305,7 +305,7 @@ Kışın çoğunlukla kıyılarda ve açıkta bulunur. Şubat 1997’de Karadeni
 
 Monotipik bir türdür. Eskiden *Larus* cinsi altında sınıflandırılırdı.
 
-# Kızıldeniz Martısı
+## Kızıldeniz Martısı
 
 *Ichthyaetus leucophthalmus*, White-eyed Gull
 
@@ -327,7 +327,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Kızıldeniz'dir.
 
 Monotipik bir türdür.
 
-# Küçük Gümüş Martı
+## Küçük Gümüş Martı
 
 *Larus canus*, Mew Gull
 
@@ -351,7 +351,7 @@ Türkiye'de yuvalamaz. Kuzey Avrasya'da yuvalar.
 
 Kışlayan kuşların arasında hem nominat *canus* alttürü, hem de *heinei* alttürü görülür. Bu iki alttürün geçiş formları da yaygındır [@olsen2003].
 
-# Hazar Martısı
+## Hazar Martısı
 
 *Larus cachinnans*, Caspian Gull
 
@@ -377,7 +377,7 @@ Türkiye'de yuvalamaz.
 
 Yakın zamana kadar *Larus cachinnans* bilimsel ismini kullanan Gümüş Martı'nın *cachinnans* alttürü olarak sınıflandırılmıştır [@olsen2003]. Ancak Karadeniz’in batı kıyılarında, Romanya’daki kolonilerinde birbirine yakın bölgelerde ancak farklı habitatlarda yuvaladığı gözlemlenmiş ve bu durum iki taksonun farklı türler olarak kabul edilmesine neden olmuştur [@klein1997]. 1990’lar öncesinde ise Kuzey Gümüş Martısı'nın (*Larus argentatus*) bir alttürü olarak değerlendirilmiştir.
 
-# Kuzey Gümüş Martısı
+## Kuzey Gümüş Martısı
 
 *Larus argentatus*, European Herring Gull
 
@@ -399,7 +399,7 @@ Türkiye'de yuvalamaz. Türkiye'de görülen kuşların olası üreme alanı Bal
 
 Kanat desenlenmesine göre ilk kaydedilen bireyin *argentatus* alttürüne ait olduğunu düşünülür.
 
-# Gümüş Martı
+## Gümüş Martı
 
 *Larus michahellis*, Yellow-legged Gull
 
@@ -428,7 +428,7 @@ Kıyı alanlarının dışında Edirne, Çerkezköy ve Bursa ve Uluabat Gölü g
 
 Türkiye'de Akdeniz havzasında görülen *michahellis* alttürü bulunur. 1990’lar öncesinde Kuzey Gümüş Martısı'nın (*Larus argentatus*) bir alttürü olarak değerlendirilmiştir.
 
-# Van Gölü Martısı
+## Van Gölü Martısı
 
 *Larus armenicus*, Armenian Gull
 
@@ -457,7 +457,7 @@ Kışlama popülasyonunun 8000-12.000 birey arasında olduğu tahmin edilmektedi
 
 Monotipik bir türdür. İlk başta Larus taimyrensis'in alttürü olarak tanımlanan, daha sonraları sıkça kuzey gümüş martısının (Larus argentatus) ve tür olarak tanımlanmasından sonra gümüş martının alttürü olarak [@beaman1994] değerlendirilmiştir. Görünüşe göre Atlantik'ten ve Akdeniz havzası üzerinden erken zamanda gerçekleşen bir kolonizasyonun kalıntısıdır. Armenicus'un mitokondriyal DNA'sı görünüşe göre michahellis'e en yakın konumdadır [@liebers1999].
 
-# Büyük Kara Sırtlı Martı
+## Büyük Kara Sırtlı Martı
 
 *Larus marinus*, Great Black-backed Gull
 
@@ -481,7 +481,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Kuzey Atlantik kıyılarıdır.
 
 Monotipik bir türdür.
 
-# Kutup Martısı
+## Kutup Martısı
 
 *Larus hyperboreus*, Glaucous Gull
 
@@ -503,7 +503,7 @@ Türkiye'de yuvalamaz. Kuzey Kutup Denizi kıyılarında yaşar.
 
 Türkiye'de vurulmuş örneğin tahnitini incelenememiştir. Yayılış alanı dikkate alındığında nominat alttürün olduğu beklenir.
 
-# Kara Sırtlı Martı
+## Kara Sırtlı Martı
 
 *Larus fuscus*, Lesser Black-backed Gull
 
@@ -527,7 +527,7 @@ Türkiye'de yuvalamaz. Yuvalama alanı Batı ve Kuzey Avrupa ve Orta ve Doğu Si
 
 Nominat *fuscus* alttürü, özellikle göç sırasında en düzenli görülen alttürdür. Baltık Denizi kıyıları ve Avrupa Rusya’sının kuzeybatısında ürer, kışı ise Kızıldeniz ve Doğu Afrika kıyılarında geçirir [@olsen2003]. Türkiye, bu alttürün göç rotası üzerindedir. Bunun dışında, Batı Avrupa’da yaşayan *intermedius* ve *graelsii* alttürleri kışın Ege ve Akdeniz kıyılarında görülür; benzer şekilde İsrail’de de kaydedilmiştir [@shirihai1996]. Daha doğuda üreyen ve "Sibirya martısı" olarak da bilinen *heuglini* alttürü ise kışın Türkiye’nin güney ve batı kıyılarında nadiren az sayılarda gözlenebilir.
 
-# Küçük Sumru
+## Küçük Sumru
 
 *Sternula albifrons*, Little Tern
 
@@ -554,7 +554,7 @@ Göç sırasında özellikle mayıs ve eylül aylarında daha yaygın olarak gö
 
 Türkiye'de nominat alttürü bulunur. Çok yakın bir geçmişe kadar genellikle *Sterna* cinsi içinde sınıflandırılmıştır.
 
-# Gülen Sumru
+## Gülen Sumru
 
 *Gelochelidon nilotica*, Gull-billed Tern
 
@@ -583,7 +583,7 @@ Genellikle az sayıda ve yaygın bir geçit türüdür. İlkbahar göçü mart b
 
 Türkiye'de nominat alttürü bulunur.
 
-# Hazar Sumrusu
+## Hazar Sumrusu
 
 *Hydroprogne caspia*, Caspian Tern
 
@@ -610,7 +610,7 @@ Geçit sırasında ülke genelinde daha yaygın görülse de sayıları düşük
 
 Monotipik bir türdür.
 
-# Bıyıklı Sumru
+## Bıyıklı Sumru
 
 *Chlidonias hybrida*, Whiskered Tern
 
@@ -639,7 +639,7 @@ Kış aylarında az sayıda birey Ege ve Akdeniz kıyılarındaki lagün ve göl
 
 Türkiye'de nominat alttürü bulunur.
 
-# Kara Sumru
+## Kara Sumru
 
 *Chlidonias niger*, Black Tern
 
@@ -665,7 +665,7 @@ Göç sırasında daha yaygın olarak görülür ve sayıca daha fazladır. Ülk
 
 Türkiye'de nominat alttürü bulunur.
 
-# Ak Kanatlı Sumru
+## Ak Kanatlı Sumru
 
 *Chlidonias leucopterus*, White-winged Tern
 
@@ -694,7 +694,7 @@ Nadiren tam erişkin kıyafetinde kışı geçiren bireylere giderek artan sıkl
 
 Monotipik bir türdür.
 
-# Kutup Sumrusu
+## Kutup Sumrusu
 
 *Sterna paradisaea*, Arctic Tern
 
@@ -718,7 +718,7 @@ Türkiye'de yuvalamaz.
 
 Monotipik bir türdür
 
-# Sumru
+## Sumru
 
 *Sterna hirundo*, Common Tern
 
@@ -747,7 +747,7 @@ Nadiren kışın görülebilir. Aralık sonu ile şubat başı arasında Akdeniz
 
 Orta Asya'da bulunan *tibetana* alttürüne benzer kuşların Ortadoğu'da görüldüğüne dair iddialar olmuşsa da, büyük olasılıkla Türkiye'de görülenlerin hepsi nominattır.
 
-# Kara Gagalı Sumru
+## Kara Gagalı Sumru
 
 *Thalasseus sandvicensis*, Sandwich Tern
 
@@ -774,7 +774,7 @@ Kış aylarında tüm kıyılarda yaygın olarak görülür. Karadeniz'in kuzeyi
 
 Türkiye'de nominat alttürü bulunur.
 
-# Tepeli Sumru
+## Tepeli Sumru
 
 *Thalasseus bengalensis*, Lesser Crested Tern
 

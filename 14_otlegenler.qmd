@@ -2,7 +2,7 @@
 title: "Çıvgınlar - Yedikardeşler"
 ---
 
-# Orman Çıvgını
+## Orman Çıvgını
 
 *Phylloscopus sibilatrix*, Wood Warbler
 
@@ -29,7 +29,7 @@ Bunun dışında yaygın ve oldukça bol bir geçit türüdür. Ara sıra çok y
 
 Monotipik bir türdür.
 
-# Boz Çıvgın
+## Boz Çıvgın
 
 *Phylloscopus orientalis*, Eastern Bonelli's Warbler
 
@@ -56,7 +56,7 @@ Akdeniz ve Ege'nin kıyı kesimlerinde martın üçüncü haftasından itibaren 
 
 Boz Çıvgın, Bonelli Çıvgını ile *Phylloscopus* *bonelli* türünün altında sınıflandırılırdı. Batı Akdeniz'deki *bonelli* ile Doğu Akdeniz'deki orientalis popülasyonları arasındaki moleküler filogenetik ilişkiyi inceleyen bir çalışmada [@helbig1995], aralarındaki genetik farklılığın diğer *Phylloscopus* alttürleri arasında gözlenenden oldukça fazla olduğu sonucuna varılmıştır. *Phylloscopus bonelli* [@sibley1990; @sibley1993], bu çalışmayla Bonelli Çıvgını (*P. bonelli*) ve Boz Çıvgın (*P. orientalis*) olarak iki türe ayrılmıştır [@sangster2002].
 
-# Sarı Kaşlı Çıvgın
+## Sarı Kaşlı Çıvgın
 
 *Phylloscopus inornatus*, Yellow-browed Warbler
 
@@ -80,7 +80,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Doğu Sibirya'dır. Kı�
 
 Monotipik bir türdür. Yakın geçmişe kadar Ak Kaşlı Çıvgın ile türdeş (konspesifik) kabul edilmekteydi, ancak morfolojik özellikler ve vokalizasyon farklılıkları bu iki formun tür seviyesinde ayrıldığını göstermektedir [@cramp1992].
 
-# Ak Kaşlı Çıvgın
+## Ak Kaşlı Çıvgın
 
 *Phylloscopus humei*, Hume's Leaf Warbler
 
@@ -102,7 +102,7 @@ Türkiye'de yuvalamaz. Üreme dönemi Doğu Asya'nın ılıman kuşağında geç
 
 Türkiye’de gözlenen bireylerin büyük olasılıkla *humei* nominata ait olduğu düşünülmektedir. Çin’de görülen *mandellii* alttürünün Batı Palearktik'te görülme ihtimali son derece düşüktür. Yakın geçmişe kadar Sarı Kaşlı Çıvgın ile türdeş (konspesifik) kabul edilmekteydi, ancak morfolojik özellikler ve vokalizasyon farklılıkları bu iki formun tür seviyesinde ayrıldığını göstermektedir [@cramp1992].
 
-# Çalıkuşu Çıvgını
+## Çalıkuşu Çıvgını
 
 *Phylloscopus proregulus*, Pallas's Leaf Warbler
 
@@ -124,7 +124,7 @@ Türkiye'de yuvalamaz. Üreme dönemi Kuzey Doğu Asya'da geçirir. Kış aylar�
 
 Monotipik bir türdür.
 
-# Esmer Çıvgın
+## Esmer Çıvgın
 
 *Phylloscopus fuscatus*, Dusky Warbler
 
@@ -146,7 +146,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Doğu Asya'dır.
 
 Monotipik bir türdür.
 
-# Söğütbülbülü
+## Söğütbülbülü
 
 *Phylloscopus trochilus*, Willow Warbler
 
@@ -170,7 +170,7 @@ Türkiye'de yuvalamaz. Kuzey Avrupa'da yuvalar ve oradakie en yaygın yaz göçm
 
 Genellikle üç alttür tanınmaktadır. Bunlar; Avrupa'nın kuzeybatısından Polonya ve Romanya'ya kadar doğuda üreyen nominat *trochilus* alttürü, daha yüksek enlemlerde, İskandinavya'dan Yenisey'e kadar üreyen *acredula* alttürü ve Orta ile Doğu Sibirya'da üreyen *yakutensis* alttürüdür. İç Anadolu ve Doğu Anadolu'dan geçenlerin çoğunun *acredula* alttürü olduğu bildirilmiştir [@schekkerman1993]. Ancak *acredula* alttürü ile nominat *trochilus* alttürü arasında geçiş olduğuna dair kanıtlar bulunmaktadır [@maasgeesteranus1959] ve *acredula* alttürünün tanınmaya değer olup olmadığı tartışmalıdır. *Yakutensis* alttürü en nadir olmak üzere, tümü göç sırasında İsrail'de gözlenmiştir [@shirihai1996] ve büyük olasılıkla Türkiye için de durum aynıdır. Bu üç alttür, eldeyken dahi oldukça zor ayırt edilebilmektedir [@vanloon1991]. 1998 yılında Kızılırmak Deltası'nda halkalanan 256 bireyin yarısından fazlasının kanat uzunlukları, en çok *yakutensis* alttürü değerlerine yakın bulunmuştur. Doğu Karadeniz kıyılarında *yakutensis* alttürü benzeri formların, *acredula* alttürü olarak değerlendirilen bireylerden daha sonra geçtiği kaydedilmiştir [@faldborg1994], ancak bu iki alttürün geçiş tarihleri kesin olarak çakışmaktadır. Nominat *trochilus* alttürünün esas olarak batıda bulunduğu düşünülmektedir. Yukarıda tanımlanan alttürlere dâhil edilmesi gereken iki forma ait kayıtlardan bahsedilmiştir [@kumerloeve1961]; bunlar, Urfa ve Ankara'da kaydedilen ve *acredula* alttürü ile ilişkilendirilebilecek *eversmanni* alttürü ile, Amik Gölü ve Akdeniz bölgesinde kaydedilen ve nominat *trochilus* alttürü ile sinonim kabul edilen *fitis* alttürüdür.
 
-# Kafkas Çıvgını
+## Kafkas Çıvgını
 
 *Phylloscopus sindianus*, Mountain Chiffchaff
 
@@ -201,7 +201,7 @@ Yakın zamanda Kafkaslar’da *lorenzii* ile parapatrik bulunduğu iddia edilen,
 
 Burada ele alınan tüm formlar ve Batı Palearktik'teki bütün Çıvgınlar arasındaki ilişki üzerine yapılan tartışmaların en kapsamlısı hâlâ [@helbig2002] çalışmasında yer almaktadır. *lorenzii* ve *brevirostris* alttürlerinin elde tanımlanması konusu ve *lorenzii* alttürünün sahada tanımlanması [@roselaar1995; @scott1999] çalışmalarında ele alınmıştır. Kuzeydoğu Türkiye'de bulunan Çıvgınlar ile ilgili problemlerin araştırılması için yapılan çağrı ise, [@watson1962b] tarafından yapıldığı dönemde olduğu gibi bugün de geçerliliğini korumaktadır.
 
-# Çıvgın
+## Çıvgın
 
 *Phylloscopus collybita*, Common Chiffchaff
 
@@ -232,7 +232,7 @@ Türkiye'ye endemik *brevirostris* alttürünün Strickland tarafından toplanan
 
 Göç sırasında *abietinus* ve *tristis* formlarına da rastlanmış, ancak yoğunlukları genel olarak bilinmemektedir. İç Anadolu'daki çalışmaları sırasında *tristis* formuna hiç rastlanmamıştır [@schekkerman1993]. İncelenen tüm bireyler *abietinus* formuna aittir. Nisan ayının ortasından sonuna kadar Kuzeydoğu Anadolu'da *tristis* olduğu düşünülen birkaç birey gözlenmiştir [@faldborg1994]. Urallar ile Yenisey arasında üreyen, ancak büyük olasılıkla *Phylloscopus sindianus* türüne daha yakın olan ve tanımı son derece zayıf olan *fulvescens* formuna yalnızca bir kez, 21 Eylül 1991'de Uludağ'da rastlanmıştır [@jetz1995]. Türkiye'de kışlayan kuşların hangi alttürlere ait oldukları kesin olarak bilinmemektedir. Bu kuşların bir kısmı kuzeyden gelen bireyler olabilir. Örneğin, Kıbrıs'ta kış döneminde görülen kuşların bir kısmı *abietinus* formuna aitken, çoğunluk nominat *collybita*ya benzemektedir. *Tristis* bireylerini özellikle elde incelemeden kesin olarak tanımlamak ve *fulvescens* formunun taksonomik durumunu belirlemek oldukça zordur. Bu durum [@dean2005] tarafından ustaca dile getirilmiştir. Ayrıca, *tristis* formuna ait olduğu iddia edilen birçok kaydın hatalı olabileceği çok olasıdır.
 
-# Yeşil Çıvgın
+## Yeşil Çıvgın
 
 *Phylloscopus nitidus*, Green Warbler
 
@@ -269,7 +269,7 @@ Hindistan Yarımadası'ndaki kışlama alanlarında, *nitidus* ve *viridanus* ar
 
 Benzer bir durum Doğu Pasifik bölgesinde de görülmekte ve burada geçmişte tamamı *Phylloscopus proregulus* olarak sınıflandırılan üç, belki de dört farklı popülasyon tanımlanmaktadır: *P. proregulus*, *chloronotus/simlaensis* ve *kansuensis*. Çin'in Çinghay, Kansu ve Siçuan eyaletlerinde yapılan çalışmalar [@alstrom1990; @alstrom1997], vokalizasyon ve habitat farklılıklarının ayrıntılı incelenmesiyle, morfolojik olarak az farklılık gösteren *Phylloscopus* popülasyonlarının tür düzeyinde taksonlar içerdiğini ortaya koymuştur.
 
-# Kuzey Çıvgını
+## Kuzey Çıvgını
 
 *Phylloscopus borealis*, Arctic Warbler
 
@@ -291,7 +291,7 @@ Türkiye'de yuvalamaz. Avrasya'nın en kuzey bölgelerinde tundra ve tayga kuşa
 
 Monotipik bir türdür.
 
-# Kamışbülbülü
+## Kamışbülbülü
 
 *Cettia cetti*, Cetti's Warbler
 
@@ -318,7 +318,7 @@ Kış mevsiminde büyük ölçüde kıyılarda ve batı ile güney bölgelerinin
 
 Türkiye'de *orientalis* alttürü bulunur. Marmara ve Ege bölgelerinin büyük bölümündeki bireyler *sericea*, ülkenin geri kalanındaki bireyler ise *orientalis* formu olarak sınıflandırılmıştır [@roselaar1995]. Ancak, iki form arasındaki farklılıklar çok hafiftir, dolayısıyla *sericea* formu *orientalis* alttürünün sinonimidir. Diğer yandan *sericea* formunun geçerliliği şüpheli görülmüş [@baker1997] ve *orientalis* formunun teşhisinin zor olduğu belirtmiştir.
 
-# Uzun Kuyruklu Baştankara
+## Uzun Kuyruklu Baştankara
 
 *Aegithalos caudatus*, Long-tailed Tit
 
@@ -345,7 +345,7 @@ Tür, çeşitli ağaçlık ve çalılık alanlarda, genellikle deniz seviyesinde
 
 Trakya’daki bireyler *europaeus* grubuna, Anadolu’daki bireyler ise *alpinus* grubuna dâhildir. Ayrıca kış aylarında beyaz başlı *caudatus* alttürünün Trakya’da kaydedildiği bilinmektedir. Trakya’daki *europaeus* grubuna ait örnekler incelendiğinde, Yunanistan sınırına yakın bölgelerde *macedonicus* alttürü, Istrancalar’da ise *europaeus* alttürünün yayılış gösterdiği, bu iki form arasında ise geçiş bireylerine rastlandığı görülmektedir [@roselaar1995]. *Alpinus* grubuna ait bireyler, daha kısa kanat ve kuyruk, daha koyu renkli kafa, pembemsi tonların neredeyse tamamen yokluğu ve üst kısımların büyük oranda gri oluşu ile ayırt edilir. Tekirdağ, İstanbul ve Anadolu’nun büyük bölümünde *tephronotus* alttürü, Doğu Karadeniz’de *major* alttürü, Güneydoğu Anadolu’da ise İran kökenli *passekii* alttürü veya bu forma ait geçiş bireyleri gözlenmektedir [@roselaar1995].
 
-# Kara Başlı Ötleğen
+## Kara Başlı Ötleğen
 
 *Sylvia atricapilla*, Eurasian Blackcap
 
@@ -376,7 +376,7 @@ Başta Ege ve Akdeniz sahil bölgeleri olmak üzere kış döneminde oldukça az
 
 Batıda nominat *atricapilla*, doğuda *dammholzi* olmak üzere Türkiye'de iki alttürün ürediği düşünülmektedir [@kasparek1990c]. [@vaurie1954b] Türkiye'deki tüm kuşların *atricapilla* olduğunu belirtmiş, ancak [@shirihai2001] yayınlarında verdikleri haritalarda her iki alttürün de Türkiye'nin kuzeyinde ürediğini göstermiştir. Göçmen bireylerin varlığı, bu konuda karışıklığa yol açmaktadır. Ayrıca, Kasparek'in Karadeniz'in doğusundan ve Vaurie'nin üreyen bireylerden herhangi bir örnek inceleyip incelemediği net olarak bilinmemektedir [@roselaar1995]. Sahadaki gözlemlerimiz, Karadeniz'in batısında üreyen bireyler ile ülkenin orta ve güney bölgelerinden geçen bireylerin *atricapilla* formuna ait olduğunu belirten [@roselaar1995] görüşünü doğrulamaktadır. Ülkenin kuzeydoğusunda üreyen kuşların hangi alttüre ait oldukları konusunda ise yorum yapabilecek kadar bilgi bulunmamaktadır.
 
-# Boz Ötleğen
+## Boz Ötleğen
 
 *Sylvia borin*, Garden Warbler
 
@@ -403,7 +403,7 @@ Geçit sırasında daha bol ve yaygın olarak kaydedilir. Genellikle makul sayı
 
 Görünüşe göre Türkiye'de görülen tüm bireyler woodwardi alttürüne aittir [@roselaar1995]. Ancak, bu form ile nominat borin arasındaki yoğun geçiş dikkate alındığında, tür içindeki kesintisiz coğrafi varyasyon nedeniyle bir alttür tanımlamanın çok faydalı olmayabileceği düşünülmektedir.
 
-# Çizgili Ötleğen
+## Çizgili Ötleğen
 
 *Curruca nisoria*, Barred Warbler
 
@@ -430,7 +430,7 @@ Geçit sırasında ülke genelinde makul sayılarda ve yaygın olarak kaydedilir
 
 Türkiye'de görülen bireyler nominat forma aittir [@shirihai2001]. Eskiden *Sylvia* cinsi altında sınıflandırılırdı.
 
-# Küçük Ak Gerdanlı Ötleğen
+## Küçük Ak Gerdanlı Ötleğen
 
 *Curruca curruca*, Lesser Whitethroat
 
@@ -463,7 +463,7 @@ Sırt renkleri biraz daha gri tonlara yaklaşsa da, Türkiye'de üreyen tüm bir
 
 Eskiden *Sylvia* cinsi altında sınıflandırılırdı.
 
-# Ak Gözlü Ötleğen
+## Ak Gözlü Ötleğen
 
 *Curruca crassirostris*, Eastern Orphean Warbler
 
@@ -490,7 +490,7 @@ Geçit sırasında Batı Anadolu'da yaygın olarak gözlenir. Bahar göçü sır
 
 Türkiye'de büyük olasılıkla ülkenin büyük bölümünde *crassirostris* alttürü bulunmaktadır. Kuzeydoğuda, Aras Vadisi'nin kuzeyinde ise *balchanica* alttürünün görülmesi olasıdır [@roselaar1995]. Batıdan toplanan az sayıdaki örnek *crassirostris* alttürü olarak tanımlanmıştır [@roselaar1995] ve doğu bölgelerinden kapsamlı saha deneyimi bulunmamaktadır. Diğer bazı yazarlar ise Türkiye'deki tüm bireylerin *crassirostris* alttürüne ait olduğunu düşünmektedir [@shirihai2001]. Öncesinde Orfeus Ötleğeni (*Curruca hortensis*)'nin bir alttürü olarak kabul edilmekteydi [@shirihai2001]. Eskiden *Sylvia* cinsi altında sınıflandırılırdı, o zaman *Sylvia hortensis* olarak bilinirdi.
 
-# Çöl Ötleğeni
+## Çöl Ötleğeni
 
 *Curruca nana*, Asian Desert Warbler
 
@@ -512,7 +512,7 @@ Türkiye'de yuvalamaz. Yayılış alanı İran ve Orta Asya çölleridir.
 
 Eskiden Afrika'da bulunan Sahra Ötleğeni (*Curruca deserti*) ile aynı tür olduğu düşünülmüş, ancak daha sonra Afrika ve Asya formlarının ayrı türler olduğu kabul edilmiştir [@shirihai2001]. Bu revizyon yaygın şekilde benimsenmiştir. Tür, eskiden *Sylvia* cinsi altında sınıflandırılmaktaydı.
 
-# Pembe Göğüslü Ötleğen
+## Pembe Göğüslü Ötleğen
 
 *Curruca mystacea*, Menetries's Warbler
 
@@ -543,7 +543,7 @@ Bahar geçişinde 20 Mart'tan itibaren kaydedilse de, Birecik'te 2 Nisan'dan ön
 
 Güneydoğu Anadolu'da görülen bireyler *rubescens*, Aras Vadisi ve çevresindekiler ise nominat *mystacea* alttürüne aittir. Görünüşe göre bu iki alttürün üreme alanları tamamen allopatriktir. Ancak, kaynaklarda bu iki alttür arasındaki bazı farklılıklar fazlaca basitleştirilmiştir [@shirihai2001]. Bu yazarların bildirdiğinin aksine, bahar döneminde Hatay ilinde ve Dicle boyunca, göğüsleri oldukça geniş şekilde koyu pembe renkte olan *rubescens* erkeklerine sıkça rastlanmaktadır. Bununla birlikte, tepe bölgesindeki koyuluğun genişliği ve tonu, [@shirihai2001] tarafından tarif edilene benzer görünmektedir. Tür, geçmişte *Sylvia* cinsi altında sınıflandırılmıştır.
 
-# Kara Boğazlı Ötleğen
+## Kara Boğazlı Ötleğen
 
 *Curruca rueppelli*, Rüppell's Warbler
 
@@ -570,7 +570,7 @@ Mart ortası ile mart sonu arasında görülmeye başlanır. 1990 yılında Çuk
 
 Monotipik bir türdür. Eskiden *Sylvia* cinsi altında sınıflandırılırdı.
 
-# Kıbrıs Ötleğeni
+## Kıbrıs Ötleğeni
 
 *Curruca melanothorax*, Cyprus Warbler
 
@@ -592,7 +592,7 @@ Türkiye'de yuvalamaz. Üreme döneminde Kıbrıs'a endemiktir. Bazı bireyler K
 
 Monotipik bir türdür. Eskiden *Sylvia* cinsi altında sınıflandırılırdı.
 
-# Maskeli Ötleğen
+## Maskeli Ötleğen
 
 *Curruca melanocephala*, Sardinian Warbler
 
@@ -621,7 +621,7 @@ Türkiye'de görülen bireylerin çoğunluğu nominat *melanocephala* alttürün
 
 Nominat *melanocephala* ve *nomus*'un DNA baz dizilimleri benzer olsa da, morfolojik özellikler açısından farklılık gösterirler ve bu nedenle allopatrik türler olarak değerlendirilebilirler [@shirihai2001]. Güney Ege için tanımlanan *pasiphae* formu [@roselaar1995], *melanocephala* alttürünün sinonimi kabul edilmektedir. Tür geçmişte *Sylvia* cinsi altında sınıflandırılmıştır.
 
-# Bıyıklı Ötleğen
+## Bıyıklı Ötleğen
 
 *Curruca cantillans*, Subalpine Warbler
 
@@ -652,7 +652,7 @@ Türkiye'de *albistriata* alttürü bulunmaktadır. Yakın zamanda Bıyıklı Ö
 
 Batı Akdeniz'deki bazı adalarda görülen *moltonii* formu ile Güneydoğu Avrupa'dan Batı Türkiye'ye kadar uzanan *albistriata* formu, nominat *cantillans* ile allopatriktir ve morfolojik olarak nispeten iyi ayrılmıştır. Bu iki form, allopatrik tür olma sürecinin başlangıcında olabilir [@shirihai2001]. Kuzey Afrika'da bulunan "inornata" formu ise görünüş bakımından nominat *cantillans* formuna çok daha fazla benzemektedir. Ayrıca, *moltonii* alttürünün *subalpina* ile sinonim kabul edilmesi en uygun yaklaşım olabilir [@baccetti2007].
 
-# Ak Gerdanlı Ötleğen
+## Ak Gerdanlı Ötleğen
 
 *Curruca communis*, Common Whitethroat
 
@@ -679,7 +679,7 @@ Geçit sırasında ülke genelinde daha bol ve yaygın görülür. Bahar göçü
 
 Türkiye'de görülen alttürler ve sınıflandırma sorunları ayrıntılı şekilde açıklanmıştır [@roselaar1995]. Buna göre, Trakya ve tüm Karadeniz bölgesinde görülen bireyler *communis* alttürüne, güney ve doğu bölgelerde — Toroslar'a kadar batıda, Aras Vadisi'ne kadar kuzeyde ve Ankara'nın güneyinde görülenler— *icterops* alttürüne aittir. Nominat *communis* ile *icterops* arasında büyük ölçüde geçiş bulunmaktadır [@roselaar1995; @shirihai2001]. Geçiş formları, Marmara Denizi'nden Ermenistan sınırına kadar ülkeyi dar bir şerit boyunca kesmekte ve güneyde Orta Akdeniz kıyılarına kadar yayılmaktadır. Güneydoğuda tanımlanmış olan *traudeli* formu [@kumerloeve1969a] *icterops* ile sinonim kabul edilmektedir [@roselaar1995]. Tür, geçmişte *Sylvia* cinsi altında sınıflandırılmıştır.
 
-# Bozkır Ötleğeni
+## Bozkır Ötleğeni
 
 *Curruca conspicillata*, Spectacled Warbler
 
@@ -706,7 +706,7 @@ Türkiye'de görülen alttürler ve sınıflandırma sorunları ayrıntılı şe
 
 Türkiye'de görülen bireyler nominat alttüre aittir. Tür, geçmişte *Sylvia* cinsi altında sınıflandırılmıştır.
 
-# Irak Yedikardeşi
+## Irak Yedikardeşi
 
 *Argya altirostris*, Iraq Babbler
 

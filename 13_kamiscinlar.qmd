@@ -2,7 +2,7 @@
 title: "Prinyalar - Kamışçınlar"
 ---
 
-# Asya Dik Kuyruklu Ötleğeni
+## Asya Dik Kuyruklu Ötleğeni
 
 *Prinia lepida*, Delicate Prinia
 
@@ -27,7 +27,7 @@ Tür, özellikle Göksu ve Çukurova deltalarında ve eski Amik Gölü çevresin
 
 Akdeniz'deki popülasyonların tamamının, Türkiye’nin güneyinde tanımlanan ve bu bölgeye endemik olduğu düşünülen *akyildizi* alttürüne ait olabileceği öne sürülmüştür [@roselaar1995]. Bu bölgedeki bireylerin, *akyildizi* alttürünü de kapsayan *lepida* grubuna ait olduğu açıktır. Ancak Birecik’ten ya da Güneydoğu Anadolu’nun başka bir bölgesinden örnek bulunmamaktadır [@roselaar1995]. Güneydoğu’da ayrıca *irakensis* alttürünün de var olabileceği düşünülmektedir.
 
-# Yelpazekuyruk
+## Yelpazekuyruk
 
 *Cisticola juncidis*, Zitting Cisticola
 
@@ -54,7 +54,7 @@ Büyük ölçüde üreme alanlarında kışlayan bir türdür ve bu mevsimde nis
 
 Batıdaki, özellikle İzmir çevresinden toplanan örneklerin juncidis alttürüne ait olduğunu belirtmiştir, ancak güneydoğu kıyılarında bulunan bireylerin muhtemelen neuroticus alttürünü de içerdiğini tahmin etmiştir [@roselaar1995]. Cambridge Üniversitesi Zooloji Müzesi'nde bulunan İstanbul örneği de (CUMZ27/Syl/23/t/7) juncidis alttürüne aittir. İkinci formun doğru yazımı neuroticus şeklindedir [@david2002b].
 
-# Küçük Mukallit
+## Küçük Mukallit
 
 *Iduna caligata*, Booted Warbler
 
@@ -76,7 +76,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Rusya'nın batısından Kazakistan'a de
 
 Şimdiye kadar Türkiye'de gözlenen bireylerle ilgili eldeki veriler [@kirwan1994a; @dierschke1996], burada gözlenen formun *caligata* olduğu izlenimini vermektedir. Bu sonuca kuşların üst ve alt kısımlarındaki tüy örtüsünün tonları, ikinci ayna varlığı, gaga uzunluğu, genel vücut oranları ve kafa yapısı gibi morfolojik özelliklere dayanılarak ulaşılmıştır. Küçük mukallitin ve benzer türlerin *Iduna* cinsine dahil edilmesiyle ilgili ek taksonomik notlar ve tartışmalar yayımlanmıştır [@sangster1997b].
 
-# Sazak Mukalliti
+## Sazak Mukalliti
 
 *Iduna rama*, Sykes’s Warbler
 
@@ -100,7 +100,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Orta Asya'da Pakistan'ın kuzeybatısı
 
 Monotipik bir türdür. Eskiden Küçük Mukallit ile aynı tür olarak değerlendirilirdi. Eskiden *Hippolais* cinsi altında sınıflandırılmıştır.
 
-# Ak Mukallit
+## Ak Mukallit
 
 *Iduna pallida*, Eastern Olivaceous Warbler
 
@@ -129,7 +129,7 @@ Gaga ölçümlerine dayanarak Trakya’dan Burdur Gölü’ne kadar uzanan batı
 
 Tür, geçmişte *Hippolais* cinsi altında sınıflandırılmıştır. Ancak daha sonra *Iduna* altcinsi içinde değerlendirilmesi önerilmiş ve bu altcinsin cins seviyesine yükseltilmesi uygun görülmüştür [@helbig1999; @helbig2001; @dickinson2003].
 
-# Dağ Mukalliti
+## Dağ Mukalliti
 
 *Hippolais languida*, Upcher's Warbler
 
@@ -158,7 +158,7 @@ Geçit sırasında türün varlığı daha yaygındır. Örneğin, Akdeniz Bölg
 
 Monotipik bir türdür.
 
-# Zeytin Mukalliti
+## Zeytin Mukalliti
 
 *Hippolais olivetorum*, Olive-tree Warbler
 
@@ -187,7 +187,7 @@ Genellikle 800 metreye kadar olan ovalık alanlarda bulunur, ancak İç Anadolu�
 
 Monotipik bir türdür.
 
-# Şarkıcı Mukallit
+## Şarkıcı Mukallit
 
 *Hippolais polyglotta*, Melodious Warbler
 
@@ -209,7 +209,7 @@ Türkiye'de yuvalamaz.
 
 Monotipik bir türdür.
 
-# Sarı Mukallit
+## Sarı Mukallit
 
 *Hippolais icterina*, Icterine Warbler
 
@@ -236,7 +236,7 @@ Tür, Türkiye genelinde genellikle az sayıda görülür ancak batı ve orta b�
 
 Tür genellikle monotipik olarak kabul edilir. Görünüşe göre Türkiye'den örnek bulunmamaktadır [@roselaar1995].
 
-# Sarı Kamışçın
+## Sarı Kamışçın
 
 *Acrocephalus paludicola*, Aquatic Warbler
 
@@ -260,7 +260,7 @@ Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Doğu Avrupa'dır.
 
 Monotipik bir türdür.
 
-# Bıyıklı Kamışçın
+## Bıyıklı Kamışçın
 
 *Acrocephalus melanopogon*, Moustached Warbler
 
@@ -289,7 +289,7 @@ Sazlıklar, bataklıklar ve kıyıları sazlık olan göllerde, çoğunlukla sul
 
 Anadolu’nun büyük bölümünde *mimicus* alttürü görülür. Yalnızca İzmir, Hatay ve Van’dan elde ettiği örnekler nedeniyle alttür değerlendirmesi kalmıştır [@roselaar1995]. Hatay ve Van’dan toplanan bireyler *mimicus* alttürüyle uyumludur. Ancak İzmir çevresindeki ve Ege ve Marmara’nın diğer kesimlerinde bulunan kuşları *melanopogon* olarak sınıflandırmıştır [@roselaar1995]. Arazi gözlemlerimiz, *mimicus* alttürünün Kızılırmak Deltası’nda yüksek sayılarda ürediğini, ayrıca İç Anadolu ve Akdeniz’de geniş bir yayılışa sahip olduğunu doğrulamaktadır. Ancak batı bölgelerindeki kuşların ırksal kimlikleri hakkında kesin yorum yapabilmek için yeterli örnek ve arazi deneyimi bulunmamaktadır. Türkiye’nin batısından incelediğimiz tek örnek İzmir’dendir. Bu birey, belirgin koyu tepe rengi ve geniş, devetüyü rengindeki alt tarafıyla *melanopogon* ile yakından uyumludur. Bununla birlikte, Mezopotamya’dan bazı *mimicus* bireylerinde de koyu tepe rengine rastlanmaktadır. İncelediğimiz örneklerin alt kısımlarında daha soluk ve sınırlı devetüyü rengi dışında ayırt edici başka bir morfolojik özellik görülmemiştir. Arazi gözlemleri, *mimicus* ve *melanopogon* alttürlerinin ötüşlerinin oldukça benzediğini göstermektedir. Ancak batıdaki bazı kuşların ötüşlerinde karakteristik “sıçrama” bölümünü atladıkları gözlenmiştir. İki formun mitokondriyal DNA’ları arasında yalnızca küçük farklılıklar bulunmuştur [@helbig1999; @parkin2004].
 
-# Kındıra Kamışçını
+## Kındıra Kamışçını
 
 *Acrocephalus schoenobaenus*, Sedge Warbler
 
@@ -318,7 +318,7 @@ Gözlemciler arasında kındıra kamışçını ile Türkiye’de gözlenen Bıy
 
 Monotipik bir türdür.
 
-# Doğu Kamışçını
+## Doğu Kamışçını
 
 *Acrocephalus agricola*, Paddyfield Warbler
 
@@ -347,7 +347,7 @@ Göçmen bireyler Türkiye’de üç kez Göksu Deltası’nda, biri nisan ayın
 
 Türkiye’deki alttür durumu belirsizliğini korumaktadır. Bir fotoğrafa [@berg1998] dayanarak Türkiye’de gözlenen kuşların *septimus* alttürüne değil, *capistrata* alttürüne ait olabileceğini ileri sürmüştür [@roselaar1995]. Buna karşılık Türkiye dışından gelen bir göçmen kuşa ait olma ihtimali olan başka bir fotoğraf [@have1995], bu bireyin *capistrata* alttürünilk kışındaki görülen tipik pas rengi-turuncu alt tüylerden ziyade daha soluk ve grimsi beyaz bir karın rengine sahip olduğunu göstermiştir. Bu da tanımlamanın karmaşıklığını ortaya koymaktadır.
 
-# Kuzey Kamışçını
+## Kuzey Kamışçını
 
 *Acrocephalus dumetorum*, Blyth's Reed Warbler
 
@@ -371,7 +371,7 @@ Türkiye'de yuvalamaz. Üreme döneminde yayılış alanı Baltık Denizi'nden D
 
 Monotipik bir türdür.
 
-# Çalı Kamışçını
+## Çalı Kamışçını
 
 *Acrocephalus palustris*, Marsh Warbler
 
@@ -398,7 +398,7 @@ Geçiş döneminde yaygın olup genellikle az sayılarda gözlenir. İlkbahar g�
 
 İncelenen tüm tahnit örnekleri nominat *palustris* alttüründe değerlendirilmiştir [@roselaar1995].
 
-# Saz Kamışçını
+## Saz Kamışçını
 
 *Acrocephalus scirpaceus*, Eurasian Reed Warbler
 
@@ -427,7 +427,7 @@ Temel olarak su içindeki yoğun saz (Phragmites), kamışlıklar ile kenarları
 
 Yunanistan’da da üreyen scirpaceus alttürünün, Marmara ve Ege’de saf olarak; Türkiye’nin diğer bölgelerinde ise fuscus ile karışık olarak ürediği varsayılmaktadır [@roselaar1995]. Aynı yazar, Türkiye genelindeki scirpaceus kayıtlarının fazlalığını, göç dönemine ait kayıtlara bağlamaktadır. Fuscus alttürünün tanımlanmasına ilişkin en kapsamlı çalışmada [@pearson2002], Türkiye'deki yayılışı da ele alınmış ve [@roselaar1995] ile benzer şekilde, ülkenin orta kesimlerinden itibaren doğuya doğru fuscus alttürünün ürediği sonucuna varılmıştır. İç ve Doğu Anadolu’da üreyen kuşların fuscus olduğu düşünülebilir, ancak daha batıdaki durumu netleştirmek için arazi verileri yetersizdir.
 
-# Basra Kamışçını
+## Basra Kamışçını
 
 *Acrocephalus griseldis*, Basra Reed Warbler
 
@@ -449,7 +449,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Irak Mezopotamyasıdır.
 
 Monotipik bir türdür.
 
-# Büyük Kamışçın
+## Büyük Kamışçın
 
 *Acrocephalus arundinaceus*, Great Reed Warbler
 
@@ -476,7 +476,7 @@ Göç döneminde daha geniş bir yayılış gösterir. Özellikle iç kesimler v
 
 Nominat alttür bulunur.
 
-# Ağaç Kamışçını
+## Ağaç Kamışçını
 
 *Locustella fluviatilis*, River Warbler
 
@@ -500,7 +500,7 @@ Türkiye'de henüz yuvaladığı belgelenmemiştir. Yayılış alanı Doğu Avru
 
 Monotipik bir türdür.
 
-# Bataklık Kamışçını
+## Bataklık Kamışçını
 
 *Locustella luscinioides*, Savi's Warbler
 
@@ -527,7 +527,7 @@ Aslında ülke genelindeki tüm bataklık sulakalanlarda ürediği söylenebilir
 
 Türkiye’den toplanan bütün tahnit örnekleri değerlendirilmiş [@roselaar1995] ve genellikle üstü daha gri, alt tarafı daha beyaz olan form fusca olarak tanımlanmıştır. Ancak, Meriç Deltası’nın Yunanistan kısmında nominat *luscinoides* alttürünün bulunduğuna dair kanıtlar vardır [@bauer1969a] . Bu durum, *luscinoides* alttürünün en azından Trakya içlerine kadar yayılabileceğini göstermektedir. Öte yandan, Van’da toplanan ve her iki alttür arasında kalan iki erkek birey, zayıf ve büyük ölçüde klinal varyasyonların tanımlanmasındaki zorluklara örnek olarak değerlendirilmektedir [@kumerloeve1969a].
 
-# Çekirge Kamışçını
+## Çekirge Kamışçını
 
 *Locustella naevia*, Common Grasshopper Warbler
 

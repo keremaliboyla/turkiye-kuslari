@@ -2,7 +2,7 @@
 title: "Bataklık Kuşları"
 ---
 
-# Sukılavuzu
+## Sukılavuzu
 
 *Rallus aquaticus*, Water Rail
 
@@ -29,7 +29,7 @@ Göç döneminde, familyasının diğer üyeleri gibi beklenmedik yerlerde, örn
 
 Türkiye'de nominat alttürü bulunur.
 
-# Bıldırcınkılavuzu
+## Bıldırcınkılavuzu
 
 *Crex crex*, Corn Crake
 
@@ -58,7 +58,7 @@ Eskiden 19. yüzyılda İzmir çevresindeki gözlemlerine dayanarak türün bir 
 
 Monotipik bir türdür.
 
-# Benekli Suyelvesi
+## Benekli Suyelvesi
 
 *Porzana porzana*, Spotted Crake
 
@@ -85,7 +85,7 @@ Marmara, İç Anadolu ve Karadeniz bölgelerinde yazın görülür; ancak esas o
 
 Monotipik bir türdür.
 
-# Sutavuğu
+## Sutavuğu
 
 *Gallinula chloropus*, Common Moorhen
 
@@ -112,7 +112,7 @@ Kışın göç alır; özellikle Batı ve Orta Anadolu’nun kıyısal bölgeler
 
 Monotipik bir türdür.
 
-# Sakarmeke
+## Sakarmeke
 
 *Fulica atra*, Eurasian Coot
 
@@ -143,7 +143,7 @@ Açık su yüzeylerine sahip sulakalanlarda kışlar. Güney Marmara’daki göl
 
 Türkiye'de nominat alttürü bulunur.
 
-# Gri Başlı Sazhorozu
+## Gri Başlı Sazhorozu
 
 *Porphyrio poliocephalus*, Grey-headed Swamphen
 
@@ -172,7 +172,7 @@ Türkiye’nin diğer bölgelerinde, nadiren üreme durumunu gösteren birkaç k
 
 Türkiye'de iki farklı alttür bulunur. Doğu Akdeniz ve çevresinde daha uzun süredir varlığını sürdüren alttür, Doğu Akdeniz'den Kuzeybatı Hindistan’a kadar yayılış gösteren *seistanicus* alttürüdür. Bazı yazarlar, Hindistan'da bulunan *poliocephalus* alttürünü *seistanicus* ile eş anlamlı olarak değerlendirmiştir. Toplanan örnekler nedeniyle [@aharoni1930], *seistanicus* alttürünün Amik Gölü'nde ürediğini düşünülmüştür [@kumerloeve1963a]. Ayrıca, Türkiye'deki kuşların morfolojik özelliklerinin, diğer *seistanicus* popülasyonlarına *caspius* alttüründen daha yakın olduğu düşünülmektedir [@kasparek1989]. 2000’li yılların başında Kızılırmak Deltası'na göç ederek yerleşen popülasyon ise *caspius* alttürüne aittir. İlginç bir şekilde, 15 Temmuz 1893'te İstanbul yakınlarında gözlemlenen bir kuş, Batı Akdeniz’in *porphyrio* taksonuna atfedilmiştir [@matheydupraz1920].
 
-# Küçük Sazhorozu
+## Küçük Sazhorozu
 
 *Porphyrio alleni*, Allen's Gallinule
 
@@ -194,7 +194,7 @@ Türkiye'de yuvalamaz. Esas yayılış alanı Sahra Altı Afrika'dır.
 
 Monotipik bir türdür.
 
-# Çizgili Yelve
+## Çizgili Yelve
 
 *Aenigmatolimnas marginalis*, Striped Crake
 
@@ -216,7 +216,7 @@ Türkiye'de yuvalamaz. Asıl yayılış alanı Doğu ve Güney Afrika'dır.
 
 Monotipik bir türdür.
 
-# Bataklık Suyelvesi
+## Bataklık Suyelvesi
 
 *Zapornia parva*, Little Crake
 
@@ -243,7 +243,7 @@ Geçiş türü olarak tahmin edilenden daha yaygındır ve göçü, benekli suye
 
 Monotipik bir türdür.
 
-# Küçük Suyelvesi
+## Küçük Suyelvesi
 
 *Zaporia pusilla*, Baillon's Crake
 
@@ -270,7 +270,7 @@ Belirgin şekilde yaygın bir geçiş türüdür ancak üç suyelvesi arasında 
 
 Muhtemelen Türkiye'dekilerin hepsi intermedia'dır. nominat alttür ile intermedia'nın yayılış alanlarının sınırlarında iki alttür bir ölçüde karışır ve ayırt edilmeleri zorlaşır [@cramp1980; @roselaar1995].
 
-# Telli Turna
+## Telli Turna
 
 *Anthropoides virgo*, Demoiselle Crane
 
@@ -299,7 +299,7 @@ Türkiye’de ürediği ilk kez [@sandwith1856] ve [@dresser1891] tarafından, g
 
 Monotipik bir türdür. Tür, geleneksel olarak *Anthropoides* cinsi altında değerlendirilmiştir.
 
-# Ak Turna
+## Ak Turna
 
 *Leucogeranus leucogeranus*, Siberian Crane
 
@@ -325,7 +325,7 @@ Türkiye'de yuvalamaz; üreme alanı Sibirya’dadır.
 
 Monotipik bir türdür.
 
-# Turna
+## Turna
 
 *Grus grus*, Common Crane
 

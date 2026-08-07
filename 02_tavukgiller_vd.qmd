@@ -2,7 +2,7 @@
 title: "Tavukgiller, Kara Kuşları"
 ---
 
-# Orman Horozu
+## Orman Horozu
 
 *Lyrurus tetrix*, Black Grouse
 
@@ -24,7 +24,7 @@ Türkiye'de yuvalamaz. Kuzey Avrasya'daki orman kuşağında yuvalayan yerli bir
 
 Türkiye'de yaşamış popülasyon muhtemelen nominat *tetrix* alttürüne aittir. Literatürde *Tetrao* cinsi altında da sınıflandırılmıştır.
 
-# Dağ Horozu
+## Dağ Horozu
 
 *Lyrurus mlokosiewiczi*, Caucasian Grouse
 
@@ -57,7 +57,7 @@ Türkiye popülasyonu, yaylaların tatil konutlarına dönüşmesi sonucunda art
 
 Monotipik bir türdür. Rusca literatürde çoğunlukla *Lyrurus* cinsi altında, Batı Avrupa'da *Tetrao* altında sınıflandırılmıştır. Farklı uygulamaların özeti için bkz. [@gokhelashvili2003].
 
-# Çilkeklik
+## Çilkeklik
 
 *Perdix perdix*, Grey Partridge
 
@@ -84,7 +84,7 @@ Geçtiğimiz 20 yıl içerisinde tarımın yoğunlaşması, aşırı otlatma ve 
 
 Trakya'da nominat *perdix* alttürü, Anadolu'da ise *canescens* alttürü bulunmaktadır. Doğaya salınan farklı orijinden bireylerin yerel kuşlarla karışması nedeniyle türün yayılış alanı içindeki coğrafi varyasyonu oldukça karışıktır [@madge2002].
 
-# Sülün
+## Sülün
 
 *Phasianus colchicus*, Common Pheasant
 
@@ -111,7 +111,7 @@ Doğal nüfusu neredeyse tamamen kaybolmuştur; yabani kuşların çoğunun soyu
 
 Yerli popülasyon, nominat *colchicus* alttürü altında sınıflandırılmıştır [@dementev1967; @roselaar1995]. Hatalı olarak Kuzey Kafkasya'da bulunan *septentrionalis* alttürüne dahil edilmiştir [@kumerloeve1961].
 
-# Turaç
+## Turaç
 
 *Francolinus francolinus*, Black Francolin
 
@@ -140,7 +140,7 @@ Eskiden Güneydoğu Marmara ile Ege Bölgesi'nin güney kıyılarının bazı b�
 
 Türkiye'de nominat alttürü bulunur. Meinertzhagen tarafından Amik Gölü bölgesinden tanımlanmış *billypayni* alttürü sinonim olarak kabul edilmektedir.
 
-# Urkeklik
+## Urkeklik
 
 *Tetraogallus caspius*, Caspian Snowcock
 
@@ -169,7 +169,7 @@ Ermenistan'da ortalama yumurtlama dönemi 10-15 Mayıs, kuluçka dönemi ise 20-
 
 Monotipik bir türdür. Eskiden Hakkari ve Zagros Dağları'ndaki kuşların *semenowtianschanskii* (Zarudny, 1908), Toros Dağları'ndaki kuşların *tauricus* (Dresser, 1876) ve Erzurum bölgesindeki kuşların *challayei* isimli ayrı alttürler olduğu düşünülmüştür.
 
-# Kum Kekliği
+## Kum Kekliği
 
 *Ammoperdix griseogularis*, See-see Partridge
 
@@ -194,7 +194,7 @@ Monotipik bir türdür. Eskiden Hakkari ve Zagros Dağları'ndaki kuşların *se
 
 Monotipik bir türdür.
 
-# Bıldırcın
+## Bıldırcın
 
 *Coturnix coturnix*, Common Quail
 
@@ -223,7 +223,7 @@ Tarım arazilerinde yaşayan diğer kuşlar gibi, tarımın yoğunlaşması, tah
 
 Türkiye'de nominat alttürü bulunur.
 
-# Kınalı Keklik
+## Kınalı Keklik
 
 *Alectoris chukar*, Chukar Partridge
 
@@ -250,7 +250,7 @@ Geçmişte özellikle Hatay ve Doğu Karadeniz kıyı şeridi gibi bölgelerde o
 
 Türkiye'nin güneyi boyunca *cypriotes* alttürü görülmektedir. Kuzeyde *kleini* ve Doğu Akdeniz bölgesine özgü *sinaica* alttürünün etkili olduğu bölgede, Güneydoğu Anadolu'da *kurdestanica* alttürü bulunmaktadır. Tür içerisindeki coğrafi varyasyon konusu ile ilgili kesin bir çıkarım yapılamamıştır; ancak gözlemlenen formların tamamı, güçlü bir şekilde gradient ile birlikte belirgin klinal yapı göstermektedir [@madge2002].
 
-# Kaya Güvercini
+## Kaya Güvercini
 
 *Columba livia*, Rock Dove
 
@@ -275,7 +275,7 @@ Türkiye'nin güneyi boyunca *cypriotes* alttürü görülmektedir. Kuzeyde *kle
 
 Türkiye' genelinde nominat alttür bulunur. Bunun yanında [@kumerloeve1961] kuzeydoğuda gaddi alttürü ve güneyde *palaestinae* alttürü olduğunu düşünmüş, Roselaar [@cramp1985] Türkiye ve Kafkas popülasyonları için ayrı bir alttür tanınması önermiştir.
 
-# Gökçe Güvercin
+## Gökçe Güvercin
 
 *Columba oenas*, Stock Dove
 
@@ -300,7 +300,7 @@ Türkiye' genelinde nominat alttür bulunur. Bunun yanında [@kumerloeve1961] ku
 
 Türkiye'de nominat alttürü bulunur.
 
-# Tahtalı
+## Tahtalı
 
 *Columba palumbus*, Common Wood Pigeon
 
@@ -327,7 +327,7 @@ Akdeniz Bölgesi'nde en yaygın, İç Anadolu'da seyrektir. Genellikle daha kura
 
 Türkiye'de nominat alttürü bulunur [@roselaar1995]. Güneydoğu'da *iranica* alttürü ile bir geçişin görülebilir olduğundan bahseder. Doğuda *iranica* alttürünün *casiotis* alttürüne geçiş yaptığından dolayı *iranica* *casiotis* alttürünün bir sinonimi olabilir [@gibbs2001].
 
-# Üveyik
+## Üveyik
 
 *Streptopelia turtur*, European Turtle Dove
 
@@ -352,7 +352,7 @@ Türkiye'de nominat alttürü bulunur [@roselaar1995]. Güneydoğu'da *iranica* 
 
 Türkiye'de nominat alttürü bulunur.
 
-# Büyük Üveyik
+## Büyük Üveyik
 
 *Streptopelia orientalis*, Oriental Turtle Dove
 
@@ -374,7 +374,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Doğu Asya'dır.
 
 Türkiye'de nominat alttürü bulunur. Tür bugünkü Türkiye sınırlarında tanımlanmıştır.
 
-# Kumru
+## Kumru
 
 *Streptopelia decaocto*, Eurasian Collared Dove
 
@@ -399,7 +399,7 @@ Genellikle alçak bölgelerde bulunur, Doğu Anadolu'da oldukça yerel yayılı�
 
 Türkiye'de nominat alttürü bulunur. Tür bugünkü Türkiye sınırlarında tanımlanmıştır.
 
-# Küçük Kumru
+## Küçük Kumru
 
 *Spilopelia senegalensis*, Laughing Dove
 
@@ -425,7 +425,7 @@ Türkiye'de nominat alttürü bulunur. Tür bugünkü Türkiye sınırlarında t
 
 Alttür tayini için inceleme yapılmamıştır. İstanbul'a Tunus'tan getirildiği düşünülen ve çevre bölgelere yayılan kuşlar *phoenicophila* alttürü olduğu düşünülür. Güneydoğu Anadolu'da ve buradan diğer bölgelere yayılan kuşların nominat alttüre olduğunu iddia etmiştir [@kasparek1991].
 
-# Kap Kumrusu
+## Kap Kumrusu
 
 *Oena capensis*, Namaqua Dove
 
@@ -450,7 +450,7 @@ Alttür tayini için inceleme yapılmamıştır. İstanbul'a Tunus'tan getirildi
 
 Türkiye'de nominat alttürü bulunur.
 
-# Paçalı Bağırtlak
+## Paçalı Bağırtlak
 
 *Syrrhaptes paradoxus,* Pallas's Sandgrouse
 
@@ -472,7 +472,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Orta Asya'dır.
 
 Monotipik bir türdür.
 
-# Kılkuyruk Bağırtlak
+## Kılkuyruk Bağırtlak
 
 *Pterocles alchata*, Pin-tailed Sandgrouse
 
@@ -497,7 +497,7 @@ Geçmişteki çoğu sayımda 50-500 birey arasında kaydedilmiştir. Mayıs 1970
 
 Türkiye'de caudacutus alttürü bulunur.
 
-# Benekli Bağırtlak
+## Benekli Bağırtlak
 
 *Pterocles senegallus*, Spotted Sandgrouse
 
@@ -521,7 +521,7 @@ Türkiye'de yuvalamaz. Yayılış alanı Sahra Çölü ve Ortadoğu'dur.
 
 Monotipik bir türdür.
 
-# Bağırtlak
+## Bağırtlak
 
 *Pterocles orientalis*, Black-bellied Sandgrouse
 
@@ -548,7 +548,7 @@ Bağırtlak birçok bölgede yarı göçmendir. Kışın daha ılıman bölgeler
 
 Türkiye'de nominat alttürü bulunur. Tür Türkiye'de tanımlanmıştır.
 
-# Toy
+## Toy
 
 *Otis tarda*, Great Bustard
 
@@ -577,7 +577,7 @@ Türkiye’deki eski yayılışını detaylandıran bir çalışmaya göre, geç
 
 Türkiye'de nominat alttürü bulunur.
 
-# Asya Yakalı Toyu
+## Asya Yakalı Toyu
 
 *Chlamydotis macqueenii*, Macqueen's Bustard
 
@@ -605,7 +605,7 @@ Türkiye'de yuvalamaz. Parçalı yayılış gösterir, batıda Sina (Mısır) ve
 
 Monotipik bir türdür. Eskiden yakalı toylar tek bir tür altında *Chlamydotis undulata* sınıflandırılıyordu. Yapılan moleküler analizler ve kur törenindeki farklara göre Kuzey Afrika'da bulunan *undulata* ve Orta Asya'da bulunan *macqueenii* alttürlerinin farklı türler olduğuna karar verilmiştir.
 
-# Mezgeldek
+## Mezgeldek
 
 *Tetrax tetrax*, Little Bustard
 
@@ -634,7 +634,7 @@ Geç sonbaharda Karadeniz kıyısı boyunca nadir de olsa az sayıda birey göç
 
 Monotipik bir türdür. Önceden Otis cinsi altında yer almıştır (Collar N.; [@delhoyo1996].
 
-# Tepeli Guguk
+## Tepeli Guguk
 
 *Clamator glandarius*, Great Spotted Cuckoo
 
@@ -659,7 +659,7 @@ Nisan başı ve eylül başı arasında oldukça yaygındır. Ege'de nispeten da
 
 Monotipik bir türdür.
 
-# Guguk
+## Guguk
 
 *Cuculus canorus*, Common Cuckoo
 
@@ -686,7 +686,7 @@ Geçit sırasında ülke çapında yaygın olarak görülür. Ülke genelinde ni
 
 Türkiye'de nominat alttürü bulunur.
 
-# Çobanaldatan
+## Çobanaldatan
 
 *Caprimulgus europaeus*, European Nightjar
 
@@ -711,7 +711,7 @@ Batı ve güneyde oldukça yaygındır. Görünüşe göre Güneydoğu Anadolu h
 
 Türkiye'de *meridionalis* alttürü vardır ancak bu tür içindeki varyasyon klinaldir. *Meridionalis* alttürünün geçerliliği ise tartışılmaktadır [@vaurie1960a] ve teşhisi zayıf temellidir.
 
-# Çöl Çobanaldatanı
+## Çöl Çobanaldatanı
 
 *Caprimulgus aegyptius*, Egyptian Nightjar
 
@@ -733,7 +733,7 @@ Türkiye'de yuvalamaz. Orta Asya, Arabistan ve Kuzey Afrika çöllerinde yuvalar
 
 Türkiye'de nominat alttürü bulunur.
 
-# Ak Karınlı Ebabil
+## Ak Karınlı Ebabil
 
 *Tachymarptis melba*, Alpine Swift
 
@@ -760,7 +760,7 @@ Lokal olarak önemli sayılarda kaydedildiği geçiş döneminde yaygındır. D�
 
 Türkiye'de nominat alttürü bulunur.
 
-# Ebabil
+## Ebabil
 
 *Apus apus*, Common Swift
 
@@ -787,7 +787,7 @@ Geçişi, geniş bir cepheden sürekli ve yüksek sayılarda olabilir. Örneğin
 
 Türkiye'de çoğunlukla nominat alttürü bulunur. Ancak *pekinensis* alttürünün de göçü sırasında Afrika'dan Çin'e göç ederken Doğu Anadolu'dan geçtiği tespit edilmiştir. Bu Doğu Anadolu'daki daha açık renkli bireylerin *pekinensis* genlerini taşıdığı düşünülür [@zhao2022]. Muhtemelen Doğubeyazıt'ta kaydedilen Boz Ebabil kayıtları bu popülasyona aittir.
 
-# Boz Ebabil
+## Boz Ebabil
 
 *Apus pallidus*, Pallid Swift
 
@@ -816,7 +816,7 @@ Nisan başında Göksu Deltası'nda 150 bireye kadar kaydedilmesine rağmen öze
 
 Muhtemelen biraz daha koyu tüy örtüsü (her ne kadar *brehmorum* alttürü içinde de kayda değer bir varyasyon olduğu bilinse de), daha belirgin soluk boğaz lekesi ve toplamda daha büyük olan *illyricus* alttürü ile yer değiştirdiği Dalmaçya kıyıları dışında *brehmorum* alttürü vardır [@chantler1995; @delhoyo1999]. Bu *illyricus* alttürünün zayıf bir şekilde farklılaştığı ile ilgili değerlendirmesine [@vaurie1965] geçerlidir. Nisan ayında Greco Burnu'ndan (Kıbrıs) alınan ve Tring Doğa Tarihi Müzesi'nde bulunan bir örnek (1951.13.740) *illyricus* alttürü ile çok iyi uyuşmakta ve bu formun Türkiye'de bulunabileceğini göstermektedir. Nominat *pallidus* alttürü doğuda bulunabilir [@roselaar1995]. Çok yıprandığında tüy örtüsü her iki yüzeyde de çok soluk olabilir ve bu durum *pallidus* formunun orada bulunabileceğini düşündürecek şekilde güneydoğuda yaz ortasında gözlediğimiz kuşlarla uyumludur. Daha önce de belirtildiği gibi, *illyricus* ve *brehmorum* alttürleri arasındaki farklılaşma açık şekilde çok hafiftir ancak hem bu formlar arasındaki hem de bu formlarla nominat *pallidus* alttürü arasında marjinal olan varyasyon örtüşmenin derecesiyle belirsizleşir ve muhtemelen yıpranmadan çok etkilenir. Burada kabul edilen şartlar altında, *brehmorum* ve *illyricus* formlarını nominat pallidus alttürünün sinonimleri olarak kabul etmek en iyisidir.
 
-# Küçük Ebabil
+## Küçük Ebabil
 
 *Apus affinis*, Little Swift
 
