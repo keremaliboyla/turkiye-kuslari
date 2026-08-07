@@ -2,7 +2,7 @@
 title: "Çalıkuşları - Çıtkuşu"
 ---
 
-## Sürmeli Çalıkuşu
+# Sürmeli Çalıkuşu
 
 *Regulus ignicapilla*, Common Firecrest
 
@@ -18,18 +18,18 @@ Ancak geçit döneminde nispeten yaygın ve boldur. Bu dönemde Trakya ve deniz 
 
 ![](images/harita_Regulus%20ignicapilla.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Türkiye’de üreme dönemine ait yuva kaydı yoktur.\
 **Yuvası:** Türkiye dışındaki bölgelerde yuvasını yosun, liken ve örümcek ağından yapar; içini tüylerle astarlar. Derin bir tas şeklindeki yuvası, ibreli bir ağacın dal ucundaki ince dallardan oluşan bir çatala, yaprakların altına asılı şekilde yerleştirilir.\
 **Yumurta sayısı:** Olağan yumurta sayısı 7 ile 11 arasındadır.\
 **Üreme dönemi:** Türkiye’de üreme dönemine ait kayıtlar nisan ile temmuz ayları arasında öten bireylerin gözlenmesine dayanır. **MAR:** Temmuz 1966’da Dursunbey (Balıkesir) yakınlarında yaklaşık 1800 m yükseklikte birkaç aile grubu gözlenmiştir [@ost1969]. **KAD.** 6 Temmuz 1969’da Trabzon’un güneyinde genç bireyleri besleyen erişkinler görülmüştür [@ost1972].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'den şimdiye kadar herhangi bir örnek toplanmamış olmakla birlikte [@roselaar1995], ülkedeki popülasyonların nominat formu temsil ettiği kabul edilmektedir [@vaurie1959a]. Ancak, bu tür için kıta içindeki coğrafi varyasyon seviyesi bir alttür tanımlamak için yetersizdir [@baker1997]. Kırım’ın güneyinde gözlenen, ancak kışın Doğu Karadeniz ve Kafkaslar’a indiği düşünülen ve tüylerinin koyuluğuyla ayırt edilen tauricus formu [@redkin2001], nominat alttürün sinonimi olarak değerlendirilmiştir. Ayrıca, tür isminin doğru yazımı *ignicapillus* değil, *ignicapilla* olmalıdır [@david2002a].
 
-## Çalıkuşu
+# Çalıkuşu
 
 *Regulus regulus*, Goldcrest
 
@@ -45,18 +45,18 @@ Karadeniz Bölgesi’nde geçiş yaptığına işaret eden sayılarda görülür
 
 ![](images/harita_Regulus%20regulus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Dağlık ibreli ormanlarda ürer. Türkiye'de yuva kaydı yoktur, ancak üreme dönemi olduğu tahmin edilen nisan ile temmuz ayları arasında öten bireyler gözlenmiştir.\
 **Yuvası:** Türkiye’de yuva yapısına dair bilgi bulunmamaktadır.\
 **Yumurta sayısı:** Türkiye’de yumurta sayısına ilişkin kayıt yoktur.\
 **Üreme dönemi:** Üreme dönemi nisan ile temmuz ayları arasında olabilir. **AKD:** 28 Mayıs 2002’de Alanya yakınlarında tüylenmiş bir yavru, 8 Haziran 2002’de ise Seydişehir’de yiyecek taşıyan bir erişkin gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’de bulunan tüm örnekleri genellikle daha mat, soluk ve gri renkli olan *buturlini* alttürü olarak değerlendirmiş olsa da, *regulus* alttürünün Trakya’ya uzanma olasılığı [@roselaar1995] vardır.
 
-## Duvar Tırmaşıkkuşu
+# Duvar Tırmaşıkkuşu
 
 *Tichodroma muraria*, Wallcreeper
 
@@ -70,18 +70,18 @@ Akdeniz ve İç Anadolu sınırında, Doğu Karadeniz’de ve nadiren Doğu Anad
 
 ![](images/harita_Tichodroma%20muraria.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Yüksek dağlık bölgelerdeki yarlar, derin vadiler, uçurumlar ve kaya duvarlarında, genellikle 2400 m’nin üzerinde, 3900 m’ye kadar yükseltilerde yerleşiktir.\
 **Yuvası:** Türkiye'de yuva yapısı ve yumurta sayısı betimlenmemiştir. Diğer bölgelerde yosun, ot, kök ve yünlerden yapılmış, kıl ve tüylerle astarlanmış kâse şeklinde yuvalar kurar. Genellikle bir kaya yarığına ya da dik bir kaya yüzeyine yuva yapar. Başka ülkelerde bina cephelerinde de ürediği kaydedilmiştir, ancak Türkiye'de bu duruma dair bilgi yoktur.\
 **Yumurta sayısı:** Türkiye'den bilgi bulunmamakla birlikte, diğer bölgelerde genellikle 4 olmak üzere 3 ila 5 yumurta bırakır.\
 **Üreme dönemi:** Yüksek dağlarda, ilk yumurtlama mayıs sonu veya haziran başında olur, yavrular haziran ortasından temmuz sonuna kadar çıkar ve temmuz sonu–ağustos başına kadar yuvada kalır. **AKD:** Temmuz ve ağustos 1996’da Karafil Dağı’nda 2900 m'nin üzerindeki kayalık zirvelerde yaygın olarak görülmüş, yakından incelenen bireylerin hepsinin genç olduğu belirlenmiştir [@sutton1972]. 23 Mayıs 1988’de Demirkazık’ta bir çiftin kayalık dibinde kur yaptığı, başka bir çiftin de yuva alanında bulunduğu gözlenmiştir. 26 Ağustos 1986’da bölgede bir genç birey kaydedilmiştir. **KAD.** 9 Haziran 1994’te Sivrikaya’da bir çiftin yerden 12 m yükseklikteki bir yarığa yuva yaptığı gözlenmiştir. 12 Haziran 1989’da aynı bölgede bir çiftin muhtemelen yavrularını beslediği bildirilmiştir. Haziran 1975’te Sümela Manastırı’nda bir erişkinin yiyecek toplarken gözlenmesi de bu döneme işaret eder. 9 Temmuz 1990’da Kaçkar Dağı’nda (Yaylalar yakınında) bir çiftin yavrusunu beslediği, 27 Temmuz 1994’te ise bir çiftin yuvadaki yavrulara yiyecek taşıdığı kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’de *nominat* alttür görülür.
 
-## Anadolu Sıvacısı
+# Anadolu Sıvacısı
 
 *Sitta krueperi*, Krüper's Nuthatch
 
@@ -95,18 +95,18 @@ Hem ibreli hem de karışık ormanlarda görülür, özellikle kızılçam (*Pin
 
 ![](images/harita_Sitta%20krueperi.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** İbreli ormanlarda, özellikle karaçam (*Pinus nigra*), Toros göknarı (*Abies cilicica*), sedir (*Cedrus libani*), kızılçam (*Pinus brutia*) ve ardıç (*Juniperus* türleri) ormanlarında yaygındır [@albayrak2006]. Bunun yanında diğer ibrelilerde ve ara sıra yaprak döken ağaçlarla karışık ormanlarda da görülür. Deniz seviyesinden 1700–2000 m’ye kadar çıkar, çoğunlukla 1200 m’nin üzerindeki alanlarda bulunur [@frankis1991].\
 **Yuvası:** Genellikle yerden 0,3–4 m yüksekte, bazen 7 m’ye kadar çıkan doğal çam kovuklarında yuva yapar. Karışık ormanlarda meşe, titrek kavak ve elma ağaçlarında da yuvaladığı, ayrıca yuva kutularında da sıklıkla ürediği kaydedilmiştir. Türkiye’de 25 farklı yuva kutusunda üreme kaydı alınmıştır. Genellikle çürüyen gövdelerdeki ağaç kabuğu arkası, genişletilmiş doğal oyuklar veya eski ağaçkakan yuvalarına yerleşir. Yuva, çoğunlukla ardıç kabuklarından, odunsu liflerden, otlardan yapılır ve ince ot, kıl, keçeyle astarlanır. Bazı yuvalarda tavşan kılı ve keklik tüyü kullanıldığı da kaydedilmiştir.\
 **Yumurta sayısı:** Genellikle 5 yumurta bırakır. Bazı yuvalarda 6 ve bir vakada 7 yumurta sayılmıştır.\
 **Üreme dönemi:** İlk yumurtlama mart sonunda başlar, yavrular nisan ortası ile haziran başı arasında çıkar ve temmuz sonuna kadar yuvada kalabilir. **MAR:** Mayıs sonunda Uludağ’da yuvada yavru ve tüylenmiş yavrular gözlenmiştir [@jetz1995]. **EGE:** 11 Nisan 1981’de Bafa Gölü’nde iki yuva, 21 Mayıs 1980’de uçan yavrular gözlenmiştir [@kasparek1988a]. **AKD:** 13 Nisan 1993’te Akseki’de yuva yapımı, 30 Nisan 2001’de Ağla’da 7–8 günlük dört yavru ve 6 Mayıs 2001’de tamamen tüylenmiş yavrular gözlenmiştir. 11 Mayıs 1987, 20 Mayıs 1996, 17 Haziran 1996, 6 Haziran 1999 ve 8 Haziran 2003 tarihlerinde yavrulu yuvalar bulunmuş, son gözlemde yavrular 50 dakikalık bir sürede her 4 dakikada bir beslenmiştir. 25 Nisan 2004’te Akseki’de altı yuvadan üçü yapım aşamasında, biri beş yumurtalı, biri erişkinin deliğinde uzun süre kalması nedeniyle içinde yumurta olabileceği düşünülen, biri ise yaklaşık 9 günlük yavrulu olarak kaydedilmiştir. 30 Nisan 2005’te yine Akseki’de yumurtadan yeni çıkmış beş yavru gözlenmiş, kuluçkanın son yumurtadan sonra başladığı anlaşılmıştır. 7 Mayıs 2004’te Uzuncaburç’ta üç yuva kutusundan birinde yaşı bilinmeyen yavrular, birinde yaklaşık 11 günlük altı yavru ve üçüncüsünde çatlamamış üç yumurta bulunmuştur. 26 Nisan 2005’te tüylenmiş yavruların yuvayı terk ettiği, dipte üç çatlamamış yumurtanın kaldığı saptanmıştır. 12 Mayıs 2005’te iki yapım aşamasında yuva, birinde altı yumurta, diğerinde beş yumurta kaydedilmiştir. Antalya bölgesinde 2000–2003 yılları arasında yapılan uzun dönemli çalışmada 18 yuvanın dokuzu kızılçamda, beşi karaçamda, üçü sedirde ve biri ahşap bir direkte bulunmuştur. Ortalama yuva yüksekliği 11,84 m olarak ölçülmüştür. 15 yuva kutusunda toplam 83 yumurta sayılmış, yuvada ortalama 5,5 yumurta bırakılmış, bunların %84’ü çatlamış ve 54 tanesi tüylenmiştir. Çift başına ortalama üreme başarısı yaklaşık 3,6 yavrudur [@albayrak2005]. **İÇA:** Mayıs ortasında Kızılcahamam’da yavrulu yuvalar kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kaya Sıvacısı
+# Kaya Sıvacısı
 
 *Sitta neumayer*, Western Rock Nuthatch
 
@@ -120,7 +120,7 @@ Taşlık ve kayalık yarlarda ve dik kayalık yamaçlarda yaşar. Bodur ağaçla
 
 ![](images/harita_Sitta%20neumayer.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Yarlar, kaya kütleleri ve iri kaya parçalarının bulunduğu tepelikler ile derin vadilerde yaşar. Bazen dağınık kaya parçalarının olduğu açık ormanlarda veya seyrek ağaçlı alanlarda da bulunur. Genellikle kireçtaşı kayaçlarında, erozyona uğramış yarları tercih eder. Bu alanlardaki aşağıya sarkan kaya parçaları ve oyuklar, bir kaya yüzeyine yapışık olarak çamurdan yapılan soğan şekilli yuvası için korunak sağlar.\
 **Yuvası:** Yüksek yarlarda yuvalar genellikle yerden 8 m veya daha yüksekte, alçak yarlar ve kaya parçaları üzerinde ise sadece 1–2 m yüksekte olur. Aynı zamanda harabelerde, taş ağılların içinde veya dışında, duvarlarda ve köy evlerinde de yuvalayabilir. Yuvası yuvarlak yapılı, ağırlıkla sertleşmiş çamurdan yapılmış bir kütledir. Yuva duvarı 3 cm’ye kadar kalın olabilir. Sağlamlaştırmak için kıl, dışkı, kuş tüyü ve böcek gövdeleri harca katılır. Giriş kısmı uzatılmış bir tüp ya da ibrik ucuna benzer.\
@@ -130,13 +130,13 @@ Taşlık ve kayalık yarlarda ve dik kayalık yamaçlarda yaşar. Bodur ağaçla
 
 Üreme dönemi çoğu bölgede nisan sonu ile mayıs aylarında başlar. Bu dönemde yuvalarda yumurta ve küçük yavrular gözlenir, mayıs itibariyle tüylenmiş yavrular ortaya çıkar. Yuva yapımı 10–18 gün sürer, ancak zamanlaması değişken olabilir. Erişkinler üreme döneminin herhangi bir evresinde yuvayı tamir edebilir veya malzeme ekleyebilir. Türkiye’de yılda iki kez kuluçkaya yattığına dair bir kanıt yoktur. Yuva yapımından yavruların tüylenmesine kadar süren üreme dönemi yaklaşık dokuz hafta sürer. Haziran sonu ve temmuzda görülen tüylenmiş yavrular ilk kuluçkaya aittir. **EGE:** 10 Ocak 1970’te gözlenen yuva yapımı çok erken bir kayıt olup istisnai kabul edilir. İncelenen bir yuvada neredeyse keten lifine benzeyen grimsi yünden kalın bir öbek, biraz eski bir elbise parçası ve bazı tüylerle yapılan bir astar tespit edilmiştir [@mcneile1950]. En erken tüylenmiş yavru grubu 4 Mayıs 2001’de bildirilmiştir. **AKD:** 1 Nisan’da yuva yapımı gözlenmiştir. **İÇA:** Hasan Dağı’nda bulunan bir yuvanın taş bir ağılın açık kapısının üstünde, yerden 2 m yüksekte, ahşap bir kiriş üzerine kurulduğu ve arka kısmının tahta panel, çatısının ise eski bir halı olduğu kaydedilmiştir. Bir yuva, iyi durumda olduğu sürece yıllar boyunca kullanılabilir ve serçe, ağaç serçesi, kaya serçesi gibi diğer türler tarafından da kullanılabilir. **GDA:** Yuva yapımı Güneydoğu’da 22 Mart 1972’de gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Batı ve orta bölgelerin *syriaca* alttürü tarafından mesken edildiğini, bu formun kuzeyde ve Van Gölü’nün doğusunda *rupicola* ile geçiş yaptığını belirtilmiştir [@harrap1996]. Ancak bu iki alttür ile *neumayer* arasında farkların çok az olduğunu ve geçişlerin tamamen klinal nitelikte olduğunu da eklemişlerdir. Daha kapsamlı bir müze çalışması sonucunda konuya farklı bir yorum gelmiştir [@roselaar1995]: Güneydoğu’da *syriaca* alttürüne ait örnekler bulmuş, batı kesimlerde *zarudnyi* adında, Türkiye’ye endemik olan ve Harrap ile Quinn tarafından *syriaca*’nın sinonimi olarak değerlendirilen bir alttürü tanımlamıştır. Akdeniz Bölgesi ise *zarudnyi* ile *syriaca* arasında bir geçiş bölgesi olarak tanımlanmıştır. Roselaar’a göre kuzeydoğudaki bireyler muhtemelen *rupicola* alttürüne aittir, ancak bu bölgeden herhangi bir örnek bulamamıştır. Öte yandan Kuzeydoğu Anadolu dağlarındaki popülasyonların kanat uzunlukları, *neumayer* ile örtüşmektedir. Türkiye’nin en kuzeydoğu ucundan toplanan [@nesterov1911] erkek örneklerin kanat ve gaga ölçümleri, Roselaar’ın gözünden kaçmıştır. Ancak bu veriler Harrap ve Quinn’in yayımladıklarıyla karşılaştırıldığında *rupicola*, hatta Roselaar’ın verdiği değerlere göre *zarudnyi* ile daha yakından örtüşmektedir. Nesterov da bu bireyleri *syriaca* olarak tanımlamıştır.
 
 *Rupicola*’nın hem alt hem de üst kısımlarındaki renklenmede önemli varyasyonlar bulunur. Azerbaycan’daki bireylerin üst ve alt kısımları *syriaca* veya *neumayer* ile karşılaştırıldığında genellikle daha açık renkli olsa da, tür içinde gözlenen geniş varyasyon bu farkların yorumlanmasını zorlaştırır. Gözlemlerimize göre bazı bireylerin üst tarafı, alt tarafı kadar koyu olabilir; bazı bireylerde ise alt kısımdaki koyuluk Batı Anadolu’daki kuşlardan daha geniş ve doygundur. Bu tür küçük ölçekli varyasyonların belgelenmesi sırasında ortaya çıkan tutarsızlıklar, böyle bir çalışmanın ne kadar sınırlı ve gereksiz olduğunu da ortaya koymaktadır. Bu nedenle *rupicola*, *syriaca* ve *zarudnyi* alttürlerinin hepsi *neumayer*’in sinonimi olarak değerlendirilmelidir.
 
-## Büyük Kaya Sıvacısı
+# Büyük Kaya Sıvacısı
 
 *Sitta tephronota*, Eastern Rock Nuthatch
 
@@ -150,18 +150,18 @@ Kayalık yarlarda, iri taş ve kaya parçalarının bulunduğu dik kayalık yama
 
 ![](images/harita_Sitta%20tephronota.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Habitat ve yuva konumu büyük kaya sıvacısıyla benzerdir; ancak bu türün yuva ağzı daha geniş, yuva deliği ise daha büyüktür. Bazı yuvalar taş ağılların kapıları üstüne ya da kaya çıkıntılarına yapılır.\
 **Yuvası:** Soğan biçimindeki yuvalar çamurdan yapılır ve içi yün, kıl, tüy ve böcek kalıntılarıyla astarlanır. Yuva duvarı yaklaşık 3 cm kalınlığında olup, sağlamlık için çeşitli doğal maddelerle güçlendirilir. Giriş kısmı dar ve tüp şeklindedir. Yuvanın yüksekliği yerden 1–2 m ile 8 m arasında değişebilir. Türkiye’de yuvalar genellikle kayalık alanlarda, kaya yüzeyine çamurla yapışık biçimde inşa edilir. Yuvanın iç kısmına kuş tüyleri ve böcek kabukları gömülür. Durnalık’ta (Gaziantep) bir yuvanın çevresindeki kaya çatlaklarına kuş tüyleri ve plastik poşet tıkıldığı gözlenmiştir. Yuvalar uzun süreli kullanım için onarılır ve ertesi yıllarda tekrar kullanılabilir. Örneğin, Durnalık’taki bir yuva 2004 ve 2005 yıllarında muhtemelen aynı çift tarafından kullanılmıştır. Işıklı’daki bir yuva siyah, kırmızı ve kahverengi yün sicimlerle süslenmiş, kenarlarına tuvalet kâğıdı ve çok sayıda tüy sıkıştırılmıştır. Ermenistan’da ise yuvanın çamurla kaplı dış yüzeyinin reçineyle sıvandığı, içinin kıllar ve tüylerle astarlandığı bildirilmiştir [@adamian1999].\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı 5’tir (bir yuvada). Yavru sayısı 4 birey (iki yuvada), 5 birey (bir yuvada) ve 7 birey (bir yuvada) olarak kaydedilmiştir. Diğer bölgelerde olağan yumurta sayısı 4–7’dir.\
 **Üreme dönemi:** Üreme dönemi genellikle nisan ortasında başlar. Yumurtalar nisan ortasında koyulur, yavrular mayıs başında çıkar ve haziran başına kadar tüylenmiş yavrular gözlenir. Yuva yapımı 10–18 gün sürer. Erişkinler üreme döneminin her aşamasında yuvayı tamir edebilir ya da yeni malzeme ekleyebilir. Türkiye’de yılda iki kez kuluçkaya yatıldığına dair bilgi yoktur. Üreme dönemi yumurtlama başlangıcından tüylenmeye kadar yaklaşık 9 hafta sürer. **DOA:** 17 Mayıs 2006’da Van’da yiyecek taşıyan bir çift gözlenmiştir. **GDA:** 5 Mayıs–3 Haziran tarihleri arasında yuvaya yiyecek taşıyan erişkinler gözlenmiştir. 2004’te Durnalık’ta üç yuva bulunmuştur. 9 Mayıs’ta dört adet 6 günlük yavru, 16 Mayıs’ta beş adet 16 günlük yavru ve 23 Mayıs’ta dört adet 16 günlük yavru kaydedilmiştir. 27 Nisan 2005’te Durnalık’ta yumurta bırakmaya hazır boş bir yuva ve bir başka yuvada yeni çıkmış yedi yavru bulunmuştur. Yumurtaların eşzamanlı çatladığı ve kuluçkaya son yumurtadan önce yatıldığı belirlenmiştir. İlk yumurtanın 5 Nisan civarında koyulduğu tahmin edilmiştir. 28 Nisan 2005’te Işıklı’da bulunan bir yuvada beş yumurta sayılmıştır. 13 Mayıs 2004’te Gaziantep yakınında 100 m arayla bulunan iki farklı kaya sıvacısı türünün yuvaları gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Güneydoğu ve Doğu Anadolu’nun büyük kısmında *dresseri*, Aras Vadisi ve batısında ise daha küçük yapılı bir form olan *obscura* alttürü bulunur [@roselaar1995; @harrap1996]. Gözlenen *obscura* alttürübireylerin Ermenistan’dakiler gibi son derece açık renklere sahiptir. Bu bağlamda, *obscura* alttürünün tüy rengi oldukça değişkendir. İran popülasyonlarının bu alttürle ilişkisini netleştirmek amacıyla yeni arazi çalışmaları yapılması gereklidir. Şikago Doğa Tarihi Müzesi’ndeki (Field Museum of Natural History) İran örnekleri incelendiğinde *dresseri* ve *obscura* alttürlerinin birbirine çok yakın olduğu, ancak *dresseri*’nin genel olarak biraz daha büyük yapılı olduğu tespit edilmiştir. Bu iki form arasında renk farkı net bir ayırt edici özellik sunmaz; örneğin Zagros Dağları’ndaki Luristan Eyaleti’nden gelen *dresseri* örnekleri *obscura* kadar koyu renkte olabilirken, daha kuzeybatı ve güneydoğudan gelen bireyler daha açık renkli olabilir. Sürmenin kalınlığı ve uzunluğu da büyük ölçüde değişkenlik gösterir ve alttürler arasında büyük ölçüde örtüşür. Aynı durum alt tarafın renklenmesi için de geçerlidir. Buna karşın, kuzey ve doğuda bulunan *tephronota* alttürü, kış tüylerinde belirgin biçimde pembemsi devetüyü rengi ve arkada çok daha belirsiz, ince sürme çizgisiyle ayırt edilebilir. Yine de, alt tarafın rengine dayalı alttür tayini güvenilir değildir.
 
-## Sıvacı
+# Sıvacı
 
 *Sitta europaea*, Eurasian Nuthatch
 
@@ -175,18 +175,18 @@ Genellikle orman ve ormanlık alanlarda, ayrıca park ve bahçelerde bulunur. Ba
 
 ![](images/harita_Sitta%20europaea.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Yaprak döken ormanlar, ağaçlı çayırlar, bahçeler, meyve bahçeleri, zeytinlikler, ceviz ağaçları ve nadiren ibreli ormanlarda bulunur. Yuvasını yerden 6 m yüksekliğe kadar olan doğal ağaç kovuklarına, eski ağaçkakan yuvalarına ya da yuva kutularına yapar. Geniş deliklerin girişi çamurla daraltılır.\
 **Yuvası:** Yuva kuru yapraklar ve ağaç kabuklarından oluşur. Bazı yuvalarda kiraz ağacının dış kabuklarından oluşan ince tabakalar kullanılmıştır. Yuva yerleşimi çoğunlukla ağaç kovukları içindedir.\
 **Yumurta sayısı:** Türkiye'de gözlenen yumurta sayısı hakkında kesin bilgi az olmakla birlikte, genel olarak 6–9 yumurta bıraktığı bilinmektedir.\
 **Üreme dönemi:** Üreme dönemi mart sonunda başlar. Yumurtalar nisan ortasında koyulur ve yavrular mayıs başında çıkar. Yavrular haziran ortasına kadar tüylenir. **MAR:** 19 Haziran 1999’da Kocaçay Deltası’nda tüylenmiş yavrular gözlenmiştir. **AKD:** 1876’da Aladağ’da meşe ormanları ve cevizlerde yaygın olarak bulunurken ibreli ormanlarda gözlenmemiştir. Burada nisan ortasında yuvaladığı tespit edilmiştir. Pozantı’da bulunan bir yuvanın tamamen kiraz ağacının dış kabuklarından oluştuğu bildirilmiştir [@danford1877]. 6 Mayıs 2001’de Ağla’da bir yuvada iri bir yavrunun erişkinler tarafından beslendiği, ilk yumurtanın mart sonunda koyulmuş olabileceğini göstermektedir. 5 Mayıs 1996’da Ağla’da iki erişkin bir yuva oyuğunu tekrar tekrar ziyaret etmiş, 22 Mayıs 2000’de Akseki’de yavrulu bir yuva bulunmuştur. **KAD.** 26 Mayıs 1993’te İspir’de bir erişkin yuva deliğinde gözlenmiş, 29 Mayıs 1992’de Abant Gölü’nde boylanmış yavruların beslendiği kaydedilmiştir. 13 Haziran 1987’de Abant Gölü’nde, 15 Haziran 1994 ve 9 Haziran 1994’te İspir’de aile grupları görülmüştür. **DOA:** 16–17 Mayıs 1975’te Uludere’nin batısında yavrularını besleyen iki çift kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'deki bireyler, devetüyü renkli *caesia* grubuna aittir [@harrap1996]. Kuzey Trakya’da incelenen iki örnek, beyaz göğüslü *europaea* ile *caesia* arasında geçiş formu olabilir [@roselaar1995]. *Levantina* alttürü geçerli kabul edilirse Türkiye’ye endemik bir alttürdür ve bu durumda Roselaar’ın incelediği kuşlar *caesia* ile *levantina* arasındaki geçiş formu olarak değerlendirilebilir. Marmara ve Kuzey Ege’deki bireyler *caesia*, Güney Anadolu’dakiler *levantina*, Karadeniz Bölgesi’ndekiler ise *caucasica* alttürüne ait olabilir. Batı Karadeniz popülasyonları, *caesia* ve *levantina* arasında geçiş formu olduklarına dair bulgular göstermektedir. Güneydoğu Anadolu’da ise Roselaar, gözlenen kuşların *persica* olabileceğinden şüphelenmektedir. Tring Doğa Tarihi Müzesi’ndeki örneklerin incelenmesi sonucunda ikisi devetüyü karınlı, biri beyaz karınlı olmak üzere üç ayrı grubun tanınması gerektiği anlaşılmıştır. Bu, diğer bazı yazarların değerlendirmeleriyle de örtüşmektedir. Öte yandan, *caesia* grubu içindeki varyasyonun çok düşük olması nedeniyle bu grupta tanımlanmış altı formun *caesia*’nın sinonimi olarak değerlendirilmesi mümkündür.
 
-## Orman Tırmaşıkkuşu
+# Orman Tırmaşıkkuşu
 
 *Certhia familiaris*, Eurasian Treecreeper
 
@@ -202,18 +202,18 @@ Ekim 1969’da Toroslar’daki Karanfil Dağı’nda alınan bir sonbahar kaydı
 
 ![](images/harita_Certhia%20familiaris.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Genellikle bahçe tırmaşıkkuşundan daha yüksek irtifalardaki ormanlarda bulunur.\
 **Yuvası:** Türkiye’de yuva kaydı yoktur. Diğer bölgelerde yuva, ağaç kabuklarının arkasına veya ince çatallı dallara yerleştirilmiş yosun, liken, örümcek ağı ve tüylerle astarlanmış derin bir tas şeklindedir.\
 **Yumurta sayısı:** Türkiye'de kayıt yoktur. Diğer bölgelerde olağan yumurta sayısı 7–11’dir.\
 **Üreme dönemi:** Üreme dönemi mart ile temmuz ayları arasında sürer. Bu dönemde öten erişkinler kaydedilmiştir. **İÇA:** 1 Ağustos 1971’de Ankara’nın 50 km kuzeyinde bir genç birey yakalanmıştır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Trakya’da nominat *familiaris*, ülkenin geri kalanında ise *caucasica* alttürü bulunur [@roselaar1995]. Buna karşın ülkenin kuzeyi boyunca *persica* alttürünün bulunduğu öne sürülmüştür [@harrap1996]. Bu görüş, *caucasica* alttürünün büyük olasılıkla *persica*’nın bir sinonimi olduğu varsayımına dayanmaktadır. Ancak *persica*’nın yayılış alanı Hazar Denizi çevresindeki ovalar ve Kuzey İran ile sınırlıdır [@roselaar1995]. Orman Tırmaşıkkuşu’nun Kuzey Avrasya’daki taksonları arasında varyasyon düzeyi düşüktür ve büyük ölçüde klinal bir yapı gösterir [@harrap1996]. Bu varyasyon temelde, kızıl rengin batıdan doğuya giderek azalmasına dayanır. Bu nedenle, *familiaris* grubundaki isimlendirilmiş coğrafi varyasyonların nominat *familiaris*’in sinonimi olarak değerlendirilmesi en uygun yaklaşımdır. Yine de en az beş takson içeren kuzeydeki *familiaris* grubu ile dört takson tanımlanmış olan Çin-Himalaya grubu arasındaki taksonomik ilişkilerin daha fazla araştırılması gerektiği açıktır [@collar2007].
 
-## Bahçe Tırmaşıkkuşu
+# Bahçe Tırmaşıkkuşu
 
 *Certhia brachydactyla*, Short-toed Treecreeper
 
@@ -229,18 +229,18 @@ Yaprak döken, karışık ve ibreli ormanlarda, izole koruluklarda ve ağaç sı
 
 ![](images/harita_Certhia%20brachydactyla.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Yaprak döken ve her dem yeşil ormanlarda, meyve bahçelerinde ve dere boyundaki ağaçlık alanlarda ürer.\
 **Yuvası:** Türkiye'den yuva kaydı yoktur. Diğer bölgelerde genellikle gevşek ağaç kabuklarının arkasına, yerden 0,3–4 m yüksekliğe yuva yapar. Yuva, dallar, kökler, yosun ve otlardan oluşan dar bir kâse şeklindedir ve tüyler ile yünle astarlanır.\
 **Yumurta sayısı:** Türkiye’de bir yuvada 5 yumurta kaydedilmiştir. Türkiye dışındaki diğer bölgelerde genellikle 5–7 yumurta bırakır.\
 **Üreme dönemi:** Nisan ortasından itibaren yumurta bırakılır, yavrular mayıs sonu ve haziran başında çıkar. **AKD:** 25 Mayıs 1989’da Akseki’de yuvada bir erişkin kaydedilmiştir. **KAD.** Kızılırmak Deltası’nda 1992’de popülasyonun 400–500 çiftten oluştuğu tahmin edilmiştir. Üreme yoğunluğu 100 hektarda 20–55 çifttir. 23 Mayıs’ta yuvaya yiyecek taşıyan bir erişkin ve haziran başında birçok aile grubu gözlenmiştir [@hustings1994]. Temmuz 1971’de iki çiftin her birinde dört yavru bulunmuştur [@dijksen1985]. 11 Mayıs 1991’de yiyecek taşıyan bir erişkin gözlenmiştir. **İÇA:** 1991’de Sultansazlığı’nın 20 km batısında 15 yıllık bir karaçam plantasyonundaki bir çamın 1,5 m yüksekliğinde içinde 5 yumurta bulunan bir yuva bulunmuştur.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’de bulunanların yalnızca *harterti* alttürü olduğu düşünülmüştür [@harrap1996]. Diğer yandan [@roselaar1995], Trakya popülasyonlarının büyük olasılıkla nominat *brachydactyla* olduğunu, Doğu Karadeniz popülasyonlarına *harterti*, Toros popülasyonlarına ise *stresemanni* adı verildiğini belirtmiştir. Ancak tahnit edilmiş örnek sayısının azlığı bu karmaşık durumu çözmeyi zorlaştırmaktadır. Bazı yazarlar *stresemanni*’yi *harterti*’nin, *harterti*’yi ise *brachydactyla*’nın sinonimi olarak değerlendirmiştir. Bu karışıklık karşısında Roselaar, *stresemanni*’nin geçerliliğini savunmuş ve geçerli kabul edilmesi hâlinde bu alttürün Türkiye’ye endemik olduğunu belirtmiştir. Ancak morfolojik farklılıkların son derece sınırlı olması, ses özelliklerinin tamamen aynı olması ve varyasyonun büyük ölçüde klinal olması gibi nedenlerle, taksonomik olarak bu sınıflamaların yapılması gereksiz görülmelidir. Bu nedenle *stresemanni* ve *harterti* alttürleri *brachydactyla*’nın sinonimi olarak değerlendirilmelidir.
 
-## Çıtkuşu
+# Çıtkuşu
 
 *Troglodytes troglodytes*, Eurasian Wren
 
@@ -256,13 +256,13 @@ Bazı popülasyonlar göçmen olup esas olarak kuzey-güney doğrultusunda, ayr�
 
 ![](images/harita_Troglodytes%20troglodytes.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Dağlık bölgelerde, ağaç sınırına kadar olan yaşlı ormanlarda, orman kenarlarında ve yarı açık arazilerde ürer. Sivrikaya’da yaşlı bir ormanda, yoğun genç çamların içinde yuvaladığı kaydedilmiştir. Diğer bölgelerde ise genellikle bir ağacın, duvarın ya da çalı öbeklerinin üzerindeki deliklerde veya alçak dikenli bitkiler arasında yuvalar. Açık dikenlikler dışında olağandışı yerlerde yuvaladığı da bilinmektedir.\
 **Yuvası:** Yaprak, yosun ve otlardan kubbe biçiminde inşa edilir ve yuva tüylerle kaplanır. Küçük girişli olan yuvanın iç kısmında kıl da kullanılabilir. Sivrikaya’daki yuvalar 1 m yükseklikte ve avcı türlerce bozulmuş şekilde kaydedilmiştir.\
 **Yumurta sayısı:** Olağan olarak 5–8 yumurta bırakır.\
 **Üreme dönemi:** Genellikle nisan-haziran döneminde öterek üreme faaliyetinde bulunur. Ancak 31 Ağustos 1973’te İkizdere’de (Rize) gözlenen beş tüylenmiş yavru, Türkiye’de de ikinci kuluçkaya yattığını göstermektedir ki bu durum diğer bölgelerde yaygındır. **MAR:** 19 Mayıs 1967’de Kocaçay Deltası’nda dört tüylenmiş yavruyla birlikte bir çift, 9 Mayıs 1967’de Demirköy’de henüz tüylenmiş iki yavrulu bir çift kaydedilmiştir [@rokitansky1971]. 1975’te İstanbul Adalar’da bir çift üç yavru büyütmüştür. **KAD.** Abant Gölü’nde 2 Haziran 1945’te [@wadley1951] ve 6 Temmuz 1968’de aile grupları gözlenmiş, Haziran 1992 başlarında Kızılırmak Deltası’nda tüylenmiş bir yavru kaydedilmiştir [@hustings1994]. **AKD:** 11 Mayıs 2003’te Ağla’da yumurtlamanın nisan başında olduğunu gösterecek şekilde zar zor uçabilen beş yavru, 10 Haziran 2006’da Demirkazık’ta beş tüylenmiş yavru gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Trakya’daki bireyler nominat *troglodytes*, Güney Marmara ve daha güneydekiler *seilerni*, Karadeniz Bölgesi’ndekiler ise *hyrcanus*, *troglodytes* ve *seilerni* alttürleri arasında dağılmıştır. Bu üç form arasında geçiş gösteren bireylerin varlığı nedeniyle alttür durumu problemlidir [@roselaar1995]. Bir çalışmada, Türkiye’deki kuşların alttürleri belirlenememiş ve bu nedenle alttürlerin yayılış alanları tartışılırken Türkiye kapsam dışı bırakılmıştır [@brewer2001]. Konuya dair net bir sonuca ulaşılabilmesi için yeterli örnek incelenmemiştir. Kıbrıs’ta yaşayan *cypriotes* alttürünün geçerliliğine dair bir yorum yapılmamakla birlikte, Hatay’daki bireylerin bu alttüre ait olabileceği varsayılmaktadır.

@@ -2,7 +2,7 @@
 title: "Martıgiller"
 ---
 
-## Uzun Kuyruklu Korsanmartı
+# Uzun Kuyruklu Korsanmartı
 
 *Stercorarius longicaudus*, Long-tailed Jaeger
 
@@ -18,15 +18,15 @@ Eylül 1888 sonlarında Terkos Gölü'nde kaydedilen birey açıkça bu türe ai
 
 ![](images/harita_Stercorarius%20longicaudus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Eski ve Yeni Dünya'nın tundra kuşağıdır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Muhtemelen nominat alttür görülmektedir; ancak ülkedeki kayıtların hiçbiri alttür düzeyinde tanımlanmamıştır.
 
-## Korsanmartı
+# Korsanmartı
 
 *Stercorarius parasiticus*, Parasitic Jaeger
 
@@ -40,15 +40,15 @@ Karadeniz kıyısı boyunca ve Boğaziçi ile Marmara Denizi'nde seyrek ancak ne
 
 ![](images/harita_Stercorarius%20parasiticus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Eski ve Yeni Dünya'nın kuzey bölgeleridir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Küt Kuyruklu Korsanmartı
+# Küt Kuyruklu Korsanmartı
 
 *Stercorarius pomarinus*, Pomarine Skua
 
@@ -64,15 +64,15 @@ türün kasım-aralık aylarında Boğaziçi'nde düzenli olduğunu kabul eder [
 
 ![](images/harita_Stercorarius%20pomarinus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Eski ve Yeni Dünya'nın tundra kuşağıdır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Büyük Korsanmartı
+# Büyük Korsanmartı
 
 *Stercorarius skua*, Great Skua
 
@@ -88,15 +88,15 @@ Doğu Akdeniz'deki diğer yerlerde de nadirdir.
 
 ![](images/harita_Stercorarius%20skua.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Kuzey Atlantik'tir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Genellikle modern otoritelerin çoğu tarafından monotipik olduğu düşünülür. Bazı kaynaklarda Catharacta cinsi altında değerlendirir.
 
-## Küçük Martı
+# Küçük Martı
 
 *Hydrocoloeus minutus*, Little Gull
 
@@ -112,15 +112,15 @@ Kıyı bölgelerinde yaygın, ancak iç bölgelerde seyrektir. Karadeniz kıyıl
 
 ![](images/harita_Hydrocoloeus%20minutus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'nın ve çok yeni ve lokal olarak Kuzey Amerika'nın boreal orman kuşağındaki göllerde yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kara Ayaklı Martı
+# Kara Ayaklı Martı
 
 *Rissa tridactyla*, Black-legged Kittiwake
 
@@ -136,15 +136,15 @@ Monotipik bir türdür.
 
 ![](images/harita_Rissa%20tridactyla.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Çatal Kuyruklu Martı
+# Çatal Kuyruklu Martı
 
 *Xema sabini*, Sabine's Gull
 
@@ -158,15 +158,15 @@ Türkiye'de nominat alttürü bulunur.
 
 ![](images/harita_Xema%20sabini.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya ve Amerika'nın Kuzey Kutup Denizi kıyılarında yuvalar, kışı Güney Yarımküre okyanuslarında açık denizde geçirir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## İnce Gagalı Martı
+# İnce Gagalı Martı
 
 *Chroicocephalus genei*, Slender-billed Gull
 
@@ -184,18 +184,18 @@ Karadeniz kıyılarında göç sırasında görülür, az sayıda kışlayabilir
 
 ![](images/harita_Chroicocephalus%20genei.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** İç Anadolu’da çoğunlukla tuzlu veya acı olan üç sığ gölde (Kulu, Seyfe ve Bolluk), alçak ve düz adalarda, çıplak veya seyrek bitkili toprakta, 50-2100 çiftlik muntazam koloniler halinde ürer. Bazen diğer türlerle gevşek bir birliktelik halinde bulunur.\
 **Yuvası:** Yuvasını yerde sığ bir çukura yapar, cılız bitki artıkları, ot ve az miktarda tüyle çevreler. Yuva kenarı hafif yükseltilmiş olup, kuluçka dönemleri boyunca dışkıyla beyaza boyanarak güçlendirilir ve oldukça belirgin hale gelir.\
 **Yumurta sayısı:** Genellikle 2-3 yumurta bırakır, ara sıra tek yumurta kaydedilmiştir.\
 **Üreme dönemi: İÇA.** İlk yumurta nisan sonu veya mayıs başında bırakılır. En erken civcivler mayıs sonu ve haziran başında yumurtadan çıkar. Bu tarihler koloniler arasında tutarlılık gösterir. Muhtemelen bir başarısızlıktan sonra yapılan telafi kuluçkasıyla üreme dönemi uzayabilir. 24 Haziran 1992’de Bolluk Gölü’nde gözlenen yavruların çoğu iri ve iyi tüylenmiş olup, bazı yuvalarda hâlâ yumurta ve küçük yavrular bulunmuştur.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Eskiden Larus cinsi altında sınıflandırılırdı.
 
-## Karabaş Martı
+# Karabaş Martı
 
 *Chroicocephalus ridibundus*, Black-headed Gull
 
@@ -213,18 +213,18 @@ En yüksek sayılar göç döneminde kaydedilir. 24 Eylül 2004’te Sarıyer Ba
 
 ![](images/harita_Chroicocephalus%20ridibundus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** İç ve Doğu Anadolu’daki birkaç alanda, göller ve bataklıklardaki adalarda koloniler halinde ürer. Bazen Akdeniz martısı ve gülen sumru gibi diğer türlerle seyrek bir beraberlik içinde karışık koloniler oluşturur.\
 **Yuvası:** Yuva zemine yapılır ve esasen bitki saplarıyla oluşturulur. Boyu değişken olup 0,3 metreye kadar yüksek olabilir. Beraber yuvaladıkları alanlarda, Akdeniz martısının yuvasından çok daha yüksektir.\
 **Yumurta sayısı:** Genellikle 3 yumurta bırakır. Bazen 2, ara sıra tek yumurta kaydedilmiştir.\
 **Üreme dönemi:** İç Anadolu'da nisan sonunda, Doğu Anadolu'da mayıs ayında yumurta koyar. Yavrular Hziran ayından itibaren görülebilir. **İÇA.** 22 Mayıs 1992’de Kulu Gölü’nde bir adada 350 çift üremiştir. Buradaki yuvaların çoğunda üç yumurta sayılmış, bazı yuvalarda yeni çıkmış yavrular gözlenmiş olup, ilk yumurtlama tarihinin yaklaşık 26 Nisan olduğu tahmin edilmiştir. En geç yuva kayıtları 14 Haziran 1993’te Seyfe Gölü’nde ve 19 Haziran 1992’de Kulu Gölü’nde kaydedilmiştir. Bu kolonilerde çoğu yavrunun büyük ve hatta palazlanmış olduğu gözlenmiş, ancak hâlâ içinde yumurta bulunan yuvalar da tespit edilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Eskiden Larus cinsi altında sınıflandırılırdı.
 
-## Büyük Karabaş Martı
+# Büyük Karabaş Martı
 
 *Ichthyaetus ichthyaetus*, Pallas's Gull
 
@@ -240,15 +240,15 @@ Geçmişte çok düşük sayılarda kaydedilmiş ve nadir olduğu düşünülür
 
 ![](images/harita_Ichthyaetus%20ichthyaetus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Orta Asya'dır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Ada Martısı
+# Ada Martısı
 
 *Ichthyaetus audouinii*, Audouin's Gull
 
@@ -266,17 +266,17 @@ Marmara Denizi’nin güney kıyılarında ara sıra görülse de düzenli deği
 
 ![](images/harita_Ichthyaetus%20audouinii.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Açıklarındaki bodur vejetasyonlu veya çıplak küçük adalarda yuvalar. **Yuvası:** Ülke dışında yerde alçak bir çukurda yuvalar. Yuvayı bitki gövdeleri, yosun ve diğer bitkisel materyallerle astarlar.\
 **Yumurta sayısı:** Türkiye'den yuva ve yumurta sayısı hakkında bilgi bulunmamaktadır. Ülke dışında genellikle 2-3 yumurta bırakır.\
 **Üreme dönemi:** Nisan sonunda yumurta koyar, mayıs sonunda yavrular çıkar. **EGE.** İzmir Karaburun’da bir adada bulunan üreme kolonisinde 1996’da en az bir çift gözlenmiştir [@boyla1998a]. 1997 Mayıs sonunda ise 2-4 birey kaydedilmiştir [@eken1997c]. **AKD.** 1973’te 25 çift, 1974’te 28 çift çel Aydıncık Adalarında yuvalamıştır. Nisan sonunda yumurtalar, 28 Mayıs’ta yumurtadan yeni çıkmış yavrular gözlenmiştir [@witt1976beobachtungen]. 16 Nisan 1985’te yaklaşık 20 çiftin yuvaladığı, 1987’de yaklaşık 30 çiftin bulunduğu ancak 1996’da sadece 6 çiftin gözlendiği kaydedilmiştir. Bu düşüşün nedeni, 1974’te adada üremeyen gümüş martının 1996 yılında 40 çifte ulaşmış olması olabilir [@magninyarar1997]. 6 Mayıs 2004’te ada ziyaret edildiğinde hiçbir ada martısı görülmemiş, birkaç çift gümüş martı kaydedilmiştir. Yakın zamana kadar İçel Aydıncık açıklarındaki iki küçük adan biri olan bodur vejetasyonlu küçük bir adada yuvalamaktaydı. Burada 1973'de 25 çift, 1974'te 28 çift yuvalamış, nisan sonunda yumurtalar, 28 Mayıs'ta yumurtadan yeni çıkmış yavrular gözlenmiştir [@witt1976beobachtungen]. Burada 16 Nisan 1985'te yaklaşık 20 çiftin yuvaladığı, 1987'de de yaklaşık 30 çift, ancak 1996'da sadece 6 çift görülmüştür. Bu düşüşün nedeni 1974'te adada üremeyen gümüş martının 1996 yılında 40 çifte artmış olması olabilir [@magninyarar1997]. 6 Mayıs 2004'te ada ziyaret edildiğinde hiçbir ada martısı görülmemiş, birkaç çift gümüş martı bulunmuştur. **EGE.** İkinci üreme kolonisi İzmir Karaburun'da bir adada olup, 1996'da en azından bir çift bulunmuş [@boyla1998a] ve 1997 Mayıs sonunda 2-4 kuş gözlenmiştir [@eken1997c]. Türkiye'den yuva ve yumurta sayısı hakkında bilgi yoktur. Ülke dışında yerde alçak bir çukurda yuvalar, yuvayı bitki gövdeleri, yosun ve diğer bitkisel materyalle astarlar. Yumurta sayısı genellikle 2-3'tür.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Akdeniz Martısı
+# Akdeniz Martısı
 
 *Ichthyaetus melanocephalus*, Mediterranean Gull
 
@@ -294,18 +294,18 @@ Kışın çoğunlukla kıyılarda ve açıkta bulunur. Şubat 1997’de Karadeni
 
 ![](images/harita_Ichthyaetus%20melanocephalus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Koloniler halinde ürer. Çıplak topraktan ve sınırlı bitkilerden oluşan alçak ve düz adalarda yuva yapar. Bazen Gülen Sumru ve Karabaş Martı gibi türlerle serbest bir beraberlik içinde yuvalar.\
 **Yuvası:** Yerde sığ bir çukur olup, bitki kökleri, otlar ve bir miktar tüyle astarlanır. Karabaş Martı ile beraber ürediği alanlarda daha fazla materyal biriktirir ancak yuvalar daha küçük ve daha alçaktır.\
 **Yumurta sayısı:** Genellikle üç yumurta bırakır, bazen iki, ara sıra tek yumurta kaydedilmiştir.\
 **Üreme dönemi:** İlk yumurta nisan sonunda veya mayıs başında bırakılır. İlk yavrular mayıs sonu ve haziran başında yumurtadan çıkar. Bu durum farklı koloniler arasında oldukça tutarlı bir düzen gösterir. Üreme dönemi, telafi yuvaları nedeniyle uzayabilir. **EGE.** Büyük Menderes Deltası ve Gediz Deltası’nda kıyı lagünlerinde yuvalar. 26 Haziran 1999’da Büyük Menderes Deltası’nda gözlenen birçok yavru iri olsa da yumurtadan yeni çıkmış bireyler de kaydedilmiştir. Bu gözlem, yaklaşık 4 haftalık bir zaman farkına işaret etmektedir. **İÇA.** 19 Haziran 1992’de Kulu Gölü’ndeki yavruların çoğu büyümenin ilk yarısını tamamlamış olup bazı yuvalarda yumurta veya küçük yavrular gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Eskiden *Larus* cinsi altında sınıflandırılırdı.
 
-## Kızıldeniz Martısı
+# Kızıldeniz Martısı
 
 *Ichthyaetus leucophthalmus*, White-eyed Gull
 
@@ -319,15 +319,15 @@ Monotipik bir türdür. Eskiden *Larus* cinsi altında sınıflandırılırdı.
 
 ![](images/harita_Ichthyaetus%20leucophthalmus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Yayılış alanı Kızıldeniz'dir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Küçük Gümüş Martı
+# Küçük Gümüş Martı
 
 *Larus canus*, Mew Gull
 
@@ -343,15 +343,15 @@ Ege’de ara sıra ve genellikle düşük sayılarda kaydedilir. Bununla birlikt
 
 ![](images/harita_Larus%20canus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Avrasya'da yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Kışlayan kuşların arasında hem nominat *canus* alttürü, hem de *heinei* alttürü görülür. Bu iki alttürün geçiş formları da yaygındır [@olsen2003].
 
-## Hazar Martısı
+# Hazar Martısı
 
 *Larus cachinnans*, Caspian Gull
 
@@ -369,15 +369,15 @@ Kışlayan bireylerin farklı coğrafi bölgelerden geldiği ve dolayısıyla fe
 
 ![](images/harita_Larus%20cachinnans.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Yakın zamana kadar *Larus cachinnans* bilimsel ismini kullanan Gümüş Martı'nın *cachinnans* alttürü olarak sınıflandırılmıştır [@olsen2003]. Ancak Karadeniz’in batı kıyılarında, Romanya’daki kolonilerinde birbirine yakın bölgelerde ancak farklı habitatlarda yuvaladığı gözlemlenmiş ve bu durum iki taksonun farklı türler olarak kabul edilmesine neden olmuştur [@klein1997]. 1990’lar öncesinde ise Kuzey Gümüş Martısı'nın (*Larus argentatus*) bir alttürü olarak değerlendirilmiştir.
 
-## Kuzey Gümüş Martısı
+# Kuzey Gümüş Martısı
 
 *Larus argentatus*, European Herring Gull
 
@@ -391,15 +391,15 @@ Yakın zamana kadar *Larus cachinnans* bilimsel ismini kullanan Gümüş Martı'
 
 ![](images/harita_Larus%20argentatus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Türkiye'de görülen kuşların olası üreme alanı Baltık Denizi'dir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Kanat desenlenmesine göre ilk kaydedilen bireyin *argentatus* alttürüne ait olduğunu düşünülür.
 
-## Gümüş Martı
+# Gümüş Martı
 
 *Larus michahellis*, Yellow-legged Gull
 
@@ -417,18 +417,18 @@ Kıyı alanlarının dışında Edirne, Çerkezköy ve Bursa ve Uluabat Gölü g
 
 ![](images/harita_Larus%20michahellis.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Kıyıdan uzaktaki kayalık ada ve adacıklarda, göllerdeki adalarda ve özellikle İstanbul’da bina çatılarında yuva yapar. İstanbul’da çatı üstlerinde yuvalarken, İzmir’de yalnızca Gediz Deltası’nda zeminde yuvalar.\
 **Yuvası:** Yuva, bitkisel maddeler, yosunlar ve çerçöpten oluşan büyük bir yığıntıdır. Orta kısmı çukur olup daha ince malzemeyle astarlıdır.\
 **Yumurta sayısı:** Genellikle 2-3 yumurta bırakır. 15 yuvada 3 yumurta, 11 yuvada 2 yumurta ve 3 tyvada tek yumurta sayılmıştır.\
 **Üreme dönemi:** Mart ortası ve nisan başı arasında yumurta koyar. Yavrular haziran ortasından itibaren uçmaya başlarlar. **MAR:** Temmuz ortasında İstanbul’da bir çatıda bulunan, palazlanmış ve uçabilen iki yavru, yumurtlama tarihinin nisan sonu olduğunu göstermektedir. **EGE.** 8 Mayıs 1950’de Çeşme açıklarındaki bir adada yuvalar tespit edilmiştir [@mcneile1950]. 23 Nisan 2003’te Karine Gölü’ndeki adalardaki yuvalarda yumurta ve yeni çıkmış yavrular gözlenmiş olup, yumurtlama tarihinin 22 Mart civarında olduğunu göstermektedir. **AKD.** En erken üreme kaydı, 28 Nisan 1972’de Anamur’da yaklaşık bir haftalık genç kuş olup, ilk yumurtlama tarihinin 20 Mart olduğunu göstermektedir. Bölgede diğer kayıtlar arasında 5 Temmuz 1971’de Gelindere’de ve 13 Haziran 1992’de Aydıncık açıklarındaki bir adada çoğu palazlanmış yavrular bulunmaktadır. Bu gözlemler, yumurtlamanın mart sonu ile nisan başında başladığını göstermektedir. Mayıs 1964’te Beyşehir Gölü’ndeki iki yuvada birer, beş yuvada ikişer ve kalan 32 yuvada birer yumurta sayılmıştır [@vauk1973]. **KAR.** 11 Haziran 1975’te Giresun’da henüz uçmaya başlamış bir genç kaydedilmiş olup, bu gözlem diğer bölgelerdeki tarihlerle örtüşmektedir. Ancak 10-11 Haziran 1975’te Perşembe, Ordu ve Giresun’daki kolonilerde erişkinler henüz yuvada oturmaktaydı.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de Akdeniz havzasında görülen *michahellis* alttürü bulunur. 1990’lar öncesinde Kuzey Gümüş Martısı'nın (*Larus argentatus*) bir alttürü olarak değerlendirilmiştir.
 
-## Van Gölü Martısı
+# Van Gölü Martısı
 
 *Larus armenicus*, Armenian Gull
 
@@ -446,18 +446,18 @@ Kışlama popülasyonunun 8000-12.000 birey arasında olduğu tahmin edilmektedi
 
 ![](images/harita_Larus%20armenicus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Doğu Anadolu'daki en az 2000 m rakımlı göllerin hem çıplak hem de bitki örtülü adalarında, genellikle yerde koloniler halinde yuvalar. Kolonileri genellikle kalabalıktır, ancak küçük adalarda tek çiftler halinde de yuvalayabilir. 2001'de Nemrut Gölü'nde gözlenmiş, Haziran 2004'te burada küçük bir adada 12 çiftin yuvaladığı tespit edilmiştir.\
 **Yuvası:** Yuva boyutu değişkendir ve muhtemelen çevredeki malzemeye göre farklılık gösterir. Çoğunlukla ot ve bitki yığını şeklinde olup ortası çukur ve ince malzemeyle astarlanmıştır.\
 **Yumurta sayısı:** Genellikle üç, nadiren iki yumurta koyar.\
 **Üreme dönemi:** İlk yumurtalar mayıs başında koyulur, yavrular mayıs sonundan itibaren yumurtadan çıkar. **AKD.** Beyşehir Gölü'nde Gümüş Martılarla karışık bir kolonide yuvalamıştır. 23-25 Mayıs 1999'da toplam 40-50 çift sayılmış, bunların çoğunun yaklaşık 2 haftalık yavrusu varken üç çiftin yeni telafi yumurtaları koyduğu gözlenmiştir. **İÇA.** 9 Mayıs 1993'te Tuz Gölü'ndeki çoğu yuvada üç yumurta bulunmuş, bazı yuvalarda yumurtadan yeni çıkmış yavrular gözlenmiştir. **DOA.** 9 Haziran 2001'de Balık Gölü'ndeki yuvaların çoğunda yumurta varken, bazılarında yaklaşık bir haftalık yavrular görülmüştür. 30 Mayıs 1971'de Ahtamar Adası'nda yaklaşık 500 çift sayılmış, çoğu yuvada üç yumurta tespit edilmiştir. 8 Haziran 1975'te 1500 çift gözlenmiş, bazı yuvalarda hem yumurtalar hem de yavrular bulunmuştur. 1 Haziran 1999'da yalnızca 15 çift ve yaklaşık 50 boş yuva tespit edilmiş, boş yuvaların bir yırtıcı hayvan tarafından tahrip edildiği düşünülmüştür. Bu koloninin büyük bir kısmı Çarpanak Adası'na taşınmış, 2 Haziran 1999'da burada yaklaşık 2000 çift sayılmış, çatlamak üzere olan veya yeni çatlamış yumurtalar kaydedilmiştir [@liebers1999]. 17-18 Haziran 1992'de Çıldır Gölü'nde üç adada yaklaşık 900 çift üremiş, 291 yavru sayılmış, bunların çoğu büyük olsa da henüz uçamıyordu. Aynı bölgede 28-29 Mayıs 1999'da kuzeybatı kıyısının 7 km açığındaki adalarda iki kolonide toplam 350-370 çift kaydedilmiş, çiftlerin %95'inin 1 gün ile 3 hafta arasında değişen yaşlarda yavrulara sahip olduğu belirlenmiş, kalan bireylerin hala kuluçkada olduğu tespit edilmiştir. Çoğu yuvada üç yumurta bulunmuştur [@liebers1999]. Bu kayıtlar ilk yumurtanın mayıs başında koyulduğunu gösterir ve Ermenistan'daki kolonilerden gelen verilerle tutarlıdır. Ermenistan'da yumurtadan çıkma dönemi mayıs sonudur [@adamian1999].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. İlk başta Larus taimyrensis'in alttürü olarak tanımlanan, daha sonraları sıkça kuzey gümüş martısının (Larus argentatus) ve tür olarak tanımlanmasından sonra gümüş martının alttürü olarak [@beaman1994] değerlendirilmiştir. Görünüşe göre Atlantik'ten ve Akdeniz havzası üzerinden erken zamanda gerçekleşen bir kolonizasyonun kalıntısıdır. Armenicus'un mitokondriyal DNA'sı görünüşe göre michahellis'e en yakın konumdadır [@liebers1999].
 
-## Büyük Kara Sırtlı Martı
+# Büyük Kara Sırtlı Martı
 
 *Larus marinus*, Great Black-backed Gull
 
@@ -473,15 +473,15 @@ Tür ilk kez Gonzelbach tarafından İzmir’de, Schrader tarafından ise 23 Nis
 
 ![](images/harita_Larus%20marinus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Yayılış alanı Kuzey Atlantik kıyılarıdır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kutup Martısı
+# Kutup Martısı
 
 *Larus hyperboreus*, Glaucous Gull
 
@@ -495,15 +495,15 @@ Monotipik bir türdür.
 
 ![](images/harita_Larus%20hyperboreus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Kutup Denizi kıyılarında yaşar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de vurulmuş örneğin tahnitini incelenememiştir. Yayılış alanı dikkate alındığında nominat alttürün olduğu beklenir.
 
-## Kara Sırtlı Martı
+# Kara Sırtlı Martı
 
 *Larus fuscus*, Lesser Black-backed Gull
 
@@ -519,15 +519,15 @@ Kışlama nüfusunun 30 ila 90 birey arasında olduğu tahmin edilmektedir. 1999
 
 ![](images/harita_Larus%20fuscus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Yuvalama alanı Batı ve Kuzey Avrupa ve Orta ve Doğu Sibirya'dır. Antalya Oymapınar BAraj Gölü'nde bulunan Gümüş Martı kolonisinde 2010-2015 yılları arasında bir erişkin bireyin Gümüş Martı ile melez bireyler oluşturma ihtimali vardır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Nominat *fuscus* alttürü, özellikle göç sırasında en düzenli görülen alttürdür. Baltık Denizi kıyıları ve Avrupa Rusya’sının kuzeybatısında ürer, kışı ise Kızıldeniz ve Doğu Afrika kıyılarında geçirir [@olsen2003]. Türkiye, bu alttürün göç rotası üzerindedir. Bunun dışında, Batı Avrupa’da yaşayan *intermedius* ve *graelsii* alttürleri kışın Ege ve Akdeniz kıyılarında görülür; benzer şekilde İsrail’de de kaydedilmiştir [@shirihai1996]. Daha doğuda üreyen ve "Sibirya martısı" olarak da bilinen *heuglini* alttürü ise kışın Türkiye’nin güney ve batı kıyılarında nadiren az sayılarda gözlenebilir.
 
-## Küçük Sumru
+# Küçük Sumru
 
 *Sternula albifrons*, Little Tern
 
@@ -543,18 +543,18 @@ Göç sırasında özellikle mayıs ve eylül aylarında daha yaygın olarak gö
 
 ![](images/harita_Sternula%20albifrons.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Sahiller, iç kesimlerdeki göller ve nehirlerde bulunan adalarda ve kum tepelerinde ürer. Koloni büyüklüğü değişken olup en az 2-3 çiftten oluşur.\
 **Yuvası:** Çıplak kum, çakıl veya kuru çamur üzerine, sığ bir çukura yuva yapar.\
 **Yumurta sayısı:** Genellikle üç (91 yuva), bazen iki (16 yuva), nadiren bir (4 yuva) yumurta koyar.\
 **Üreme dönemi:** Üreme çoğunlukla mayısın ikinci yarısında veya haziranda başlar. **MAR:** 2 Haziran 1966'da Uluabat Gölü'nde yaklaşık 15 çiftten oluşan bir kolonide içinde yumurta olan dört yuva kaydedilmiş; 16 Eylül 1995'te Kocaçay Deltası'nda yavrularını besleyen bir çift gözlenmiştir [@ertan1996]. **EGE.** Büyük Menderes Deltası Karine Gölü'nde 9 Mayıs 2003'te üreme alanında bulunan erişkinler gözlenmiştir. Aynı yerde 14 Mayıs 2007'de, yaklaşık 20 yeni ama boş yuva kazıntısı, içinde bir yumurta olan 16 yuva ve içinde iki yumurta olan bir yuva bulunmuştur. Yuvaların bazılarının aralarındaki mesafe sadece 1 metre olarak kaydedilmiştir. 26 Haziran 1999'da Büyük Menderes Deltası'nın başka bölgelerinde, içinde yumurta bulunan iki yuva ve yeni tüylenmiş bir yavru gözlenmiş; 25 Mayıs 2004'te ise kıyı lagünlerinde kuluçkaya yatmış birkaç erişkin kaydedilmiştir. **AKD.** Çukurova'dan en erken üreme kayıtları alınmış, 9 Mayıs 1989 ve 11 Mayıs 1990'da içinde üç yumurta olan birçok yuva kaydedilmiştir. Göksu Deltası'nda 26 Mayıs 1998 ile 11 Haziran 1992'de kuluçkaya yatmış erişkinler; 9 Haziran 1974'te her birinde üç yumurta olan dört yuva ve 16 Haziran 1974'te içinde yeni tüylenmiş yavru olan altı yuva kaydedilmiştir [@witt1976beobachtungen]. Yine aynı yerde 8 Haziran 1999'da, yumurtaların mayıs başında koyulduğunu gösterir şekilde yeni tüylenmiş iki yavru gözlenmiştir. 30 Nisan 1970'te Silifke yakınında çiftleşme öncesi kur davranışı gözlenmiştir. **KAR.** Kızılırmak Deltası'nda çiftlerin 9 Haziran 1992'de üremeye yeni başladıkları not edilmiştir [@hustings1994]. **İÇA.** 3 Haziran 1982'de Sultansazlığı'nda, içinde 2-3 yumurta bulunan 50 yuva, içinde bir yumurta olan bir yuva ve içinde yeni tüylenmiş yavru olan iki yuva kaydedilmiştir [@kasparek1985]. Aynı bölgede 2 Haziran 1971'de Seyfe Gölü'nde içinde 2-3 yumurta bulunan 48 yuva kaydedilmiştir [@husband1984]. 19 Haziran 1992'de Kulu Gölü'ndeki bir adada içinde iki yumurta olan bir yuva tespit edilmiştir. **DOA.** 2 Temmuz 2005'te Malatya'daki Karakaya Barajı'nda gençleri besleyen 5-10 çift kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur. Çok yakın bir geçmişe kadar genellikle *Sterna* cinsi içinde sınıflandırılmıştır.
 
-## Gülen Sumru
+# Gülen Sumru
 
 *Gelochelidon nilotica*, Gull-billed Tern
 
@@ -572,18 +572,18 @@ Genellikle az sayıda ve yaygın bir geçit türüdür. İlkbahar göçü mart b
 
 ![](images/harita_Gelochelidon%20nilotica.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Tuzlu ve acı göllerdeki adalarda, nehirlerdeki kum ve çakıl adalarında koloniler halinde yuvalar. Koloniler genellikle 80-300 çift arasında değişir. Koloniler bazen Akdeniz Martısı, İnce Gagalı Martı, Karabaş Martı, Sumru ve Küçük Sumru gibi diğer türlerle mesafeli bir birliktelik içinde bulunur.\
 **Yuvası:** Çıplak zemine açılmış sığ bir çukurdur. Yakındaki otlar ve bitki örtüsü ile cılız bir şekilde astarlanabilir.\
 **Yumurta sayısı:** Genellikle 3 yumurta bırakır, nadiren tek yumurta tespit edilmiştir.\
 **Üreme dönemi:** İlk yumurtalar nisan sonu ile mayıs başında bırakılır. İlk yavrular mayıs ortasında yumurtadan çıkar, haziran sonu itibarıyla iri ve uçmaya hazır yavrular gözlenir. Üreme tarihleri ana kolonilerde genellikle sabittir. **İÇA.** Haziran ortasında Seyfe Gölü'nde, haziran sonunda Bolluk Gölü'nde ve temmuz ortasında Kulu Gölü'nde içinde yumurta bulunan yuvalar tespit edilmiştir. Bunların çoğunun telafi kuluçkası olduğu düşünülmektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Hazar Sumrusu
+# Hazar Sumrusu
 
 *Hydroprogne caspia*, Caspian Tern
 
@@ -599,18 +599,18 @@ Geçit sırasında ülke genelinde daha yaygın görülse de sayıları düşük
 
 ![](images/harita_Hydroprogne%20caspia.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Küçük koloniler halinde, tuzlu göllerin çıplak veya deniz kabuğu ile kaplı alçak adalarında yuvalar. Gediz Deltası'nda bazı koloniler sık ve derli topludur, birkaç çift birbirine yakın bulunur, diğer koloniler dağınık olabilir ve yuvaların arasında birkaç metre bulunabilir.\
 **Yuvası:** Yuva sığ bir çukur olup ya astarsızdır ya da bitki çerçöpüyle hafifçe astarlanmıştır.\
 **Yumurta sayısı:** Genellikle 2-3 yumurta koyar.\
 **Üreme dönemi:** Nisan ortasından itibaren yumurta koyar, yavrular mayıs sonu çıkar. **EGE.** 2003 yılında Büyük Menderes Deltası Karina Gölü'ndeki küçük bir adada 23 Nisan'da üç yuvada üç yumurta, 10 yuvada 1-2 yumurta ve 10 yeni kazılmış boş yuva tespit edilmiştir. 9 Mayıs'ta yapılan gözlemde ise dokuz yuvada üç yumurta, 17 yuvada iki yumurta ve iki yuvada birer yumurta bulunmuş, toplam 28 yuvada ortalama 2,2 yumurta sayılmıştır. Aynı bölgede 27 Haziran 1999'da geç bir yuvada iki yumurta kaydedilmiş ve bunun telafi kuluçkası olduğu düşünülmüştür. 26 Mayıs 2004'te yapılan gözlemde tüm yuvalarda yumurta olduğu belirlenmiştir. **İÇA.** Tuz Gölü'nde Mayıs 1969'da 15 çift yuvalamış, 13 yuva iki tane, kalan yuvalarda 3 yumurta bulunmuş, 31 Mayıs 1971'de toplam 19 yuvanın her birinde 2-3 yumurta veya yavru görülmüş, toplam 12 yavrunun en büyüğü yaklaşık 8 günlük olduğu düşünülmüş ve ilk yumurtlama tarihi 2 Mayıs olarak hesaplanmıştır. Erişkinlerin de 28 Mayıs 1974'te oldukça dağınık konumlanmış yuvalarda kuluçkada oldukları, sadece bir yuvada yumurtadan yeni çıkmış tek bir yavru görülmüştür [@pforr1982].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Bıyıklı Sumru
+# Bıyıklı Sumru
 
 *Chlidonias hybrida*, Whiskered Tern
 
@@ -628,18 +628,18 @@ Kış aylarında az sayıda birey Ege ve Akdeniz kıyılarındaki lagün ve göl
 
 ![](images/harita_Chlidonias%20hybrida.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Göllerin, nilüfer gibi suda büyüyen bitkilerin bulunduğu korunaklı bölgelerinde koloniler halinde ürer. Koloniler büyük olabilir.\
 **Yuvası:** Saz ve diğer sucul bitkilerden oluşan küçük bir yığının, yüzen nilüferlerle iç içe geçirilmesiyle oluşur.\
 **Yumurta sayısı:** Sultansazlığı'nda biri 1, diğeri 3 yumurtaya sahip 2 yuva tespit edilmiştir [@kasparek1985]. Uluabat Gölü'nde ikisinin içinde 2, diğer ikisinin içinde 3 yumurta bulunan 4 yuva gözlenmiştir.\
 **Üreme dönemi:** aziran başında yumurta koyar, yavrular temmuz sonunda gözlenir. **MAR:** 2 Haziran 2006'da Uluabat Gölü'nde yumurtalar kaydedilmiştir. Koloniler mayıs ortasından itibaren aktiftir. 2-3 Haziran 2006'da Uluabat Gölü'nde yuva malzemesi taşıyan birçok erişkin, 28 Haziran 1973'te ise yavrularına yiyecek taşıyan erişkinler gözlenmiştir. **İÇA.** 2 Haziran 1975'te Sultansazlığı'nda biri 1, diğeri 3 yumurtaya sahip 2 yuva tespit edilmiş, 22 Temmuz 1981'de yeni tüylenmiş yavrular kaydedilmiştir [@kasparek1985]. Aynı bölgede, 25 Temmuz 1971'de Yarma yakınında ve 3 Ağustos 1971'de Akşehir Gölü'nde yeni tüylenmiş yavrular gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Kara Sumru
+# Kara Sumru
 
 *Chlidonias niger*, Black Tern
 
@@ -655,17 +655,17 @@ Göç sırasında daha yaygın olarak görülür ve sayıca daha fazladır. Ülk
 
 ![](images/harita_Chlidonias%20niger.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Göllerin, nilüfer gibi suda büyüyen veya yüzen bitkilere sahip korunaklı bölgelerinde, küçük koloniler halinde ürer.\
 **Yuvası:** Yuvası, sazlardan ve su bitkilerinden oluşan bir yığının üzerine yerleştirilmiş veya büyümekte olan bir bitkiye tutturulmuş, tepesinde daha ince malzemelerle astarlanmış bir deliğe sahip bir yapıdır.\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı hakkında ayrıntılı bilgi bulunmamaktadır. Diğer bölgelerde olağan yumurta sayısı üçtür. **MAR:** Uluabat Gölü'nde 2 Haziran 1966'da yüzen bitkilerin üzerinde 15-20 çiftin yuvaladığı gözlenmiştir. R. F. Porter tarafından incelenen üç yuvadan biri boş, diğer ikisinde ise sırasıyla iki ve bir yumurta bulunmuş, bu yuvaların büyük olasılıkla tamamlanmamış kuluçkalar olduğu belirtilmiştir. Yine Uluabat Gölü'nde Mayıs 1967'de toplam yaklaşık 100 çifte sahip dört koloni kaydedilmiş, Mayıs 1969'da ise 40 bireye kadar kuş ve yuvalama davranışı gözlenmiştir. 15 Mayıs - 20 Haziran 1998 arasında en az üç çiftin bıyıklı sumru kolonisi içinde yuvaladığı belirlenmiştir [@welch1998b]. **İÇA.** 1967'de Eber Gölü'nde toplam 15 çifte sahip iki koloni kaydedilmiş, 8 Mayıs’ta burada yuva yapma davranışı gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Ak Kanatlı Sumru
+# Ak Kanatlı Sumru
 
 *Chlidonias leucopterus*, White-winged Tern
 
@@ -683,18 +683,18 @@ Nadiren tam erişkin kıyafetinde kışı geçiren bireylere giderek artan sıkl
 
 ![](images/harita_Chlidonias%20leucopterus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Koloniler halinde sulakalanların kenarındaki ıslak çayırlarda yuvalar.\
 **Yuvası:** Türkiye'de yuva bilgisi yoktur\
 **Yumurta sayısı:** Türkiye'de yumurta sayısı bilinmemektedir.\
 **Üreme dönemi:** Haziran ve temmuz aylarında yavrulara rastlanabilir, ancak düzensiz ürediği düşünülmektedir. Üreme kolonilerinde kuşlar 2-3 ay boyunca kalır ve bu süre zarfında oldukça gürültülü ve dikkat çekici oldukları için fark edilmemeleri mümkün değildir. **İÇA.** 5 Temmuz 1969’da Mogan Gölü’nde tamamen tüylenmiş bir genç birey, 31 Temmuz 1969’da ise Temelli’de üç genç gözlenmiştir. Bu gençlerin burada yumurtadan çıkmış olmaları olasıdır. 19 Haziran 1975’te Seyfe Gölü’nde bir çift, iki erişkin ve üç yavru kaydedilmiştir [@husband1984]. **KAR.** 16 Haziran 1983’te Yeniçağa Gölü’nde iki erişkin ve bir tüylenmiş yavru gözlenmiştir [@kilic1987]. 17 Temmuz 1992’de Kızılırmak Deltası’nda gençleri beslemekte olan erişkinler kaydedilmiştir [@hustings1994]. **DOA.** 17 Temmuz 1986’da Haçlı Gölü’nde üçü genç olmak üzere toplam dokuz birey gözlenmiştir, ancak bu gençlerin Türkiye’de yumurtadan çıktığına dair kesin bir kanıt yoktur. 4 Haziran 2002’de Doğubayazıt yakınındaki Saz Gölü’nde küçük kolonilere ait olduğu düşünülen 150 birey gözlenmiştir. Aynı yerde 28 Mayıs 2003’te yaklaşık 100 erişkin kaydedilmiş, ancak bu gözlemlerde de üremeyi doğrulayan kesin bir kanıt bulunmamıştır. 10 Haziran 2005’te üreme için uygun habitatın bulunduğu Malatya’daki Karakaya Barajı’nda yaklaşık 20 erişkin gözlenmiştir. Yine aynı yerde 18 Temmuz 2005’te, 10-15 tanesi gençlerden oluşan 35’ten fazla birey kaydedilmiş ve gençlerin bir kısmının erişkinler tarafından beslendiği not edilmiştir. Ancak üreme ile ilgili kesin bir kanıt bulunmadığından, bu bireylerin sadece kısa süreliğine kalan göçmen kuşlar olduğu düşünülmektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kutup Sumrusu
+# Kutup Sumrusu
 
 *Sterna paradisaea*, Arctic Tern
 
@@ -710,15 +710,15 @@ Türün Türkiye'de altı kaydı bulunmaktadır. İlk kayıt, 27 Mayıs 1915'te 
 
 ![](images/harita_Sterna%20paradisaea.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür
 
-## Sumru
+# Sumru
 
 *Sterna hirundo*, Common Tern
 
@@ -736,18 +736,18 @@ Nadiren kışın görülebilir. Aralık sonu ile şubat başı arasında Akdeniz
 
 ![](images/harita_Sterna%20hirundo.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Koloniler genellikle 80 çiftten az olsa da, 1966’da Manyas Gölü’nde 500 çifte kadar büyük kolonilere de rastlanmıştır. Nadiren tek başına, bazen Gülen Sumru ve Küçük Sumru gibi diğer türlerle birlikte ürer. Hem kıyı hem de iç kesimlerdeki göllerde, su basmış alanlarda, nehir kıyılarında ve kıyıya yakın adalarda yuvalar. Genellikle kum, çamur ve çakıldan oluşan alçak adalar tercih edilir. Uluabat Gölü’nde yüzen bitkilerin içinde yuvaladığı da kaydedilmiştir [@welch1998b].\
 **Yuvası:** Genellikle yerde, astarsız veya yakındaki bitkilerle astarlanmış sığ bir çukurdur.\
 **Yumurta sayısı:** Genellikle 3, nadiren 2 yumurta bırakır.\
 **Üreme dönemi:** Üreme dönemi uzundur, yuvalama alanlarındaki su seviyesi ve martı gibi baskın türlerin üreme döngüsüne göre gecikebilir. Genellikle mayıs sonu ile temmuz arasında yumurta koyar. Yavrular eylüle kadar görülebilir. **MAR:** 19 Haziran 1973’te Büyükçekmece’de, yumurtaların mayıs başında koyulduğunu gösteren 4 tüylenmiş yavru gözlenmiştir. 2 Haziran 1966’da Uluabat Gölü’nde yaklaşık 30 çiftten oluşan bir kolonide, içinde yumurta bulunan 4 yuva kaydedilmiştir. Ayrıca, 14 Mayıs’ta ve sonrasında içinde yumurta bulunan yuvalar gözlenmiş, 11 Temmuz 1966’da ise Kocaçay Deltası’nda tüylenmiş yavrular görülmüştür [@ertan1996]. **EGE.** 14 Mayıs 2007’de Karine Gölü’nde yapılan gözlemde, üremenin hala erken aşamada olduğunu gösteren ve yalnızca bir yumurtası bulunan tamamlanmamış kuluçkaya sahip 2 yuva kaydedilmiştir. 27 Haziran 1999’daki gözlemde ise çiftlerin çoğunun farklı gelişim seviyelerinde yavruya sahip olduğu, ancak birkaç yuvada hala yumurta bulunduğu görülmüştür. 23 Mayıs 1950’de Aliağa yakınındaki bir adacıktan 2 yumurta toplanmıştır [@mcneile1950]. **AKD.** Göksu Deltası’nda erişkinlerin 15 Mayıs’tan itibaren kuluçkaya yattıkları gözlenmiş, 19 Mayıs 1999’da ise Akgöl’de yaklaşık 100 bireyin kum şeridi üzerinde kuluçkada olduğu kaydedilmiştir. Temmuz başında ise tüylenmiş yavrular gözlenmiştir. **KAR.** 10 Haziran 1975’te Fatsa’da, açıkta bulunan küçük bir adacıkta üremekte olan 30-50 çift kaydedilmiştir. Geç tarihlerde gözlenen yumurtalı yuvalar, büyük olasılıkla kaybedilen kuluçkaların yerine yeniden yumurtlandığını göstermektedir. **İÇA.** 2 Haziran 1971’de Seyfe Gölü’nde 60 çiftten oluşan bir kolonide yapılan gözlemde, yumurtaların yaklaşık 10 Mayıs’ta koyulduğunu gösteren 48 çiftin yuvasında yumurta, geri kalan yuvalarda ise yavrular bulunmuştur [@husband1984]. 26 Temmuz 1971’de Yarma’da hala kuluçkada olan çiftler gözlenmiştir. **DOA.** Mayıs sonunda Erçek Gölü’nde, haziran başında ise Malatya’daki Murat Nehri’nde ve Karakaya Barajı’ndaki çakıl adalarında kuluçkada olan erişkinler gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Orta Asya'da bulunan *tibetana* alttürüne benzer kuşların Ortadoğu'da görüldüğüne dair iddialar olmuşsa da, büyük olasılıkla Türkiye'de görülenlerin hepsi nominattır.
 
-## Kara Gagalı Sumru
+# Kara Gagalı Sumru
 
 *Thalasseus sandvicensis*, Sandwich Tern
 
@@ -763,18 +763,18 @@ Kış aylarında tüm kıyılarda yaygın olarak görülür. Karadeniz'in kuzeyi
 
 ![](images/harita_Thalasseus%20sandvicensis.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Deniz kıyısındaki lagünlerde kum adalarında yuvalar.\
 **Yuvası:** Yere, astarsız sığ bir çukur şeklindedir. Diğer bölgelerde kolonilerin yoğun olduğu ve yuvaların birbirine 0,5 metreden daha yakın konumlandığı bilinmektedir.\
 **Yumurta sayısı:** Genellikle iki yumurta bırakır, ancak nadiren yılda bir kez kuluçkaya yatabilir.\
 **Üreme dönemi:** Yumurtalar çoğunlukla mayıs ayında bırakılır. **EGE.** Gediz Deltası’nda 1984-1988 yılları arasında, deltanın tuzlu lagünlerinde bulunan ve Akdeniz Martısının ürediği adalarda ürediği doğrulanmıştır. 1996 yılı mayıs ayı başında yapılan çalışmada, bu kolonide 53 çift Kara Gagalı Sumru ve 97 çift Akdeniz Martısı kaydedilmiştir [@eken1997a].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Tepeli Sumru
+# Tepeli Sumru
 
 *Thalasseus bengalensis*, Lesser Crested Tern
 
@@ -790,10 +790,10 @@ Tür, üremeksizin İsrail'in Eilat bölgesinde düzenli ancak nadir bir bahar v
 
 ![](images/harita_Thalasseus%20bengalensis.png)
 
-**Üreme**
+### Üreme
 
 Türkiye’de yuvalamaz. Akdeniz’deki en yakın üreme alanı Libya kıyılarındadır ve bu, türün Akdeniz’de bilinen tek üreme alanıdır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye kayıtları alttür düzeyinde tanımlanmamıştır. Akdeniz'de yuvalayan *emigratus* alttürünün bulunması olasıdır.

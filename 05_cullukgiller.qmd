@@ -2,7 +2,7 @@
 title: "Çullukgiller"
 ---
 
-## Sürmeli Kervançulluğu
+# Sürmeli Kervançulluğu
 
 *Numenius phaeopus*, Whimbrel
 
@@ -18,15 +18,15 @@ Hartlaub tarafından kışın İzmir'de bulunduğunu iddia edilmiş[@kruper1875]
 
 ![](images/harita_Numenius%20phaeopus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'da ve Kuzey Amerika'da dağlık tundrada yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## İnce Gagalı Kervançulluğu
+# İnce Gagalı Kervançulluğu
 
 *Numenius tenuirostris*, Slender-billed Curlew
 
@@ -40,15 +40,15 @@ Son derece nadir bir geçit türüdür, en son kesinlikle 1986'da kaydedilmişti
 
 ![](images/harita_Numenius%20tenuirostris.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamadı. Eskiden Kazakistan bozkırları ile Rusya ormanları arasındaki geçiş bölgesinde yuvaladığı düşünülmüştür.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kervançulluğu
+# Kervançulluğu
 
 *Numenius arquata*, Eurasian Curlew
 
@@ -64,15 +64,15 @@ Kışın, orta sayılarda Marmara, Ege ve Akdeniz bölgelerindeki kıyı alanlar
 
 ![](images/harita_Numenius%20arquata.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Batı Avrupa'da ve tüm Avrasya boyunca tayga kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Bir kısmı nominat *arquata* alttürüdür. Özellikle son yıllarda yapılan ayrıntılı gözlem ve fotoğrafların neticesinde *orientalis* alttürü sıkça kaydedilmektedir [@konrad1994].
 
-## Kıyı Çamurçulluğu
+# Kıyı Çamurçulluğu
 
 *Limosa lapponica*, Bar-tailed Godwit
 
@@ -88,15 +88,15 @@ Kışın Ege ve Akdeniz kıyılarında kaydedilir. Şubat 1880'ler [@schrader189
 
 ![](images/harita_Limosa%20lapponica.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya ve Alaska'nın tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur. Gözlenen daha uzun gagalı bazı bireyler doğu ırklarından *menzbieri* alttürüne ait olabilir [@have_etal1988].
 
-## Çamurçulluğu
+# Çamurçulluğu
 
 *Limosa limosa*, Black-tailed Godwit
 
@@ -114,15 +114,15 @@ Kışın, özellikle güney ve güneybatıdaki kıyısal alanlarda oldukça yük
 
 ![](images/harita_Limosa%20limosa.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrupa, Batı Sibirya ve Doğu Asya'da ılıman ve tayga kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Küçük Suçulluğu
+# Küçük Suçulluğu
 
 *Lymnocryptes minimus*, Jack Snipe
 
@@ -132,21 +132,21 @@ Türkiye'de nominat alttürü bulunur.
 
 </iframe>
 
-Eylül ile nisan sonu arasında tuzcul bataklıklar ve benzeri kıyı alanlarında ve iç kesimlerdeki her tür sulakalanda ve diğer nemli alanlarda bulunur. Çoğunlukla tek başına gözlenir, ara sıra birkaç bireylik (en fazla 12) gevşek gruplar kurar. Göçmenler Doğu Karadeniz Bölgesi'nde da kaydedilmiştir [@kumerloeve1967phalaropusa; @faldborg1994]
+Eylül ile nisan sonu arasında tuzcul bataklıklar ve benzeri kıyı alanlarında ve iç kesimlerdeki her tür sulakalanda ve diğer nemli alanlarda bulunur. Çoğunlukla tek başına gözlenir, ara sıra birkaç bireylik (en fazla 12) gevşek gruplar kurar. Göçmenler Doğu Karadeniz Bölgesi'nde da kaydedilmiştir [@kumerloeve1967phalaropus; @faldborg1994]
 
 Nispeten az sayılarda gözlenmesi ciddi şekilde var olduğundan daha az sayıda kaydedildiğini ya da gerçekten seyrek olduğunu düşündürür. Uygun alanlarda gerçekleştirilen yoğun araştırmalarda zaman zaman daha sık gözlenmiş olması birinci olasılığı güçlendirmektedir. Örneğin, Mart 1990'da Çukurova'da 31 birey [@kivit1994] ve ilkbahar 1992 başlarında Kızılırmak Deltası'nda 15 birey [@hustings1994] kaydedilmiştir. Ayrıca, 2001 ve 2002 yıllarında Kulu Gölü'nde yapılan gözlemlerde oldukça düzenli bir geçit türü olduğu düşünülmüştür [@richardson2003].
 
 ![](images/harita_Lymnocryptes%20minimus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Avrupa ve Asya'nın tundra ve tayga kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Çulluk
+# Çulluk
 
 *Scolopax rusticola*, Eurasian Woodcock
 
@@ -160,17 +160,17 @@ En sık olarak eylül başından mart sonuna kadar kaydedilir ancak bir kısmı 
 
 ![](images/harita_Scolopax%20rusticola.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'da ılıman kuşak ve tayga ormanlarında yuvalar. En yakın yuvaladığı alan, Bulgaristan ve Romanya dağları ve Kafkasya'dır.
 
 Nisan 1992'de Kızılırmak Deltası'nın ormanlık alanlarında 17 Nisan'da gözlenen, kürek çekercesine yavaş kanat çırparak gerçekleştirdiği kur uçuşunun da gözlendiği dört kaydı vardır ancak aynı mevsimde başka gözlemlerin olmaması nedeniyle üreme olasılığını reddedilmiştir [@hustings1994].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Büyük Suçulluğu
+# Büyük Suçulluğu
 
 *Gallinago media*, Great Snipe
 
@@ -188,15 +188,15 @@ Kışın İç Anadolu'da (1969 Ocak ortasında Akşehir'de bir birey) ve güney 
 
 ![](images/harita_Gallinago%20media.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrupa ve Orta Sibirya'da tundra ve tayga kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Sibirya Suçulluğu
+# Sibirya Suçulluğu
 
 *Gallinago stenura*, Pin-tailed Snipe
 
@@ -210,15 +210,15 @@ Monotipik bir türdür.
 
 ![](images/harita_Gallinago%20stenura.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Doğu Sibirya'da yuvalar. Kışı Hindistan ve Güneydoğu Asya'da geçirir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Suçulluğu
+# Suçulluğu
 
 *Gallinago gallinago*, Common Snipe
 
@@ -234,18 +234,18 @@ Monotipik bir türdür.
 
 ![](images/harita_Gallinago%20gallinago.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Bataklıklarda yuvalar.\
 **Yuvası:** Yerde bir çukura yaptığı yuvasını bitkisel malzemeyle kaplar ve genellikle otların ya da yüksek bitkilerin arasına iyice gizler.\
 **Yumurta sayısı:** Bulunan tek yuvada 4 yumurta gözlenmiştir.\
 **Üreme dönemi:** Muhtemelen mayıs sonu ve haziran ayında yumurta koyar. **İÇA:** 22-23 Haziran 1998’de Eskil ve Cihanbeyli arasında, kuyruk tüylerini vızıldatan (*drumming*) bireyler kaydedilmiştir. Bu gözlem, bölgede üreme olasılığına dair en güçlü kanıtlardan biridir [@marlow2001]. 2002’de Palas Gölü’nde kur davranışı yapan bireyler kaydedilmiştir. Kozanlı Gölü’nde de kuyruk tüylerini vızıldatan bireyler gözlenmiştir. **KAR:** Haziran 1992’de Kızılırmak Deltası’nda kur davranışı yapan bireyler gözlenmiştir [@hustings1994]. Kızılırmak Deltası’nda bir yuva bulunmuş ve ürediği kanıtlanmıştır [@Oguz2022]. **DOA:** Mayıs 1970’te Doğu Anadolu’da kur davranışı yapan bireyler gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Büyük Denizdüdükçünü
+# Büyük Denizdüdükçünü
 
 *Phalaropus tricolor*, Wilson's Phalarope
 
@@ -259,15 +259,15 @@ Türkiye'de nominat alttürü bulunur.
 
 ![](images/harita_Phalaropus%20tricolor.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Amerika'nın preri bölgesinde yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Geçmişte tek türlü Steganopus cinsi altında sınıflandırılmıştır.
 
-## Kızıl Denizdüdükçünü
+# Kızıl Denizdüdükçünü
 
 *Phalaropus fulicarius*, Red Phalarope
 
@@ -283,15 +283,15 @@ Türkiye'de bulunduğu iddia edilmiş güvenilir olmayan kaynakları vardır [@e
 
 ![](images/harita_Phalaropus%20fulicarius.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Amerika ve Orta ve Doğu Sibirya'nın tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Denizdüdükçünü
+# Denizdüdükçünü
 
 *Phalaropus lobatus*, Red-necked Phalarope
 
@@ -307,15 +307,15 @@ Sonbaharda temmuz başından ekim başına kadar kaydedilir, ancak ağustos ve e
 
 ![](images/harita_Phalaropus%20lobatus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Terek Düdükçünü
+# Terek Düdükçünü
 
 *Xenus cinereus*, Terek Sandpiper
 
@@ -327,19 +327,19 @@ Monotipik bir türdür.
 
 Muhtemelen her iki mevsimde de en sık olarak Van Gölü Havzası'nda kaydedilir. Mayıs 1989'da Van sazlıklarında en fazla 16 birey, Temmuz 1986'da Haçlı Gölü'nde 15 birey ve Mayıs 1985'te Bendimahi Deltası'nda 11 birey kaydedilmiştir. Ülkenin geri kalanındaki geçişi tipik olarak çok az sayılarda ve genellikle beş bireyden daha az gevşek gruplar halindedir, istisna olarak Mayıs 1990'da Çukurova'da on birey gözlenmiştir. yaklaşık 50 kayıt derlenmiştir [@kasparek1992a]. O tarihten sonra birçok kaydı olmuştur ancak muhtemelen yine de toplamda 150'yi pek aşmaz. İlkbaharda mart ortası ile haziran ortası arasında geçer, geçişi mayısın ilk yarısında yoğunlaşır. Sonbaharda temmuz ortası ile ekim sonu arasında görülür, ağustos ortası geçişin en yoğun olduğu dönemdir; eylülün ilk haftasından sonra nadiren kaydedilir.
 
-5 Ocak 2002'de Göksu Deltası'nda bir kışlama kaydı vardır [@demirci2002]; türün düzenli olarak kışladığı en yakın yer Basra Körfezi'dir. Belirsiz bir referansla 1875 yazında İstanbul çevresinde vurulduğu ve Robert Koleji (Bebek, İstanbul) koleksiyonuna dâhil edildiği belirtilen bir çift [@sclater1876] dışında Hollom ve Jamieson'un Mayıs 1966'da Erçek Gölü'ndeki kaydından önce ülkede başka kaydı yoktur [@kumerloeve1966d; @kumerloeve1967phalaropusa].
+5 Ocak 2002'de Göksu Deltası'nda bir kışlama kaydı vardır [@demirci2002]; türün düzenli olarak kışladığı en yakın yer Basra Körfezi'dir. Belirsiz bir referansla 1875 yazında İstanbul çevresinde vurulduğu ve Robert Koleji (Bebek, İstanbul) koleksiyonuna dâhil edildiği belirtilen bir çift [@sclater1876] dışında Hollom ve Jamieson'un Mayıs 1966'da Erçek Gölü'ndeki kaydından önce ülkede başka kaydı yoktur [@kumerloeve1966d; @kumerloeve1967phalaropus].
 
 ![](images/harita_Xenus%20cinereus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Avrasya'da Kuzeydoğu Avrupa ile Bering Denizi arasında tayga ve ormanlık tundra kuşaklarında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Zaman zaman Tringa cinsi altında değerlendirilir.
 
-## Dere Düdükçünü
+# Dere Düdükçünü
 
 *Actitis hypoleucos*, Common Sandpiper
 
@@ -349,24 +349,24 @@ Monotipik bir türdür. Zaman zaman Tringa cinsi altında değerlendirilir.
 
 </iframe>
 
-Yukarı Aras ve Murat vadilerinde, Erzurum çevresinde sık görülen üreyen bir türdür [@kumerloeve1967phalaropusa]. Muhtemelen Kralkızı Barajı'nda [@karakas2005a], Kocaçay Deltası'nda [@ertan1996] ve Dalyan bölgesinde birkaç üreme sezonu kaydı vardır [@kilic1989]. En azından zaman zaman daha düşük yüksekliklerde ve Karadeniz'de deniz seviyesinde bile üreyebilir [@hustings1994].
+Yukarı Aras ve Murat vadilerinde, Erzurum çevresinde sık görülen üreyen bir türdür [@kumerloeve1967phalaropus]. Muhtemelen Kralkızı Barajı'nda [@karakas2005a], Kocaçay Deltası'nda [@ertan1996] ve Dalyan bölgesinde birkaç üreme sezonu kaydı vardır [@kilic1989]. En azından zaman zaman daha düşük yüksekliklerde ve Karadeniz'de deniz seviyesinde bile üreyebilir [@hustings1994].
 
 Geçit sırasında sulakalanlarda ve kıyılarda boldur. İlkbahar geçişi mart ortasından en az mayıs ortasına kadar sürer ve en yoğun olduğu dönem, en azından iç ve güney bölgeleri için, nisanın ikinci yarısıdır. Sonbaharda temmuz sonundan ekim sonuna kadar kaydedilir. Muhtemelen Türkiye'deki üremede başarısız olan bireyler, haziran sonundan itibaren sulakalanlarda tekrar gözükmeye başlar. Kasım ortası kadar geç bir tarihte İç Anadolu'da gözlenen bir birey muhtemelen kışlamaya niyetlenmiştir. Az sayılarda da olsa özellikle Ege ve Akdeniz'deki uygun kıyısal sulakalanlarda düzenli olarak kışlar ancak bu mevsimde bu bölgelerin iç kesimlerinden de birkaç of kaydı vardır. Ayrıca, İç Anadolu'da aralık ortasında ve ocak ortasında birer, Karadeniz'de ocakta bir ve Güneydoğu Anadolu'da ocak sonunda bir kaydı vardır.
 
 ![](images/harita_Actitis%20hypoleucos.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Çoğunlukla yüksek kesimlerde (en az 2600 m), hızlı akan nehirler boyunca ve göllerde ürer. Özellikle adalar, kum ve çakıl suvatlarının bulunduğu alanları tercih eder. Genellikle biraz kenar vejetasyonu bulunan ve söğüt gibi çalılıklarla karışık açık kum alanlarında yuva yapar. Çiftler genellikle yalnız ürer, ancak en uygun habitatlarda iki ya da daha fazla çiftin yakın mesafede ürediği de gözlenmiştir.\
 **Yuvası:** Kumda sığ bir oyuk şeklindeki yuvasını bitki sapları, otlar ve yapraklarla kaplar.\
 **Yumurta sayısı:** Türkiye’deki yumurta sayısına dair bilgi bulunmamaktadır.\
 **Üreme dönemi:** Nisan sonu kur davranışına başlar. Haziran ve temmuz aylarında yavrular çıkar. **AKD:** 3 Haziran 1999’da Demirkazık’ın kuzeyindeki bir nehirde yavrulu bir çift kaydedilmiştir. **KAR:** 11 Nisan 1975’te Giresun’da kaydedilen bir yuva kaydı, çok erken bir tarih olması nedeniyle şüpheli olarak değerlendirilmiştir. Mayıs ayında kur davranışı ve alarm ötüşü yapan, haziran-temmuz aylarında muhtemelen yavrulu olan birkaç erişkin kaydedilmiştir. **DOA:** Ağrı’nın 57 km kuzeybatısında, Sarıcan’da bir nehir kenarındaki düz kumluk alanda seyrek ve uzun otların arasına gizlenmiş bir yuva bulunmuştur. 21 Haziran 2004’te gözlenen dört yumurtanın 25 Haziran’da çatlaması, yumurtlamanın 1 Haziran’da başladığını göstermektedir. Haziran 1968’de Yüksekova ve Çatak’ta iki genç birey kaydedilmiştir [@kumerloeve1969a]. Haziran 1969 başlarında Gürpınar’ın doğusunda bir çift ve bir yavru görülmüştür. 2 Haziran 1969’da yaklaşık bir haftalık olan bu yavru, yumurtlamanın mayıs başında başladığını göstermektedir. **GDA:** Diyarbakır yakınlarında Kralkızı Barajı’nda mart sonunda çiftlerin oluştuğu kaydedilmiş, 28 Nisan 2000 ve 22 Nisan 2001’de kur davranışları gözlenmiştir [@karakas2005a].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Eskiden *Tringa* cinsi altında sınıflandırılmıştır [@sibley1990].
 
-## Benekli Düdükçün
+# Benekli Düdükçün
 
 *Actitis macularius*, Spotted Sandpiper
 
@@ -380,15 +380,15 @@ Monotipik bir türdür. Eskiden *Tringa* cinsi altında sınıflandırılmışt�
 
 ![](images/harita_Actitis%20macularius.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Amerika'da yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Eskiden *Tringa* cinsi altında sınıflandırılmıştır [@sibley1990].
 
-## Yeşil Düdükçün
+# Yeşil Düdükçün
 
 *Tringa ochropus*, Green Sandpiper
 
@@ -406,18 +406,18 @@ Genellikle 50 bireyden daha küçük gruplar halinde gözlenir ancak 200 bireyde
 
 ![](images/harita_Tringa%20ochropus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Küçük göller ve bataklıklar bulunan ormanlık alanlar. Genelde Kuzey Avrasya'daki nemli ormanlarda ve tayga kuşağında yuvalar. Türkiye'de nadiren yuvaladığı düşünülür.\
 **Yuvası:** Yuvasını bazen yerde bazen ağaçta, alçak bir dalda yapar. Eski bir ardıç yuvasını kullanabilir\
 **Yumurta sayısı:** Türkiye'de yumurta sayısı bilinmez. Diğer yerlerde 3-4 yumurta koyar.\
 **Üreme dönemi:** Mayıs ve haziran arasında yumurta bırakması beklenir. Yavrular temmuz ve ağustosta görülür. **MAR:** Mayıs ve Ağustos 2009’da Istranca Dağları’nda birkaç birey gözlenmiş, Ağustos'ta genç kuşlar görülmüştür [@ozkan2010]. **KAR:** 12 Haziran 1975'te İkizdere ve İspir arasındaki dağlarda 3000 metrede nemli bir çayırda kur davranışı yapan bir birey gözlenmiştir [@ost1978].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Bataklık Düdükçünü
+# Bataklık Düdükçünü
 
 *Tringa stagnatilis*, Marsh Sandpiper
 
@@ -431,15 +431,15 @@ Lagünlerde, çamur düzlüklerinde, gölcüklerde ve sazlıklarda bulunur. Doğ
 
 ![](images/harita_Tringa%20stagnatilis.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Ukrayna'dan Mançurya'ya uzanan bozkır ve tayga kuşağı arasında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Orman Düdükçünü
+# Orman Düdükçünü
 
 *Tringa glareola*, Wood Sandpiper
 
@@ -455,15 +455,15 @@ Genellikle birkaç düzineden daha küçük gruplar halinde gözlenir ancak baze
 
 ![](images/harita_Tringa%20glareola.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'da tundra ve tayga kuşağı arasında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kızılbacak
+# Kızılbacak
 
 *Tringa totanus*, Common Redshank
 
@@ -479,18 +479,18 @@ Tersakan ve Bolluk gölleri, Akşehir Gölü ve Sultansazlığı ve Van Gölü i
 
 ![](images/harita_Tringa%20totanus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Sazlıklarda, göl kenarlarında, su kıyılarındaki çayırlarda ve göllerdeki büyük adalarda ürer.\
 **Yuvası:** Yerde bir çukura yaptığı yuvasını bitkisel malzemeyle kaplar ve genellikle otların ya da yüksek bitkilerin arasına iyice gizler.\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı 3 (4 yuvada) ve 4 (10 yuvada) olarak kaydedilmiştir. 1-2 yumurtalı yuvalar, tamamlanmamış kuluçka olarak değerlendirilmiştir.\
 **Üreme dönemi:** Kıyısal alanlarda mayıs ortasında, İç Anadolu'da mayıs başında, Doğu Anadolu'da mayıs sonu ve haziran başında yumurta koyar. Yavrular haziran ve temmuz ayında görülebilir. **EGE:** Haziran 1995’te Gediz Deltası’nda bir erişkin ve iki yavru kaydedilmiştir [@eken1997a]. **KAR:** 4 Haziran 1992’de Kızılırmak Deltası’nda kaydedilen yumurtadan yeni çıkmış dört yavru [@hustings1994], yumurtlamanın mayısın ikinci haftasında başladığını göstermektedir. **İÇA:** Mayıs ortasında tamamlanmış kuluçkalı beş yuva bulunmuştur. 5 Haziran 1992’de Eşmekaya’da bulunan 4, 2 ve 1 yumurtalı üç yuva, telafi yuvaları olarak değerlendirilmiştir. 24 Haziran 1992’de Bolluk Gölü’nde gözlenen büyük yavru, yumurtlamanın mayıs başında olduğunu göstermektedir. 15 Mayıs 2004’te Bolluk Gölü’nde dört yumurtalı üç yuva bulunmuş, yumurtalardan biri 16 Mayıs 2004’te çatlamış olup yumurtlamanın 20 Nisan civarında başladığını göstermektedir. **DOA:** 31 Mayıs 1990’da Erçek Gölü’nde bulunan yumurtalı bir yuva, bölgedeki en erken kayıttır. Aynı yerde, biri 3 Haziran 2001’de ve ikisi 28 Haziran 1968’de olmak üzere yumurtaları tamamlanmış üç yuva daha bulunmuştur. 8 Haziran 2004’te Tatvan yakınlarında dört yumurtalı bir yuva ile muhtemelen yavruları olan ve alarm ötüşü yapan birkaç erişkin kaydedilmiştir. 1 Temmuz 1985’te Van’da bulunan, yumurtadan yeni çıkmış dört yavrulu bir yuva, yumurtlamanın haziran başında başladığını göstermektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
-Nominat *totanus* ve muhtemelen zayıf biçimde ayrılmış olan *ussuriensis* alttürlerinin bulunduğu düşünülmüştür [@cramp1993; @kivit1994]. Daha sonra, *totanus* alttürünü kuzey Avrupa ile sınırlamayı tercih etmiş ve Türkiye'de üreyenlerin muhtemelen ya *britannica* (*totanus* alttürünün sinonimi) ya da bilinmeyen bir form olduğunu düşünmüştür [@roselaar1995]. Kasım 1945'te Ankara yakınlarında ölçülerine dayanarak Orta Asya'da Pamir'de üreyen *eurhina* ırkından olabileceğini etmiştir [@wadley1951]. Doğuda toplanan örnekler *eurhina* alttürüne atfedilse de bu formun teşhisinin zorluğu da itiraf edilmiştir [@kumerloeve1967phalaropusa; @kumerloeve1969a]. Temmuz 2003'te Tring Doğa Tarihi Müzesi'nde Wadley örneğini bulunamamış olsa da Türkiye'den iki başka örnek zayıf biçimde tanımlanan *eurhina* alttürüne uymaktadır: 5 Şubat 1869'da alınan bir birey ve 13 Mayıs 1876'da Danford tarafından alınan bir erkek birey.
+Nominat *totanus* ve muhtemelen zayıf biçimde ayrılmış olan *ussuriensis* alttürlerinin bulunduğu düşünülmüştür [@cramp1993; @kivit1994]. Daha sonra, *totanus* alttürünü kuzey Avrupa ile sınırlamayı tercih etmiş ve Türkiye'de üreyenlerin muhtemelen ya *britannica* (*totanus* alttürünün sinonimi) ya da bilinmeyen bir form olduğunu düşünmüştür [@roselaar1995]. Kasım 1945'te Ankara yakınlarında ölçülerine dayanarak Orta Asya'da Pamir'de üreyen *eurhina* ırkından olabileceğini etmiştir [@wadley1951]. Doğuda toplanan örnekler *eurhina* alttürüne atfedilse de bu formun teşhisinin zorluğu da itiraf edilmiştir [@kumerloeve1967phalaropus; @kumerloeve1969a]. Temmuz 2003'te Tring Doğa Tarihi Müzesi'nde Wadley örneğini bulunamamış olsa da Türkiye'den iki başka örnek zayıf biçimde tanımlanan *eurhina* alttürüne uymaktadır: 5 Şubat 1869'da alınan bir birey ve 13 Mayıs 1876'da Danford tarafından alınan bir erkek birey.
 
-## Küçük Sarıbacak
+# Küçük Sarıbacak
 
 *Tringa flavipes*, Lesser Yellowlegs
 
@@ -504,15 +504,15 @@ Amerika kıtasına yaşayan, Eski Dünya'da rastlantısal konuk olan bir türdü
 
 ![](images/harita_Tringa%20flavipes.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Amerika'da tayga kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kara Kızılbacak
+# Kara Kızılbacak
 
 *Tringa erythropus*, Spotted Redshank
 
@@ -528,15 +528,15 @@ Ara sıra tek bir alanda yaklaşık 300 bireye kadar olmak üzere genellikle nis
 
 ![](images/harita_Tringa%20erythropus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'da ağaçlık ve çalılık tundrada yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Yeşilbacak
+# Yeşilbacak
 
 *Tringa nebularia*, Common Greenshank
 
@@ -550,15 +550,15 @@ Mart ortasında başlayan geçişi nisanda yoğunlaşarak en az mayıs ortasına
 
 ![](images/harita_Tringa%20nebularia.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'nın tayga kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Taşçeviren
+# Taşçeviren
 
 *Arenaria interpres*, Ruddy Turnstone
 
@@ -574,15 +574,15 @@ Ege ve Akdeniz kıyılarında kışın aralık ve şubat arasında daha seyrek v
 
 ![](images/harita_Arenaria%20interpres.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Büyük Kumkuşu
+# Büyük Kumkuşu
 
 *Calidris canutus*, Red Knot
 
@@ -604,15 +604,15 @@ Nominat *canutus* alttürü çoğunlukla halka göçü yapar (İng. Great Circle
 
 ![](images/harita_Calidris%20canutus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Amerika, Orta ve Doğu Sibirya'da tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Batı ve Güney Afrika'da kışlayan ve Sibirya'nın kuzeyi ile muhtemelen Yakutistan'da üreyen nominat canutus alttürü bulunur.
 
-## Döğüşkenkuş
+# Döğüşkenkuş
 
 *Calidris pugnax*, Ruff
 
@@ -628,15 +628,15 @@ Karadeniz, Ege, Akdeniz, Marmara ve İç Anadolu'daki sulakalanlarda seyrek olma
 
 ![](images/harita_Calidris%20pugnax.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'nın kuzey çayırlık alanlarında yuvalar. En yakın yuvalama alanları kuzey Ukrayna ve Polonya'dadır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Önceleri *Philomachus pugnax* olarak adlandırılırdı.
 
-## Sürmeli Kumkuşu
+# Sürmeli Kumkuşu
 
 *Calidris falcinellus*, Broad-billed Sandpiper
 
@@ -652,15 +652,15 @@ Sonbaharda 10 Temmuz ile 27 Eylül (çoğunluğu Ağustos sonu ile Eylül başı
 
 ![](images/harita_Calidris%20falcinellus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. İskandinaya Dağları'nda ve Orta ve Doğu Sibirya'da dağlık tundrada yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur. Eskiden *Limicola falcinellus* olarak adlandırıldı.
 
-## Kızıl Kumkuşu
+# Kızıl Kumkuşu
 
 *Calidris ferruginea*, Curlew Sandpiper
 
@@ -674,15 +674,15 @@ Türkiye'de nominat alttürü bulunur. Eskiden *Limicola falcinellus* olarak adl
 
 ![](images/harita_Calidris%20ferruginea.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Orta ve Doğu Sibirya'nın tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Sarı Bacaklı Kumkuşu
+# Sarı Bacaklı Kumkuşu
 
 *Calidris temminckii*, Temminck's Stint
 
@@ -698,15 +698,15 @@ Kışın ara sıra Akdeniz, Ege ve Güneydoğu Anadolu'da az sayılarda kaydedil
 
 ![](images/harita_Calidris%20temminckii.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'nın tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Ak Kumkuşu
+# Ak Kumkuşu
 
 *Calidris alba*, Sanderling
 
@@ -722,15 +722,15 @@ Kasım başından mayıs sonlarına kadar kışlar. Büyükçekmece'de 130 ve Ta
 
 ![](images/harita_Calidris%20alba.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Kutup Denizi adalarında ve Kuzey Amerika ve Avrasya'nın en kuzeydeki tundra kuşağında yuvalar. Kozmopolit bir türdür.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kara Karınlı Kumkuşu
+# Kara Karınlı Kumkuşu
 
 *Calidris alpina*, Dunlin
 
@@ -746,15 +746,15 @@ Göçün en yoğun olduğu dönemler nisan başından mayıs sonuna kadar ve tem
 
 ![](images/harita_Calidris%20alpina.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Muhtemelen çoğunluğu nominattır ve WIWO'nun Çukurova Deltası'nda 1988 yılında yaptığı halkalama çalışmalarına göre hangi az sayıda *schinzii* alttürü de bulunur. Batı Palearktik'te muhtemelen rastlantısal olduğu düşünülen doğu formu *sakhalina* [@cramp1983] bile Türkiye'de bulunabilir [@have_etal1988; @kivit1994].
 
-## Küçük Kumkuşu
+# Küçük Kumkuşu
 
 *Calidris minuta*, Little Stint
 
@@ -770,15 +770,15 @@ Doğu Anadolu dışında ülke genelinde düzenli ancak lokal olarak kışlayan 
 
 ![](images/harita_Calidris%20minuta.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrupa ve Asya'nın tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Ak Sokumlu Kumkuşu
+# Ak Sokumlu Kumkuşu
 
 *Calidris fuscicollis*, White-rumped Sandpiper
 
@@ -792,15 +792,15 @@ Monotipik bir türdür.
 
 ![](images/harita_Calidris%20fuscicollis.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Amerika'nın tundra kuşağında yuvalar. Kışı Güney Amerika'nın güneydoğu kıyılarında geçirir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Çizgili Kumkuşu
+# Çizgili Kumkuşu
 
 *Calidris melanotos*, Pectoral Sandpiper
 
@@ -816,10 +816,10 @@ Türkiye’de oldukça nadir rastlanan bir türdür. Şimdiye kadar kaydedilen g
 
 (harita güncellenecektir)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Asıl üreme alanı Orta ve Doğu Sibirya ve Kuzey Amerika'nın tundra kuşağıdır. Kışlama alanı Avustralya, Yeni Zelanda ve Güney Amerika'dır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.

@@ -2,7 +2,7 @@
 title: "Ördekgiller"
 ---
 
-## Boz Kaz
+# Boz Kaz
 
 *Anser anser*, Greylag Goose
 
@@ -20,18 +20,18 @@ Geçiş sırasında tüm bölgelerde görülen ve ekimden itibaren mart sonuna k
 
 ![](images/harita_Anser%20anser.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Göllerdeki adalarda genellikle küçük gruplar halinde ürer.\
 **Yuvası:** Kulu Gölü'nde gözlenen yuvası kuru toprağa kazılmış sığ bir çukurdur ve çevredeki bitki örtüsü ile küçük tüylerle astarlanmıştır. Ereğli Sazlığı'ndaki yuvası ise saz ve diğer sucul bitkilerden oluşan, su seviyesinin üstünde kalan bir yapının üzerine kurulmuştur.\
 **Yumurta Sayısı:** Türkiye'de yumurta sayısına ilişkin güvenilir gözlem yoktur. Yuvadan ayrılmış beş yavru, en az beş yumurta koyduğunu gösterir. Diğer ülkelerde genellikle 4-6 yumurta bırakır.\
 **Üreme Dönemi:** Mart sonunda yumurtlar. En erken yavrular 23 Nisan 1988’de Kulu Gölü’nde, 27 Nisan 1988’de Sultansazlığı’nda, 30 Nisan 1968’de Mogan Gölü’nde ve 30 Nisan 1973’te Ereğli Sazlıkları’nda gözlenmiştir. 20 Nisan 1996’da Marmara’da, 14 Mayıs 1969’da Karadeniz’de, 16 Mayıs 1970’te ve 24 Haziran 1983’te Doğu Anadolu’da kaydedilen yavrular geç üremeyi işaret eder.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Ülkemizde *rubrirostris* alttürü bulunur. Bu alttür turuncu gagasıyla Batı ve Orta Avrupa'da bulunan pembe gagalı *anser* alttüründen ayrılır.
 
-## Sakarca
+# Sakarca
 
 *Anser albifrons*, Greater White-fronted Goose
 
@@ -47,15 +47,15 @@ Kış ortası su kuşu sayımlarında (KOSKS) ülke genelinde en yüksek sayı 1
 
 ![](images/harita_Anser%20albifrons.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın tundra bölgelerinde yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Küçük Sakarca
+# Küçük Sakarca
 
 *Anser erythropus*, Lesser White-fronted Goose
 
@@ -73,15 +73,15 @@ Doğu Anadolu'da 20 Kasım 2004'te Haçlı Gölü'nde uydudan izlenen bir birey 
 
 ![](images/harita_Anser%20erythropus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey İskandinavya'dan Doğu Sibirya'ya kadar uzanan tundra kuşağında ürer.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Tundra Kazı
+# Tundra Kazı
 
 *Anser serrirostris*, Tundra Bean Goose
 
@@ -99,15 +99,15 @@ Monotipik bir türdür.
 
 ![](images/harita_Anser%20serrirostris.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme alanı Kuzey İskandinavya'dan Doğu Sibirya'ya uzanan tundra kuşağındadır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Tayga Kazı, yakın zamana kadar Tarla Kazı olarak bilinen bir türden ayrılan yeni bir türdür. Beş alttüre sahip olan Tarla Kazı (*Anser fabalis*), iki gruba ayrılmıştır: *fabalis*, *johanseni* ve *middendorffii* alttürleri Tayga Kazı (*Anser fabalis*), *serrirostris* ve *rossicus* alttürleri ise Tundra Kazı (*Anser serrirostris*) olarak sınıflandırılmıştır.
 
-## Yosun Kazı
+# Yosun Kazı
 
 *Branta bernicla*, Brant Goose
 
@@ -121,15 +121,15 @@ Batı Avrupa’nın Atlantik kıyılarında kışlar. Türkiye ve çevresinde ra
 
 ![](images/harita_Branta%20bernicla.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Orta ve Kuzey Sibirya'nın Kutup Denizi kıyılarında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Bir kayıtta kuşun alttürü *bernicla* olarak tanımlanmıştır. Keza, Kuzeybatı Avrupa'da kışlayan *bernicla* alttürünün Türkiye'de görülmesi olasıdır. Yunanistan'daki bir kayıt da bu alttüre aittir [@handrinos1997].
 
-## Ak Yanaklı Kaz
+# Ak Yanaklı Kaz
 
 *Branta leucopsis*, Barnacle Goose
 
@@ -143,15 +143,15 @@ Bir kayıtta kuşun alttürü *bernicla* olarak tanımlanmıştır. Keza, Kuzeyb
 
 ![](images/harita_Branta%20leucopsis.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Grönland, İzlanda, Kuzey Batı Rusya ve Baltık Denizi kıyılarında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Sibirya Kazı
+# Sibirya Kazı
 
 *Branta ruficollis*, Red-breasted Goose
 
@@ -171,15 +171,15 @@ Türkiye'de açıklama gerektiren bir yaz veya üreme kaydı vardır. 5 Ağustos
 
 ![](images/harita_Branta%20ruficollis.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Doğu Sibirya'da tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Sessiz Kuğu
+# Sessiz Kuğu
 
 *Cygnus olor*, Mute Swan
 
@@ -197,18 +197,18 @@ Kış aylarında Karadeniz, Marmara ve Ege Bölgelerinde yaygın olarak en yüks
 
 ![](images/harita_Cygnus%20olor.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Geniş sazlık alanlar, su aynası bulunan büyük göller ve bataklıklarda yuvalar.\
 **Yuvası:** Türkiye'de henüz bir yuva tarifi yapılmamıştır. Diğer bölgelerde yuva su kıyısındaki zemin üzerinde, küçük bir adacıkta ya da sığ sudaki sazların üstüne kurulur. Yuva, saz ve diğer sucul bitkilerden oluşan büyük bir yığının ortasında çukur şekilli bir yapıdır.\
 **Yumurta Sayısı:** Türkiye'deki yumurta sayısı bilinmez. Ancak Türkiye dışındaki yuvalarda genellikle 5-7 yumurta bıraktığı bilinmektedir.\
 **Üreme Dönemi:** Nisan başında yumurtlamaya başlar, yavrular ise mayıs ve temmuz ayları arasında görülür. **EGE:** 13 Mayıs 1899'da İzmir'de bir sazlıkta yuvalayan bir çift kaydedilmiştir [@selous1900]. **İÇA:** 6 Temmuz 1976'da Ereğli Sazlığı'nda bir çift ve 4-5 genç yavru, 17 Temmuz 1982'de bir çift ve dört genç, 16 Mayıs 1987'de ise yumurtadan yeni çıkmış yavrular gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Küçük Kuğu
+# Küçük Kuğu
 
 *Cygnus columbianus*, Tundra Swan
 
@@ -224,15 +224,15 @@ Türkiye'de kışlayan kuşların üreme alanları ve göç koridorları tespit 
 
 ![](images/harita_Cygnus%20columbianus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Sibirya Tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de Eski Dünya'da yaşayan *bewickii* alttürü bulunur; bu alttür, gaga kökü ve yüz derisinin sarı olmasıyla tanınır. Amerika'da yaşayan *columbianus* alttürü ise siyah gaga ve siyah yüz derisi ile kolaylıkla ayırt edilebilir.
 
-## Ötücü Kuğu
+# Ötücü Kuğu
 
 *Cygnus cygnus*, Whooper Swan
 
@@ -246,15 +246,15 @@ Ekim sonu ile nisan başı arasında yaygın olarak az sayıda görülen bir kı
 
 ![](images/harita_Cygnus%20cygnus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme bölgesi Kuzey Avrasya'dadır
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Nil Kazı
+# Nil Kazı
 
 *Alopochen aegyptiaca*, Egyptian Goose
 
@@ -272,15 +272,15 @@ Monotipik bir türdür.
 
 ![](images/harita_Alopochen%20aegyptiaca.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme alanları çoğunlukla Sahra Altı Afrika'dadır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Suna
+# Suna
 
 *Tadorna tadorna*, Common Shelduck
 
@@ -298,18 +298,18 @@ Kışlayan toplam nüfus genellikle 1000-5000 birey arasında değişir. Ana kı
 
 ![](images/harita_Tadorna%20tadorna.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Geniş, sığ ve tuzlu sulakalanlarda, adalar, sedde duvarları ve çalı altlarında yuvalar.\
 **Yuvası:** Avrupa'da yuvaların çoğu tavşan oyuklarında, tünelin 1-2 metre içinde bulunur. Ancak Türkiye'deki yuvalar genellikle yerdedir. Bolluk Gölü'ndeki yuvaların bazıları tamamen açıkta, bazıları ise kısmen ya da tamamen çalı altında, bir tanesi ise doğal bir oyuğun içinde bulunmuştur.\
 **Yumurta Sayısı:** Genellikle 6-9 yumurta bıraktığı gözlenmiştir. Bolluk Gölü'ndeki yuvalarda gözlenen 10-18 yumurtanın, birden fazla dişi tarafından bırakılmış olması muhtemeldir.\
 **Üreme Dönemi:** Gediz Deltası'nda haziran başında yavrular gözlenmiştir [@eken1997a]. İç Anadolu'da nisan sonu ile haziran başında, Doğu Anadolu'da ise haziran ortasında yumurtladığı düşünülmektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Angıt
+# Angıt
 
 *Tadorna ferruginea*, Ruddy Shelduck
 
@@ -327,18 +327,18 @@ Kış aylarında daha yaygın olarak görülür. En yüksek kış sayımında T�
 
 ![](images/harita_Tadorna%20ferruginea.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Genellikle göl kenarındaki sarp kayalıklarda, tepelerde ve yamaçlardaki çukur ve çatlaklarda, açık alanlarda yuvalar. Sıkça kayalıklarda yuva yaptığı gözlenmiştir. Beyşehir Gölü'ndeki bir adada, kayaların ve harabelerin taşları arasında ürediği kaydedilmiştir. 22-24 Mayıs 1998'de Ereğli yakınlarındaki bir kayalıkta, muhtemelen eski bir Kızıl Şahin yuvasında kuluçkaya yattığı gözlenmiştir.\
 **Yuvası:** Türkiye'de yuvası bitki artıkları, hav tüyleri ve bazı diğer tüylerle kaplanmış bir oyuk şeklindedir. 30 Nisan 2003'te Akköy yakınlarındaki dik bir yamaca giren bir dişi, muhtemelen bir tavşan yuvası olan bir oyuğa girerken gözlenmiş, ancak oyuğun derin olması nedeniyle yuva incelenememiştir.\
 **Yumurta Sayısı:** Genellikle 8-12 yumurta bıraktığı kaydedilmiştir.\
 **Üreme Dönemi:** Akdeniz ve Ege bölgelerinde mart sonu yumurtlama başlar. Diğer bölgelerde kuluçka nisan ve mayıs aylarında gerçekleşir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Boz Ördek
+# Boz Ördek
 
 *Mareca strepera*, Gadwall
 
@@ -354,18 +354,18 @@ Kızılırmak Deltası, bu türün Türkiye'deki en önemli üreme alanıdır ve
 
 ![](images/harita_Mareca%20strepera.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Göl kıyılarında ve adalarındaki yoğun bitki örtüsü, sazlıklar ve sık bitkilerle kaplı taşkın alanlarda yuvalar. Kızılırmak Deltası, Karamık Gölü, Kulu Gölü, Bolluk Gölü, Mogan Gölü, Ahlat Sazlıkları, Haçlı Gölü ve Van Gölü'nde yuvaladığı gözlenmiştir.\
 **Yuvası:** Yuva, yerde bir çukura kurulur ve bitkisel malzeme ile dişinin tüyleriyle kaplanır.\
 **Yumurta Sayısı:** Türkiye'deki yuvalarda yumurta sayısı 6-15 arasında değişir. İç Anadolu'da 7-15 yumurtalı yuvalar gözlenmiş ve bu yuvaların bir kısmında 1 ila 6 yumurtanın başka ördek türlerine ait olduğu tespit edilmiştir. Kulu Gölü'ndeki yuvalarda 6 Mayıs 1972'de 3-11 yumurta ve 14 Temmuz 1971'de 7 yumurta sayılmıştır [@kasparek1987a]. 17 Mayıs 2004'te Bolluk Gölü'ndeki bir yuvada 8 yumurta bulunmuştur.\
 **Üreme Dönemi:** Kızılırmak Deltası'nda nisan başında yumurtlamaya başlar [@hustings1994]. İç Anadolu'da nisan sonu ile temmuz arasında, Doğu Anadolu'da ise haziran ile eylül arasında yavrulara rastlanmıştır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttür görülür. Tür eskiden *Anas* cinsi altında sınıflandırılıyordu.
 
-## Fiyu
+# Fiyu
 
 *Mareca penelope*, Eurasian Wigeon
 
@@ -381,15 +381,15 @@ Ege, Akdeniz ve İç Anadolu'nun sulakalanlarında kalabalık sürüler halinde 
 
 ![](images/harita_Mareca%20penelope.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Avrupa'da yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Eskiden *Anas* cinsi altında sınıflandırılırdı.
 
-## Yeşilbaş
+# Yeşilbaş
 
 *Anas platyrhynchos*, Mallard
 
@@ -407,18 +407,18 @@ Sonbaharda göç alır ve popülasyonu artar. Kışlayan gruplar nisan başına 
 
 ![](images/harita_Anas%20platyrhynchos.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Göl ve nehir adalarında, sazlıklarda veya göl, sazlık ve subasar çayırların kıyılarındaki sık bitki örtüsü içinde yuvalar.\
 **Yuvası:** Yuvasını genellikle bitki örtüsünün altına, topraktaki bir oyuğa yapar. Diğer bölgelerde ağaç kovuklarına veya karga gibi kuşların ağaçlardaki eski yuvalarına yuvaladığı bilinir; ancak Türkiye'de bu tür yuvalara henüz rastlanmamıştır.\
 **Yumurta Sayısı:** Genellikle 5-9 yumurta bırakır, ancak yumurta sayısı 2-14 arasında değişebilir. Bir yuvadaki yumurtaların 14'ten fazla olması, birden fazla dişinin aynı yuvaya yumurtladığını gösterir.\
 **Üreme Dönemi:** Kıyı bölgelerinde marttan itibaren, diğer bölgelerde ise nisan veya mayısta yumurtlar. Yavrular mayıs başından temmuz sonuna kadar görülebilir. **MAR:** 18 Nisan 1993'te Kocaçay Deltası'nda yavrularıyla gözlenen bir dişi, en erken üreme kaydıdır [@ertan1996]. **KAR:** 19-20 Mayıs 1992'de Yeniçağa Gölü'nde yuvalarda hem yumurta hem yavrular gözlenmiştir. 5 Mayıs 1992'de Kızılırmak Deltası'nda sezonun ilk yavruları görülmüştür [@hustings1994]. 16 Mayıs 1967'de Manyas Gölü'nde dokuz yumurtalı bir yuva kaydedilmiştir. 20 Haziran 1973'te Trakya'da altı yavrulu bir dişi gözlenmiştir. **İÇA:** 1971'de Yarma'daki birçok yuvada diğer türlerin yumurtalarına rastlanmıştır; örneğin, bir yuvada 17 Yeşilbaş, üç Boz Ördek ve üç Macar Ördeği yumurtası tanınmıştır. 13-15 Temmuz 1971'de Kulu Gölü'nde sekiz yuva incelenmiş ve yuvalarda 2-12 yumurta bulunmuştur [@kasparek1987a]. Başka bir tarihte, mayıs ve haziran aylarında yumurtalı yuvalar ve mayıs ortasından itibaren yavrular gözlenmiştir. **DOA:** En erken kayıt, 14 Haziran 1968'de Erçek Gölü'nde kaydedilen yavrulardır. Aynı yerde 28 Haziran 1968'de beş ve sekiz yumurtalı iki yuva bulunmuş, 9 Haziran 2001'de Balık Gölü'nde iki yumurtalı yuva kaydedilmiştir [@kasparek1983].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Kaşıkgaga
+# Kaşıkgaga
 
 *Spatula clypeata*, Northern Shoveler
 
@@ -436,7 +436,7 @@ Tüm bölgelerde yaygın olarak kaydedilen bir geçit türüdür. Göçmen grupl
 
 ![](images/harita_Spatula%20clypeata.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Büyük sulakalanlarda yuvalar.\
 **Yuvası:** Kulu Gölü'nde bir adadaki seyrek bitki örtüsü içinde yuvalamıştır. Yuvasını çıplak zeminde sığ bir oyuk açarak yapar ve içine ot, bitki gövdeleri ve tüylerini karıştırarak döşer.\
@@ -444,11 +444,11 @@ Tüm bölgelerde yaygın olarak kaydedilen bir geçit türüdür. Göçmen grupl
 **Üreme Dönemi:** Türkiye'deki üreme sezonu hakkında yeterli veri bulunmamaktadır; diğer ülkelerde ise üreme sezonu genellikle nisan başı ile mayıs sonu arasındadır. **KAR:** 6-7 Temmuz 1972'de Kızılırmak Deltası'nda dört ve beş yavrulu iki dişi kaydedilmiştir [@dijksen1985]. 1992 yılında üreme kanıtlanamamış ve popülasyonun 0-1 çift olduğu belirtilmiştir [@hustings1994]. 1971 yılı Temmuz ortasında kaydedilen yumurtalı yuvalar, başarısız bir üremenin ardından gerçekleşen ikinci bir üreme denemesi olarak değerlendirilmiştir. **İÇA:** 14-15 Temmuz 1971'de Kulu Gölü'ndeki bir adada sekiz ve on yumurtalı iki yuva tespit edilmiştir. 5-6 Ağustos 1972'de iki ve dört yavrulu iki yavru grubu gözlenmiştir [@kasparek1987a]. 31 Mayıs 1987'de Kulu Gölü'nde yavrular gözlenmiş, 19 Haziran 1992'de dokuz yumurtalı bir yuva bulunmuştur. Haziran 1977'de Eşmekaya'da beş yavrusuyla birlikte bir dişi gözlenmiştir [@schubert1979].\
 **Doğu Anadolu:** 29 Mayıs 1969'da Van Gölü'nde kur davranışı gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kılkuyruk
+# Kılkuyruk
 
 *Anas acuta*, Northern Pintail
 
@@ -466,18 +466,18 @@ Genellikle eylül ortasından nisan başına kadar batı ve orta bölgelerde gö
 
 ![](images/harita_Anas%20acuta.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Büyük göllerde ve sulakalanlarda yuvalar.\
 **Yuvası:** Kulu Gölü'ndeki büyük adada kıyı vejetasyonu içinde yuvalamıştır. Yerdeki bir delikte yaptığı yuvasını bitkisel malzemeler, hav tüyleri ve kontür tüyleri ile kaplanmıştır.\
 **Yumurta sayısı:** 6-10 yumurta koyduğu kaydedilmiştir.\
 **Üreme dönemi:** Görünüşe göre mayıs ayında yumurtlar. **KAR:** Kızılırmak Deltası'nda üreme davranışları gözlenmiş, ürediği kesinleşmemiştir [@hustings1994]. **AKD:** Haziran 1998 ve 1999'da Girdev Gölü'nde yavrular gözlenmiştir. **İÇA:** 22 Mayıs 1992'de Kulu Gölü'nde yedi ve on yumurtalı iki yuva, 19 Haziran 1992'de 6 ila 9 yumurtalı beş yuva bulunmuştur. 24 Haziran 1992'de Bolluk Gölü'ndeki bir çalının altına gizlenen yuvada 11 yumurta sayılmıştır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Çıkrıkçın
+# Çıkrıkçın
 
 *Spatula querquedula*, Garganey
 
@@ -495,18 +495,18 @@ Nadiren Marmara, Ege ve Akdeniz'de az sayıda kışlar. Olağandışı yumuşak 
 
 ![](images/harita_Spatula%20querquedula.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Sazlık sulakalanlarda yuvalar.\
 **Yuvası:** Göl kenarlarındaki ıslak çayırlar, bataklıklar ve sazlıklarda, ikisinin bir arada olduğu alanlarda ve göl kenarındaki vejetasyonun içinde ürer.\
 **Yumurta sayısı:** Türkiye'den veri yoktur, diğer yerlerde olağan yumurta sayısı 8-11'dir.\
 **Üreme dönemi:** Nisan ortasından itibaren ürer. Yavrular temmuza kadar görülebilir. **KAR:** 19 Mayıs 1992'de Yeniçağa Gölü'nde yeni bozulmuş ancak yumurtaların taze olduğu açıkça anlaşılan iki yuva, 6 Mayıs 1993'te yakınlardaki ıslak bir çayırlıkta bir yuva bulunmuştur. 13 Mayıs 1986'da Abant Gölü'nde 17 yavru ve bir dişi gözlenmiş, yumurtlama tarihinin nisan ortası civarında olduğunu hesaplanmıştır. 2 Ağustos 1971'de Kızılırmak Deltası'nda bir çift ve yedi yavru kaydedilmiştir. **İÇA:** 10-15 Mayıs 1991'de Hotamış Sazlığı'nda yavrulu birkaç çift gözlenmiş [@kirwan1993a], 27 Temmuz 1971'de Kulu Gölü'nde büyük yavruları olan altı çift kaydedilmiş, Haziran ve Temmuz 1968'de Mogan Gölü'nde 1-2 kuluçka gözlenmiş, 27 Temmuz 1971'de Yarma'da büyük yavruları olan en az dört çift tespit edilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Çamurcun
+# Çamurcun
 
 *Anas crecca*, Eurasian Teal
 
@@ -524,18 +524,18 @@ Kışın hem iç bölgelerde hem de kıyısal sulakalanlarda yüksek sayıda bul
 
 ![](images/harita_Anas%20crecca.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Göllerde ve sazlıklarda ürer.\
 **Yuvası:** Yuva ve yumurta sayısı Türkiye'den bilinmez. Diğer yerlerde yuvasını yerdeki bir oyuğa yapar ve genellikle yapraklar, bitkisel malzemeler, hav tüyleri ve kontur tüyleriyle kaplar. Sulakalanlarda yüksek otların üzerine yuvalar, nadiren sudan uzağa da yuva yapabilir.\
 **Yumurta sayısı:** Türkiye'den veri yoktur, ancak diğer yerlerde olağan yumurta sayısı 8-12'dir.\
 **Üreme dönemi:** Nisan ortasından itibaren ürer, yavrular temmuza kadar görülebilir. **KAR:** 29 Mayıs 1979'da Kızılırmak Deltası'nda içinde yumurta olan bir yuva bulunmuş, 28 Temmuz 1971'de dokuz yavrulu bir dişi ve 6 Ağustos 1971'de beş yavrulu bir dişi gözlenmiştir [@dijksen1985]. 1992'de popülasyonun 15-20 çift olduğu belirlenmiş, 5 Mayıs'ta dikkati başka yere çekme davranışı gözlenmiş ancak hiçbir yuva bulunamamıştır [@hustings1994]. **İÇA:** 14 Mayıs 1991'de Hotamış Sazlığı'nda yavrularıyla birlikte birkaç erişkin gözlenmiş, bu da yumurtaların en geç nisan ortasında koyulmuş olduğunu göstermiştir [@kirwan1993a]. 5-6 Ağustos 1972'de Kulu Gölü'nde iki dişinin 7 ve 10 yavrusu gözlenmiştir [@kasparek1987a]. **DOA:** 24 Haziran 1983'te Haçlı Gölü'nde tek yavrulu bir dişi kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Yaz Ördeği
+# Yaz Ördeği
 
 *Marmaronetta angustirostris*, Marbled Duck
 
@@ -555,18 +555,18 @@ Amik Gölü'nün kurutulmasından önce muhtemelen önemli sayılarda bulunuyord
 
 ![](images/harita_Marmaronetta%20angustirostris.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Çukurova ve Göksu Deltası'nda sığ ve ötrofik göllerde bulunmuştur. Genellikle sazlık adaların, bitişik havuzlar ve sazlıkların bulunduğu yoğun sualtı vejetasyonuna sahip sığ göllerin çevresinde ürer ve geniş sulakalanları tercih eder. Sanılanın aksine acı veya tuzlu sularda değil tatlı suları tercih eder.\
 **Yuvası:** 9 Haziran 1993'te Göksu'da, kofanın (*Juncus*) baskın olduğu ve yakınlarda sazların (*Phragmites*) da bulunduğu bataklık bir bölgede sığ gölcüklerin olduğu bir alanda, yaklaşık 1 m çapındaki bir *Juncus* kümesinin içinde, sudan yaklaşık 0,7 m yüksekte gizlenmiş iki yumurtalı bir yuva bulunmuştur. Yuva sazlardan ve bitki gövdelerinden yapılmış dayanıklı bir kâse şeklindedir ve ince bitkisel malzemeyle kaplanmıştır; hav tüyü kullanılmamıştır.\
 **Yumurta Sayısı:** Yumurta sayısı 2 ile 12 arasında değişir, ortalama 6,5 yumurta olarak hesaplanmıştır [@green1993]. Diğer bölgelerde ise tipik yumurta sayısı 9-13'tür (5-18).\
 **Üreme Dönemi:** 22 Mayıs 1971'de Çukurova'da kaydedilen altı yavru, en erken kayıttır ve yumurtlamanın nisanın ikinci yarısında başladığını gösterir. Ana yumurtlama dönemi, mayısın ikinci yarısıyla haziran başı arasındadır. Yavrular en erken 7 Haziran'da ortaya çıkar ve temmuz sonuna kadar küçük yavrular görülebilir. Tamamen palazlanmış yavrular temmuz başında kaydedilmiştir. **AKD:** 1991'de Göksu Deltası'nda yaklaşık 50 çiftten en az 31'i yavru çıkarmıştır. Aynı yıl Göksu Deltası'nda 11 yuvada 8-13, 5 yuvada 4-6 ve bir yuvada 15 yavru sayılmıştır. 15 yavrunun, iki dişinin yumurtalarının bir araya gelmesiyle oluştuğu düşünülmektedir. Benzer şekilde 15-18 Temmuz 1992'de bir dişi 32 yavruyla görülmüştür [@green1993]. 10 Temmuz 1967'de hem büyük hem küçük yavrular haziran ve temmuzda az sayıda gözlenmiştir [@vielliard1968resultats]. **İÇA:** 4-5 Haziran 1971'de Yarma Sazlığı'nda 6 ve 13 yumurtalı iki yuva bulunmuş, bir yuvada bir Yeşilbaş yumurtası görülmüştür. 12 Haziran 1998'de Kulu Gölü'nde tek yavrulu bir erişkin kaydedilmiş ve temmuz ayında üç farklı alanda yavrular gözlenmiştir. **DOA:** 22 Temmuz 1987'de Van Sazlığı'nda küçük yavruları olan iki çift gözlenmiş, bu gözleme dayanarak yumurtlamanın haziran ortasında olduğu tahmin edilmiştir. Aynı alanda temmuz sonunda ve ağustos başında genç bireyler kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Macar Ördeği
+# Macar Ördeği
 
 *Netta rufina*, Red-crested Pochard
 
@@ -582,7 +582,7 @@ Monotipik bir türdür.
 
 ![](images/harita_Netta%20rufina.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Yoğun sazlıkların ve su kenarı bitkilerinin bulunduğu tatlı ya da sodalı göllerde ve su aynalarına sahip sazlıklarda ürer.
 
@@ -592,11 +592,11 @@ Monotipik bir türdür.
 
 **Üreme Dönemi:** Nisan sonu ile temmuz başı arasında yumurtlar. Yavrular temmuz sonuna kadar görülebilir. **MAR:** 1 Mayıs 1993'te Kocaçay Deltası'nda yumurtalı bir yuva bulunmuştur [@ertan1996]. **KAR:** Kızılırmak Deltası'nda 27 Mayıs 1992'de beş yumurtalı bir yuva bulunmuş, 4 Haziran 1992'de yaklaşık bir haftalık ilk tüylü yavru kaydedilmiş [@hustings1994] ve 27 Mayıs 1979'da sekiz yavrulu bir aile gözlenmiştir [@dijksen1985]. **AKD:** 18 Temmuz 1992'de Karamık Gölü'nde küçük yavrulardan oluşan bir aile gözlenmiştir. **İÇA:** Çoğu mayısta olmak üzere 25 Nisan'da yumurta kayıtları vardır. En geç kayıt 19 Haziran 1992'de 12 yumurtalı bir yuvadır. Biri 11 Mayıs'ta, çoğu haziranda olan birçok yavru kaydı vardır, en geç 8 Temmuz 1967'de [@vielliard1968resultats] ve 5 Ağustos 1972'de küçük yavrular gözlenmiştir. **DOA:** 21-22 Temmuz 1986'da Van Gölü'nde 7-8 yavrulu üç yavrulu bir aile kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Elmabaş Patka
+# Elmabaş Patka
 
 *Aythya ferina*, Common Pochard
 
@@ -612,18 +612,18 @@ Kışın ve geçiş dönemlerinde ülke genelinde yaygın ve boldur. Son yıllar
 
 ![](images/harita_Aythya%20ferina.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Göl kıyılarındaki sazlıklarda ve su aynalarının bulunduğu sazlık bataklıklarda ürer.\
 **Yuvası:** 19 Haziran 1984'te Erçek Gölü yakınlarındaki küçük bir gölde, sık bir örtü içindeki sazların dibine tutturulmuş ve sakarmeke yuvasına benzer şekilde sudan yükseğe yapılmış bir yuva bulunmuştur. Yuva, ölü saz gövdeleri ve diğer bitkisel malzemelerle derin ve düzgün bir kâse şeklinde örülmüş, bol miktarda hav tüyü ve diğer tüylerle kaplanmış dayanıklı bir yapıya sahiptir. Diğer bölgelerdeki yuvalar da genellikle benzer alanlarda olup nadiren su kıyısındaki yoğun bitki örtüsünün içinde kuru zeminde de bulunabilir.\
 **Yumurta Sayısı:** Türkiye'de yumurta sayısı kaydedilmemiştir, ancak gözlenen yavru sayısından 8-11 yumurta bırakabileceği düşünülmektedir. Diğer bölgelerde genellikle 6-9 yumurta bırakır. Gözlenen yavru sayısı ortalama 6,6'dır.\
 **Üreme Dönemi:** Nisan başı ile haziran ortasına kadar yumurta bırakır. Yavrular temmuz ayında gözlenebilir. **KAR.** Kızılırmak Deltası'nda 11 Mayıs 1992'de hav tüyleriyle kaplı birkaç günlük yavru, en erken kayıt olarak görülmüş ve bu da yumurtlamanın nisanın ilk haftasında olduğunu göstermiştir [@hustings1994]. 14 Haziran 1984'te yaklaşık 5 günlük yavrulardan oluşan bir kuluçka ile yaklaşık üç haftalık yavrulardan oluşan iki kuluçka gözlenmiştir [@dijksen1985]. **İÇA.** Haziran başlarında iki yumurtalı (tamamlanmamış) bir yuva bulunmuş, Haziran 1971'de Boz Ördek yuvalarına iki, dört ve beş yumurta bırakıldığı tespit edilmiştir. 13 Mayıs 1991'de Hotamış'ta yumurtalı bir yuva bulunmuştur [@kirwan1993a]. 1970 yılının mayıs ayı sonunda Eşmekaya'da küçük yavrulardan oluşan beş yavru, 1 Haziran 1969'da Sultansazlığı'nda altı yavru ve haziran-temmuz aylarında diğer alanlarda yavrular gözlenmiştir. **DOA.** 19 Haziran 1983'te Van Sazlığı'nda yavrularıyla birlikte sekiz dişi kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Pasbaş Patka
+# Pasbaş Patka
 
 *Aythya nyroca*, Ferruginous Duck
 
@@ -641,18 +641,18 @@ Geçiş sırasında az ve orta sayılarda bulunur ve ülke genelinde biraz daha 
 
 ![](images/harita_Aythya%20nyroca.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Çevresinde sazlıkların, yoğun su üstü vejetasyonunun ve çoğunlukla daha geniş sazlıkların ve bataklıkların bulunduğu tatlı su göllerinde ürer.\
 **Yuvası:** Su kenarındaki yoğun vejetasyonun içine yuva yapar. Kulu Gölü'ndeki bir adada, alçak çalıların arasında çıplak zeminde hafif bir çukurun içine yapılan yuvanın ot ve hav tüyleriyle kaplandığı gözlenmiştir [@pforr1982]; A. Limbrunner, kişisel görüşme).\
 **Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı 6-8 arasındadır.\
 **Üreme Dönemi:** Nisan ile haziran başı arasında yumurta bırakır. Yavrular ağustos ayına kadar gözlenebilir. **MAR:** 19 Haziran 1999'da Uluabat Gölü'nde bazıları küçük yavrulardan oluşan birkaç yavru grubu gözlenmiş, 1966'da Manyas Gölü'nde de yavrular kaydedilmiştir. **KAR:** Kızılırmak Deltası'nda çiftlerin çoğu sazlık alanlarda gözlenmiştir. 5 Mayıs 1992'de altı yumurtalı bir yuva bulunmuş ve 1 Haziran 1992'de yumurtlamanın nisan sonlarından daha geç olmadığını gösteren üç ve dört yavrulu iki grup kaydedilmiştir [@hustings1994]. 6 Ağustos 1971'de yedi yavrulu bir grup gözlenmiştir. **AKD:** 15 Mayıs 1962'de Çukurova'da sekiz yumurtalı bir yuva [@kirwan1997b], 8 Mayıs 1953'te Amik Gölü'nde yumurtalı bir yuva [@kirwan1997b], ve 27 Mayıs 1933'te yumurta kanalında yumurta bulunan bir dişi vurulmuştur [@meinertzhagen1935]. Göksu Deltası'nda en erken 17 Haziran'da olmak üzere yedi yuva alanında yavrular gözlenmiştir. **İÇA:** 28 Nisan 1982'de Sultansazlığı'nda yumurtalı bir yuva bulunmuştur [@kirwan1997b]. Mayıs 1973'te Kulu Gölü'nde altı yumurtalı bir yuva bulunmuştur. En erken 20 Haziran'da Eber Gölü'nde olmak üzere Çöl Gölü, Gönenç Gölü, Sultansazlığı, Mogan Gölü ve Kulu Gölü'nde yavrular gözlenmiştir. **DOA:** Yumurtlamanın mayıs sonunda olduğunu gösteren gözlemler 1985 ve 1987 yıllarında haziran sonunda Van Gölü'nde ve 29 Haziran 1987'de Edremit Sazlığı'nda yapılmıştır [@kirwan1997b].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Tepeli Patka
+# Tepeli Patka
 
 *Aythya fuligula*, Tufted Duck
 
@@ -668,18 +668,18 @@ Monotipik bir türdür.
 
 ![](images/harita_Aythya%20fuligula.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Su üstü vejetasyonu olan tatlı su göllerinde ürer.\
 **Yuvası:** Yuvasını bir bitki öbeğinin altına kurar.\
 **Yumurta sayısı:** Türkiye'de 8 yumurtalı bir yuva bulunmuştur.\
 **Üreme dönemi:** Mayıs ayında yumurta koyar, temmuz sonuna kadar yavrular görülebilir. **KAR:** Kızılırmak Deltası'nda, 5 Mayıs 1992'de sazlıkta bir *Juncus acutus* öbeğinin dibinde sekiz yumurtalı bir yuva bulunmuş [@hustings1994] ve 28 Mayıs 1968'de de ürediği kanıtlanmıştır [@dijksen1985]. **DOA:** Çalı Gölü'nde 19 Temmuz 1992'de yavrularıyla birlikte iki dişi gözlenmiştir [@magninyarar1997].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Karabaş Patka
+# Karabaş Patka
 
 *Aythya marila*, Greater Scaup
 
@@ -697,15 +697,15 @@ Türün ilk yaz kaydı 30 Mayıs 1992'de Sodalı Gölü'nde kaydedilen iki erkek
 
 ![](images/harita_Aythya%20marila.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Pufla
+# Pufla
 
 *Somateria mollissima*, Common Eider
 
@@ -723,15 +723,15 @@ Türkiye'de üremez, en yakın üreme kolonisi Ukrayna kıyılarındadır. Güve
 
 ![](images/harita_Somateria%20mollissima.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Ukrayna'daki koloni insan eliyle oluşturulmuş, kolonideki kuşlar zamanlar doğallaşmıştır. Doğal yuvalama alanı Kuzey Atlantik, Kuzey Buz Denizi ve Bering Boğazı'dır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Ülkede gözlenen alttür nominat *mollissima* (Kuzeybatı Avrupa) alttürüdür.
 
-## Kadife Ördek
+# Kadife Ördek
 
 *Melanitta fusca*, Velvet Scoter
 
@@ -751,18 +751,18 @@ Gürcistan'da yuvalamaya devam eden bireyler Karadeniz kıyılarına az sayıda 
 
 ![](images/harita_Melanitta%20fusca.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Doğu Anadolu'daki iki ya da üç yüksek irtifa gölünde üremiştir. Tüm çabalara rağmen Türkiye'de yuvası bulunamamıştır. Şu anda Kafkasya popülasyonu sadece Gürcistan'da bir gölde yuvalamaktadır.\
 **Yuvası:** Türkiye'de yuva bulunmamıştır ancak diğer yerlerde yoğun bitki örtüsünün içine gizlenmiş şekilde yerde ve genellikle göllerdeki adalarda yuva yapar.\
 **Yumurta sayısı:** Olağan yumurta sayısı 7-10'dur.\
 **Üreme dönemi:** Eski gözlemlere göre temmuz ve ağustos ayında yuvalamıştır. **DOA.** 10 Temmuz 1967'de Nemrut Dağı'ndaki krater gölünde iki, yedi ve dokuz hav tüylü küçük yavru ile birlikte üç dişi ve 20 Ağustos 1967'de Balık Gölü'nde dört, beş ve altı yavrulu üç dişi kaydedilmiştir [@vielliard1968resultats]. Küçük ördeklerin sadece yaklaşık bir haftalık olduğu varsayılırsa yumurtlamanın haziranın ilk günlerinde olduğu anlaşılmaktadır. 23 Ağustos 1972'de Nemrut Dağı'nda gözlenen hemen hemen yarı gelişmiş yedi yavrulu bir dişi, yumurtlamanın haziranın son haftasında olduğunu göstermektedir. 9 Temmuz 1985'te Nemrut Dağı'nda beş çift ve iki genç birey gözlenmiştir. Son zamanlara ait bir üreme kaydı yoktur ve 9 Haziran 2001'de Balık Gölü'ndeki adada yapılan kapsamlı araştırmada ne yuva bulunmuş ne de erişkin görülmüştür.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Eskiden Amerika ve Doğu Sibirya'da yaşayan Ak Kanatlı Kadife Ördek *Melanitta deglandi* ile aynı tür olarak kabul ediliyordu.
 
-## Kara Ördek
+# Kara Ördek
 
 *Melanitta nigra,* Common Scoter
 
@@ -778,15 +778,15 @@ Karadeniz'de çoğunlukla eylül ve mart arasında çok az sayıda kaydedilen k�
 
 ![](images/harita_Melanitta%20nigra.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'nın kuzeyinde yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Telkuyruk
+# Telkuyruk
 
 *Clangula hyemalis*, Long-tailed Duck
 
@@ -802,15 +802,15 @@ Monotipik bir türdür.
 
 ![](images/harita_Clangula%20hyemalis.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey İskandinavya dağlarında ve Rusya ve Kuzey Amerika'nın tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Altıngöz
+# Altıngöz
 
 *Bucephala clangula,* Common Goldeneye
 
@@ -826,15 +826,15 @@ Karadeniz, Marmara ve Ege'nin kıyı bölgelerinde ve daha nadir olarak iç böl
 
 ![](images/harita_Bucephala%20clangula.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Sütlabi
+# Sütlabi
 
 *Mergellus albellus,* Smew
 
@@ -854,15 +854,15 @@ Ancak ne tuhaftır ki, türün ilk keşfi Strickland tarafından İzmir'den alı
 
 ![](images/harita_Mergellus%20albellus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'nın kuzeyinde yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Türkiye'de tanımlanmıştır.
 
-## Büyük Tarakdiş
+# Büyük Tarakdiş
 
 *Mergus merganser,* Common Merganser
 
@@ -878,15 +878,15 @@ Doğu Anadolu'da şubat ve martta iki defa, yazın ise üç kere gözlenmiştir;
 
 ![](images/harita_Mergus%20merganser.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Tarakdiş
+# Tarakdiş
 
 *Mergus serrator*, Red-breasted Merganser
 
@@ -902,15 +902,15 @@ Kıyısal alanlarda ekim sonu ve nisan sonu arasında kaydedilen kış göçmeni
 
 ![](images/harita_Mergus%20serrator.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya ve Kuzey Amerika'nın kuzeyinde yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Dikkuyruk
+# Dikkuyruk
 
 *Oxyura leucocephala,* White-headed Duck
 
@@ -930,13 +930,13 @@ Kışın Akdeniz'deki birkaç sulak alanda yüksek sayıda, İç Anadolu'da gene
 
 ![](images/harita_Oxyura%20leucocephala.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Çoğunlukla büyük sulak alanların yakınlarında genellikle 10 hektardan küçük ve 2 metreden sığ, sualtı vejetasyonu bol ve su aynalarının bulunduğu geniş sazlıklara sahip tatlı su göllerinde ya da sodalı göllerde ürer [@anstey1989]. Aynı alanda birkaç çift üreyebilir.\
 **Yuvası:** Yuva, ölü saz gövdeleri ile diğer sucul bitkilerin düzgün bir kâse oluşturacak şekilde örülmesi ile oluşturulmuş, birkaç tutam açık gri tüy ile astarlanmış dayanıklı bir yapıdır.\
 **Yumurta sayısı:** Bir yuvada en fazla 10 yumurta kaydedilmiştir. 19 Haziran 2004'te aynı gölde diz boyu derinliğindeki suda yoğun bir sazlığın içinde iyice gizlenmiş bir şekilde suyun üzerinde dikey sazların dibine tutturularak yapılmış bir yuvada on yumurtalı tamamlanmış bir kuluçka bulunmuştur. Diğer yerlerde olağan yumurta sayısı 5-12'dir. Dikkuyruk, vücut ölçülerine göre son derece büyük ve ağır yumurtalar koyar; yuva bu ağırlık nedeniyle suya batabilir.\
 **Üreme dönemi:** Mayıs başı ve temmuz başı arasında yumurta koyar. Eylül sonuna kadar yavrular görülebilir. **İÇA:** 13 Temmuz 1987'de Kulu Gölü'ndeki sazlıkların içindeki yuvada yedi yumurta gözlenmiştir; muhtemelen dişinin kuluçkaya ara vermesi nedeniyle yuva ve yumurtalar kısmen su altında kalmıştır [@anstey1989]. Üreme kayıtlarının çoğu 3-10 yavrudan oluşan gruplardır: İç Anadolu'daki en erken kayıt, 5 Haziran 1975'te Kulu Gölü'nde gözlenen üç büyük ve üç hav tüylü yavrudur; bu durum yumurtlamanın mayıs başında olduğunu gösterir. 6 Ağustos 1972'de (kurutulmuş) Gönenç Gölü'nde 20 günlük beşer yavrularıyla iki dişi ve dört günlük altı yavrulu bir dişi gözlenmiştir; bu kayıtlar yumurtlamanın haziran ortası ile temmuz başında olduğunu göstermektedir. İç Anadolu'da, temmuz ve ağustosta birçok yavrulu aile kaydedilmiştir. **DOA:** Haziran-eylül ayları arasında Van Gölü'nde 9 Haziran 1987 ve 14 Haziran 1990'da gözlenen genç bireyler, yumurtlamanın mayıs ortasında olduğunu göstermektedir. Temmuz-ağustos arasındaki diğer kayıtlar, yumurtlamanın haziran ortasında başladığını düşündürmektedir. Erçek Gölü yakınlarındaki küçük bir gölün ortasında dikey sazlardan oluşan bir adada bir yuva bulunmuştur; sucul bitkiler kullanılarak sazların dibine yapılmış olan yuvada 11 Haziran 2001'de iki yumurta olduğu, kuluçkanın henüz tamamlanmadığı gözlenmiştir; alanda sekiz erkek ve yedi dişi birey kaydedilmiştir. Ancak oldukça kapsamlı bir araştırma yapılmasına rağmen başka bir yuva bulunmaması, üremenin henüz tam anlamıyla başlamadığını göstermektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.

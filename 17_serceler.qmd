@@ -2,7 +2,7 @@
 title: "Dağbülbülleri - İncirkuşları"
 ---
 
-## Büyük Dağbülbülü
+# Büyük Dağbülbülü
 
 *Prunella collaris*, Alpine Accentor
 
@@ -18,18 +18,18 @@ Kış dönemine dair bilgiler oldukça sınırlıdır. Bu mevsimde irtifa göç�
 
 ![](images/harita_Prunella%20collaris.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Ağaç sınırının üstünde, genellikle 2400 metreden yüksek dağ zirvelerinin yakınlarında, 4200 metreye kadar olan kayalık ve engebeli alpin çayırlarda ürer. Sıklıkla çalı bulunmayan sarp kayalıkların, büyük taşların ve çarşakların yakınında yuva yapar.\
 **Yuvası:** Kayaların altındaki boşluklara veya çatlaklara, kuru ot sapları ve kökçüklerden yaptığı kâse biçimli yuvayı ince otlar, biraz kıl ve hayvan kürkü ile astarlar. Yuvada genellikle yosun ve liken bulunmaz.\
 **Yumurta sayısı:** Türkiye’de iki yuvada üç ve dört yumurta sayılmıştır. Diğer bölgelerde olağan yumurta sayısı 3–4, nadiren 5’tir. Yılda iki kez kuluçkaya yattığı bilinmektedir.\
 **Üreme dönemi:** Üreme genellikle mayıs sonunda başlar, bazı bölgelerde mayıs başı kadar erken tarihlerde gözlenmiştir. **MAR:** 29–30 Mayıs 1966’da Uludağ zirvesine yakın bölgede üç çiftin öttüğü ve kur davranışı sergilediği kaydedilmiştir [@jetz1995]. **KAD.** 14 Haziran 2004’te Sivrikaya’da, 2900 metrede karla kaplı dik bir yamaçta bir yuva bulunmuş, 24 Haziran’da aynı yuvada 1–2 günlük dört yavru görülmüştür. Bu gözlem yumurtlamanın yaklaşık 3 Haziran’da gerçekleştiğini göstermektedir. 15 Haziran 2006’da Sivrikaya’da, yerden 3 metre yüksekteki bir taş duvarda üç yumurtalı başka bir yuva bulunmuştur. 12 Temmuz 1986’da Sivrikaya yakınlarında genç bireyler, 9 Ağustos 1992’de aynı bölgede iki aile grubu, 14 Ağustos 1972’de İspir yakınlarında bir dişi ve genç, 13 Temmuz 1975’te İspir ve Rize arasında yaklaşık 30 birey kaydedilmiştir. Bu gözlemde beslenen gençlere dayanarak yumurtlamanın 9 Haziran civarında gerçekleştiği düşünülmektedir. Haziran ortasından ağustos başına kadar Sivrikaya çevresinde 40 bireye kadar yüksek sayılar kaydedilmiştir. Temmuz ayında Kaçkarlar’daki Dilberdüzü ve Büyükdağ Düzü’nde türün bol olduğu belirtilmiştir. **AKD:** Ağustos 1966’da Karanfil Dağı’nda 3000 metrede ve 17–23 Temmuz 1971’de Torosdağı’nda 2450 metrede genç bireyler gözlenmiştir. **DOA:** 9 Haziran 1989’da Bitlis Nemrut Dağı’nda genç bir birey gözlenmiş, bu erken tarih yumurtlamanın mayıs başında gerçekleştiğini göstermektedir. Temmuz 1966’da Süphan Dağı’nda, 4200 metrede çok sayıda birey kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Doğu Anadolu’da [@roselaar1995] ve muhtemelen Güney Marmara ile Batı Karadeniz’de [@kumerloeve1961] *montana* alttürünün bulunduğu düşünülmektedir. Toroslar’da ise *subalpine* alttürünün varlığı öne sürülmektedir. Bu bölgeden incelenen örneklerde, üst taraflardaki kızıl çizgilenmenin yoğunluğu ve genişliği ile boğaz tüylerinin uçlarındaki koyuluk (yıpranma etkisinden bağımsız olarak) *montana* alttürüyle uyum göstermektedir.
 
-## Sibirya Dağbülbülü
+# Sibirya Dağbülbülü
 
 *Prunella montanella,* Siberian Accentor
 
@@ -43,15 +43,15 @@ Doğu Anadolu’da [@roselaar1995] ve muhtemelen Güney Marmara ile Batı Karade
 
 ![](images/harita_Prunella%20montanella.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Kuzey Asya'dır. Kışı Kuzeydoğu Çin'de geçirir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’de gözlenen bireylerin büyük olasılıkla nominat alttür *montanella* olduğu düşünülmektedir.
 
-## Sürmeli Dağbülbülü
+# Sürmeli Dağbülbülü
 
 *Prunella ocularis*, Radde's Accentor
 
@@ -67,18 +67,18 @@ En azından bir kısmı kışın daha düşük rakımlara iner. Bu dönemde düz
 
 ![](images/harita_Prunella%20ocularis.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Yüksek dağlarda, ağaç sınırının üzerinde, genellikle 2000 metreden yüksek taşlık ve kayalık yamaçlarda ürer. Alçak çalılar, ardıçlar veya uzun ot kümeleri arasında, yerden genellikle 0,2–0,3 metre yüksekte yuva yapar.\
 **Yuvası:** Dallar, ince kökler ve bitkisel havlardan yaptığı kâse biçimli yuvasını kılla kaplar.\
 **Yumurta sayısı:** Türkiye’de iki yuvada 3, iki yuvada 4 yumurta kaydedilmiştir. İki yuvada 3, üç yuvada 4 yavru gözlenmiştir.\
 **Üreme dönemi:** Yumurtlama genellikle mayıs başında başlar, temmuz sonuna kadar sürer. **AKD:** Demirkazık’ta 21–27 Mayıs arasında, içinde yavru bulunan beş yuva gözlenmiş, yumurtlamanın mayıs başı–ortasında gerçekleştiği belirlenmiştir. 21 Mayıs 1993 ve 28 Mayıs 1998’de yuva yapımı gözlenmiş, ardından 8 Haziran’da dört yumurtalı bir yuva kaydedilmiştir. 12 Mayıs 2004’te üç yumurta bulunan bir yuvada, 13 Mayıs’ta dört yumurta görülmüş ve 25 Mayıs’ta yeni çıkmış bir yavru gözlenmiştir; bu durum 12 günlük kuluçka süresini doğrulamaktadır. 6 Haziran 1991 ve 10 Haziran 1994’te çiftlerin yuvaya yiyecek taşıdığı, 26 Mayıs 1985, 26 Mayıs 1986, 6 Haziran 1993 ve 16 Haziran 1985’te yavrulu çiftler kaydedilmiştir. 28 Haziran 1966’da üç yavrulu bir yuvadaki bireylerin tümü tüylenmiştir. Olası ikinci kuluçka kayıtları ise 27 Haziran 1966’da iki yumurtalı, 29 Haziran’da üç yumurtalı yuvalar ve 8 Temmuz 1976’da üç yavrulu bir yuva ile belgelenmiştir. Ayrıca 24 Temmuz 1986, 12 Ağustos 1998 ve 25 Ağustos 1986’da gençlerle birlikte erişkin bireyler gözlenmiştir. **İÇA:** 1 Ağustos 1970’te Erciyes Dağı’nda yavrusunu besleyen bir çift kaydedilmiştir. **DOA:** 5 Haziran 2001’de Bitlis Nemrut Dağı’nda yuva yapımı, 8 Haziran 2004’te alçak bir çalı içinde bir yumurtalı yuva, 9 Haziran 1989’da bir ardıçtaki yuvada bir yavru ve 8 Temmuz 1986’da tüylenmiş bir yavru gözlenmiştir. 21 Mayıs 1989’da Yüksekova’da üç yumurtalı bir yuva bulunmuş, 31 Mayıs 1969’da Van Görentaş yakınlarında çiftleşme gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kara Boğazlı Dağbülbülü
+# Kara Boğazlı Dağbülbülü
 
 *Prunella atrogularis*, Black-throated Accentor
 
@@ -92,15 +92,15 @@ Monotipik bir türdür.
 
 ![](images/harita_Prunella%20atrogularis.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Ural Dağları ve Altay Dağları'nda yuvalar, kışı Orta Asya'da geçirir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipiktir.
 
-## Dağbülbülü
+# Dağbülbülü
 
 *Prunella modularis*, Dunnock
 
@@ -116,18 +116,18 @@ Kış aylarında Batı ve Orta Anadolu’nun düşük rakımlı bölgelerinde ol
 
 ![](images/harita_Prunella%20modularis.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Orman içlerinde ve kenarlarında, orman altı örtüsünde, alçak çalılıklarda ve ağaç sınırının üzerindeki çalılıklarda ürer.\
 **Yuvası:** Bodur bir ağacın ya da çalının içinde, ince dallar, otlar, yapraklar ve yosundan yaptığı kâse biçimli yuvayı kıl ve yosunla kaplar.\
 **Yumurta sayısı:** Türkiye’de bir yuvada dört yumurta ve aynı yuvada dört yavru kaydedilmiştir. Diğer bölgelerde olağan yumurta sayısı 4–5’tir. Tür başka yerlerde genellikle yılda iki hatta üç kez kuluçkaya yatar.\
 **Üreme dönemi:** Yumurtlama genellikle nisan ortasında başlar, yavrular mayıs sonunda çıkar. **MAR:** 20 Eylül 1966’da Uludağ zirvesine yakın bölgede hâlâ öten erişkinler kaydedilmiş, bu durum bölgede ikinci veya üçüncü kuluçkaya işaret edebilir. **KAD.** Abant Gölü’nde, alçak bir böğürtlen çalısında bulunan Türkiye’deki tek yuvada, 29 Mayıs 1992’de dört yumurta, 3 Haziran’da yeni çıkmış dört yavru gözlenmiştir. Yumurtlamanın mayıs ortasında gerçekleştiği anlaşılmıştır. 8 Mayıs 1970’te Çamlıhemşin’de yiyecek taşıyan bir erişkinin görülmesi yumurtlamanın nisan ayında gerçekleştiğini göstermektedir. Çamlıhemşin Ardeşen’de lokal olarak üreyen bireylerin en çok mayıs ortasında öttükleri bildirilmiştir [@faldborg1994]. **İÇA:** Kızılcahamam’da mart–haziran döneminde öten kuşlar duyulmuştur [@baris1984].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Marmara'nın güneyinden gelen bireyler ve muhtemelen Batı Karadeniz'deki kuşlar Türkiye'ye endemik *euxina* alttürüne, Karadeniz'in kuzeydoğusundakiler ise *obscura* alttürüne dâhil edilmiştir [@roselaar1995]. Kış aylarında Trakya’da görülen bireylerin, muhtemelen *meinertzhageni* ve belki de *modularis* alttürlerine ait olabileceği ileri sürülmüştür. Robson tarafından şubat ayı sonunda toplanan ve Tring Doğa Tarihi Müzesi'nde bulunan bir örnek (88 April 1920.1244) *modularis* alttürüne ait olabilir. İncelediğimiz diğer Türkiye örnekleri ise alttür düzeyinde güvenle tanımlanamamaktadır. Alt taraf tüy rengi gibi bazı değişken özellikler farklılık gösterse de, bu varyasyonların tanımlanmış alttürlerle tam olarak örtüşmediği görülmektedir [@svensson1992].
 
-## Serçe
+# Serçe
 
 *Passer domesticus*, House Sparrow
 
@@ -141,18 +141,18 @@ Gözlemcilerin dikkatini çeken bir tür olmadığı için, mevcut durumu ve yay
 
 ![](images/harita_Passer%20domesticus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Yerleşim yerlerinde, tarım arazilerinde ve ormanlık alanlardaki köy ve kasabalarda ürer. Bazen yerleşim yerlerinden uzak izole binalarda da yuva yapar.\
 **Yuvası:** Genellikle bina duvarlarındaki çatlaklarda, viyadüklerde, duvarlarda, kavak ve okaliptüs gibi ağaçların dallarında ya da yuva kutularında yuva yapar. Sık sık kaya sıvacısı, ev kırlangıcı ve arıkuşu yuvalarını da kullanır. Leylek yuvalarının altına 15 çifte kadar küçük yuvalar yaptığı kaydedilmiştir. Yuvalar kubbe şeklinde, yandan girişlidir; saman, ot, bitki sapı, yün ve kâğıt gibi malzemelerle yapılır ve genellikle tüy ve yünle astarlanır. Deliklere yapılan yuvalar gevşek yapılı ve kâse biçimindedir.\
 **Yumurta sayısı:** Ankara çevresinde 1976–1985 yılları arasında yapılan bir çalışmada ortalama 4,7 yumurta bırakıldığı ve tüylenmiş yavru sayısının ortalama 4,5 olduğu belirlenmiştir [@kiziroglu1987b]. Türkiye'de İzmir ve Göksu'da 5 yumurtalı, Göksu’da ayrıca 6 yumurtalı yuvalar, İzmir’de ve Karine Gölü yakınlarında ise 4–5 yavrulu yuvalar kaydedilmiştir.\
 **Üreme dönemi:** Üreme genellikle nisan–mayıs aylarında başlar ve tür yılda 2–3 kez kuluçkaya yatar. **MAR:** 17 Haziran 1973’te Bebek’te tüylenmiş yavrular, Karacabey’de 20 Mayıs civarında yumurtalanmış bir yuvada erişkinin yavru beslediği gözlenmiştir. **EGE:** 21 Mayıs 1951’de İzmir’de biri kuluçkada 5 yumurta içeren, diğeri yavrulu iki yuva kaydedilmiş, Karine Gölü yakınlarında 9 Mayıs 2003’te birçok yuvada büyümüş yavrular görülmüştür. Akköy yakınlarında 1 Haziran 2004’te muhtemelen ikinci kuluçkaya ait boş bir yuva saptanmıştır. **AKD:** 5 Mayıs 2004’te Göksu Deltası’nda inşaat hâlindeki bir binada 5 yumurtalı bir yuva, 6 Mayıs 2004’te Taşucu’nda tüylenmiş yavrular bulunan bir yuva kaydedilmiştir. 6 Mayıs 2005’te Göksu’da 6 yumurtalı bir yuva ve 11 Mayıs 2005’te hem yavrulu hem de yumurtalı birçok yuva gözlenmiştir. 12 Haziran 2006’da Adana yakınlarında yılın ikinci kuluçkası için çiftleşen erişkinler görülmüştür. **KAD.** 12 Haziran 2004’te İspir’de yavrulu bir yuva kaydedilmiştir. **İÇA:** Ankara çevresindeki çalışmalarda nisan ortasından itibaren yoğun üreme gözlenmiştir [@kiziroglu1987b]. **DOA:** Haziran ayında aktif koloniler kaydedilmiş, ancak kesin tarihler belirtilmemiştir. **GDA:** 6 Mayıs 1970’te Ceylanpınar’da, yumurtlamanın nisan başında gerçekleştiği bir yuvada tüylenmiş yavrular kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Alttür düzeyindeki coğrafi varyasyonları ve popülasyonları ayırt etmek oldukça zordur. Batı ve iç bölgelerde *balearoibericus*, Karadeniz kıyısı boyunca *domesticus*, Erzurum ve Van'ın doğusundaki Doğu Anadolu’nun dağlık bölgelerinde ise endemik olarak tanımlanan *mayaudi* alttürü kaydedilmiştir [@roselaar1995]. Ancak Van’da *mayaudi* adıyla tanımlanan bu alttür artık geçerli kabul edilmemektedir. Güneydoğu Anadolu’da, Birecik’ten Ceylanpınar’ın doğusuna kadar uzanan bölgede, Doğu Akdeniz, Suriye ve İran’daki popülasyonlarla uyumlu olan *biblicus* alttürü görülmektedir. Türkiye'nin kuzey ve doğusundaki diğer bölgelerinde bulunan alttürün hangisi olduğu ise henüz netlik kazanmamıştır, çünkü bu bölgelerden yeterli müze materyali bulunmamaktadır. Kuzeydoğu Anadolu'daki Artvin ve Güney Gürcistan'da tanımlanmış *colchicus* alttürü ise geçerli kabul edilmemektedir [@portenko1962]. *Summers-Smith* [@summerssmith1988], Türkiye’deki tüm serçelerin *biblicus* alttürüne ait olduğunu öne sürmüştür. Bu nedenle, Anadolu’daki taksonomik durum oldukça karmaşık olup detaylı bir çalışma gerektirmektedir.
 
-## Söğüt Serçesi
+# Söğüt Serçesi
 
 *Passer hispaniolensis*, Spanish Sparrow
 
@@ -168,18 +168,18 @@ Göç dönemlerinde tür, toplu hâlde daha yaygın hâle gelir. Sürüler genel
 
 ![](images/harita_Passer%20hispaniolensis.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Tarım arazilerinde, özellikle alçak ovalarda ve vadilerde, yerleşim yerlerinin çevresinde ya da ıssız bölgelerde ürer. Genellikle ağaçlar, koruluklar, ekili ormanlar, sıra hâlinde dikilmiş ya da tek başına duran ağaçlar ve Çukurova bölgesindeki okaliptüs ağaçlarında yuvalar. En sık yuva yaptığı ağaçlar arasında kavak, söğüt, akasya, çınar ve servi bulunur. Sıklıkla leylek, gri balıkçıl veya kızıl şahin gibi iri kuşların çöplerden yaptığı yuvaların altında, yüksek çalılıklarda ürer.\
 **Yuvası:** Yol kenarındaki böğürtlen çalılıklarında, tarım arazilerindeki binalarda, Trakya’da ev kırlangıcının yuvasında ve Silivri’de dik toprak duvarlarda da yuva yaptığı kaydedilmiştir [@mcneile1950; @hustings1994]. Koloniler genellikle 30–150 çiftten oluşur. 6 Haziran 1970’te Marmara Gölü yakınlarında bir kolonide 800 eski yuva tespit edilmiş, Çukurova’da ise binlerce bireyden oluşan koloniler gözlenmiştir [@have_etal1988]. 5 Haziran 1966’da Manyas Gölü’nde 17 gri balıkçıl yuvasının altında 37 yuva, tek bir leylek yuvasının altında ise dalların arasını tamamen dolduracak şekilde yaklaşık 50 yuva kaydedilmiştir [@selous1900]. Serçe ve söğüt serçesiyle birlikte karışık koloniler oluşturur. Ağaç dallarının çatallarına, hatta büyük kolonilerde birbirine temas eden yuva yığınları inşa eder. Biçimsiz, kubbe şekilli ve yandan girişli olan yuvalar yuvalama döneminin başlarında genellikle yeşil bitkilerle örülür ve sıkça kalınca yünle astarlanır.\
 **Yumurta sayısı:** Türkiye’de yuvalarda 4 ila 7 yumurta sayılmıştır. Yavru sayısına dair doğrudan bilgi bulunmamaktadır.\
 **Üreme dönemi:** Üreme nisan başında başlar, haziran boyunca devam eder ve ağustos sonuna kadar aktif koloniler görülür. Genellikle yılda iki kez kuluçkaya yatar. **MAR:** 18–26 Haziran 1973’te dört farklı alanda erişkin bireylerin yuvaya yiyecek taşıdığı gözlenmiş, üçü kavaklarda olmak üzere toplam yedi koloni tespit edilmiştir. **EGE:** 11 Mayıs 1950’de İzmir yakınlarında incelenen birçok yuvada yarısı tamamlanmış yapılar, bazılarında ise 5–6 yumurta tespit edilmiştir. Bu gözlemler, ilk yumurtanın nisan sonunda bırakıldığını göstermektedir. 17 Mayıs 1951’de yine İzmir’deki bir kolonide, hem eksik hem de tamamlanmış yumurtalı ve yavrulu yuvalar gözlenmiş, bu da ilk yumurtlamanın nisan başında gerçekleştiğine işaret etmiştir. 24 Mayıs 1951’de çoğu yuvada 3–7 yumurta bulunmuş, dört ve beş yumurtalı yuvalarda kuluçkanın yeni başladığı gözlenmiştir. 31 Mayıs 1954’te aynı kolonideki yuvaların çoğunun 5 yumurtalı olduğu, bazı yuvaların ise boş olduğu kaydedilmiştir. 20 Mayıs 1999’da Akköy yakınlarındaki bir kolonide hem yumurtalı hem de yavrulu yuvalar gözlenmiştir. 11 Mayıs 1899’da Denizli Acıgöl yakınlarında boş ama yapımı tamamlanmış yuvalar bulunmuştur [@selous1900]. 15 Mayıs 1899’da İzmir yakınlarında 100 yuvalık bir kolonide, çoğu yuvada 6 yumurta tespit edilmiştir. **AKD:** 1 Mayıs 1964’te Amik Gölü’nde incelenen 8 yuvadan biri boş, diğer yedisi eksik ya da tamamlanmış yumurtalı olarak kaydedilmiştir [@warncke1964-65beitrag]. **İÇA:** 23 Nisan 1964’te Cihanbeyli yakınlarında yuva yapımının henüz başlamadığı, ancak 50 erişkin bireyden oluşan bir sürü gözlenmiştir. 9 Mayıs 1964’te Sarayönü’nde birçok yuvanın yeni yapıldığı ya da henüz tamamlanmadığı kaydedilmiştir [@warncke1964-65beitrag].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’deki kuşlar, genellikle nominat alttür *hispaniolensis* ile *transcaspicus* alttürü arasında geçiş formu olarak kabul edilir. Marmara, Ege ve Göller Bölgesi gibi batı bölgelerinde bulunan daha küçük gövdeli bireyler *hispaniolensis* olarak değerlendirilirken, Göksu ve Çukurova deltalarında görülen ve doğuda Başkale’ye, kuzeyde Yukarı Murat Vadisi’ne kadar uzanan daha iri yapılı bireyler *transcaspicus* alttürüne dâhil edilmiştir [@roselaar1995]. Buna karşın, *Kumerloeve* Ceylanpınar’a kadar olan doğu yayılımını *hispaniolensis* olarak tanımlamış, ancak daha önce tüm Anadolu popülasyonlarının alttür açısından belirlenemez olduğunu savunmuştur [@kumerloeve1970a; @vaurie1959a]. Batı Akdeniz, Karadeniz ve İç Anadolu’nun büyük bir bölümünden tahnit örneği incelenmeden, *hispaniolensis* alttürünün İç Anadolu’nun büyük kısmında, en azından Tuz Gölü’nün güneyi ve doğusunda bulunan *transcaspicus* alttürüyle birlikte Karadeniz Bölgesi’nde de bulunabileceğini öne sürülmüştür [@roselaar1995]. Ancak bu durum tartışmalıdır, çünkü *transcaspicus*, özellikle dişilerde, sadece tüy değişimi sonrasında tespit edilebilecek düzeyde daha soluk ve daha az kestane rengi barındıran bireylerle ayırt edilebilir [@summerssmith1988]. Bu düzeydeki coğrafi varyasyonlar için alttür ismi vermek çoğu zaman gerekli görülmemektedir.
 
-## Küçük Serçe
+# Küçük Serçe
 
 *Passer moabiticus*, Dead Sea Sparrow
 
@@ -197,15 +197,15 @@ Kışlama davranışı hakkında bazı bilgiler mevcuttur [@summerssmith1988; @s
 
 ![](images/harita_Passer%20moabiticus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Genellikle nehir boylarındaki çalılıklar ve ağaçlık alanlar ile sel basan düzlüklerde ürer. Başlıca yuvalama habitatları arasında söğüt, kavak, ılgın ve okaliptüs ağaçları ile çamlıklar ve zeytinlikler yer alır. **Yuvası:** Yuvalar genellikle 4–5 metre yüksekteki bir ağaç veya çalıya yapılır. 52 yuvada bu yükseklik doğrulanmış, bazı yuvaların 12 metre kadar yükseğe, bazı yuvaların ise yalnızca 2 metre kadar alçaklara (4 yuvada) yapıldığı görülmüştür. Futbol topu büyüklüğünde olan yuvalar, çerçöp ile yuvarlak biçimde inşa edilir ve yukarıdan girişlidir. İç kısmı tüy, kıl ve yumuşak malzemelerle astarlanır. Halfeti çevresinde bazı eski yuvaların Çizgili İshakkuşu tarafından yeniden kullanıldığı tespit edilmiştir [@vandenberg1988]. **Yumurta sayısı:** Türkiye’de üç yuvada 5 yumurta, dört yuvada 6 yumurta ve bir yuvada 7 yumurta sayılmıştır. İki yuvada 5 yavru, bir yuvada ise 6 yavru gözlenmiştir. **Üreme dönemi:** Yumurtlama genellikle mayıs ortasında başlar ve temmuz sonuna kadar iki kuluçkayı kapsayabilir. **GDA:** Aşağıda aksi belirtilmedikçe verilen tüm kayıtlar Birecik çevresindendir. 8–19 Nisan 1988 arasında erişkin bireylerin henüz bölgeye ulaşmadığı kaydedilmiş, mayıs başında ve 9–12 Haziran tarihlerinde yuva yapımının devam ettiği gözlenmiştir. Bu durum yılda iki kez kuluçkaya yatıldığını göstermektedir. 18 Mayıs 1993’te 5 yumurtalı bir yuva kaydedilmiş, aynı yuvada 6 Haziran’da büyümüş 5 yavru görülmüştür. 3 Haziran 1993’te incelenen 8 yuvadan ikisinde 5 yumurta, üçünde 6 yumurta, birinde 7 yumurta, birinde yeni çıkmış 6 yavru ve diğerinde yeni çıkmış 7 yavru bulunmuştur. Bu son iki kayda göre yumurtlamanın mayıs ortasında gerçekleştiği anlaşılmaktadır. 11 Mayıs 2004’te incelenen 14 yuvadan 11’i yeni yapılmış ama hâlâ boştaydı, biri bir yumurtalı, biri iki yumurtalı ve birinde ise 6 yumurta vardı. 3 Haziran 1970’te kur ötüşü yapan 50 erkek birey gözlenmiş, bu bireylerin en az ağustos başına kadar bölgede kaldığı tespit edilmiştir. Temmuz ve ağustos başında tüylenmiş yavrular ebeveynleri tarafından beslenmiştir. Bu da yılda iki kez kuluçkaya yatıldığını doğrulamaktadır. 3 Mayıs 2004’te Karkamış yakınlarında, Fırat Nehri üzerindeki adalarda erkek bireylerin girip çıktığı yuvalar gözlenmiştir. **AKD:** 29 Nisan 1972’de Göksu Deltası’nda sular altında kalmış ılgınlıklar içinde üç yuva kaydedilmiş, ancak detay verilmemiştir. 2–4 Temmuz 1970’te Ceyhan Nehri üzerindeki bir adada dört çift birey gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’de nominat alttür bulunur. Öncesinde, Ceylanpınar ve Birecik popülasyonları araştırılmış, buradaki bireyler *mesopotamicus* adı altında tanımlanmıştır [@roselaar1995]. Ancak bu alttür, *mesopotamicus* olarak kabul edilmemiştir [@summerssmith1988]. Güneydoğu Anadolu’da gözlenen bireyler ile Tring Doğa Tarihi Müzesi’nde bulunan Güneybatı İran ve Irak kaynaklı tahnit örnekleri morfolojik olarak *nominat moabiticus* ile tamamen örtüşmektedir. Ceylanpınar’dan topladığı örnekler de nominat *moabiticus* ile uyumludur [@kumerloeve1970a]. Sonuçta, Güney Türkiye, Kuzey Suriye, Irak ve Güneybatı İran’daki bireyler için önerilen *mesopotamicus* adı nominat alttürün bir sinonimi olarak değerlendirilmiştir.
 
-## Ağaç Serçesi
+# Ağaç Serçesi
 
 *Passer montanus*, Eurasian Tree Sparrow
 
@@ -219,15 +219,15 @@ Yerleşim alanlarının çevresindeki tarım arazilerinde, yer yer 1750 m yükse
 
 ![](images/harita_Passer%20montanus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Genellikle kasaba ve köylerin yakınlarındaki tarım arazilerinde, park ve bahçelerde, bazen de koruluklarda ürer. **Yuvası:** Ağaç deliklerinde, özellikle ağaçkakan yuvalarında, binalarda, duvar aralıklarında ve bazen eski arıkuşu yuvalarında yuva yapar. Yuva, bitki gövdeleri ve otlardan yapılmış kubbeye benzeyen veya dağınık kâse biçimindedir; içi tüylerle astarlanır. **Yumurta sayısı:** Ankara çevresinde 1976–1985 yılları arasında yapılan bir çalışmada, ortalama 4,9 yumurta bırakıldığı, çift başına yuvadan uçurulan yavru sayısının ortalama 4,6 olduğu ve bir hektardaki üreme yoğunluğunun 1,1 çift olduğu belirlenmiştir [@kiziroglu1987b]. **Üreme dönemi:** Yumurtlama nisan ayında başlar, tür yılda genellikle iki kez kuluçkaya yatar. **İÇA:** 21 Nisan 1967’de Eber Gölü’nde bir erişkinin söğüt ağacındaki bir deliğe girdiği görülmüş, mayıs sonlarında farklı yerlerde aktif koloniler kaydedilmiştir. 20 Mayıs 1975’te Nevşehir’de bir duvarda yaklaşık 20 çiftin birlikte ürediği gözlenmiştir. 20 Mayıs 2004’te Göreme’de bir çiftin eski bir Kaya Sıvacısı yuvasına yuva malzemesi taşıdığı kaydedilmiştir. Ankara civarında nisan ayında yuva yapımı gözlenmiş, ağustos başında aile grupları kaydedilmiştir [@wadley1951]. **AKD:** 3 Haziran 1988’de Toroslar’da çiftleşen bireyler gözlenmiş, bir ev çatısında kuluçkaya yatan çiftler tespit edilmiştir. 13–14 Mayıs 2004’te Demirkazık’ta hem çiftleşme hem yuva yapımı kaydedilmiştir. **KAD.** Haziran başında Ilgaz, Tosya ve İspir’de aktif koloniler gözlenmiştir. 13 Haziran 1975’te Gümüşhane yakınlarında erişkin bir birey yuvaya yiyecek taşırken görülmüş, 12 Haziran 2004’te İspir’de bir erişkinin ağaçkakan deliğinden dışarı çıktığı kaydedilmiştir. Bu kayıtlar türün bölgede de yılda iki kez kuluçkaya yattığını göstermektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Ülkenin kuzeyi ve doğusunda, Erzurum ve Elazığ’a kadar olan bölgelerde *transcaucasicus* alttürü bulunur. Diğer bölgelerdeki alttür durumu belirsizdir. Ankara, İç Anadolu ve muhtemelen Karadeniz Bölgesi'nde bulunan bireyler, *montanus* alttürüne benzer özellikler taşır. İstanbul’daki ve muhtemelen tüm Marmara ile Batı Karadeniz’deki bireyler *transcaucasicus* olarak tanımlanmıştır [@keve1978]. İç Anadolu’daki popülasyonların açıkça *montanus* olduğunu belirtmiştir [@roselaar1995]; ancak daha sonraki araştırmacılar bu bölgedeki bireyleri *montanus* ile *transcaucasicus* arasında melez olarak değerlendirmiştir. Türkiye’de bulunan tek alttürün *montanus* olduğunu öne sürenler de vardır [@summerssmith1988]. Görüldüğü üzere, *montanus* ve *transcaucasicus* arasındaki farklılaşma değişkendir. Türkiye'nin doğusuna doğru gidildikçe, bireylerin özellikleri *dilutus* alttürüne yaklaşmaktadır.
 
-## Sarı Boğazlı Serçe
+# Sarı Boğazlı Serçe
 
 *Gymnoris xanthocollis*, Yellow-throated Sparrow
 
@@ -241,15 +241,15 @@ Genellikle Antep fıstığı bahçelerinde ya da meşe ormanlarında ürer. Sess
 
 ![](images/harita_Gymnoris%20xanthocollis.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Genellikle Antep fıstığı bahçelerinde, özellikle alaca ağaçkakan tarafından açılmış ve yerden 2 metreden alçakta bulunan deliklerde yuvalar. Türkiye’de bu tür deliklerde yuvalandığı 15 yuvada belgelenmiştir. Yuvalama büyük ölçüde bu oyukların mevcudiyetine bağlıdır. **Yuvası:** Ot, yaprak, yün, ip ve benzeri malzemelerle yaptığı yuva gevşek yapılı bir kâse biçimindedir. Bazı durumlarda kubbe veya yarı kubbe şeklinde yuvalar da yapar; bu yuvaların boru biçiminde, açılı bir girişi olur. Ancak Birecik’te kaydedilen yuvaların yalnızca biri kubbe biçimindedir. **Yumurta sayısı:** Türkiye’de bir yuvada 3 yumurta, bir yuvada 4 yumurta, dört yuvada ise 5 yumurta tespit edilmiştir. Bir yuvada 4, bir diğerinde 5 yavru gözlenmiştir. **Üreme dönemi:** Yumurtlama genellikle mayıs sonunda başlar. 23 Mayıs 1990’da yuva yapımı gözlenmiş, 5–14 Haziran tarihleri arasında yumurtalı 13 yuva kaydedilmiştir. 14 Haziran 2001’de gözlenen bir yuvada küçük bir yavru, üç yumurta ve yumurtadan yeni çıkmış bir yavru bulunmuş, bu durum yumurtlamanın mayıs sonlarında gerçekleştiğini göstermektedir. 7 Temmuz 1986’da iki erişkin bireyin tüylenmiş bir yavruyu beslediği, temmuz ortasında genç bireylerin bölgede bulunduğu kaydedilmiştir. Üreme bölgelerinin bazı kısımlarında yılda iki kez kuluçkaya yattıkları bilinmektedir. Ancak 10 Ağustos gibi geç bir tarihte hâlâ ötüş sergileyen erkekler gözlenmiş olsa da, Türkiye'de yılda iki kez kuluçkaya yatıldığına dair kesin bir kanıt bulunmamaktadır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’de bulunan kuşların, İran ve Irak sınırlarına kadar yayılan *transfuga* alttürüne ait olduğu düşünülmektedir [@roselaar1995], ancak bunu doğrulayacak herhangi bir müze örneği mevcut değildir. Tür, geleneksel olarak *Petronia* cinsi içinde sınıflandırılmış olsa da, tüylenme yapısındaki farklılıklar, fizyolojik özellikleri, yaşam alanı tercihleri ve Kaya Serçesi'nden ayrılan davranış özellikleri nedeniyle diğer üç Afrotropikal tür olan Sarı Benekli Serçe (*Gymnoris pyrgita*), Ak Kaşlı Serçe (*Gymnoris superciliaris*) ve Çalı Serçesi (*Gymnoris dentata*) ile birlikte *Gymnoris* cinsine alınmıştır [@cramp1994; @roselaar1995; @beaman1998; @gill2006].
 
-## Kaya Serçesi
+# Kaya Serçesi
 
 *Petronia petronia*, Rock Sparrow
 
@@ -265,18 +265,18 @@ Kışın çoğunlukla daha alçak bölgelere göçer ve bazen kıyılara kadar i
 
 ![](images/harita_Petronia%20petronia.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Dik yamaçlı açık dağlık araziler, geçitler, dev kayalıklar, tarım yapılan kayalık alanlar ve seyrek ağaçların bulunduğu düzlüklerde ürer. Genellikle tek çift ya da birkaç çiftten oluşan küçük koloniler hâlinde yuvalanır, ancak sayıları 50 çifti bulan dağınık koloniler de oluşturabilir.\
 **Yuvası:** Yuvayı dik yamaçlardaki çatlak ve deliklerde, nehir ve yol kenarlarındaki set ve yamaçlarda, ağaç kovuklarında, binalarda, duvarlarda, kuyu ve köprülerdeki oyuklarda yapar. Ayrıca kaya sıvacısı, ev kırlangıcı ve arıkuşu gibi türlerin eski yuvalarını da kullanır. Yuva yapımında bitki kökleri, ot ve ot kökleri kullanır; içi lif, kuş tüyü ve kılla astarlanır. Girintinin dar olduğu durumlarda yuva dağınık kâse biçiminde, geniş alanlarda ise kubbemsi olur.\
 **Yumurta sayısı:** Türkiye’de üç yuvada 5–7 yumurta, bir yuvada ise 7 yavru kaydedilmiştir.\
 **Üreme dönemi:** Yumurtlama genellikle nisan sonu–mayıs başında gerçekleşir ve tür Türkiye’de yılda iki kez kuluçkaya yatar. **KAD.** 1967 yılı mayıs ortasında Gerede’de ve 15 Temmuz 1975’te Bayburt’ta aktif yuvalar gözlenmiştir [@kilic1987]. **AKD:** 9–10 Mayıs 1899’da boş ve yumurtaya hazır yuvalar ile 10 Mayıs 1899’da yumurtadan yeni çıkmış yavrulu bir yuva kaydedilmiştir [@selous1900]. Bu kayıtlar ilk yumurtaların yaklaşık 22 Nisan’da bırakıldığını göstermektedir. 23 Temmuz 1971’de çok geç tarihli aktif yuvalar tespit edilmiştir. **İÇA:** 1 Haziran 1975’te İncesu yakınlarında bir çiftin yuva malzemesi taşıdığı, 7 Haziran 1975’te bir erkeğin kur ötüşü yaptığı, 17–19 Haziran 1975’te çok sayıda yuvanın bulunduğu alanlar belirlenmiştir. 24 Mayıs 1988’de içinde tüylenmiş yavru olan bir yuva, 9 Haziran 1977’de yedi yumurtalı bir yuva [@pforr1982] ve 17–22 Haziran tarihleri arasında içinde yavru bulunan üç yuva kaydedilmiştir. **DOA:** 22 Haziran 2004’te Erzurum’da, 18 Temmuz 1974’te Bitlis’te yuva yapımı kaydedilmiş, 26 Haziran 2004’te Erçek Gölü yakınlarında eski bir binadaki yuvaya erişkin bir bireyin yavrulara yiyecek taşıdığı görülmüştür. 2 Ağustos 1986’da Van çevresinde iki aile grubu gözlenmiştir. **GDA:** Yumurtlama nisan başında gerçekleşir. 2 Mayıs 1964’te Birecik’te biri 5, diğeri 6 yumurtalı iki yuva bulunmuş, 8 Mayıs 1989’da yeni tüylenmiş yavrularını besleyen bir çift kaydedilmiştir [@warncke1964-65beitrag]. Mayıs ve haziran aylarında toplam altı aktif yuva daha gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Ege ve Güney Marmara’daki kuşları *nominat*, İç ve Doğu Anadolu’nun kuzeyindeki bireyleri *exigua* ve Güneydoğu Anadolu’dakileri *puteicola* alttürüne dâhil etmiştir [@roselaar1995]. Kaya Serçesi'nin taksonomik varyasyonlarını ayırt etmek için kullanılabilecek morfolojik farklar son derece sınırlıdır [@clement1993finches]. Bu nedenle, birçok formun *nominat* alttürün sinonimi olarak değerlendirilmesi daha doğru bir yaklaşım olabilir.
 
-## Boz Serçe
+# Boz Serçe
 
 *Carpospiza brachydactyla*, Pale Rockfinch
 
@@ -292,18 +292,18 @@ Geç gelen bir göçmendir; genellikle mayıs başı veya ortasında gelir, baz�
 
 ![](images/harita_Carpospiza%20brachydactyla.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Kuru kayalık yamaçlar, bozkır ve yarı bozkır alanlardaki taşlık düzlükler, çalılarla kısmen kaplı yamaçlar, tek ağaçların bulunduğu açık alanlar ve vejetasyonun zayıf olduğu diğer benzer habitatlarda ürer. Güneydoğu Anadolu’da 500–1200 metre arasında, Van ve Doğubayazıt çevresinde ise 2000 metreye kadar yuvalandığı bilinmektedir. Erzurum yakınlarında, geven çalılıkları ve otsu bitki örtüsüyle kaplı kuru ve taşlık vadilerde, açık çayırlıklarda ve bağ ve tarla içindeki çalılıklarda da görülmüştür [@beaman1986].\
 **Yuvası:** Yuvayı genellikle kısa boylu, dikenli ve pıtraklı çalılıkların içine veya kayalık ve yıkıntılardaki çatlaklara ve girintilere yapar. Yuva iri gövdelerden oluşan bir kâse şeklindedir ve içi yaprak, yün ve kılla astarlanır. Ermenistan’da yapılan çalışmalarda, 14 yuvanın ortalama yerden yüksekliği 15,4 cm olarak ölçülmüş, bu yuvaların on tanesi devekıran (*Atraphaxis spinosa*) çalılarına yapılmıştır [@adamian1999].\
 **Yumurta sayısı:** Türkiye’de doğrudan yumurta sayısı bilgisi verilmemiştir. Ermenistan’da 5 Haziran’da iki yuvada ve 6 Haziran’da bir yuvada yumurta görülmüştür.\
 **Üreme dönemi:** Yumurtlama genellikle mayıs sonu ile haziran başı arasında gerçekleşir. Tür yılda bir kez kuluçkaya yatar. **GDA:** 25 Mayıs 1971’de Gaziantep yakınlarında 11 erkek birey kur ötüşü yaparken kaydedilmiştir. 1 Mayıs 2001’de Şanlıurfa Taluk’ta iki çiftin ot taşıdığı ve yuva yaptığı görülmüş, 31 Mayıs 2001’de Adıyaman Pınaryayla’da iki çiftin yuva yaptığı belirlenmiştir. 2 Haziran 1998’de Durnalık’ta erişkin bireylerin yiyecek taşıdığı, 10 Haziran 2001’de Şanlıurfa Bozkır’da yerde veya çalı içinde bulunan bir yuvaya erişkinlerin yiyecek taşıdığı gözlenmiştir. 11 Haziran 2001’de Cizre’de yuvaya yiyecek taşıyan erişkinler ile iyi uçabilen tüylenmiş yavrular görülmüştür. 14 Haziran 1996’da Işıklı’da iki erişkin bireyin yavrularını beslediği, 15 Haziran 1993’te İdil civarında alan savunma davranışlarının sergilendiği kaydedilmiştir. 5 Mayıs 2004’te Çınar–Göksu Barajı’nda birçok erkeğin ötüş sergilediği ve bireylerin eşleştiği, 11 Haziran 2011’de Cizre’de yuvaya yiyecek taşıyan erişkinlerin gözlendiği bildirilmiştir. **DOA:** Tür, Ermenistan’ın batısında Türkiye sınırına yakın bölgelerde de ürer. Bu bölgelerde mayıs sonlarında üreme alanlarına varır ve çiftleşmeler haziran başında gerçekleşir. 2 Haziran 1962’de, 2 hektarlık uygun bir alanda 14 yuvanın farklı yapım aşamalarında olduğu ve 20 kur ötüşü yapan erkek bireyin bulunduğu kaydedilmiştir. 4 ve 6 Haziran tarihlerinde üç yuvada yumurta görülmüş, bu kayıtlar yumurtlamanın haziran başında gerçekleştiğini göstermektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Türün taksonomik konumu adeta bilmece gibidir ve moleküler araştırma gerektirmektedir. Birçok yazara göre üreme biyolojisi ve morfolojisi ispinozların (Fringillidae) bir altfamilyası olan sakagilleri (Carduelinae) işaret ederken kafatası yapısı sakagillerden ayrıdır [@morony1975; @roselaar1995; @cramp1994; @fry2004]. Türün sesinde, davranışında ve morfolojisinde Petronia cinsi ve eskiden Petronia altında sınıflandırılan *Gymnoris* gibi cinsler ile yakın bir ilişki bulunmaz. Türün çene morfolojisi, dil aparatı ve kafatası yapısına bakıldığında söz konusu türün oldukça sıradışı olduğunu; tohumcul ötücülerin ortak atalarından üç ana familya olan serçegiller (Passeridae), çintegiller (Emberizidae) ve ispinozgillere (Fringillidae) çeşitlenme sürecinin çok erken bir evresinde dallanmış, çağdaş zamanların nesli tükenen bir canlısı gibidir. Üreme biyolojisi, yumurtaların rengi ve üzerlerindeki lekeler, görece dar gagası ve yuvaların seyrek şekilde yapılması daha çok Fringillidae'ye benzer. Carduelinae altfamilyası kapsamında değerlendirmiştir [@fry2004]. Passeridae ailesi içinde değerlendirmek için iskelet yapısında kanıtlar bulmuştur [@bock2004]. Bu farklı görüşler göz önünde bulundurulduğunda, türün sınıflandırması hakkında kesin bir yargıya varılmadan önce genetik analizlerin sonuçlarını beklemek en doğru yaklaşım olacaktır.
 
-## Kar Serçesi
+# Kar Serçesi
 
 *Montifringilla nivalis*, White-winged Snowfinch
 
@@ -317,18 +317,18 @@ Doğu Anadolu, Doğu Karadeniz Dağları’nın büyük bölümü, Güneydoğu A
 
 ![](images/harita_Montifringilla%20nivalis.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Çayırlarla kaplı kayalık alanlar, büyük kaya kütleleri, dik yamaçlar, geçitler ve alpin bitki örtüsünün bulunduğu ortalama 2000–2700 m yükseklikteki dağlık bölgelerde ürer.\
 **Yuvası:** Dik yamaçlarda 30 m’ye varan yüksekliklerdeki çatlak ve deliklerde, ancak çoğunlukla daha alçakta, kayaların arasında, kaya kütlelerinin altında, memeli inlerinde veya yol kenarındaki çatlaklarda yuva yapar. Türkiye’de insan yapımı yapılarda üreme kaydı bulunmasa da, diğer bölgelerde binalardaki oyuklarda da yuva yaptığı bilinmektedir. Yuva, bitki ve ot gövdelerinden örülmüş sağlam bir kâse şeklindedir; içi kıl, tüy ve kürkle astarlanır.\
 **Yumurta sayısı:** Türkiye’de bir yuvada 3 yumurta, bir yuvada 2 yavru, bir yuvada ise 4 yavru kaydedilmiştir. Diğer bölgelerde yumurta sayısı genellikle 4–5’tir.\
 **Üreme dönemi:** Yumurtlama genellikle mayıs başında başlar. Temmuz ayında yapılan gözlemler ikinci kuluçkaya işaret etse de Türkiye’de yılda iki kez kuluçkaya yatıldığına dair kesin kanıt yoktur. **KAD.** 1990 yılı haziran ortasında Sivrikaya’da yavrulu bir yuva kaydedilmiştir. **AKD:** 7 Mayıs 1967’de Sultan Dağları’nda 2200 m’de kur davranışı gözlenmiş, temmuz 1966 başlarında Karanfil Dağı’nda ebeveynlerce beslenen yavrular görülmüştür [@sutton1972]. 23 Temmuz 1971’de Torosdağı’nda yeni tüylenmiş yavrular, 18 Temmuz 1986’da Çamardı yakınlarında bir yavruyu besleyen bir çift kaydedilmiştir. **İÇA:** 9 Nisan 1969’da Sivas’ta erişkin bireylerin yuva malzemesi taşıdığı görülmüş, 29 Nisan 1970’te Demirkazık’ta çiftleşme, 11 Mayıs 2006’da Hodul Dağı’nda tamamlanmamış bir yuva ve kuluçkaya yatmış bir dişi tespit edilmiştir. 13 Mayıs 2004’te iki çiftin 6–18 m yükseklikteki çatlaklarda yuva yaptığı, 19 Mayıs 2006’da kur davranışı sergilediği gözlenmiştir. 12–13 Haziran 1993’te yuva girişinde yavru besleyen erişkinler kaydedilmiş, bu yuvalarda yumurtaların mayıs ortasında bırakıldığı tahmin edilmiştir. 7 Haziran 1998’de dört yuvada ve 20 Haziran 1990’da iki yuvada yavru gözlenmiştir. Haziranın ilk yarısında yuvaya yiyecek taşıyan birçok erişkin kaydedilmiştir. **DOA:** 13 Mayıs 1990’da Erzurum’da yuva yapımı gözlenmiş, 17 Haziran 2004’te Çaldıran’ın kuzeyinde, Tendürek Dağı’nda 2600 m’de, memeli inine yapılmış bir yuvada 3 yumurta, bir günlük iki yavru tespit edilmiştir. 5 Haziran 2002’de Balık Gölü civarında yeni yavru çıkartmış aileler, 9 Haziran 2001’de ise dört yavrunun olduğu bir yuva kaydedilmiştir. 4 Haziran 2002’de Doğubayazıt’ta ve 24 Haziran 1910’da Erzurum’da yavrulu yuvalar bulunmuştur [@mcgregor1917]. 21 Temmuz 1992’de Doğubayazıt’ta ve 22 Haziran 2004’te Erzurum’da yuvaya yiyecek taşıyan erişkin bireyler gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'deki bireylerin tamamı, Türkiye’ye endemik *leucura* alttürü altında sınıflandırılmıştır [@roselaar1995]. Bu alttür, bazı araştırmacılar tarafından *alpicola* alttürünün sinonimi olarak kabul edilir. Roselaar, *alpicola*'nın yayılışını Güney Kafkasya ve Güneybatı İran ile sınırlandırırken, diğer yazarlar bu alttürün Orta Asya’dan Moğolistan’a kadar uzandığını belirtir. Öte yandan nominat *nivalis*, Güneybatı Avrupa’dan Balkanlar’a kadar yayılış gösterir. *Leucura* alttürü, görünüşe göre nominat *nivalis* ile *alpicola* arasında bir geçiş formudur ve bu üç alttür arasında morfolojik varyasyonlar süreklilik göstermektedir. *Nivalis* ile *alpicola* arasındaki farklar açıkça belirlenmişken, *leucura* ile *alpicola* arasındaki farklar belirsizdir. Bu nedenle, *leucura*’nın *alpicola*’nın sinonimi olduğu görüşü giderek daha fazla kabul görmektedir. Orta Toroslar’daki kuşlar için Watson tarafından tanımlanan *fahrettini* formu ise geçersizdir.
 
-## Dağ Kuyruksallayanı
+# Dağ Kuyruksallayanı
 
 *Motacilla cinerea*, Grey Wagtail
 
@@ -344,18 +344,18 @@ Sonbahar göçü ağustos ortasında başlar, eylül sonu ile ekim başında yo�
 
 ![](images/harita_Motacilla%20cinerea.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Tepelik ve dağlık alanlarda, seddeler, toprak duvarlar ve kayalık kıyılara sahip dere ve nehir boylarında ürer.\
 **Yuvası:** Yuvayı akarsu kıyısında veya yakınındaki bir sedde, kaya, duvar ya da köprüdeki oyuk veya yarıklara yapar. Dallar, kökler, otlar ve yosunlardan kâse şeklinde yaptığı yuvasını kılla kaplar.\
 **Yumurta sayısı:** Türkiye'de doğrudan veri yoktur. Diğer bölgelerde olağan yumurta sayısı 4–6’dır. Türkiye’de bir yuvada dört veya muhtemelen beş yavru, bir diğer yuvada ise tamamen tüylenmiş bir yavru gözlenmiştir.\
 **Üreme dönemi:** Yumurtlama genellikle nisan sonu ile mayıs ortasında başlar. **KAD.** 1993’te Çamlıhemşin Ardeşen’de yiyecek taşıyan erişkinlerin gözlenmesi, yumurtlamanın nisan sonunda gerçekleştiğini göstermektedir; tüylenmiş ilk yavrular ise mayıs ortasında görülmüştür [@faldborg1994]. 10 Temmuz 1974’te İkizdere yakınlarında dört yavrulu çift ve beş yavrulu bir başka çift kaydedilmiştir. 13 Haziran 2004’te Sivrikaya’da, nehirden yaklaşık 100 m mesafedeki bir evin ikinci katındaki pencere pervazına gizlenmiş bir yuvada tüylenmiş bir yavru, 14 Haziran 2004’te ise aynı yapının farklı bir bölümünde dört veya beş büyük yavru kaydedilmiştir. **AKD:** 17 Mayıs 1989’da Dalyan’da tüylenmiş yavrular gözlenmiş, bu tarihten sonra haziran ve temmuz aylarında da dört farklı tüylenmiş yavru kaydı yapılmıştır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de görülen bireyler nominat *cinerea* alttürüne aittir.
 
-## Sarı Kuyruksallayan
+# Sarı Kuyruksallayan
 
 *Motacilla flava*, Western Yellow Wagtail
 
@@ -373,20 +373,20 @@ Sonbahar göçü temmuz ortası–ağustos başında başlar, eylül ortasında 
 
 ![](images/harita_Motacilla%20flava.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Islak meralar ve çayırlarda, tatlı su bataklıklarında, kıyılardaki tuzlu su bataklıklarında ve bazen çalılıklarla (örneğin *Tamarix*) kaplı nemli ortamlarda ürer.\
 **Yuvası:** Yerdeki bir delikte, bazen hayvan izlerinin içinde, genellikle bitki örtüsü tarafından iyi şekilde gizlenmiş olarak, otlar, bitki sapları ve köklerden kâse şeklinde yaptığı yuvasını kılla kaplar.\
 **Yumurta sayısı:** Türkiye’de üç yuvada altı, bir yuvada beş yumurta sayılmıştır. İki yuvada beş, bir yuvada altı yavru tespit edilmiştir.\
 **Üreme dönemi:** Yumurtlama nisan sonu–mayıs başında başlar ve haziran sonuna kadar sürer. **MAR:** 17 Mayıs 1967’de Manyas Gölü yakınlarında tamamlanmamış kuluçkada bir yuva bulunmuştur. **KAD.** 19–20 Mayıs 1992’de Yeniçağa Gölü’nde ikisi altı, biri beş yumurtalı üç yuva kaydedilmiştir. Aynı yerde 16 Haziran 1978’de yeni tüylenmiş bir yavru görülmüştür [@kilic1987]. 1992’de Kızılırmak Deltası’nda nisanın ikinci yarısında öten erişkinler gözlenmiş, 30 Nisan’da yuva yapımı başlamış, haziran başında ise çok sayıda tüylenmiş yavru kaydedilmiştir [@hustings1994]. **AKD:** Göksu Deltası’nda 5 Mayıs 2004’te altı yumurtalı bir yuva, 22 Mayıs 2004’te altı günlük altı yavru bulunan bir yuva, 1 Haziran 1993’te ise yaklaşık beş günlük beş yavru bulunan bir yuva kaydedilmiştir. **İÇA:** 19 Haziran’dan sonra birkaç noktada tüylenmiş yavrular gözlenmiştir. **DOA:** Van Sazlığı’nda 1 Haziran 2001’de beş küçük yavru bulunan bir yuva ve 10 Haziran 2001’de yiyecek taşıyan erişkinler kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’de üreyen alttür *feldegg*’dir. Göç dönemlerinde ise *flava*, *lutea*, *cinereocapilla*, *beema*, *superciliaris*, *thunbergi* ve geçerliliği şüpheli olan *dumbrowskii* alttürleri kaydedilmiştir.
 
 Politipik bir tür olan Sarı Kuyruksallayan, taksonomistler için önemli bir sorun teşkil etmektedir. Bu kompleks hakkında çok sayıda çalışma yapılmış olup, son yıllarda iki farklı ornitolog grubu bu karmaşıklığı çözmeye çalışmıştır. DNA dizilimi verileri, doğudaki taksonlar (*taivana*, *macronyx* ve *tschutschensis*) ile batıdaki diğer taksonlar arasında (bu çalışmada *leucocephala* dâhil edilmemiştir) derin bir genetik ayrım olduğunu göstermektedir. Bu bulgulara dayanarak Sarı Kuyruksallayan iki tür olarak ele alınmıştır: Sarı Kuyruksallayanı (*Motacilla flava*) ve Çukçen Kuyruksallayanı (*Motacilla tschutschensis*) [@rasmussen2005]. Ayrıca morfolojik ve vokal veriler de türün monofiletik olmadığını ve birden fazla türün tanınması gerektiğini desteklemektedir. Bu yaklaşımı benimsemeyen bazı araştırmacılar ise bu gruptaki tüm taksonları *Motacilla flava* altında alttür olarak değerlendirmeyi tercih etmektedir [@alstrom2003].
 
-## Sarı Başlı Kuyruksallayan
+# Sarı Başlı Kuyruksallayan
 
 *Motacilla citreola*, Citrine Wagtail
 
@@ -402,18 +402,18 @@ Geçit sırasında, özellikle ilkbaharda yaygındır. Mart ortasından itibaren
 
 ![](images/harita_Motacilla%20citreola.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Sazlıklarda ve genellikle göl kenarındaki, bazen kurumuş *Phragmites* öbeklerinin bulunduğu ıslak çayırlarda ürer.\
 **Yuvası:** Alçak bir çalının korumasında ya da bir *Phragmites* öbeğinin dibinde veya köklerinde gizlenmiş şekilde, yerdeki bir çukur içine yuva yapar. Bitki sapları ve yosunlardan kâse şeklinde yaptığı yuvasını kılla kaplar.\
 **Yumurta sayısı:** Türkiye’de bir yuvada dört yumurta, bir diğer yuvada ise iki yumurta sayılmış ve bu ikinci yuvanın kuluçkasının henüz tamamlanmamış olduğu düşünülmüştür. Üç yuvada üç veya dört yavru tespit edilmiştir.\
 **Üreme dönemi:** Yumurtlama genellikle mayıs ortasında başlar ve yavrular haziran ortasından temmuz sonuna kadar gözlenir. **KAD.** 31 Temmuz 1996’da Kaçkar’da yaşı belirlenemeyen genç bir birey gözlenmiştir. **İÇA:** 17 Mayıs 1988’de Palas Gölü’nde yuva yapımı kaydedilmiş, 19 Haziran–5 Temmuz 1994 arasında Akşehir Gölü’nde huzursuzluk davranışları üreme şüphesi uyandırmıştır. 21 Haziran 1998’de Eskil’de yiyecek taşıyan erişkin bireyler görülmüş ve aynı bölgede beş tüylenmiş yavru kaydedilmiştir. Aynı gün Eşmekaya Sazlığı’nda bir erkeğin üç tüylenmiş yavruyu beslediği gözlenmiş, 13 Haziran 2006’da ise tüylenmiş yavruların bulunduğu üç kuluçka kaydedilmiştir. **DOA:** 8 Haziran 2001’de Saz Gölü’nde yuva yapımı gözlenmiş, 11 Haziran 2001’de Van sazlıklarında biri dört yumurtalı, biri yeni çıkmış dört yavrulu ve biri neredeyse tamamen tüylenmiş dört yavrulu olmak üzere üç yuva kaydedilmiştir. Bu gözlemlere göre yumurtlamanın 11 Mayıs ve 25 Mayıs civarında başladığı anlaşılmaktadır. Aynı alanda 20 Haziran 2004’te yaklaşık on günlük üç yavru bulunan bir yuva ve 8 Haziran 2004’te erişkin bireylerle birlikte en az iki yeni tüylenmiş yavru gözlenmiştir; bu gözlem yumurtlamanın yaklaşık 9 Mayıs’ta gerçekleştiğini göstermektedir. Haziran ayı boyunca, en erken 17 Haziran olmak üzere çeşitli yerlerde yiyecek taşıyan erişkin bireyler ve en erken 26 Haziran’da olmak üzere birkaç tüylenmiş yavru kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’de gözlenen bireylerin tamamının *werae* alttürüne ait olduğu düşünülmektedir. Beyşehir Gölü’nden alınan ve göçmen olduğu tahmin edilen bir dişinin ölçümleri *werae* alttürüne uyumludur [@vauk1973; @roselaar1995]. Ancak Türkiye’den bilinen başka tahnit örneği bulunmamaktadır. Öte yandan, H. Dufourny Mayıs 2003 sonunda Van’daki Bendimahi Deltası’nda *nominat citreola* özelliklerini taşıyan bir çift gözlediğini bildirmiştir. Tüy rengi farklılıklarının belirgin olmaması nedeniyle *werae* ve *citreola* alttürlerinin sinonim olduğu savunulmuştur [@alstrom2003]. Aynı çalışmada, Tanrı Dağları ve doğusunda üreyen *calcarata* alttürünün, filogenetik tür kavramı çerçevesinde ayrı bir tür olarak değerlendirilmesi gerektiği de öne sürülmüştür.
 
-## Ak Kuyruksallayan
+# Ak Kuyruksallayan
 
 *Motacilla alba*, White Wagtail
 
@@ -431,18 +431,18 @@ Kış döneminde özellikle Marmara, Ege ve Akdeniz kıyılarındaki sulakalanla
 
 ![](images/harita_Motacilla%20alba.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Suya yakın olan yerleşimlerin çevresinde, tipik olarak açık alanlarla çiftliklerin ve köylerin çevresindeki tarım alanlarında, göllerin yakınındaki binalarda ve aynı zamanda daha ücra alanlarda ürer.\
 **Yuvası:** Duvarların, binaların, kaya yığınlarının içinde ve köprülerin altındaki çeşitli yerlerde yuva yapar. Karapınar (Konya) yakınlarında bir değirmenin duvarında yerden 1 m yüksekte bir yuva bulunmuş, Ankara'nın varoşlarındaki bir bahçede küçük bir çam ağacında yerden 1,6 m yüksekte sıradışı bir yuva kaydedilmiştir [@wadley1951]. Bitki sapları, kökler, yapraklar ve yosunlardan kâse şeklinde yaptığı yuvasını tüyler ve yünle kaplar.\
 **Yumurta sayısı:** Türkiye'de 6 yumurtalı bir yuva saptanmıştır. Yavru sayısı: 4 ve 6 bireyli iki yuvada belirlenmiştir.\
 **Üreme dönemi:** Yumurtlama genellikle nisan sonu–mayıs başında başlar. Yavrular mayıs sonundan temmuz ortasına kadar gözlenir. Tür yılda iki kez kuluçkaya yatar. **MAR:** 21 Mayıs 1967’de Kocaçay Deltası’nda yeni tüylenmiş bir yavru, 2 Haziran 1966’da Marmara kıyısında tüylenmiş bir yavru, 20 Haziran 1973’te Terkos’ta tüylenmiş bir yavru ve 29 Haziran 1973’te Bebek’te yavrulu bir yuva kaydedilmiştir. **KAD.** 2 Haziran 1946’da Abant Gölü’nde yavrulu bir yuva gözlenmiş, 11 Haziran 2004’te Yoncalık’ın kuzeyinde bir köprüde tüylenmiş üç yavru ve yakınında bir başka yavru görülmüş, yumurtlamanın 11 Mayıs civarında olduğu belirlenmiştir. 12 Haziran 1984’te Yeniçağa Gölü’nde yavrularını besleyen erişkinler, Temmuz 1971’de Kızılırmak Deltası’nda her biri dört yavru besleyen üç çift, 21 Mayıs 1992’de aynı bölgede yavrulu bir yuva gözlenmiş, 14 Haziran 2004’te Sivrikaya’da uçamayan tüylenmiş bir yavru, 10 Haziran 1975’te Fatsa’da ve 12 Haziran 1975’te İkizdere’de tüylenmiş yavrular ile 9 Haziran 1975’te çiftleşme davranışı kaydedilmiştir. **EGE:** 12 Mayıs 1980’de Bafa Gölü’nde bir yuva bulunmuş, 9 Mayıs 2003’te Karine Gölü’nde uyarı sesi çıkaran ve yiyecek taşıyan bir erişkin gözlenmiştir. **AKD:** 12 Mayıs 2004’te Pozantı yakınlarında, bir yüzme havuzunun yanındaki süs bahçesindeki kayalıklarda yeni yumurtadan çıkmış altı yavru içeren bir yuva bulunmuştur. Yumurtlamanın nisan sonunda gerçekleştiği tahmin edilmiştir. **İÇA:** 20 Nisan 2004’te Karapınar yakınlarında yuva yapımı gözlenmiş, 21 Mayıs 1946’da Ankara’daki bir bahçedeki yuvada beş yumurta görülmüş, kısa süre sonra bir yumurta daha eklenerek kuluçkaya geçilmiştir [@wadley1951]. 7 Haziran 1975’te Çankırı kuzeyinde yiyecek taşıyan erişkinler, 23 Mayıs 1970’te Tuzla Gölü’nde tüylenmiş bir yavru ve 7 Temmuz 1907’de Kümbet’te tüylenmiş bir yavru kaydedilmiştir [@ramsay1914]. **DOA:** 25 Haziran 2004’te Sarıcan’da erişkinle birlikte tüylenmiş bir yavru, 30 Haziran 1969’da Doğubayazıt yakınlarında genç bireyler ve 17 Ağustos 1972’de Kağızman’da ak kuyruksallayan tarafından beslendiği anlaşılan bir guguk yavrusu gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'deki popülasyonlar *nominat alba* (Batı ve Orta Anadolu’da kuzeyde Bolu’dan güneyde Haruniye’ye kadar) ve *dukhunensis* (Doğu Anadolu’da kuzeyde Sümela’dan güneyde Hakkâri’ye kadar) alttürlerine atfedilir [@roselaar1995]. Roselaar, kuzeyde Kastamonu ve Zonguldak civarından Tirebolu’ya, güneyde ise Gaziantep yakınlarından Cizre’ye kadar uzanan geniş bir geçiş alanı tanımlar; bu bölgede *alba* ve *dukhunensis* yerine *alba* ile *personata* alttürlerinin melezleştiğini ve hatta Türkiye'de üçüncü bir takson olan *intermedia*'nın tanınması gerektiğini öne sürer. Ancak bu öneri, Türkiye ve İran popülasyonlarının tamamının *nominat alba* olduğu ve *dukhunensis*’in de bu alttürün bir sinonimi olduğu görüşünü savunanlar tarafından reddedilmiştir [@alstrom2003].
 
-## Mahmuzlu İncirkuşu
+# Mahmuzlu İncirkuşu
 
 *Anthus richardi*, Richard's Pipit
 
@@ -458,15 +458,15 @@ Bunun ardından, yayınlanmış en az 29 kayıt mevcuttur (bazıları birden faz
 
 ![](images/harita_Anthus%20richardi.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Doğu Rusya, Moğolistan ve Kuzey Çin'de yuvalar. Kışı Güney Asya'da geçirir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’den henüz hiçbir örnek incelenmemiş olmasına rağmen, mevcut tüm kayıtların muhtemelen nominat alttüre ait olduğu düşünülmektedir. Moleküler tekniklerin uygulanması sonucunda *Anthus novaeseelandiae* kompleksinin parafiletik olduğu kabul edilmiştir. Morfolojik ve vokal karakterlerin de bu sonucu desteklediği dikkate alındığında, Mahmuzlu İncirkuşu grubu dört ila altı türden oluşmaktadır [@sibley1996]. Bu grupta, Afrika ve Güneybatı Arabistan’da Afrika İncirkuşu (*Anthus cinnamomeus*), Güney Asya’da Çeltik İncirkuşu (*Anthus rufulus*), Kuzey Asya ve Çin’de Mahmuzlu İncirkuşu (*Anthus richardi*) ve ayrı evrimsel kökene sahip iki grubu temsil eden Avustralya ile Yeni Zelanda’da sırasıyla *Anthus australis* ve *Anthus novaeseelandiae* yer almaktadır [@alstrom2003].
 
-## Moğol İncirkuşu
+# Moğol İncirkuşu
 
 *Anthus godlewskii*, Blyth's Pipit
 
@@ -482,15 +482,15 @@ Hatay’daki “Milleyha ve sahil şeridi” alanında, tür 2012–2021 yıllar
 
 ![](images/harita_Anthus%20godlewskii.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Moğolistan'da yuvalar, Hindistan'da kışlar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kır İncirkuşu
+# Kır İncirkuşu
 
 *Anthus campestris*, Tawny Pipit
 
@@ -508,18 +508,18 @@ Zaman zaman kıyılarda kışladığı da bildirilmiştir. Örneğin, 19 Ocak 19
 
 ![](images/harita_Anthus%20campestris.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Deniz seviyesinden 3000 m'ye kadar olan seyrek vejetasyonlu, kuru ve açık alanlarda, çıplak arazilerde, kurak bozkırlarda, kuru tarım arazilerinde, yamaçlarda ve tuzlu bataklıklarda ürer.\
 **Yuvası:** Yerde, bir ot kümesi, alçak bir kaya ya da çalı tarafından gizlenen bir çukurda yuva yapar. Otlardan ve köklerden kâse şeklinde yaptığı yuvasını bitki lifleri, ince otlar ve kıllarla kaplar.\
 **Yumurta sayısı:** Türkiye’de dört yumurtalı bir yuva ve beş yumurtalı dört yuva kaydedilmiştir. Yavru sayısı hakkında bilgi yoktur.\
 **Üreme dönemi:** Yumurtlama genellikle mayıs ortasında başlar ve temmuz başına kadar sürer. **MAR:** 25 Mayıs 1967’de Manyas Gölü’nde yuva malzemesi toplayan bir dişi ve yakınlarda öten bir erkek, 15 Mayıs 1969’da yine aynı bölgede yuva malzemesi taşıyan bir çift ve 18 Haziran 1973’te Belgrad Ormanları’nda yiyecek taşıyan bir çift gözlenmiştir. **KAD.** 21 Haziran 1977’de Bolu civarında beş yumurtalı bir yuva, 29 Haziran’da aynı yuvada yavrular ve aynı ay içinde yakınlarda tüylenmiş bir yavru gözlenmiştir [@pforr1982]. **EGE:** 29 Mayıs 2004’te Büyük Menderes Deltası’nda beş yumurtalı bir yuva kaydedilmiştir. **İÇA:** 31 Mayıs ve 1 Haziran 1972’de Karadağ’da 1500–1600 m yükseklikte beş yumurtalı iki yuva bulunmuş, 7 Haziran’da Kulu Gölü’nde bir erişkin ve bir genç gözlenmiştir. 27 Temmuz 1969’da Susuz’da bir çift ve üç yavru, 2 Ağustos 1969’da Ankara’da iki genç ve 9 Temmuz 1962’de Kızılcahamam’da yavrusunu besleyen bir erişkin kaydedilmiştir [@baris1984]. **DOA:** 1 Haziran 1968’de Erçek Gölü’nde dört yumurtalı bir yuva bulunmuş, 16 Ağustos 1972’de Kağızman’da iki genç Guguk’un bir bireyden yiyecek dilendiği gözlenmiştir [@kasparek1983]. Erkeklerin temmuz sonuna kadar öttüğü duyulmuştur. Diğer bölgelerde olduğu gibi Türkiye'de de yılda iki kez kuluçkaya yatması olasıdır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Roselaar'a (1995) göre boehmei Türkiye genelinde bulunur. Öte yandan, Alström ve Mild (2003) bu tür içindeki coğrafi varyasyonun bir alttür tanımlayacak kadar yeterli olmadığını ifade eder. Bu nedenle monotipik olarak değerlendirilmelidir.
 
-## Çayır İncirkuşu
+# Çayır İncirkuşu
 
 *Anthus pratensis*, Meadow Pipit
 
@@ -535,19 +535,19 @@ Kış aylarında sulakalanlar ve kıyılar daha yoğun kullanılıyor gibi gör�
 
 Haziran ve temmuz aylarında Türkiye’nin kuzeyinden gelen birkaç kayıt, bazı üremeyen bireylerin yazı düzensiz şekilde geçirdiğini göstermektedir [@jetz1995]. Öte yandan, türün Gelibolu’da ürediğine dair geçmişte ileri sürülen iddialar doğrulanmamıştır [@boyd1916].
 
-**Üreme**
+### Üreme
 
 ![](images/harita_Anthus%20pratensis.png)
 
-**Üreme**\
+### Üreme\
 
 Türkiye’de üreme kaydı yoktur. Üreme alanı Kuzey ve Orta Avrupa’dadır.
 
-**Alttürler ve Sınıflandırma**\
+### Alttürler ve Sınıflandırma\
 
 Türkiye’de nominat alttürün bireyleri gözlenir.
 
-## Ağaç İncirkuşu
+# Ağaç İncirkuşu
 
 *Anthus trivialis*, Tree Pipit
 
@@ -565,15 +565,15 @@ Sonbahar göçü kuzeyde temmuz sonunda, diğer bölgelerde ise genellikle ağus
 
 ![](images/harita_Anthus%20trivialis.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Çıplak alanlar, seyrek alçak çalılıklar ve genellikle az sayıda ağacın bulunduğu arazilerde, açık ormanlarda (karışık ya da yaprak döken), orman kıyılarında ve açıklıklarında, bazen yükseklerde ve neredeyse ağaçsız alanlarda ürer. Yeniçağa Gölü çevresindeki kavaklık ve söğütlüklerde, ayrıca gölün güneyindeki dağlık alanlarda; Uludağ’da ise ormanla alpin kuşak arasındaki geçiş bölgesinde kaydedilmiştir [@kilic1987; @jetz1995]. **Yuvası:** Türkiye'de doğrudan kayıt yoktur. Diğer bölgelerde yuvasını otlardan ve biraz yosundan kâse şeklinde yapar, içini ot, kıl ve bitki lifleriyle kaplar. Genellikle yerde, bir ot kümesi ya da alçak bir çalının gizleyebileceği yerleri tercih eder. **Yumurta sayısı:** Türkiye'de kayıt yoktur. Diğer yerlerde olağan yumurta sayısı 4–6’dır. **Üreme dönemi:** Türkiye’de erkek bireyler genellikle nisanın ikinci yarısından temmuz ortasına kadar düzenli olarak öter. **KAD.** Yeniçağa Gölü’nde 1985 yılında 18 Ağustos’a kadar ötüş duyulmuştur [@kilic1987], bu durum yılda iki kez kuluçkaya yattığını gösterir. 15 Haziran 1975’te Kop Dağı Geçidi’nde 2300 m’deki bir meşe çalılığında yuvalarına yiyecek taşıyan bir çift, 13 Haziran 2001’de İspir ile Erzurum arasında yiyecek taşıyan bir erişkin, 16 Haziran 1975’te Trabzon yakınlarında ve 17 Haziran 1975’te Torul yakınlarında yiyecek taşıyan erişkinler gözlenmiştir. Bu kayıtlar yumurtlamanın mayısın ikinci yarısında gerçekleştiğini göstermektedir. **DOA:** 8 Mayıs 2004’te Tendürek Geçidi’nde bir çift ile tüylenmiş bir yavru görülmüş ve yumurtlamanın 10 Nisan civarında başladığı anlaşılmıştır. 25 Haziran 2004’te Sarıcan’da sadece yaklaşık 1 m yüksekliğinde söğüt çalılıklarının olduğu ağaçsız bir bölgede uyarı sesi çıkaran ve yiyecek taşıyan bir erişkin gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’de hem üreyen hem de göç sırasında geçen kuşların çoğu *nominat trivialis* alttürüne aittir [@roselaar1995]. Bolu Dağı, Rize, Eleşkirt ve Sarıkamış’tan alınan örnekler temel alınarak Türkiye’deki üreyen bireyler daha önce tanımlanmamış bir alttür olan *differens* olarak değerlendirilmiştir [@clancey1987]. Ancak bu bireylerin, tüyleri yıpranmış hâlde bile kuzey Avrupa’daki *trivialis* örneklerine çok benzediği görülmüş ve bu nedenle *differens* taksonu *trivialis*’in sinonimi olarak kabul edilmiştir [@roselaar1995; @alstrom2003].
 
-## Yeşil Sırtlı İncirkuşu
+# Yeşil Sırtlı İncirkuşu
 
 *Anthus hodgsoni*, Olive-backed Pipit
 
@@ -587,15 +587,15 @@ Türkiye’de hem üreyen hem de göç sırasında geçen kuşların çoğu *nom
 
 ![](images/harita_Anthus%20hodgsoni.png)
 
-**Üreme**
+### Üreme
 
 Türkiye’de yuvalamaz. Üreme alanı Kuzey Asya ve Orta Çin’dir. Kış aylarını Güneydoğu Asya’da geçirir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’den kaydedilen ilk birey, büyük olasılıkla Himalaya alttürü *hodgsoni* değil, *yunnanensis* formundandır. Bu alttür, doğuda Beyaz Deniz’den Japonya’ya, güneyde ise Çin’e kadar uzanan geniş bir alanda ürer ve Ortadoğu ile Avrupa’nın çeşitli bölgelerinde de rastlantısal olarak kaydedilmiştir.
 
-## Kızıl Gerdanlı İncirkuşu
+# Kızıl Gerdanlı İncirkuşu
 
 *Anthus cervinus*, Red-throated Pipit
 
@@ -609,15 +609,15 @@ Türkiye’den kaydedilen ilk birey, büyük olasılıkla Himalaya alttürü *ho
 
 Sonbahar geçişi ağustos sonlarında başlar, eylül sonu ve ekim başında en yoğun döneme ulaşır; kasım ortasından sonra sayılar belirgin şekilde azalır. Güney Ege ve Akdeniz kıyılarındaki sulakalanlarda kış döneminde düzenli fakat az sayıda birey gözlenir. İç Anadolu’nun güneyinde ise kış aylarında çok daha nadir kaydedilir. Çok sert kış koşullarında türün Türkiye genelinde görülmediği düşünülmektedir. Aralık ayına ait bilinen tek kayıt, 8 Aralık 1990’da İstanbul Büyükçekmece’dendir.
 
-![](images/clipboard-1689605013.png)**Üreme**
+![](images/clipboard-1689605013.png)### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'nın tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür [@alstrom2003].
 
-## Dağ İncirkuşu
+# Dağ İncirkuşu
 
 *Anthus spinoletta*, Water Pipit
 
@@ -633,15 +633,15 @@ Sonbaharda ve kışın genellikle deniz seviyesine iner; bu dönem çoğunlukla 
 
 ![](images/harita_Anthus%20spinoletta.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Yüksek dağlarda, ağaç sınırı ile kalıcı kar sınırı arasında 1800 m'den (1500–3500 m) yüksekte, çoğu kez alçak çalılıkların da olduğu çıplak alpin çayırlarda bulunur. Uludağ'da, 18 Mayıs 1993'te yaklaşık 15 hektar alanda kaydedilen 19 birey ile mayıs–temmuz arasında 1900 m'den yüksekteki çıplak alpin bodur çalılıklarında ve çayırlarda üreyen en yaygın kuştur [@jetz1995]. **Yuvası:** Yuva, sarkan alçak bir öbeğin yanındaki delikte ve öbeğin içine gömülmüş bir kayanın kısmen gizlediği yerde bulunmuş, kuru otlardan ve bitki dallarından yapılmış kâse şeklindeki yuva ince otlar ve biraz da kılla kaplanmıştır. Başka bir yuvada dış kısmında yosun ve içinde biraz yaprak kullanıldığı gözlenmiştir. **Yumurta sayısı:** Türkiye'de gözlenen yumurta sayısı 4 (2 yuvada), 5 (2 yuvada). Yavru sayısı hakkında veri yoktur. **Üreme dönemi:** Yumurtlama genellikle mayıs ortasında başlar. Tür, yayılış gösterdiği diğer alanlarda yılda iki kez kuluçkaya yatar. **MAR:** 8 Temmuz 1966'da Uludağ'da yiyecek taşıyan bir erişkin, 17 Mayıs 1969'da ise yuvasına yiyecek taşıyan bir erişkin gözlenmiştir. **KAD.** 6 Mayıs 1970'te 2500 m yüksekte Çiçekli yakınlarında beş yumurtalı bir yuva, 14 Haziran 1975'te Zigana Geçidi'nde her birinde dört yumurta olan iki yuva kaydedilmiştir. 13 Haziran 2004'te Sivrikaya'da (Rize) yaklaşık 2700 m yüksekte beş yumurtalı bir yuva bulunmuştur. **İÇA:** 19 Haziran 1996'da Karadağ'da (Karaman) zirvede, yumurtlamanın mayıs ortasında olduğunu gösterecek şekilde tüylenmiş yavrularını besleyen bir çift gözlenmiştir [@kirwan1998a].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye genelinde görülen bireyler ağırlıklı olarak *coutellii* alttürüne aittir; nitekim Kuzeydoğu Anadolu ve Uludağ’dan alınan örnekler bu alttürle uyumludur [@roselaar1995]. Öte yandan, sonbahar ve kış aylarında İç ve Orta Anadolu’daki üç farklı lokaliteden toplanan örnekler ise morfolojik olarak büyük ölçüde nominat *spinoletta* alttürüne benzemektedir.
 
-## Pasifik İncirkuşu
+# Pasifik İncirkuşu
 
 *Anthus japonicus*, Siberian Pipit
 
@@ -657,10 +657,10 @@ Hatay dışındaki kayıtlar arasında İstanbul Riva’da 27 Mart 2021’de (*H
 
 ![](images/harita_Anthus%20japonicus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Yayılış alanı Kuzeydoğu Asya'dır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Amerika İncirkuşu (*Anthus rubescens*) ile birlikte uzun süre Dağ İncirkuşu'nun (*Anthus spinoletta*) bir alttürü olarak kabul edilmiştir. 1980’lerde genetik, ötüş ve davranışsal verilere dayanan bulgular, Dağ İncirkuşu’nun diğer iki taksondan ayrılması gerektiğini ortaya koymuş ve bu iki takson Amerika’da *Amerika İncirkuşu*, Avrasya’da ise *Pasifik İncirkuşu* adı altında aynı tür olarak değerlendirilmiştir. Pasifik İncirkuşu ise 2024 yılında, mitokondriyal DNA ve biyoakustik özelliklerin daha ayrıntılı analiz edilmesinden sonra tam tür statüsü kazanmıştır.

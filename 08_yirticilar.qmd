@@ -2,7 +2,7 @@
 title: "Yırtıcılar"
 ---
 
-## Balık Kartalı
+# Balık Kartalı
 
 *Pandion haliaetus*, Western Osprey
 
@@ -20,18 +20,18 @@ Batıda Gediz ve Büyük Menderes Deltası, Fethiye bölgesi, Göksu Deltası ve
 
 ![](images/harita_Pandion%20haliaetus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Türkiye'de bu konuda bilgi bulunmamaktadır.\
 **Yuvası:** Türkiye'de bu konuda bilgi bulunmamaktadır.\
 **Yumurta Sayısı:** Türkiye'de bu konuda bilgi bulunmamaktadır.\
 **Üreme Dönemi:** **KAR:** Kızılırmak Deltası'nda Temmuz 1966'da kullanılan bir yuva bulunmuş, mayıs ortasından eylül ortasına kadar düzenli gözlenmiştir. **MAR:** Terkos Gölü'nde @acar1977 tarafından kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Ak Çaylak
+# Ak Çaylak
 
 *Elanus caeruleus*, Black-winged Kite
 
@@ -47,18 +47,18 @@ Ocak 1876'da [@danford1877], Mersin Zebil'de (şimdiki adıyla Sebil) muhtemelen
 
 ![](images/harita_Elanus%20caeruleus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Bozova'da arada bazı ağaç ve çalı bulunan buğday tarlalarında yuvalamıştı..\
 **Yuvası:** Bozova'daki yuva, bir elektrik direğinin üzerine kurulmuştu.\
 **Yumurta Sayısı:** Türkiye'de bu konuda bilgi bulunmamaktadır.\
 **Üreme Dönemi:** **GDA:** Bozova'da Mayıs ve Haziran 2013'te yuvada kuş görülmüştür.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de Hindistan kökenli vociferus nominat alttürü olduğu iddia edilmiştir.
 
-## Sakallı Akbaba
+# Sakallı Akbaba
 
 *Gypaetus barbatus*, Bearded Vulture
 
@@ -72,18 +72,18 @@ Genellikle 1500-4000 metre yüksekliklerde dağlık alanlarda oldukça yaygın y
 
 ![](images/harita_Gypaetus%20barbatus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Yüksek dağlardaki büyük yarlarda ürer. En uygun yarlar, İç Anadolu'da Köroğlu Dağları ve Sündiken Dağları üzerinde bulunur [@heredia1997].\
 **Yuvası:** Yüksek yarlarda bulunan oyuklarda yuvalar. Yuva, hayvan kemikleriyle çevrili, büyük ve çubuk ile dallardan oluşan nispeten sığ bir yapıdır. Yuvanın bulunduğu yer, dışkı izleri nedeniyle kolayca tespit edilebilir [@harrison2002]. Pozantı yakınlarında bir yuvanın, bez parçaları ve kadın saçlarıyla çevrildiği gözlenmiştir [@danford1877].\
 **Yumurta Sayısı:** 2 yuvada 1, 1 yuvada 2 yumurta.\
 **Üreme Dönemi:** Yumurtlama ocak sonunda başlar, yavrular haziran ortasından sonra uçar. Üreme süresi toplamda 5,5 ay sürmektedir. **AKD:** Toros Dağları'nda üreme ocak sonlarında başlar [@danford1877]. 2 Şubat 1876'da Pozantı'da bir yuvada iki yumurta, yine 1876 Şubat sonunda başka bir yumurta kaydedilmiştir [@danford1877]. **EGE:** 8 Şubat 1902'de Denizli Beşparmak Dağları'nda F. C. Selous tarafından toplanan bir yumurta, Tring Doğa Tarihi Müzesi'nde sergilenmektedir. Yumurtalar 1 Ocak gibi bırakılmış olsa da yavrular haziran ortasına kadar uçamaz, bu nedenle 15 Nisan 1996'da Demirkazık'ta önceki yılın genç bir bireyi kaydedilmiştir. **KAR:** Rize Çiçekli'de 6 Mayıs 1970'te tek yavrulu bir yuva bulunmuş, Merzifon'un güneybatısındaki Alıcık'ta ise 25 Temmuz 1974'te bir erişkin ve genç birey gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Roselaar (1995) Türkiye'nin *aureus* alttürünün yayılış alanında olduğunu doğrular. Ancak birçok yazar Kuzey Afrika'da tanımlanmış nominat alttürler *aureus* arasında çok fark olmadığını ve *aureus* formunu alttür olarak değerlendirmemeyi tercih eder.
 
-## Küçük Akbaba
+# Küçük Akbaba
 
 *Neophron percnopterus*, Egyptian Vulture
 
@@ -101,18 +101,18 @@ Türün eskiden daha yaygın olduğu bilinmektedir. İstanbul'da bir defasında 
 
 ![](images/harita_Neophron%20percnopterus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Çoğunlukla yar ve geçitlerle kaplı tepelik ve dağlık alanlarda, aynı zamanda küçük mağaralar ve iç tarafları uygun yuvalama alanları olan açık arazilerde ürer. Van Kalesi'nde de yuva yapımı kaydedilmiştir. Dışkıyla kaplanmış üreme alanları genellikle her yıl yeniden kullanılır.\
 **Yuvası:** Yün gibi çeşitli malzemeler ve dallardan yapılmış bir yuva, Karadağ'da kaydedilmiştir. Yuvanın bulunduğu mağaranın tabanı kaplumbağa kabuklarıyla kaplanmıştır [@ramsay1914].\
 **Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı: 5 yuvada 2 yumurta.\
 **Üreme Dönemi:** Genellikle nisan sonu ile mayıs başında yumurtalarını bırakır, yavrular haziran sonu itibarıyla çıkmaya başlar ve yavrular temmuz-ağustos aylarında uçurulur. **EGE:** Selous, 7-8 Mayıs 1899'da Aydın yakınlarında 6 yuva bulmuştur. İki yuvada kuluçkaya yatmış iki yumurta (muhtemelen ilk yumurta nisan sonunda bırakılmış) bulunmuş, bir yuvanın yumurta bırakmaya hazır olduğu tespit edilmiştir. Geri kalan ve ulaşılamayan diğer 3 yuvada da erişkinlerin kuluçkada oldukları gözlemlenmiştir. **İÇA:** 21 Nisan 2004'te Ereğli Sazlıkları yakınlarında bir erişkin bireyin kuluçkada olduğu ve 6 yuvada 6 Mayıs'tan itibaren yumurtalarının olduğu tespit edilmiştir. **AKD:** 10 ve 26 Mayıs tarihlerinde iki yuvada yumurta görülmüş, haziran ayında iki erişkin bireyin muhtemelen yavruların da olduğu yuvalarda oturduğu gözlenmiştir. **DOA:** 2 Haziran 2001'de Van yakınlarında bir erişkin bireyin kuluçkada veya yavrularının üzerinde oturduğu gözlenmiştir. Kağızman'da haziran sonlarında muhtemelen yavrularıyla beraber yuvada iki çift görülmüş, 16 Ağustos 1972'de ise bir yuvada büyümüş bir yavrunun ebeveynleri tarafından beslendiği kaydedilmiştir. Bu durum, yumurtaların mayıs başında bırakıldığını göstermektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Arı Şahini
+# Arı Şahini
 
 *Pernis apivorus*, European Honey Buzzard
 
@@ -132,18 +132,18 @@ Borçka'da detaylı sayımların yapıldığı ve yayınladığı tek yıl 1976 
 
 ![](images/harita_Pernis%20apivorus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Mayıs ve ağustos aylarında (tahmin edilen üreme mevsimi) uygun orman ve koruluk alanlarda üredikleri düşünülse de henüz teyit edilmiş üreme kayıtları mevcut değildir.\
 **Yuvası:** Başka bölgelerde yuva, çöplerden oluşmuş büyük bir yapı olup, kenarı yapraklarla astarlanmıştır.\
 **Yumurta Sayısı:** Genellikle haziran ayında iki yumurta bırakılır.\
 **Üreme Dönemi:** Mayıs sonu ile haziran başında yumurtalarını bırakır, yavrular ise temmuz sonu ile ağustos başında çıkar. **KAR:** Kızılırmak Deltası'nda Yörükler Ormanı'nda 12-20 çiftin ürediği tahmin edilmiştir. Üreme göstergesi olarak erişkin bireylerin kur davranışı sergilediği, orman alt örtüsü ve üst kısımlarında uçuşlar yaptığı gözlenmiş, birçok çiftin yumurtlamaya başladığı 10 Haziran civarında biten araştırmalarda herhangi bir yuvaya rastlanamamıştır [@hustings1994].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Tepeli Arı Şahini
+# Tepeli Arı Şahini
 
 *Pernis ptilorhynchus*, Crested Honey Buzzard
 
@@ -161,15 +161,15 @@ Orta Doğu'da yaygın olduğunun ortaya çıkması, son yıllarda bölgedeki ön
 
 ![](images/harita_Pernis%20ptilorhynchus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Yayılış alanı Doğu Asya'dır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Tahnit verisi bulunmamaktadır, fakat yayılış gösterdiği alanlarda alttür *orientalis* olmalıdır.
 
-## Kara Akbaba
+# Kara Akbaba
 
 *Aegypius monachus*, Cinereous Vulture
 
@@ -187,18 +187,18 @@ Türkiye'de üreyen popülasyonunun 20. yüzyılda ciddi oranda azaldığı ve m
 
 ![](images/harita_Aegypius%20monachus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Genellikle iğne yapraklı ormanlarda, dağlık alanların ulaşılması zor vadilerinin eğimli yamaçlarında bulunan yaşlı çam ağaçlarına yuva yaparlar. Aynı vadide birkaç çiftin birbirine yakın yuvalarda ürediği görülmüşse de, genelde koloni halinde üremezler.\
 **Yuvası:** Tür, yuvasını yaşlı çam ağaçlarının genellikle en tepesine, büyük dal parçalarından yapar ve çevresini yapraklı dallar, kabuklar ve çeşitli birikintilerle astarlar. Yeni yuvalar büyüktür, fakat yıllardır kullanılan eski yuvalar daha da büyüktür.\
 **Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı: 3 yuvada 1 yumurta.\
 **Üreme Dönemi:** Mart başında yumurtalarını bırakır, yavrular temmuz sonunda yuvadan uçar. Kuluçka süresi 54 gün, yavruların yuvada kalma süresi ise yaklaşık 100 gündür. **EGE:** Beşparmak Dağı'ndan (Denizli) F. C. Selous tarafından 8 Mart, 10 Mart ve 25 Mart 1897'de toplanan 3 yumurta, Tring Doğa Tarihi Müzesi'nde sergilenmektedir. **İÇA:** Kızılcahamam'da 15 Haziran 1983'te bulunan bir yuvada "yaklaşık bir ördek büyüklüğünde" bir yavru kaydedilmiştir [@baris1984]. Temmuz 1994'te Soğuksu Milli Parkı'nda 4 yuvada tamamen tüylenmiş 4 yavru bulunmuş; 1995 yılında (7-21 Mayıs 1995) bu yuvaların yeniden kullanıldığı, bu 4 yuvaya ek olarak 2 yuva daha tespit edilmiştir. Bu 6 yuvadan 5'i, 1500 metre yüksekliğinde bir vadide, akarsu yakınında yer almaktadır. 11 Mayıs 1995'te Hamam Dağı'ndaki bir vadide 1300 metre irtifadaki çam ağaçlarında bulunan iki yuvada yaklaşık 14 günlük yavrular tespit edilmiştir. Muhtemelen bu yuvalara yumurtalar 5 Mart civarında bırakılmıştır. Murat Dağı'nda (Afyon ve Kütahya) 1-2 Mayıs 1996 tarihlerinde, ormancılık faaliyetleri yürütülen bir vadide, 1400 ve 1600 metre yüksekliklerde kullanılan iki yuva tespit edilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kızıl Akbaba
+# Kızıl Akbaba
 
 *Gyps fulvus*, Griffon Vulture
 
@@ -218,18 +218,18 @@ Batı ve orta bölgelerde az sayıda kışlayan bireyler bulunur. Türün çoğu
 
 ![](images/harita_Gyps%20fulvus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Yüksek yarların, kayalık geçitlerin ve kayalık çıkıntıların olduğu dağlık bölgelerde, genellikle 2-8 çift civarında küçük koloniler halinde ürerler. 1993'te İspir'de bir noktada 15 yuva tespit edilmiştir [@faldborg1994], Doğu Anadolu'da Nemrut Dağı'nda ise sadece tek bir yuva görülmüştür [@magninyarar1997].\
 **Yuvası:** Yarların kaya oyukları ya da çıkıntılarında, yapraklı dallar ve birikintilerle astarlanmış düz, ufak bir yuva yapar.\
 **Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı: 6 yuvada 1 yumurta.\
 **Üreme Dönemi:** Şubat başında yumurtalarını bırakır, yavrular nisan başında çıkar ve haziran ayında uçmaya hazır hale gelirler. **AKD:** Toroslar'ın güney yamaçlarında şubat sonu - mart başı gibi yuva yapar [@danford1877]. 13 Nisan 1971'de Alanya ve Silifke arasında bir yuvada bir yumurta, başka bir yuvada muhtemelen bir yavru ve 5 günlük başka bir yavru tespit edilmiştir. Aynı bölgede 4 Haziran 1971'de uçmaya hazır yavruların bulunduğu 8 yuva kaydedilmiştir [@warncke1972beitrag]. 5 günlük yavrular, bu yumurtaların şubat ortasında bırakıldığını gösterir. Ancak 4 Haziran'da 8 yuvada bulunan yavruların uçmaya hazır olduğu kaydında bir hata olabilir; geriye dönük hesaplama, yumurtaların aralık sonunda bırakılmış olması gerektiğini gösterir. **EGE:** Denizli yakınlarında Akdağ'da 3 çift, Kızılcahamam'da 2 çift gibi ufak koloniler mevcuttur. Tring Doğa Tarihi Müzesi'nde bulunan birer yumurta, F. C. Selous tarafından 25 Mart 1897'de Beşparmak Dağı'ndaki (Denizli) iki yuvadan toplanmış olup, 22 Mart 1897 ve 30 Ocak 1902'de 3 kuluçkadan birer yumurta daha toplanmıştır. **DOA:** 3 Eylül 1992'de Tuzluca'nın 30 km batısında, en az üçünde yavru bulunan 5 yuvanın olduğu bir koloni tespit edilmiştir. 3 Eylül 1973'te Kağızman'ın batısı Arastal'da yavrularıyla birlikte 5 çift, 4 Temmuz 2001'de Iğdır'da yuvalayan 20 erişkin birey, 17 Mayıs 1975'te Hakkâri yakınlarında 11 bireylik bir koloni kaydedilmiştir. **KAR:** İspir'de 10-11 Mayıs 1991'de 35 birey ve 17 yuva, Haziran 1992'de 13 birey ve 8 yuva, 10 Mayıs 1993'te 18 birey ve 15 yuva tespit edilmiştir. 1992'de ise muhtemelen 15'ten fazla yuva kaydedilmiştir [@yarar1993bird]. **MAR:** Uludağ'da türün ürediğinden şüphelenilmektedir [@magninyarar1997].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Cambaz Kartal
+# Cambaz Kartal
 
 *Terathopius ecaudatus*, Bateleur
 
@@ -243,15 +243,15 @@ Türkiye'de nominat alttürü bulunur.
 
 ![](images/harita_Terathopius%20ecaudatus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Yayılış alanı Sahra Altı Afrikası'dır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Yılan Kartalı
+# Yılan Kartalı
 
 *Circaetus gallicus*, Short-toed Snake Eagle
 
@@ -269,7 +269,7 @@ Sonbahar göçü sırasında ağustos ortasından ekim sonuna kadar gözlenir. �
 
 ![](images/harita_Circaetus%20gallicus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Ağaçlarda, ara sıra da yarlarda yuva yapar.\
 **Yuvası:** Yuva genelde geniş, etrafı yapraklı dallarla astarlanmış olup, orta kısmı oyuk şeklinde ve küçük dallarla çerçöple yapılmış ince bir yapıdır. Muhtemelen her yıl yeni bir yuva yapar. Bir bölgede genelde başarıyla kullanılan 2-3 yuva bulunur, fakat aynı yuva sonraki yıllarda da kullanılabilir.\
@@ -277,11 +277,11 @@ Sonbahar göçü sırasında ağustos ortasından ekim sonuna kadar gözlenir. �
 **Yavru Sayısı:** 1 (2 yuvada).\
 **Üreme Dönemi:** Mayıs ayında yumurta bırakır, yavrular haziran sonunda veya temmuz başında yumurtadan çıkar, ve yavrular ağustos sonuna kadar yuvayı terk eder. **İÇA:** Avanos'ta bir badem ağacında bulunan yuvada, 3 Haziran 1971'de bir yumurta, 22 Haziran 1971'de bir yavru ve aynı yuvada 30 Mayıs 1972'de bir yumurta kaydedilmiştir. 1971 kaydı, bu yuvada yumurta bırakılmasının 11 Mayıs'ta olabileceğini gösteriyor. 25 Haziran 1977'de Delice (Çorum)'de bir kaya çıkıntısında bulunan yuvada yaklaşık 18 günlük bir yavru tespit edilmiştir [@pforr1982]. Bu kayıt, yumurtanın 21 Nisan gibi bırakıldığını işaret eder. 13 Mayıs 1986'da Kızılcahamam'da kur davranışı gözlenmiştir. **EGE:** Krüper, bugün Tring Doğa Tarihi Müzesi'nde bulunan iki ayrı yuvadan iki yumurtayı, İzmir civarından 18 Nisan 1871 ve 26 Mayıs 1872'de toplamıştır. **MAR:** 23 Nisan 1970'te Belgrad Ormanı'nda ve 21 Haziran 1973'te Terkos Gölü'nün batısında kur davranışı gözlenmiş; 1993'te Kocaçay Deltası çevresindeki tepelerde en az iki çift üremiş ve bir erişkinin yuvaya yiyecek taşıdığı tespit edilmiştir [@ertan1996]. **GDA:** 7 Mayıs 1992'de Gaziantep'te bir erişkinin yılan taşıdığı, 8 Haziran'da sarp bir kaya üzerindeki yuvada bir dişinin kuluçkada olduğu gözlenmiştir. **AKD:** 23 Mart 1993'te Taşucu tepelerinde bir çiftin kur davranışı, 11 Nisan 1991'de Suğla Gölü'nde bir çift ve 3 Mayıs 1996'da Dalyan'da 3 birey kaydedilmiştir. Ayrıca, 9 Mayıs 1995'te Darım Dağı'nda bir erişkin ve 22 Mayıs 1995'te Termessos'ta başka bir erişkinin yılan taşıdığı gözlenmiştir. 20 Mayıs - 2 Haziran 1998'de Beyşehir Gölü ortasında çam ve ardıç ağaçlarıyla kaplı kayalık bir adada bir çift tespit edilmiştir. 6 Nisan 1991'de Sütçüler yakınındaki Çandır (Isparta)'da bir yuvanın orman işletmesi tarafından korunduğu gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Küçük Orman Kartalı
+# Küçük Orman Kartalı
 
 *Clanga pomarina*, Lesser Spotted Eagle
 
@@ -301,18 +301,18 @@ Arada bir kış aylarında kalabilir. 24 Ocak 1993'te Meriç Deltası'nda bir bi
 
 ![](images/harita_Clanga%20pomarina.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Genellikle suya yakın bölgelerde bulunan alçak düzlükler ve ormanlık alanlarda ürerler.\
 **Yuvası:** Yuva genellikle orman ve açık alanların kenarlarında bulunan ağaçlarda, 6-25 metre yükseklikte, ortası çukur dal parçalarından oluşan, ot ve yapraklarla astarlanmış büyük bir yapıdır.\
 **Yumurta Sayısı:** 1-3 olup ortalama 2'dir.\
 **Üreme Dönemi:** Mayıs ayında yumurta bırakır, yavrular haziran sonunda veya temmuz başında yumurtadan çıkar, ve yavrular ağustos sonuna kadar yuvayı terk eder. **MAR:** 24 Nisan 1970'te İstanbul Belgrad Ormanı'nda 3 çiftin, 29 Haziran 1973'te ise başka bir çiftin kur davranışı yaptığı ve muhtemelen bir çiftin kuluçka nöbeti değişimi gerçekleştirdiği gözlenmiş, ancak yuva bulunamamıştır. **KAR:** 1969 Temmuz sonunda Kızılırmak Deltası'nda iki bireyin ağaçlık bir alana her gün yiyecek taşıdığı görülmüş, ancak yine yuva tespit edilememiştir. Aynı bölgede 27 Mayıs 1979'da kur davranışı kaydedilmiştir [@dijksen1985]. 1992 yılında Yörükler Ormanı'nda 4-5 çiftin ürediği tahmin edilmiş, fakat ne yuva bulunmuş ne de yiyecek taşıyan bireyler araştırmanın sona erdiği 10 Haziran'a kadar gözlenmiştir. Muhtemelen bu bölgede yumurtalar haziran ortasına kadar yuvaya bırakılmamıştır [@hustings1994]. **DOA:** 12 Haziran 2005'te Çıldır ve Ardahan arasında bir erişkin bireyin yiyecek taşıdığı gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Yeni yapılan genetik çalışmalarla küçük ve büyük orman kartalları *Aquila* cinsinden *Clanga* cinsine alınmıştır.
 
-## Büyük Orman Kartalı
+# Büyük Orman Kartalı
 
 *Clanga clanga*, Greater Spotted Eagle
 
@@ -328,15 +328,15 @@ Sulakalanlarda ekim sonundan mart sonuna, bazen de nisan ayına kadar görülen 
 
 ![](images/harita_Clanga%20clanga.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Yuvalama bölgesi Baltık Denizi ile Kuzeydoğu Asya arasında geniş bir alandır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Yeni yapılan genetik çalışmalarla küçük ve büyük orman kartalları *Aquila* cinsinden *Clanga* cinsine alınmıştır.
 
-## Küçük Kartal
+# Küçük Kartal
 
 *Hieraaetus pennatus*, Booted Eagle
 
@@ -352,18 +352,18 @@ Göç sırasında Türkiye genelinde daha yaygındır ve sayıca daha fazladır.
 
 ![](images/harita_Hieraaetus%20pennatus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Ağaçlarla kaplı tepelik ve dağlık alanlarda, bazen de oldukça kurak bölgelerde ürer.\
 **Yuvası:** Yuva, genellikle ağaçlar üzerine yapılır ve dallardan oluşan büyük bir yapıdır.\
 **Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı: 2 (1 yuvada).\
 **Üreme Dönemi:** Mayıs ayında yumurta bırakır, yavrular haziran sonunda veya temmuz başında yumurtadan çıkar, ve yavrular ağustos sonuna kadar yuvayı terk eder. **KAR:** Çatalağzı (Zonguldak) yakınlarındaki bir ormanda bulunan yuvanın, yerden 6,2 metre yükseklikte olduğu ve mayıs başında bırakılmış iki yumurta içerdiği kaydedilmiştir [@ogilvie1954]. **AKD:** Aladağlar'da, 5 Mayıs 1876'da henüz içinde yumurta olmayan, taze yapraklarla astarlanmış bir yuva görülmüştür [@danford1877]. 24 Temmuz 1971'de Pozantı (Adana) yakınlarında iki erişkin ve iki genç birey gözlenmiştir. **İÇA:** 23 Haziran 1983'te Kızılcahamam'da bir tepenin sırtında, büyük olasılıkla bir ağaca yapılmış başka bir yuva kaydedilmiştir [@baris1984]. 29 Mayıs 1999'da Yalvaç (Isparta)'ta koyu renkli iki bireyin çiftleştiği gözlenmiştir. **MAR:** 21 Nisan 1996'da İstanbul Kemerburgaz'da iki erişkin birey (biri koyu, diğeri açık renkli) gözlenmiştir. **EGE:** 4 Mayıs 1996'da Akdağ Dağı (Denizli)'nda 10 bireyin kur davranışı sergiledikleri kaydedilmiştir [@heredia1997].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Bozkır Kartalı
+# Bozkır Kartalı
 
 *Aquila nipalensis*, Steppe Eagle
 
@@ -379,18 +379,18 @@ Monotipik bir türdür.
 
 ![](images/harita_Aquila%20nipalensis.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Genellikle yere yuva yapar, özellikle uzak adaların yamaçlarında veya düz alanlarda yuvalar.\
 **Yuvası:** Yuva, ot, tüy ve döküntülerle astarlanmış olup, yere yapılmış büyük bir yapıdır.\
 **Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı genellikle 1-2'dir.\
 **Üreme Dönemi:** Mayıs ayında yumurta bırakır, yavrular haziran sonunda veya temmuz başında yumurtadan çıkar, ve yavrular ağustos sonuna kadar yuvayı terk eder. **İÇA:** Tuz Gölü'nde bir adanın yamaçlarında yere yuva yaptığı kaydedilmiştir. Yuva 1969 yılında kullanılmış, ancak 1970'te kullanılmamıştır [@warncke1970beitrag]. 10 Nisan civarında yumurtaların bırakıldığı yuvada, yaklaşık 10 günlük iki yavru 31 Mayıs 1971'de görülmüştür. Aynı yuvada, mart sonu veya nisan başında bırakıldığı tahmin edilen yumurtalardan 4 haftalık bir yavru, 10 Haziran 1973'te görülmüştür. Bu eski yuva, 9 Mayıs 1993'te halen bozulmamış halde olmasına rağmen kullanılmamaktaydı [@lehmann1977]. Bolluk Gölü'nde, bir adanın üzerinde yere yapılan bir yuvada, mart ortasında bırakıldığı tahmin edilen yumurtalardan 6 Mayıs 1975'te yaklaşık bir haftalık bir yavru ile bir yumurta kaydedilmiştir [@pforr1982]. 1980 yılında kullanılan bu yuva, 1993'te yeniden kullanılmamıştır. Türün ürediğini gösteren en yeni kayıt, 11 Haziran 2003'te Seyfe Gölü'nde yerde bulunan ve fotoğraflarla belgelenmiş bir yuvada üç tüylü yavrunun gözlendiği kayıttır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de muhtemelen *orientalis* alttürü bulunur [@roselaar1995].
 
-## Şah Kartal
+# Şah Kartal
 
 *Aquila heliaca*, Eastern Imperial Eagle
 
@@ -408,7 +408,7 @@ Kış aylarında batı, güney ve iç bölgelerde daha yaygın olarak görülür
 
 ![](images/harita_Aquila%20heliaca.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Açık ormanlık arazilerde, izole orman parçalarında ve dağınık ya da tek kalmış ağaçlarda ürer.\
 **Yuvası:** Genellikle kavak, söğüt ve çam gibi yaşlı ve yüksek ağaçlarda, bazen de yarlarda yuva yapar. Yuva, her yıl yenilenen ot, çubuk ve yeşil yapraklarla astarlanmış, ortası kısmen çukur dal ve çubuklardan oluşan büyük bir yapıdır. Genellikle bir bölgede 2-3 yuva bulunur ve bu yuvalar farklı yıllarda kullanılır. Her sene yeni malzeme getirildiğinden, yuvaların boyutu büyür.\
@@ -416,11 +416,11 @@ Kış aylarında batı, güney ve iç bölgelerde daha yaygın olarak görülür
 **Yavru Sayısı:** 1. Genelde tek yavru hayatta kalır, çünkü daha büyük tek yavrulu yuvalarda bu yüzden hep bir yavru olur.\
 **Üreme Dönemi:** Mayıs ayında yumurta bırakır, yavrular haziran sonunda veya temmuz başında yumurtadan çıkar, ve yavrular ağustos sonuna kadar yuvayı terk eder. **İÇA:** 1876 ve 1879 yıllarında birçok yuva bulunmuştur [@danford1880]. Aladağlar ve Kayseri arasındaki bölgede söğüt ve diğer ağaçlarda bulunan yuvalardan, yumurtalar ve yavrular mayısın ikinci haftasında görülmüştür. 8 Mayıs 1876'da Kayseri yakınlarında bir yuvada iki yavru gözlenmiştir [@danford1877]. 9 Mayıs 1876'da toplanan üç yumurta bugün Tring Doğa Tarihi Müzesi'ndedir. 1879'da Kayseri ve Ankara Köprüköy civarındaki yuvalardan yumurta toplanmıştır. **KAR:** 6 Haziran 1970'te Samsun Havza yakınlarında iki yavru bulunan bir yuva, 24 Temmuz 1972'de Kızılırmak Deltası'nda bir ağaçta iki erişkin birey gözlenmiştir. Haziran 1986'da Gümüşhane'de bir yuvada en az bir yavru görülmüştür. 1 Temmuz 1989'da Bolu'nun doğusunda karaçamda bulunan büyük bir yuvada tamamen tüylenmiş bir yavru tespit edilmiştir [@wirth1996breeding]. **MAR:** 22 Nisan 1965'te Meriç Deltası'nda bir kavak ağacındaki yuvada bir dişi bireyin kuluçkada olduğu görülmüştür [@warncke1964-65beitrag]. 29 Haziran 1973'te Uluabat Gölü'nde bir genç birey gözlenmiş, 29 Mayıs 1993'te Kocaçay Deltası'nda muhtemelen çevredeki tepelerde ürediği düşünülen bir erişkin bireyin yiyecek taşıdığı kaydedilmiştir [@ertan1996]. **EGE:** İzmir çevresinden Krüper tarafından toplanan beş yumurta bugün Tring'de sergilenmektedir. Bu yumurtalardan üçü 15 Nisan 1872'de, diğerleri ise Nisan 1873 ve Nisan 1874'te toplanmıştır. 1873 ve 1874'te toplanan yumurtalar muhtemelen henüz tamamlanmamış kuluçkalara aittir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Kaya Kartalı
+# Kaya Kartalı
 
 *Aquila chrysaetos*, Golden Eagle
 
@@ -436,7 +436,7 @@ Genellikle 1500 metre üzerinde ürer, ancak üreme dönemi dışında alçak ra
 
 ![](images/harita_Aquila%20chrysaetos.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Yarların, çatlakların, kaya çıkıntılarının ve büyük ağaçların bulunduğu dağlarda ürer. Genellikle yar çıkıntılarında, kaya saçağının altında veya ağaçlarda yuva yapar. Aynı yar uzantısında bulunan birkaç yuva, farklı yıllarda değişimli olarak kullanılır.\
 **Yuvası:** Yuva, dallardan yapılmış olup, kullanıldıkça ek malzeme eklendiği için zamanla büyüyen büyükçe bir yapıdır. İç Anadolu'da bir yuvanın çam pürüyle, Akdeniz Bölgesi'nde ise başka bir yuvanın yeşil köknar dallarıyla astarlanmış olduğu kaydedilmiştir [@pforr1982; @danford1877].\
@@ -444,11 +444,11 @@ Genellikle 1500 metre üzerinde ürer, ancak üreme dönemi dışında alçak ra
 **Yavru Sayısı:** 1 (3 yuvada), 2 (1 yuvada). Genellikle daha küçük yavru ilk haftalarda ölür veya daha büyük yavru tarafından öldürülür, bu nedenle genellikle sadece bir yavru hayatta kalır.\
 **Üreme Dönemi:** Mayıs ayında yumurta bırakır, yavrular haziran sonunda veya temmuz başında yumurtadan çıkar, ve yavrular ağustos sonuna kadar yuvayı terk eder. **İÇA:** 27 Mayıs 1975'te Kızılcahamam'da içinde iki yumurta bulunan bir yuva kaydedilmiştir. 1 Nisan civarında yumurtaların bırakıldığı ve 31 Mayıs 1973'te iki haftalık iki yavrunun bulunduğu başka bir yuva gözlenmiştir [@pforr1982]. 8 Mayıs 1965'te Palas Gölü yakınlarındaki bir yuvada iki yumurta kaydedilmiştir [@warncke1964-65beitrag]. 16 Haziran 1986'da Kızılcahamam yakınlarında iki erişkin ve genç bir birey gözlenmiş, 13 Haziran 1998'de Şereflikoçhisar'da bir yuvada erişkin bir bireyin iki yavruyu beslediği tespit edilmiştir. **AKD:** Demirkazık'ta 15 Nisan 1996'da kur yapan iki birey kaydedilmiştir. 27-28 Mayıs 2000'de bir kaya çatlağında yuva yapan bir yavru ve başka bir çatlağa uçan iki birey gözlenmiştir. 3 Haziran 1999'da bir yuvada en az bir yavru kaydedilmiş, bir erişkinin taze yeşil malzeme, diğerinin ise bir yılan taşıdığı görülmüştür. Danford, 1876 ve 1879 yıllarında bu bölgede çok sayıda yuva bulmuştur. Mart 1879'da Toros Dağları'nda birçok yuva ziyaret etmiş, fakat henüz yumurta bırakılmadığını gözlemlemiştir [@danford1880]. Aladağlar'da bir yuvada 30 Nisan 1876'da küçük bir yavru ve bir yumurta bulunmuştur [@danford1877]. **KAR:** İspir'de nisan-mayıs aylarında kur davranışı gözlenmiş, 12-14 Haziran 1975'te yiyecek taşıyan bir erişkin kaydedilmiştir. 4-5 Temmuz 1988'de uçurumda oturan iki erişkin ve bir genç birey gözlenmiştir. **MAR:** 1 Mayıs 1993'te Kocaçay Deltası'nda bir çiftin kur davranışı kaydedilmiştir [@ertan1996]. **DOA:** 14 Haziran 1973'te Horasan'da içinde bir yavru bulunan bir yuva ve 15 Ağustos 1972'de Pasinler'in doğusunda yine içinde bir yavru olan bir başka yuva tespit edilmiştir. 21-22 Haziran 1994'te tüylenmiş yavrular gözlenmiş, 15 Ağustos'ta yavru görülmesi yuvada bulunmak için oldukça geç bir tarih olarak değerlendirilmiştir. 31 Mayıs 1969'da Görentaş'ın batısındaki dağlarda uyarı çığlıkları atan bir çift türün ürediğine işaret etmiştir. Kaya kartalları ve diğer yırtıcı kuşlar, yuvalama döneminde yeşil malzeme getirerek yuvalarını yeniler ya da yuvalarını büyütmek için malzeme taşırlar. 12-14 Haziran 1975'te İspir'de ve 31 Mayıs 1991'de Demirkazık'ta yuvaya malzeme taşırken görülen bireyler bu bağlamda değerlendirilmelidir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Kış aylarında Trakya'da görülen bireyler belirgin bir şekilde nominat tür olarak tanımlanırken, Anadolu'da olanlar *homeyeri* alttürüdür [@roselaar1995].
 
-## Tavşancıl
+# Tavşancıl
 
 *Aquila fasciata*, Bonelli's Eagle
 
@@ -464,7 +464,7 @@ Karadeniz kıyılarının doğu yarısı, İç Anadolu ve Doğu Anadolu'dan üre
 
 ![](images/harita_Aquila%20fasciata.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Yüksek yarlarda, kaya çıkıntılarında, çatlaklarda ve nehirlere bakan uçurumlarda ürer.\
 **Yuvası:** Uçurumların çıkıntılarında ya da oyuklarında yapılmış, yapraklı dallarla astarlanmış ve çöplerden yapılmış büyük bir yapıdır. Yuvalar yıllar boyunca yeniden kullanılabilir ve her yıl ebatları büyür. Aynı kayalık yamaçta 3-4 yuva bulunabilir ve bu yuvalar yıllar içinde dönüşümlü olarak kullanılabilir.\
@@ -472,11 +472,11 @@ Karadeniz kıyılarının doğu yarısı, İç Anadolu ve Doğu Anadolu'dan üre
 **Yavru Sayısı:** 2 haftalık yavrular genellikle gözlenmiştir.\
 **Üreme Dönemi:** Şubat ve mart ayında yumurta bırakır, yavrular nisan ayında yumurtadan çıkar, ve yavrular haziran sonuna kadar yuvayı terk eder. **GDA:** Birecik bölgesinde yuvalar bulunmuş ve 14 Şubat 1879'da türün tüm yuvalarda kuluçkaya yattığı gözlenmiştir [@danford1880]. Birecik'teki bir yuvada, mavi bir plastik poşetle astarlanmış dallardan yapılmış bir yapı tespit edilmiş ve 10 Mayıs 2004'te yaklaşık 2 haftalık iki yavru gözlenmiştir. Bu yuvada yumurtaların mart ortasında bırakıldığı düşünülmektedir. Kilis'in batısındaki bir yuvada, şubat ortasında bırakılan yumurtalardan 7 Nisan 1971'de yaklaşık 10 günlük iki yavru gözlenmiştir. **DOA:** Hasankeyf yakınlarında, Dicle Nehri'ne bakan dik yamaçlarda bir oyukta, nehir seviyesinden 42 metre yukarıda bir yuva bulunmuş, yakınında önceki yıllardan kalma dört yuva daha kaydedilmiştir [@kilic2003]. Bu yuvada, 25 Nisan 2003'te 30-35 günlük erişkin boyutlarına gelmiş bir yavru gözlenmiş ve 23 Mayıs 2003'te bu yavru yuvadan uçmuştur. Yuvaya yumurtaların 10 Şubat civarında bırakıldığı tahmin edilmektedir. 21 Nisan'dan haziran başına kadar Halfeti'deki üreme noktasından birçok üreme kaydı mevcuttur. 16 Haziran 1983'te Cizre ve Eruh arasında iki erişkin ve iki genç bireyden oluşan bir aile tespit edilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Saz Delicesi
+# Saz Delicesi
 
 *Circus aeruginosus*, Western Marsh Harrier
 
@@ -494,7 +494,7 @@ Kış aylarında batı ve orta bölgelerde, özellikle büyük nehir deltaların
 
 ![](images/harita_Circus%20aeruginosus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Genellikle büyük ve sık *Phragmites* sazlarıyla kaplı alanlarda ürer. Bazen küçük bataklıklarda, yaşlı sazların olduğu ufak alanlarda da yuva yapar. Ayrıca, *Carex* türleri ve diğer alçak bataklık bitkileriyle kaplı alanlarda da ürediği gözlenmiştir.\
 **Yuvası:** Yuva, sığ sularda yerden biraz yukarıya ya da kırılmış sazların üzerinde oluşan bir platforma yapılır. Yuva, otlarla astarlanmış olup dal, saz ve diğer malzemelerden oluşan bir yığındır.\
@@ -502,11 +502,11 @@ Kış aylarında batı ve orta bölgelerde, özellikle büyük nehir deltaların
 **Yavru Sayısı:** 3 (3 yuvada).\
 **Üreme Dönemi:** Nisan ve mayıs ayında yumurta bırakır, yavrular mayıs sonunda veya haziran başında yumurtadan çıkar, ve temmuz sonuna kadar yuvayı terk eder. **İÇA:** 15 Nisan 1996'da Sultansazlığı'nda ve 8 Mayıs 1946'da Mogan Gölü'nde yuva yapımı kaydedilmiştir. En erken 23 Nisan'da, çoğunluğu mayıs ayında olmak üzere 11 yuvanın yumurtalarla dolu olduğu gözlenmiştir. 20 Mayıs 1998 ve 16 Mayıs 2004 tarihlerinde sırasıyla sadece 2 ve bir yumurta bulunan yuvalar tespit edilmiştir. İlk yumurtaların 20 Nisan civarında bırakıldığı bir yuvada 24-27 Mayıs tarihlerinde yumurtadan yeni çıkmış üç yavru kaydedilmiştir. Benzer şekilde, 5 Nisan civarında bırakıldığı tahmin edilen bir yuvada 15 Mayıs 2004'te yeni çıkmış yavrular kaydedilmiştir. **DOA:** 13 Haziran 2006'da Tödürge Gölü'nde bir yuvada 3 yumurta kaydedilmiştir. 27-28 Mayıs 1969'da iki çiftin Çenge Gölü'nde yuva yaptığı veya yuvayı tamir ettiği gözlemlenmiştir. 29 Temmuz 1999'da birçok genç birey tespit edilmiştir. **KAR:** 19 Mayıs 1992'de Yeniçağa Gölü'nde bir yuvada 4 yumurta bulunduğu ve haziranın ilk 10 gününde birçok erişkin bireyin yiyecek taşıdığı belirlenmiştir [@hustings1994]. **MAR:** Kocaçay Deltası'nda 2 Mayıs ve 13 Haziran 1993'te yuvalar bulunmuş [@ertan1996], 26 Nisan 1981'de ise Terkos Gölü'nde türün kur davranışı gözlemlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Gökçe Delice
+# Gökçe Delice
 
 *Circus cyaneus*, Hen Harrier
 
@@ -524,15 +524,15 @@ Eylül başında gelir ve nisan sonuna kadar kalır. Genellikle 1500 metreden da
 
 ![](images/harita_Circus%20cyaneus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Orta ve Kuzey Avrupa, benzer enlemlerde Orta ve Doğu Asya'da yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Bozkır Delicesi
+# Bozkır Delicesi
 
 *Circus macrourus*, Pallid Harrier
 
@@ -550,7 +550,7 @@ Kışın, Çukurova ve Göksu Deltası'nda düzenli olarak en fazla 5 kuş gör�
 
 ![](images/harita_Circus%20macrourus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Eskiden büyük bir bataklık olan, *Carex* su bitkileriyle kaplı ve etrafında kuru tarım, meyvecilik yapılan, yoğun şekilde hayvan otlatılan Eşmekaya yakınlarında üremiştir.\
 **Yuvası:** Yuva, düz bir çayır toprağı üzerinde, ot ve ayrık otlarından yapılmış olup, çayır delicesi yuvalarıyla aynı şekilde ortası basık yapılmıştır.\
@@ -558,11 +558,11 @@ Kışın, Çukurova ve Göksu Deltası'nda düzenli olarak en fazla 5 kuş gör�
 **Yavru Sayısı:** 3 (bir yuvada).\
 **Üreme Dönemi:** İlk yumurta, 25-26 Nisan civarında bırakılır, yavrular mayıs ayı sonunda çıkar ve haziran ortasında 20 günlük oldukları kaydedilmiştir. 1977 Haziran sonunda bir yuvada üç büyümüş yavru kaydedilmiştir. 1993'te bulunan iki yuvadan birinde 11 Mayıs'ta 4 yumurta, 27 Mayıs'ta 3 yumurta ve yeni çıkmış bir yavru, 30 Mayıs'ta 3 günlük 3 yavru ve döllenmemiş bir yumurta, 15 Haziran'da ise en büyüğü 20 günlük 3 yavru gözlenmiştir. Diğer yuvada ise 12 Mayıs'ta 3 yumurta, 16 Mayıs'ta 4 yumurta kaydedilmiş, ancak 27 Mayıs'ta yuvanın boş olduğu tespit edilmiştir, muhtemelen bir yırtıcı tarafından yok edilmiştir. Bu yuvada ilk yumurta, çayır delicesi yuvalarıyla uyumlu olarak 7-8 Mayıs'ta bırakılmış olmalıdır. **DOA:** 2 Haziran 1996'da bir bozkır delicesinin dişi bir çayır delicesine "yiyecek verdiği" ve aynı erkeğin 12 Mayıs 1996'da dişiye kur yaptığı gözlenmiştir. Bu iki tür arasında nadir de olsa melezleşme olabilir [@davidson1997; @forsman1993].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Çayır Delicesi
+# Çayır Delicesi
 
 *Circus pygargus*, Montagu's Harrier
 
@@ -580,7 +580,7 @@ Kışın, Aralık 2001'de Göksu Deltası'nda (Kuşçu Bülteni 10:7) ve 19 Aral
 
 ![](images/harita_Circus%20pygargus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Genellikle bataklıklarda, sazların arasında ve sular altında kalmış çayırlarda ürerler. Bitki örtüsünün gür olduğu yerlerde, yere kındıra ve kuru otlardan yapılmış, ortası oyuk bir yuva yaparlar.\
 **Yuması:** Yuva, genelde bitki örtüsünün gür olduğu alanlarda yere yapılır, kındıra ve kuru otlardan oluşur, ortası oyuk bir yapıya sahiptir.\
@@ -588,11 +588,11 @@ Kışın, Aralık 2001'de Göksu Deltası'nda (Kuşçu Bülteni 10:7) ve 19 Aral
 **Yavru Sayısı:** 4 (1 yuvada).\
 **Üreme Dönemi:** Mayıs ayında yumurta bırakır, yavrular haziran sonunda veya temmuz başında yumurtadan çıkar, ve yavrular ağustos sonuna kadar yuvayı terk eder. **İÇA:** Çoğu veri Eşmekaya'dan gelir. Haziran 1977'de en az 21 çiftin ürediği ve 18'inin yuvaya yem taşıdığı kaydedilmiştir. 20-21 Haziran 1977'de ikisinde 4, birinde 5 yumurta bulunan 5 yuvada, iki yavru, iki yumurta ve 5-10 günlük 4 yavru tespit edilmiştir. Bu yuvalardan ikisi birbirinden yaklaşık 50 metre uzaklıktadır [@schubert1979]. 11 Haziran 1971'de küçük bir yavru içeren başka bir yuva gözlenmiştir. 11 Mayıs 1993'te, içlerinde bir ve iki yumurta bulunan iki yuva ve 16 Mayıs 1993'te 4 yumurtalı başka bir yuva kaydedilmiştir. 19 Mayıs 1998'de bir dişinin, içinde bir yumurta olan yuvaya malzeme taşıdığı gözlenmiştir. 15 Mayıs 2004'te 5 yumurtalı bir yuva ve 16 Mayıs 2004'te 4 yumurtalı bir başka yuva kaydedilmiştir. 12 Mayıs 1996'da çoğu erkek olan 35 birey kaydedilmiştir. 13-14 Mayıs 1970'te Yarma'da erişkinlerin bir yere yiyecek taşıdıkları gözlenmiş, ancak bu tarihte yuvada yavru olmayacağı için bu davranışın kur yapmak için yiyecek taşıma olduğu düşünülmüştür. **KAR:** Haziran 1971'de Kızılırmak Deltası'nda 4 çift, 5 yavru ve yavrusunu besleyen bir çift kaydedilmiştir [@dijksen1985]. 1992 Mayıs'ın ilk yarısında erişkin bireylerin yuva malzemesi taşıdığı gözlenmiştir [@hustings1994]. **GDA:** 19 Haziran 1988'de Birecik'te Fırat Nehri üzerindeki iğne yapraklı ağaçlarla kaplı adanın kenarındaki bir hendekte bir çift yuvalamıştır. **DOA:** 23 Temmuz 1987'de Bulanık yakınlarında çocukların türün yavrularıyla oynadığı, 30 Temmuz 2000'de Bendimahi sazlıklarında iki genç birey gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Şikra
+# Şikra
 
 *Tachyspiza badia*, Shikra
 
@@ -606,15 +606,15 @@ Monotipik bir türdür.
 
 ![](images/harita_Tachyspiza%20badia.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. En yakında Ermenistan'da, Batı ve Güney Asya'da yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'deki Güney Kafkasya'da olduğu bilinen *cenchroides* alttürünün olması beklenir. Eskiden *Accipiter* cinsinin altında *Accipiter badius* ismiyle sınıflandırılırdı.
 
-## Yaz Atmacası
+# Yaz Atmacası
 
 *Tachyspiza brevipes*, Levant Sparrowhawk
 
@@ -630,18 +630,18 @@ Göç dönemlerinde batı ve orta bölgelerde nispeten yaygındır. İlkbahar g�
 
 ![](images/harita_Tachyspiza%20brevipes.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Hem yaprak döken hem de ibreli ormanlarda ürer.\
 **Yuvası:** Türkiye'de yuvanın tanımı yapılmamıştır, ancak Yunanistan'dan gelen fotoğraflar mevcuttur. Yuvalar, yerden yaklaşık 5 metre yükseklikte, daldan yapılmış ve yeşil yapraklarla astarlanmış yapılardır. Görece daha küçük boyuttadır.\
 **Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı 4 (1 yuvada), 3 (2 yuvada).\
 **Üreme Dönemi:** Mayıs ayında yumurta bırakır, yavrular haziran sonunda veya temmuz başında yumurtadan çıkar, ve yavrular ağustos sonuna kadar yuvayı terk eder. **MAR:** 20 Ağustos 1979'da Çamlıca'da 4 yavrusuyla oynayan bir çift kaydedilmiştir [@beaman1986]. 3 Ağustos 1978'de uygun üreme habitatında erişkin bireyler gözlenmiş, 27 Haziran 2000'de Edirne'de tüyleri yeni çıkmış bir yavrusuyla bir çift fotoğraflanmıştır [@kirwan2003]. 7 Haziran 1984'te Ayvacık'ta kur davranışı gözlenmiştir. **EGE:** [@mcneile1950], İzmir yakınlarında büyük bir meşe ağacının tepesinde bir yuva bulmuş, daha önce üreyen bir çiftin bu yuvayı kullandığı tespit edilmiştir. 25 Mayıs 1950'de bu yuva boş bulunmuştur. **DOA:** 2 Ağustos 1990'da İspir yakınlarındaki meyve bahçelerinde bir çift gözlenmiş ve muhtemelen üremiştir. 20 Mayıs 1995'te aynı yerde yuvada yumurtaları ya da yavruları olan bir dişi tespit edilmiştir. **GDA:** 14 Temmuz 1990'da Uludere yakınlarında kur davranışı kaydedilmiştir. **AKD:** 15 Haziran 1988'de Taşağıl'da (Antakya) çam ağaçları içindeki bir yuvada bir çift gözlenmiştir [@kirwanmartins1994]. 23-26 Mayıs 2007'de Manavgat yakınlarında tarım arazileriyle çevrili bir çamlık alanda iki yuva kaydedilmiştir. Yerden 15 metre yükseklikteki bir yuvada kuluçkada oturan bir birey, 13 metre yükseklikteki diğer yuvada ise yeşil dallarla astarlanmış ve içinde 3 yumurta bulunan başka bir birey gözlenmiştir. 15 Mayıs 2001'de Köyceğiz'de kur davranışı gözlenmiştir [@kirwan2003].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Eskiden *Accipiter* cinsinin altında *Accipiter brevipes*ismiyle sınıflandırılırdı.
 
-## Atmaca
+# Atmaca
 
 *Accipiter nisus*, Eurasian Sparrowhawk
 
@@ -661,18 +661,18 @@ Borçka ve Arhavi bölgelerinde lisanslı olarak sürdürülen atmacacılık gel
 
 ![](images/harita_Accipiter%20nisus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Yaprak döken ve ibreli ormanlarda, alçak düzlüklerden tepelik ve dağlık bölgelere kadar geniş bir yelpazede ürer.\
 **Yuvası:** Yuva genellikle ağaçlarda, 5 metrenin üzerinde bir yüksekliğe yapılır ve yapraklı dal ile kabuklarla astarlanmış dallardan oluşan basit bir yapıdır. Genelde kuluçka büyüklüğü 4-5 yumurta kadardır.\
 **Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı: 4-5.\
 **Üreme Dönemi:** Nisan ve mayıs ayında yumurta bırakır, yavrular haziran sonunda veya temmuz başında yumurtadan çıkar, ve yavrular ağustos sonuna kadar yuvayı terk eder. **AKD:** Türün ilk yuvası 2009'da Antalya Side'de, bir mezarlıktaki çam ağacında yerden yaklaşık 17 metre yükseklikte tespit edilmiştir. 27 Mayıs'ta erişkin bir bireyin yumurtalarına kuluçkaya yattığı veya küçük yavruların üzerine oturduğu gözlenmiştir. Gözlem sırasında erişkin yuvadan kalkmamıştır. 23 Temmuz 1986'da Akseki yakınlarında bir aile kaydedilmiş, 11 Mayıs 1989'da Dalyan'da yuvaya yiyecek taşıyan bir erişkin birey gözlenmiş ve 11 Mayıs 1988'de Demirkazık'ta bir yavru tespit edilmiştir. **KAR:** 1992'de Kızılırmak Deltası'nda 1 ila 3 çift gözlenmiş, ancak üreme kesinleştirilememiştir. 5 Haziran 1992'de bir erkek bireyin izole bir koruluğa, muhtemelen bir yuvaya, iki kez uçtuğu gözlenmiştir [@hustings1994]. **MAR:** 1993'te Kocaçay Deltası'nda 1-2 çiftin ürediği tahmin edilmiştir [@ertan1996]. Uludağ'da 1300 metre altındaki yarı açık alanlarda belirgin şekilde kaydedilmiştir [@jetz1995]. **DOA:** 1910-1911 yıllarında Erzurum'da uzun kavaklıklar içindeki mezarlıklarda ve bahçelerde yuva yapmış, 10 Haziran 2004'te Ardahan bölgesinde bir erişkin bireyin yuvaya yiyecek taşıdığı gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Çakır
+# Çakır
 
 *Accipiter gentilis*, Northern Goshawk
 
@@ -688,7 +688,7 @@ Deniz seviyesinden 2000 metre yüksekliklere kadar olan orman ve koruluklarda ü
 
 ![](images/harita_Accipiter%20gentilis.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Hem iğneli hem de yaprak döken yaşlı ormanlar ve korular, deniz seviyesindeki düzlüklerden dağlık bölgelerdeki yamaçlara kadar geniş bir alanda ürer.\
 **Yuvası:** Genellikle yüksek ağaçların tepesine dallardan oluşan basit bir yuva yapar. Türkiye'de yuvanın astarlanması ve kuluçka büyüklüğüyle ilgili veri bulunmamaktadır, ancak başka bölgelerde yuvalar yapraklı dallar, iğneli ağaçların ibreleri ve kabuk parçalarıyla astarlanır. Yuvanın tepesinde hafif bir oyuk bulunur ve üreme mevsimi boyunca düzenli olarak onarılır.\
@@ -696,11 +696,11 @@ Deniz seviyesinden 2000 metre yüksekliklere kadar olan orman ve koruluklarda ü
 **Yavru Sayısı:** Türkiye'de yavru sayısıyla ilgili veri bulunmamaktadır.\
 **Üreme Dönemi:** Mart ayında başlar, yumurtalar genellikle nisan ayında bırakılır, kur davranışları ise mayıs sonuna kadar devam eder. **KAR:** 11 Haziran 1975'te İkizdere yakınlarında yaprak dökmeyen bir ormanda erişkin bir bireyin yiyecek taşıdığı, 17 Haziran 1975'te Çiftlik'te bir erkek bireyin bölge davranışları sergilediği kaydedilmiştir. 1992'de Kızılırmak Deltası'nda 4 çiftin ürediği ve yuvalarının bulunduğu gözlenmiş; bir çiftin 31 Mart 1992'de izole bir korulukta, diğer üç çiftin ise 4 Haziran 1992'de Yörükler Ormanı'nda bir bireyin yuvaya yiyecek taşıdığı görülmüştür [@hustings1994]. **MAR:** 3 Mayıs 1993'te Kocaçay Deltası'nda Ekmekçi köyü yakınlarında bir yuva kaydedilmiştir [@ertan1996]. Mayıs 1996'da, muhtemelen ürediği düşünülen Uludağ'da iğne yapraklı ormanlarda kur davranışları gözlenmiştir. **AKD:** 6 Haziran 1999 ve 11 Mayıs 1988'de Bolkar Dağları ve Akseki'de kur davranışı sergileyen erkek bireyler kaydedilmiştir. 13 Mayıs 1984'te Taşucu'nun iç kesimlerindeki kurak ağaçlık ve tepelik arazide bir erişkin birey yuvada görülmüştür (Cygnus Tour). **İÇA:** 22 Mayıs 1972'de Nevşehir yakınlarında bir kavaklığın üzerinde bir erkek bireyin kur davranışı sergilediği, 23 Temmuz 1994'te Ayrancı yakınlarında bir yuva bulunduğu kaydedilmiştir. Soğuksu Milli Parkı'nda 21 Mayıs 1996'da bir erişkin bireyin bir kuzgunu taciz ettiği, yeni tüylenmiş iki yavrunun yiyecek için ötüşürken duyulduğu ve 15 Temmuz 1993'te görüldükleri kaydedilmiştir. Bu durum yumurtaların nisan ortasından sonra bırakıldığına işaret etmektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Muhtemelen *marginatus* alttürü bulunur [@roselaar1995]. Bazı kaynaklara göre bu alttür nominat alttürün sinonimi olarak kabul edilmelidir[@fergusonlees2001].
 
-## Kızıl Çaylak
+# Kızıl Çaylak
 
 *Milvus milvus*, Red Kite
 
@@ -720,15 +720,15 @@ Türün tespiti zordur. Genellikle soluk renkli genç kara çaylaklar ve kışı
 
 ![](images/harita_Milvus%20milvus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. ORta ve Güney Batı Avrupa'da yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Kara Çaylak
+# Kara Çaylak
 
 *Milvus migrans*, Black Kite
 
@@ -748,18 +748,18 @@ Güneydoğu Anadolu'da düzenli ve kalabalık sürüler halinde kışlar [@Biric
 
 ![](images/harita_Milvus%20migrans.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Etrafında ağaç ve koruluklar olan açık düzlüklerde, genellikle yerleşim yerlerine yakın alanlarda ürerler. Genelde ağaçlara yuva yapsalar da bazen binalara da yuva yapabilirler; örneğin İstanbul'da bir camiye yuva yapmışlardır.\
 **Yuvası:** Yuvanın tepesi sığ bir oyuk şeklindedir ve çerçöple yapılmıştır. Etrafı ot, kâğıt, kumaş ve tüylerden oluşan bir birikintiyle astarlanmıştır.\
 **Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı: 2 (5 yuvada), 3 (7 yuvada).\
 **Üreme Dönemi:** Mayıs ayında yumurta bırakır, yavrular haziran sonunda veya temmuz başında yumurtadan çıkar, ve yavrular ağustos sonuna kadar yuvayı terk eder. **İÇA:** 23 Nisan 1964'te Sarayönü'nde bir korulukta 10-15 çiftin ürediği gözlenmiş, bireylerin halen kur davranışı ve yuva yaptıkları kaydedilmiştir. İki yuvada ikişer yumurta, bir yuvada ise 3 yumurta gözlenmiştir. 10 Mayıs 1964'te aynı yerde 15-20 çift gözlemlenmiş, 5 yuvada üçer yumurta, 3 yuvada ise ikişer yumurta bulunmuştur. Aynı dönemde, 23 Nisan 1964'te Akşehir Gölü'ndeki ufak bir kolonide henüz yuvalama başlamamıştır [@warncke1964-65beitrag]. 21 Temmuz 1971'de Pozantı'da 3 yavrusunu korumaya çalışan iki erişkin birey gözlenmiş, bu da yumurtaların Mayıs başında bırakıldığını göstermektedir. 1907'de İç Anadolu'da yapılan gözlemler, 30 Haziran itibariyle yerleşim yerlerine yakın yuvalardaki yavruların tamamen tüylendiğini ancak henüz uçamadıklarını göstermektedir. 26 Mayıs'ta Karadağ'da boş bir yuva, 19 Mayıs'ta Eskişehir yakınlarında yeni bırakılmış yumurtalar, Konya'da bir bahçede bir yuvada iki yumurta ve bir yavru gözlenmiştir [@ramsay1914]. Bu durum, bölgede yumurta bırakılmasının nisan sonlarına denk geldiğini göstermektedir. **MAR:** 1907'de İstanbul'da oldukça yaygın oldukları, yumurtaların 11-12 Mayıs gibi bırakıldığı gözlenmiştir [@ramsay1914]. İstanbul'da 1930'larda 500 çift olan popülasyon, 1970'lerin ortasında 10 çiftin altına düşmüştür [@acar1977]. 17-22 Nisan 1966'da iki erişkin birey İstanbul'daki ağaçlardaki iki yuvada kuluçkaya yatarken, 21 Nisan 1966'da bir çiftin bir okul çatısında çiftleştiği gözlenmiştir. Manyas Gölü'nde 1966-1967'de karışık bir balıkçıl kolonisinde üreyen çiftler, nisan ortasında bölgeyi sahiplenmiş ve 16 Mayıs 1967'de bir söğüt ağacına 3 yumurta bırakmıştır. **DOA:** Erzurum ve Van civarında yaz aylarında 40-50 birey düzenli olarak görülmektedir. Van'ın doğusunda 2 Mayıs 1983'te bir çiftin yuva yaptığı kaydedilmiştir. 27 Mayıs 1969'da Erçek Gölü yakınlarında [@kasparek1983] ve 4 Haziran 2002'de Kars'ın Selim ilçesinde, bir iğne yapraklı ormanda erişkin bireylerin yuva malzemesi taşıdığı gözlenmiştir. Bu tarihler, normal yuva yapım tarihlerine göre geç olsa da, diğer yırtıcı kuşlar gibi kara çaylaklar da mevsim ilerledikçe yuvalarını ekstra malzemeyle güçlendirebilirler.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Üreyen ve orta ve batı bölgelerinden geçiş yapan nominat alttürdür. Özellikle doğu bölgelerinden geçiş yapan ve Güneydoğu Anadolu'da kalabalık sürüler halinde kışlayanların öne sürülen lineatus alttürü olduğu iddia edilmiştir [@sibley1990].
 
-## Ak Kuyruklu Kartal
+# Ak Kuyruklu Kartal
 
 *Haliaeetus albicilla*, White-tailed Eagle
 
@@ -777,18 +777,18 @@ Göç döneminde ve kış aylarında daha yaygındır. İlkbahar göçü mart so
 
 ![](images/harita_Haliaeetus%20albicilla.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Genellikle deniz seviyesinde, tepelerin eteklerinde ya da göllerin etrafındaki alçak kesimlerde ürer. Yeni üreme alanları, iç kesimlerdeki göllerin yakınındaki dağlık alanlarda da bulunmuştur. Orman içlerindeki düz ya da yamaçlarda bulunan yaşlı ve uzun ağaçlarda, bazen de tek başlarına duran ağaçlarda yuva yaparlar. Başlıca çam, kavak, meşe ve dişbudak ağaçlarında, bazen de yarlarda yuva yaparlar. Farklı yıllarda, territoryum başına en az iki yuva kullanılır ve yuva yıllar boyunca kullanıldıkça dev bir yapıya dönüşür.\
 **Yuvası:** Yuva dallardan oluşan, ortasında sığ bir oyuk bulunan bir yapıdır ve üreme mevsimi boyunca yenilenen taze yapraklı çubuklarla astarlanır.\
 **Yumurta Sayısı:** Türkiye'de gözlenen yumurta sayısı: 1 (3 yuvada), 2 (5 yuvada), 3 (2 yuvada).\
 **Üreme Dönemi:** Nisan sonu ve Mayıs ayında yumurta bırakır, yavrular haziran ortasından itibaren yumurtadan çıkar, ve yavrular temmuz sonu ile ağustos sonu arasında yuvayı terk eder. **MAR:** Kocaçay Deltası'nda 1993'te terk edilmiş bir yuva, 24 Haziran 1999'da da boş bir yuva tespit edilmiştir [@ertan1996]. **KAR:** 9 Haziran 1969'da Kızılırmak Deltası'nda Balık Gölü civarındaki bir korulukta 10 metre yükseklikte bir yuvadan bir erişkin bireyin uçtuğu gözlenmiştir. Temmuz-Ağustos 1971'de dişbudak ve meşe ağaçlarında 5 eski yuva tespit edilmiştir. 22 Temmuz 1971'de 2 erişkin ve 2 yavru birey kaydedilmiştir, ancak üreme emaresi gözlenmemiştir [@hustings1994]. 19 Mayıs 1992'de Yeniçağa Gölü'nde genç bir birey kaydedilmiştir. **EGE:** 14 Mayıs 1899'da İzmir yakınlarında bir köknar ağacında tek bir çiftin yuvası, büyük bir çerçöp yığını halinde bulunmuştur [@selous1900]. Tring Doğa Tarihi Müzesi'nde bulunan yumurtalar, 20 Haziran 1902, 1 Şubat 1902 ve 2 Şubat 1902 tarihlerinde Bafa Gölü'nden alınmış, diğer yumurtalar ise Beşparmak Dağı'ndan toplanmıştır. 5 Nisan 1930'da Antakya civarında 3 yumurta bulunan bir yuva kaydedilmiştir [@kumerloeve1963a]. 4 Mayıs 1996'da Işıklı Gölü (Denizli) yakınlarındaki Akdağ'da bir çam ağacında zor ulaşılan bir vadide bir yuva kaydedilmiştir [@heredia1997]. 26 Mayıs 2001'de Köyceğiz Gölü'nde bir çift gözlenmiş ve çevrede üredikleri tahmin edilmiştir [@magninyarar1997]. Bafa Gölü'nde 30 Nisan 2003'te bir çam ağacının tepesinde boş bir yuva kaydedilmiştir. Yöredeki balıkçılardan biri, mart ayında aynı bölgede başka bir çam ağacında kuluçkada yatan bir bireyin olduğunu belirtmiştir. **AKD:** 30 Nisan 1876'da Aladağlar'da (Niğde) boş bir yuva tespit edilmiştir. Mayıs 1876'da ise yüksek bir ağacın en tepe dallarındaki bir yuvadan tek bir yumurta alınmıştır. 14 Mayıs 1972'de Elmalı (Antalya) güneyinde Düden Gölü'nde bir erişkin bireyin eski bir yuvayı güçlendirmek için yuva malzemesi taşıdığı gözlenmiştir. **DOA:** 9 Mart 1879'da Malatya yakınlarında bir köknar ağacındaki yuvadan yumurta alınmıştır. Bu iki bölgede toplamda 5 yumurta elde edilmiştir. **GDA:** Birecik'te, 18 Şubat 1879'da Danford tarafından iki yuvadan yumurta alınmıştır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Paçalı Şahin
+# Paçalı Şahin
 
 *Buteo lagopus*, Rough-legged Buzzard
 
@@ -804,15 +804,15 @@ Genelde sulakalanlarda veya çevresinde, bazen de bozkır ve ormanlık alanlarda
 
 ![](images/harita_Buteo%20lagopus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Kuzey Avrupa, Asya ve Amerika'da yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Şahin
+# Şahin
 
 *Buteo buteo*, Common Buzzard
 
@@ -832,7 +832,7 @@ Kış aylarında alçak ve orta rakımlı bölgelerde görülür. Marmara Bölge
 
 ![](images/harita_Buteo%20buteo.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Genellikle dağlık ve ormanlık alanlarda ürer. Yuvalarını yaşlı ağaçlarda ya da yarlarda yaparlar.\
 **Yuvası:** Yuva, yapraklı dallarla astarlanmış, ortası hafif çukur olan büyük bir yapıdır.\
@@ -840,11 +840,11 @@ Kış aylarında alçak ve orta rakımlı bölgelerde görülür. Marmara Bölge
 **Yavru Sayısı:** 3 (1 yuvada).\
 **Üreme Dönemi:** Nisan ortasında yumurta bırakır, yavrular haziran sonunda veya temmuz başında yumurtadan çıkar ve yavrular ağustos sonuna kadar yuvayı terk eder. **MAR:** 1993'te Kocaçay Deltası'nda yapılan ayrıntılı araştırmalarda 2-3 çiftin ürediği tespit edilmiştir [@ertan1996]. 30 Temmuz 1992'de Akyazı ile Mudurnu arasında bir çiftin yuvada olduğu gözlenmiştir. **KAR:** 13 Haziran 1995'te İkizdere yakınlarında bir erişkin bireyin yiyecek taşıdığı kaydedilmiştir. Yörükler Ormanı'nda 12 çiftin bulunduğu ve 1992'de Kızılırmak Deltası'nda 16-20 çiftin ürediği tahmin edilmektedir. Yörükler Ormanı'ndaki iki yuvadan birinde 23 Mayıs 1993'te bir yavru olduğu gözlenmiştir. Yavrunun boyutuna göre, yumurta bırakımının nisan ortasında ya da daha erken bir tarihte olduğu düşünülmektedir. **İÇA:** 7 Haziran 1995'te Kalecik'te uygun üreme habitatında 4 erişkin birey kaydedilmiştir. Geç tarihten dolayı bir bireyin yuva yapımı değil, muhtemelen yuva onarımı için malzeme taşıdığı düşünülmektedir. 26 Haziran 1992'de Kızılcahamam yakınlarında tamamen tüylenmiş ve kanat alıştırmaları yapan 3 yavrunun bulunduğu bir yuva tespit edilmiştir. Bu yuvada da yumurta bırakımı nisan ortasında gerçekleşmiş olmalıdır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Ülke genelinde ve özellikle göç ve geçit döneminde ağırlıkla. *vulpinus* alttürü bulunur. Kuzeydoğu Anadolu'da ise buna çok benzeyen *menetriesi* alttürü mevcuttur. Özellikle Trakya ve İstanbul Boğazı'nda kışın en soğuk günlerinde *buteo* alttürün özelliklerinin gösteren kuşlar sıkla görülür.
 
-## Kızıl Şahin
+# Kızıl Şahin
 
 *Buteo rufinus*, Long-legged Buzzard
 
@@ -860,7 +860,7 @@ Açık arazilerde, kurak tarım alanlarında, bozkırda ve 4000 metreye kadar ol
 
 ![](images/harita_Buteo%20rufinus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama Alanı:** Kuru açık alanlar, yarlı tepeler ve kaya çıkıntıları olan bozkır alanlarda ürer. Genellikle yarlarda, kaya çıkıntılarında, ağaçlarda ve direklerde yuva yapar.\
 **Yuvası:** Yuva, etrafı ot, ince çubuklar, bitkisel materyaller ve yünle astarlanmış, ortası görece çukur büyük bir dal yığını şeklindedir. Eskişehir yakınlarında, 1879 Nisan ayında bir yuvanın deve tüyüyle astarlandığı kaydedilmiştir [@danford1880]. Aynı yuva yıllarca kullanılabilir ya da aynı yar üzerinde bulunan iki ya da daha fazla yuva dönüşümlü olarak kullanılabilir. 14 Mayıs 2004'te Elmalı (Antalya) yakınlarında bir elektrik direği tepesinde bulunan bir yuvada, yuva malzemesi olarak mavi bir naylon poşetin de kullanıldığı gözlenmiştir.\
@@ -868,6 +868,6 @@ Açık arazilerde, kurak tarım alanlarında, bozkırda ve 4000 metreye kadar ol
 **Yavru Sayısı:** 1 (1 yuvada), 2 (2 yuvada), 3 (4 yuvada), 4 (4 yuvada).\
 **Üreme Dönemi:** Mart sonu ve nisan başında yumurta bırakır, yavrular nisan sonunda veya mayıs başında yumurtadan çıkar, ve yavrular temmuz sonuna kadar yuvayı terk eder. **İÇA:** Kur davranışları mart sonunda başlamış, yuva yapımı 21 Mart 1969'da kaydedilmiştir. En erken yumurta 3 Nisan'da tespit edilmiştir. Yumurtaların mart sonu-nisan başı bırakıldığı tahmin edilen 7 yuvada, mayıs ayının son 10 gününde yaklaşık 4 haftalık yavrular gözlenmiştir. Yeni tüylenmiş yavrular 10 Haziran 1973'te kaydedilmiştir. **AKD:** 23 Mart 1993'te Taşucu'nun kuzeyinde kur davranışı sergileyen bir çift, 19 Nisan 2004'te Akseki'de çiftleşen bir çift gözlenmiştir. Aladağlar'da, nisan başında yumurta bırakıldığı düşünülen bir yuvada 30 Nisan 1876'da 4 yumurtalık bir kuluçka tespit edilmiştir [@danford1877]. **GDA:** 9 Mayıs 2004'te Durnalık'ta, martın 3. haftasında bırakıldığı tahmin edilen bir yuvada 2-3 haftalık 4 yavru gözlenmiştir. Bu yuva 2006'da yeniden kullanılmış ve 12 Haziran 2006'da tüyleri yeni çıkmış bir yavru görülmüştür. 29 Mayıs 1987'de Birecik'te dört yavrusuyla bir çift kaydedilmiştir. **DOA:** Nisan sonunda yumurta bırakılan bir yuvada, 25 Haziran 2004'te Horasan yakınlarında 3-4 haftalık iki yavruyu besleyen bir erişkin birey gözlenmiştir. Haziran başında yavrulu iki yuva ve 1992 Ağustos başında dört aile tespit edilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.

@@ -2,7 +2,7 @@
 title: "Prinyalar - Kamışçınlar"
 ---
 
-## Asya Dik Kuyruklu Ötleğeni
+# Asya Dik Kuyruklu Ötleğeni
 
 *Prinia lepida*, Delicate Prinia
 
@@ -16,18 +16,18 @@ Tür, özellikle Göksu ve Çukurova deltalarında ve eski Amik Gölü çevresin
 
 ![](images/harita_Prinia%20lepida.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Ovalarda, su kenarlarındaki yoğun vejetasyon alanlarında, sulama kanalları boyunca, eski nehir kanallarında, sazlık sulakalanların kıyılarında, nehir ağızlarındaki ılgınlıklarda (*Tamarix*) ve buğday tarlalarında ürer. Çukurova’da kumullar, nehir ve menderes kıyıları, çalılıklar, kanallar, plantasyonlar ve orman açıklıkları da yuvalama alanıdır.\
 **Yuvası:** Göksu Deltası’nda *Phragmites* kenarındaki nemli *Scirpus* ve *Juncus* bitki kümeleri içinde, Birecik’te benzer habitatlarda toplam 12 yuva kaydedilmiştir. Yerden 0,3–1 m yükseklikte bulunan bu yuvalar, yandan geniş girişli, kubbe şeklindedir. İnce otlar, bitkisel atıklar, lifler ve örümcek ağlarıyla örülür; içi bitki tüyleriyle döşenir.\
 **Yumurta sayısı:** Türkiye’de 5 yuvada 4 yumurta, 7 yuvada 5 yumurta kaydedilmiştir. Dört yuvada 4 yavru, bir yuvada 5 yavru sayılmıştır.\
 **Üreme dönemi:** İlk yumurtlama mart sonunda ya da nisan başında olur, yavrular nisan sonu-mayıs başı gibi çıkar, bazı yuvalarda temmuz ve eylüle kadar tüylenmiş yavrular görülmüştür. Yılda iki ya da üç kez kuluçkaya yattığı düşünülmektedir. **AKD:** 19 Mayıs 2007’de Side’de dört yumurta ve yeni çıkmış bir yavru bulunan bir yuva ve tüylenmiş yavrular görülmüştür.Göksu Deltası’nda 23 Mayıs–10 Haziran 1993’te dört yavrulu iki yuva, 1 Haziran ve 9 Haziran’da iki ve üç yumurtalı iki yuva, 6 Mayıs 2004’te dört tüylenmiş yavrulu bir yuva, 22 Mayıs’ta beş yumurtalı bir yuva, 2005’te 6 Mayıs’ta küçük yavrulu bir yuva, 11 Mayıs’ta dört yumurtalı bir yuva, 12 Mayıs’ta yuva yapımı kaydedilmiştir. 1 Eylül 1977’de Alanya yakınlarında yeni tüylenmiş iki yavru, 11 Eylül 1976’da Çukurova’da bir erişkin yuvasına yiyecek taşırken gözlenmiştir. 27 Temmuz 1971’de bir yumurtalı bir yuva (tamamlanmamış), 2004’te iki çiftin yuva yaptığı, 6 Mayıs’ta dört yavrulu bir yuva ve 22 Mayıs’ta beş yumurtalı bir yuva, 2005’te 6 Mayıs’ta küçük yavrulu ve 11 Mayıs’ta dört yumurtalı bir yuva kaydedilmiştir. 10 Mayıs 1989’da Çukurova'da beş yumurtalı bir yuva gözlenmiştir. **GDA:** Birecik’te 20 Mayıs 1993’te dört yavru, 20 Mayıs 2007’de beş yumurtalı bir yuva, 10 Mayıs 2004’te dört günlük beş yavrulu bir yuva, 4 Haziran 2001’de yumurtlamaya hazır boş bir yuva; 3 Haziran 1993’te yuva yapımı ve 4 Haziran 1998’de üç yumurtalı bir yuva, 7 Haziran 1995’te içinde yavru bulunan bir yuva, 12 Mayıs 2004’te dört boş yuva, 23 Mayıs 2004’te yuva yapan bir erişkin ve üç yumurtalı bir yuva kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Akdeniz'deki popülasyonların tamamının, Türkiye’nin güneyinde tanımlanan ve bu bölgeye endemik olduğu düşünülen *akyildizi* alttürüne ait olabileceği öne sürülmüştür [@roselaar1995]. Bu bölgedeki bireylerin, *akyildizi* alttürünü de kapsayan *lepida* grubuna ait olduğu açıktır. Ancak Birecik’ten ya da Güneydoğu Anadolu’nun başka bir bölgesinden örnek bulunmamaktadır [@roselaar1995]. Güneydoğu’da ayrıca *irakensis* alttürünün de var olabileceği düşünülmektedir.
 
-## Yelpazekuyruk
+# Yelpazekuyruk
 
 *Cisticola juncidis*, Zitting Cisticola
 
@@ -43,18 +43,18 @@ Büyük ölçüde üreme alanlarında kışlayan bir türdür ve bu mevsimde nis
 
 ![](images/harita_Cisticola%20juncidis.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Uzun otların bulunduğu çayırlar, sazlık kenarları ve genellikle nemli kofa (*Juncus*) gibi yoğun, alçak vejetasyonun olduğu açık alanlarda ürer.\
 **Yuvası:** Türkiye'de yuva yapısı bilinmemektedir. Diğer bölgelerde uzun otların ya da kofaların arasında gizlenmiş, armut şeklinde, örümcek ağlarıyla bitki saplarına tutturulmuş ve içi otlarla, bitki tüyleriyle döşenmiş yuvalar yapar. Giriş deliği tepededir.\
 **Yumurta sayısı:** Türkiye’de yumurta sayısına dair bilgi yoktur. Diğer bölgelerde genellikle 4–6 yumurta bırakır.Diğer yerlerde olduğu gibi yılda en az iki kez kuluçkaya yatması olasıdır.\
 **Üreme dönemi:** Türkiye genelinde ilk yumurtlama nisan başında olabilir, yavrular mayıs ortasında çıkar ve temmuz başına kadar yuvada kalır. Yılda en az iki kez kuluçkaya yatması olasıdır. **AKD:** 6 Mayıs 2004’te Göksu Deltası’nda yumurtlamanın 5 Nisan civarında olduğunu gösterecek şekilde yaklaşık 5 tüylenmiş yavru gözlenmiştir. 28 Haziran 1999’da Dalyan’da yiyecek taşıyan bir erişkin gözlenmiştir. Mart sonu ile eylül başı arasında öten birçok erişkin gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Batıdaki, özellikle İzmir çevresinden toplanan örneklerin juncidis alttürüne ait olduğunu belirtmiştir, ancak güneydoğu kıyılarında bulunan bireylerin muhtemelen neuroticus alttürünü de içerdiğini tahmin etmiştir [@roselaar1995]. Cambridge Üniversitesi Zooloji Müzesi'nde bulunan İstanbul örneği de (CUMZ27/Syl/23/t/7) juncidis alttürüne aittir. İkinci formun doğru yazımı neuroticus şeklindedir [@david2002b].
 
-## Küçük Mukallit
+# Küçük Mukallit
 
 *Iduna caligata*, Booted Warbler
 
@@ -68,15 +68,15 @@ Batıdaki, özellikle İzmir çevresinden toplanan örneklerin juncidis alttür�
 
 ![](images/harita_Iduna%20caligata.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Yayılış alanı Rusya'nın batısından Kazakistan'a dek doğu ve güneye uzanan taygada ve büyük olasılıkla Türkmenistan ve Özbekistan'dır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Şimdiye kadar Türkiye'de gözlenen bireylerle ilgili eldeki veriler [@kirwan1994a; @dierschke1996], burada gözlenen formun *caligata* olduğu izlenimini vermektedir. Bu sonuca kuşların üst ve alt kısımlarındaki tüy örtüsünün tonları, ikinci ayna varlığı, gaga uzunluğu, genel vücut oranları ve kafa yapısı gibi morfolojik özelliklere dayanılarak ulaşılmıştır. Küçük mukallitin ve benzer türlerin *Iduna* cinsine dahil edilmesiyle ilgili ek taksonomik notlar ve tartışmalar yayımlanmıştır [@sangster1997b].
 
-## Sazak Mukalliti
+# Sazak Mukalliti
 
 *Iduna rama*, Sykes’s Warbler
 
@@ -92,15 +92,15 @@ Son yıllara ait kayıtlar şunlardır: 18 Mayıs 2015’te Hakkari Nehil Sazlı
 
 ![](images/harita_Iduna%20rama.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Yayılış alanı Orta Asya'da Pakistan'ın kuzeybatısına dek güneyde ve lokal olarak İran ile doğu Arabistan'dır. Son yıllarda yayımlanan çalışmalar, Arabistan’da üreyen formların sağlam gerekçelerle *rama* olarak tanımlanabileceğini gösteren mtDNA verilerini ortaya koymuştur [@castell2005].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Eskiden Küçük Mukallit ile aynı tür olarak değerlendirilirdi. Eskiden *Hippolais* cinsi altında sınıflandırılmıştır.
 
-## Ak Mukallit
+# Ak Mukallit
 
 *Iduna pallida*, Eastern Olivaceous Warbler
 
@@ -116,20 +116,20 @@ Geçit döneminde de oldukça yaygın ve sayıca boldur. İlkbaharda mart ortas�
 
 ![](images/harita_Iduna%20pallida.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Çalılık, fundalık, açık ağaçlık alanlar, bağ ve bahçeler, zeytinlikler; ayrıca su kenarlarında ya da söğüt, kavak ve ılgın bulunan nemli bölgelerde ürer.\
 **Yuvası:** Genellikle bir çalı ya da küçük bir ağacın dış dallarına, yerden yaklaşık 1,5–5 m yükseğe yapılır. Bitki gövdeleri, lifler ve bitkisel havlardan oluşan, ince lifler ve saç ile astarlanmış derli toplu bir kâse biçimindedir.\
 **Yumurta sayısı:** Türkiye’de 5 yuvada 3 yumurta, 7 yuvada 4 yumurta kaydedilmiştir. 2 yuvada 3 yavru, 2 yuvada 4 yavru sayılmıştır.\
 **Üreme dönemi:** Türkiye genelinde ilk yumurtlama mayıs başında başlar, yavrular haziran ortasında çıkar ve temmuz sonuna kadar yuvada kalır. **MAR:** 8 Mayıs 1970’te Gelibolu’da yuva yapma davranışı, 4 Haziran 2006’da Uluabat Gölü’nde tamamlanmamış yumurtalı bir yuva ve 12 Ağustos 1966’da Çamlıca’da yavru besleyen erişkin gözlenmiştir. Uluabat Gölü'nde genellikle su kıyısında, çoğunlukla sık çalıda ve çok yüksek sayılarla ılgınların içinde yuvalamıştır [@welch1998b]. **EGE:** 8 Mayıs 1899’da Aydın’da bir nar ağacında dört yumurta bulunan bir yuva; 15 Mayıs 1899’da İzmir yakınında üç yuvada dörder yumurta; 12 Mayıs 1951’de İzmir yakınında yerden 5 m yüksekte bir kargıdaki yuvada dört yumurta kaydedilmiştir [@selous1900; @mcneile1950]. **AKD:** 21 Mayıs 1993’te Göksu Deltası’nda içinde üç yumurta olan bir yuva, 2 Haziran’da bu yumurtaların çatladığı; 9 Haziran 1993’te yeni tüylenmiş bir yavru gözlenmiştir. Aynı alanda 9 Haziran 1992’de dört yumurtalı bir yuvada 18 Haziran’da hâlâ çatlamamış yumurtalar, 15 Haziran’da ikinci kuluçkaya hazırlık olduğu düşünülen boş bir yuva ve 17 Haziran’da büyük yavrular bulunan bir yuva kaydedilmiştir. 8 Mayıs 2004’te boş bir yuvada, 16 Mayıs’ta üç yumurta bulunmuştur. 29 Haziran 1999’da Dalyan’da yeni tüylenmiş yavrular beslenirken görülmüştür. **KAD.** 1992'de Kızılırmak Deltası'nda 100 hektarlık bir ağaçlık alanda 160 üreme alanı ile en yoğun sayıyla üreyen tür olduğu belirlenmiştir. Bu alanda üreyen popülasyondan sadece 5 çiftin kumul ve çalılıkta yuvaladığı ve erişkinlerin çoğunun üreme alanlarına mayısın son on gününde geldikleri de belirlenmişti [@hustings1994]. Temmuz 1966’da Kızılırmak Deltası’nda yavrulu sekiz çift, 19 Temmuz 1975’te yavru besleyen on çift, 11 ve 15 Haziran 2004’te Gelinkaya’da yuva yapma davranışı kaydedilmiştir. **İÇA:** 31 Mayıs 1975’te Boğazköy’de yiyecek taşıyan bir erişkin gözlenmiştir. **DOA:** 3 Temmuz 1969’da Varto’da nehir kenarındaki bitkiler içinde yapılmış bir yuvada yavrular beslenirken görülmüştür. **GDA:** 3 Haziran 1993’te Birecik’te yuva yapma davranışı gözlenmiş; 3–4 Haziran 1993 ve 1998’de içinde yumurta olan üç yuva, 4 Haziran 1998’de yavrulu üç yuva, 7 Haziran 1995’te yavrulu bir yuva, 12 Mayıs 2004’te tamamlanmış ancak boş dört yuva, 23 Mayıs 2004’te yuva yapan bir birey ve üç yumurtalı bir yuva kaydedilmiştir. 14 Haziran 1996’da Işıklı’da üç tüylenmiş yavru gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Gaga ölçümlerine dayanarak Trakya’dan Burdur Gölü’ne kadar uzanan batı bölgelerindeki bireylerin *elaeica*, geri kalan bölgelerdeki bireylerin ise *tamariceti* alttürüne ait olduğunu iddia edilmiştir [@roselaar1995]. Ancak *tamariceti* çok zayıf tanımlanmış bir taksondur ve *elaeica* alttürünün bir sinonimi olarak kabul edilmelidir. J. L. Copete, Birecik’te halkalanan bireylerin ölçümlerinin *elaeica* ile uyumlu olduğunu belirtmiştir (sözlü, 2003). *Elaeica* grubundaki coğrafi varyasyonların alttür seviyesinde tanınması ise şüpheli bulunmuştur [@svensson2001]. Bu nedenle, Türkiye’deki tüm bireylerin *elaeica* alttürüne ait olduğu kabul edilmelidir.
 
 Tür, geçmişte *Hippolais* cinsi altında sınıflandırılmıştır. Ancak daha sonra *Iduna* altcinsi içinde değerlendirilmesi önerilmiş ve bu altcinsin cins seviyesine yükseltilmesi uygun görülmüştür [@helbig1999; @helbig2001; @dickinson2003].
 
-## Dağ Mukalliti
+# Dağ Mukalliti
 
 *Hippolais languida*, Upcher's Warbler
 
@@ -147,18 +147,18 @@ Geçit sırasında türün varlığı daha yaygındır. Örneğin, Akdeniz Bölg
 
 ![](images/harita_Hippolais%20languida.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Kurak kayalık tepelerdeki dağınık çalılıklarda, vadilerde ve bağ ve bahçelerde ürer.\
 **Yuvası:** Yerden 1–2 m (nadiren 3 m) yükseklikte, bir çalı ya da ağaç içine (örneğin meşe, armut, antepfıstığı) yuva yapar. Örümcek ağları ile birbirine tutturulmuş otlardan ve ince saplardan oluşan, daha ince ot, bitkisel hav ve saç ile astarlanmış kâse şeklinde bir yuvası vardır.\
 **Yumurta sayısı:** Türkiye’de 4 yuvada 3 yumurta, 3 yuvada 4 yumurta kaydedilmiştir. Bir yuvada 3 yavru, 3 yuvada 4 yavru sayılmıştır. Türkiye’de yılda iki kez kuluçkaya yatıldığına dair kesin kanıt bulunmamaktadır.\
 **Üreme dönemi:** Türkiye genelinde yumurtlama mayıs ortasında başlar, yavrular haziran ortasından itibaren çıkar ve temmuz başına kadar yuvada kalır. **İÇA:** 10 Haziran 1998’de Hasan Dağı’nda yumurtaları tamamlanmamış iki yumurtalı bir yuva kaydedilmiştir. **DOA:** 3–4 Haziran 1992’de Kars Tuzluca bölgesinde, birinde dört yumurta olan iki yuva kaydedilmiştir. **GDA:** 2 Haziran 2001’de Gaziantep’te içinde dört yumurta olan bir yuva ve 14 Haziran’da aynı yuvada 7–8 günlük dört yavru kaydedilmiştir. 3 Haziran 2001’de dört yumurtalı başka bir yuvada, 15 Haziran’da 11 günlük dört yavru görülmüştür. 16 Haziran 2001’de içinde 10 günlük dört yavru bulunan bir başka yuva ve 15 Haziran’da yaklaşık 12 günlük tüylenmiş dört yavru kaydedilmiştir. Bu kayıtlar, ilk yumurtlamanın 18–21 Mayıs 2001 arasında gerçekleştiğini göstermektedir. 2 Haziran 2001’de yuva yapmakta olan bir dişi gözlenmiş ve 14 Haziran’da bu yuvada üç yumurta bulunmuştur. 2006’da Gaziantep’te antepfıstığı ağaçlarında yerden 1,5–2,5 m yüksekte yedi yuva kaydedilmiştir. 7 Haziran 2006’da bu yuvalardan üçünde sırasıyla üç yumurta, 2 günlük dört yavru ve 5 günlük dört yavru, 12 Haziran’da ise iki yuvada üç yumurta, bir yuvada 4 günlük üç yavru ve bir diğerinde yaklaşık 9 günlük dört yavru gözlenmiştir. Bu veriler 2001 yılına ait yumurtlama tarihleri ile uyumludur. 6 Temmuz 1973’te Fevzipaşa (Gaziantep) yakınında tüylenmiş yavrulu 4–5 çift gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Zeytin Mukalliti
+# Zeytin Mukalliti
 
 *Hippolais olivetorum*, Olive-tree Warbler
 
@@ -176,18 +176,18 @@ Genellikle 800 metreye kadar olan ovalık alanlarda bulunur, ancak İç Anadolu�
 
 ![](images/harita_Hippolais%20olivetorum.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Zeytinlikler, bağ ve bahçeler, genellikle yamaçlardaki çalı ve fidanlar (çam dahil) içeren açık, kurak ağaçlık alanlarda; ağaçların da bulunduğu çalılıklarda ve ara sıra nemli ağaçlık alanlarda ürer.\
 **Yuvası:** Ağaç ve çalıların çatallı dallarında yuvalar. Yuvası yerden 1,2-2,0 m yüksektedir. Ege'de yabani armudun içine yapılmış 3 yuva [@mcneile1950] ile Akdeniz'de biri elma diğeri zeytin ağacı içindeki 2 yuvanın da dâhil olduğu 7 yuvanın ortalama yüksekliğinin 1,5 m olduğu görülmüştür. Örümcek ağları ile birbirine tutturulmuş ot, bitki sapı, lif ve havdan oluşan, ince ot, saç, bitkisel hav ve ara sıra tüy ile astarlı kâse şeklinde derli toplu bir yuva yapar.\
 **Yumurta sayısı:** Türkiye’de 7 yuvada 4 yumurta, 4 yuvada 3 yumurta kaydedilmiştir. Bir yuvada 2 yavru, bir yuvada 4 yavru sayılmıştır.\
 **Üreme dönemi:** Türkiye genelinde üreme dönemi mayıs ortasında başlar ve temmuz sonuna kadar sürer. **MAR:** 19 Haziran 1987'de Erdek'te içinde dört yavru bulunan bir yuva, temmuzda ise birkaç kere içinde tüylenmiş yavrular bulunan yuvalar kaydedilmiştir. **EGE:** 1950-51 yılları arasında ve 1954'te İzmir yakınında sekiz yumurtalı yuva bulunmuş ve kuluçka durumlarını tanımlanmıştır [@mcneile1950]. Bu bilgilerden yola çıkarak yuvaların çoğunda ilk yumurtaların 21-29 Mayıs'ta (en erken 11 Mayıs) koyulduğu belirlenmiştir. 3 Haziran'da ayrıca tamamlanmamış bir yuva ile içinde yavru bulunan bir başka yuva görülmüştür [@mcneile1950]. Daha yakın tarihte, 6 Haziran 1974'te İntepe'de içinde üç yumurta olan bir yuva gözlenmiştir. **AKD:** 10 Haziran 1992'de Uzuncaburç'ta bir yuvada dört yumurta bulunmuş, bu yumurtaların 18 Haziran'a kadar çatlamadığı kaydedilmiştir. 14 Haziran 1992'de Uzuncaburç'ta diğer bir yuvada yumurtaların 31 Mayıs'ta koyulduğuna işaret eden yaklaşık 3-4 günlük iki yavru kaydedilmiştir. Yine aynı yerde 10 Haziran 1990'da tüylenmiş yavrular gözlenmiştir. 25 Mayıs 2007'de Manavgat'ta yerden 2,5 m yüksekte bir meşe içine yapılmış bir yuvada dört yumurta bulunmuştur. **İÇA:** 11 Haziran 1998'de Karapınar'daki bir yumurtalı tamamlanmamış bir yuva, diğer bir yuvada ise dört yumurta kaydedilmiştir. **GDA:** 29 Temmuz 1992'de Yeşilce'de (Gaziantep) tüylenmiş yavrularını besleyen erişkinler gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Şarkıcı Mukallit
+# Şarkıcı Mukallit
 
 *Hippolais polyglotta*, Melodious Warbler
 
@@ -201,15 +201,15 @@ Türün Türkiye'deki tek kaydı, 25 Temmuz 1973’te Çanakkale ili Kavak’ta 
 
 ![](images/harita_Hippolais%20polyglotta.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Sarı Mukallit
+# Sarı Mukallit
 
 *Hippolais icterina*, Icterine Warbler
 
@@ -225,18 +225,18 @@ Tür, Türkiye genelinde genellikle az sayıda görülür ancak batı ve orta b�
 
 ![](images/harita_Hippolais%20icterina.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Türkiye’deki tek üreme kaydı, İznik’te çalılıklar veya ağaçlık alanlarda ürediği düşünülmektedir.\
 **Yuvası:** Türkiye’de yuva yapısına dair bilgi bulunmamaktadır.\
 **Yumurta sayısı:** Yumurta sayısı bilinmemektedir. Ancak Temmuz 1966’da İznik’te tüylenmiş iki yavruyu besleyen bir çift gözlenmiştir.\
 **Üreme dönemi:** Türkiye’deki sınırlı veriye göre üreme dönemi haziran sonu ile temmuz başı arasına denk gelmektedir. Ancak veri yetersizdir ve üreme döneminin tam sınırları bilinmemektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Tür genellikle monotipik olarak kabul edilir. Görünüşe göre Türkiye'den örnek bulunmamaktadır [@roselaar1995].
 
-## Sarı Kamışçın
+# Sarı Kamışçın
 
 *Acrocephalus paludicola*, Aquatic Warbler
 
@@ -252,15 +252,15 @@ Tarihi kaynaklarda geçen bazı belirsiz kayıtlar dışında türün yalnızca 
 
 ![](images/harita_Acrocephalus%20paludicola.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme dönemi yayılış alanı Doğu Avrupa'dır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Bıyıklı Kamışçın
+# Bıyıklı Kamışçın
 
 *Acrocephalus melanopogon*, Moustached Warbler
 
@@ -276,7 +276,7 @@ Görünüşe göre ülke genelinde yaygın, ancak sayıca az bir geçit kuşudur
 
 ![](images/harita_Acrocephalus%20melanopogon.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Sazlıklar, bataklıklar ve kıyıları sazlık olan göllerde, çoğunlukla sulak bölgelerde ürer. 1998'de Eşmekaya'da sulakalanda göl aynası kenarlarını tercih ettiği, oysa aynı bölgede Kındıra Kamışçını'nın daha kuru kındıralıkları kullandığı kaydedilmiştir. Kızılırmak Deltası'nda her türlü bataklık alanda bulunur, ancak yaşlı kamışlıklar ve saz-kamış alanlarında 30-80 üreme alanı/100 ha (bazen 100-150) gibi yüksek yoğunluğa ulaşır. Yürükler Nehri boyunca Saz Kamışçını (A. scirpaceus) dar sazlıklarda görülürken, Bıyıklı Kamışçın kamış (*Typha*), hasır otu (*Phragmites*), çalılık ve karışık bitki örtülü adaları tercih eder [@hustings1994]. Erçek Gölü yakınındaki küçük bir gölde, göl aynasının kenarında ve yine su üzerindeki sık bitki örtüsü içinde bir sazlıkta ürediği kaydedilmiştir.\
 **Yuvası:** Genellikle dikey gövdelere bağlanmış, bitki sapları, çimenler ve yapraklarla derin bir kap şeklinde yapılmış, saz sapları ve tüylerle çevrelenmiş bir yapıdadır. Yuvasını genellikle su üstünde, sık bitkiler arasında yapar.\
@@ -285,11 +285,11 @@ Görünüşe göre ülke genelinde yaygın, ancak sayıca az bir geçit kuşudur
 
 Sazlıklar, bataklıklar ve kıyıları sazlık olan göllerde, çoğunlukla sulak bölgelerde ürer. 1998'de Eşmekaya'da sulakalanda göl aynası kenarlarını tercih ettiği, oysa aynı bölgede Kındıra Kamışçını'nın (A. schoenobaenus) daha kuru kındıralıkları kullandığı kaydedilmiştir. Kızılırmak Deltası'nda her türlü bataklık alanda bulunur, ancak yaşlı kamışlıklar ve saz-kamış alanlarında 30-80 üreme alanı/100 ha (bazen 100-150) gibi yüksek yoğunluğa ulaşır. Yürükler Nehri boyunca saz kamışçını (A. scirpaceus) dar sazlıklarda görülürken, bıyıklı kamışçın kamış (Typha), hasır otu (Phragmites), çalılık ve karışık bitki örtülü adaları tercih eder [@hustings1994]. Hotamış Sazlığı'nda nisan-ağustos arasında duyulan ötüşlerden 100'den fazla çiftin ürediği belirlenmiştir (Kirwan 1993a). Erçek Gölü'nün yakınındaki küçük bir gölde, göl aynasının kenarında ve yine su üzerindeki sık bitki örtüsü içinde bir sazlıkta, dikey gövdelere bağlanmış, bitki sapları, çimenler ve yapraklarla derin bir kap şeklinde yapılmış, saz sapları ve tüylerle çevrelenmiş bir yuva bulunmuş olup, 3 Haziran 2001'de hazır, ancak boş olduğu ve daha sonra 11 Haziran 2001'de içinde 4 yumurta bulunduğu görülmüştür. Yumurta sayısı genelde 3-4 (5-6)'tür. **İÇA:** Kulu Gölü'nde 12 Haziran 1998'de bir erişkin tüylenmiş yavrularını beslerken görülmüştür. 10 Mayıs 2006'da Sultansazlığı'ndaki bir drenaj kanalının kenarında, içinden bir bireyin havalandığı yeni, ancak boş bir yuva, içerisinde 3 yumurta olan bir yuva ve yeni tüylenmiş yavruların olduğu başka bir yuva gözlenmiştir. Sonuncusundaki yavrular, yumurtlamanın nisan ortasında gerçekleştiği anlamına gelmektedir. Türkiye'den bu konuyla ilgili veri olmasa da, genellikle yılda iki kuluçkaya yatar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Anadolu’nun büyük bölümünde *mimicus* alttürü görülür. Yalnızca İzmir, Hatay ve Van’dan elde ettiği örnekler nedeniyle alttür değerlendirmesi kalmıştır [@roselaar1995]. Hatay ve Van’dan toplanan bireyler *mimicus* alttürüyle uyumludur. Ancak İzmir çevresindeki ve Ege ve Marmara’nın diğer kesimlerinde bulunan kuşları *melanopogon* olarak sınıflandırmıştır [@roselaar1995]. Arazi gözlemlerimiz, *mimicus* alttürünün Kızılırmak Deltası’nda yüksek sayılarda ürediğini, ayrıca İç Anadolu ve Akdeniz’de geniş bir yayılışa sahip olduğunu doğrulamaktadır. Ancak batı bölgelerindeki kuşların ırksal kimlikleri hakkında kesin yorum yapabilmek için yeterli örnek ve arazi deneyimi bulunmamaktadır. Türkiye’nin batısından incelediğimiz tek örnek İzmir’dendir. Bu birey, belirgin koyu tepe rengi ve geniş, devetüyü rengindeki alt tarafıyla *melanopogon* ile yakından uyumludur. Bununla birlikte, Mezopotamya’dan bazı *mimicus* bireylerinde de koyu tepe rengine rastlanmaktadır. İncelediğimiz örneklerin alt kısımlarında daha soluk ve sınırlı devetüyü rengi dışında ayırt edici başka bir morfolojik özellik görülmemiştir. Arazi gözlemleri, *mimicus* ve *melanopogon* alttürlerinin ötüşlerinin oldukça benzediğini göstermektedir. Ancak batıdaki bazı kuşların ötüşlerinde karakteristik “sıçrama” bölümünü atladıkları gözlenmiştir. İki formun mitokondriyal DNA’ları arasında yalnızca küçük farklılıklar bulunmuştur [@helbig1999; @parkin2004].
 
-## Kındıra Kamışçını
+# Kındıra Kamışçını
 
 *Acrocephalus schoenobaenus*, Sedge Warbler
 
@@ -307,18 +307,18 @@ Gözlemciler arasında kındıra kamışçını ile Türkiye’de gözlenen Bıy
 
 ![](images/harita_Acrocephalus%20schoenobaenus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Suya yakın gür bitkili ve çalılık alanlarda ürer. Kızılırmak Deltası'nda bataklıklar veya sık sütleğen (*Euphorbia*) bulunan sulak çayırlıklarda en yüksek yoğunlukta üremektedir [@hustings1994]. Yeniçağa Gölü'nde kamışlı ve kofalı (*Juncus*) kıyılarda ürer, ancak kolza ve buğday tarlalarında öten erkekler de vardır [@kilic1987]. Kocaçay Deltası'nda daha çok nehir ve kanal boylarında, salt kamıştan çok böğürtlen (*Rubus*) bulunan alanları tercih eder [@ertan1996]. 1998'de Eşmekaya'da bıyıklı kamışçının açık su yüzeylerinin yakınını tercih ettiği alanlarda, kındıra kamışçını daha kuru kındıralıkları kullanmıştır. 2004'te Tatvan'da sulak çayırlardaki düşük yoğunluklu alçak çalılıkların (yaklaşık 0,5 m) bulunduğu bitki kümelerinde ürediği not edilmiştir.\
 **Yuvası:** Türkiye'de yuvalama yeri ve yuva ile ilgili ayrıntılar bilinmemektedir. Ancak diğer bölgelerde yuva genellikle yerden ya da sudan 30-60 cm yüksekte, sık bitkilerin arasında, derin bir kap şeklinde ve silindirik ya da dairesel biçimdedir. Bitki sapları, otlar, yosunlar ve örümcek ağlarıyla yapılır; yapraklar, çiçek başları ve kıllarla döşenir.\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı hakkında kesin bilgi yoktur. Ancak Sultansazlığı'nda 30 Nisan 1982'de içinde 4 yumurta bulunan bir yuvanın bu türe ait olduğu düşünülmektedir [@kasparek1985]. Genellikle 5-6 yumurta bırakır.\
 **Üreme dönemi:** Türkiye genelinde üreme dönemi nisan sonunda başlar, temmuz başına kadar devam eder. **İÇA:** Sultansazlığı'nda 30 Nisan 1982'de içinde dört yumurta bulunan bir yuvanın, bu incelemeye göre bıyıklı kamışçına ait olması muhtemeldir [@kasparek1985]. Eşmekaya'da 21 Haziran 1977'de fotoğraflanan tüylenmiş bir yavru, yumurtlamanın 24 Mayıs civarında gerçekleştiğini göstermektedir [@pforr1982]. Haziran 1966 başında Eber Gölü'nde bir yuva, 5-9 Ağustos 1971'de Akşehir Gölü'nde erişkin ve yavrular kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Doğu Kamışçını
+# Doğu Kamışçını
 
 *Acrocephalus agricola*, Paddyfield Warbler
 
@@ -336,18 +336,18 @@ Göçmen bireyler Türkiye’de üç kez Göksu Deltası’nda, biri nisan ayın
 
 ![](images/harita_Acrocephalus%20agricola.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Göllerin kıyılarındaki sazlık alanlarda ürer. Van Sazlığı ve Erçek Gölü çevresinde, yoğun sazlık habitatlarda gözlenmiştir.\
 **Yuvası:** Türkiye’de yuva yapısı henüz tanımlanmamıştır. Ancak Ermenistan'da Aras Vadisi'nde ince gövdeli sık sazlıklardan oluşan bir alanda bulunan yuva, yeni koyulmuş beş yumurta içermekteydi. Bu yuva örneği, türün tipik sazlık yuvalama davranışına işaret etmektedir [@adamian1999].\
 **Yumurta sayısı:** Türkiye’de yumurta sayısı bilinmemektedir. Ermenistan'da 1 yuvada 5 yumurta kaydedilmiştir [@adamian1999].\
 **Üreme dönemi:** Türkiye genelinde üreme dönemi mayıs ayının ortasında başlar ve temmuz başına kadar devam eder. **DOA:** 23 Haziran 1994’te Van’da tüylenmiş bir yavru, 1 Haziran 2001’de Van Sazlığı ve Erçek Gölü’nde üreme habitatlarında öten erkek bireyler kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’deki alttür durumu belirsizliğini korumaktadır. Bir fotoğrafa [@berg1998] dayanarak Türkiye’de gözlenen kuşların *septimus* alttürüne değil, *capistrata* alttürüne ait olabileceğini ileri sürmüştür [@roselaar1995]. Buna karşılık Türkiye dışından gelen bir göçmen kuşa ait olma ihtimali olan başka bir fotoğraf [@have1995], bu bireyin *capistrata* alttürünilk kışındaki görülen tipik pas rengi-turuncu alt tüylerden ziyade daha soluk ve grimsi beyaz bir karın rengine sahip olduğunu göstermiştir. Bu da tanımlamanın karmaşıklığını ortaya koymaktadır.
 
-## Kuzey Kamışçını
+# Kuzey Kamışçını
 
 *Acrocephalus dumetorum*, Blyth's Reed Warbler
 
@@ -363,15 +363,15 @@ Türkiye’deki kayıtları halkalama çalışmaları sayesinde giderek artmakta
 
 ![](images/harita_Acrocephalus%20dumetorum.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme döneminde yayılış alanı Baltık Denizi'nden Doğu Sibirya'ya uzanan boreal ormanlar ve Orta Asya'dır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Çalı Kamışçını
+# Çalı Kamışçını
 
 *Acrocephalus palustris*, Marsh Warbler
 
@@ -387,18 +387,18 @@ Geçiş döneminde yaygın olup genellikle az sayılarda gözlenir. İlkbahar g�
 
 ![](images/harita_Acrocephalus%20palustris.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Genellikle düz, nemli ve çoğunlukla suya yakın alanlarda, özellikle karışık ve gür bitkilerin bulunduğu ve ısırgan otlarının da olduğu alçak söğütlüklerde, bazen nehir boylarındaki taşkın düzlüklerinde ürer. Aynı zamanda mısır tarlalarının otluk kenarlarında da ürer. Alışılmadık şekilde, Doğu Karadeniz'de Sivrikaya'nın yüksek dağlık bölgelerindeki ormangüllerinin (*Rhododendron caucasicum*) olduğu alanda da ürediği kaydedilmiştir. Genellikle 2–10 çiftten oluşan küçük kolonilerde ürer, ancak daha kalabalık koloniler de gözlenmiştir.\
 **Yuvası:** Gevşek kap biçiminde olup, dik gövdelere "sepet sapı" gibi tutturulup çevresine bağlanarak sabitlenmiş, kuru bitki sapları ve otlardan örülür, içi ise çok ince kök ve otlarla döşenir. Yuva genellikle yerden 0,5 m yükseklikte olur. Yuvanın yerleştirildiği bitki örtüsü bazen ısırgan otları, bazen yatay söğüt dalları olabilir.\
 **Yumurta sayısı:** Türkiye’de 1 yuvada 3 yumurta, 1 yuvada 5 yumurta, 1 yuvada 4 yumurta ve 1 yuvada hem 4 yavru hem de 1 yumurta kaydedilmiştir. Diğer bölgelerde yaygın yumurta sayısı genellikle 4–5’tir.\
 **Üreme dönemi:** Türkiye genelinde üreme dönemi mayıs ayının ikinci haftasından itibaren başlar ve temmuz sonuna kadar devam eder. İlk yumurtlama genellikle mayıs ortasında gerçekleşir ve yavrular temmuz ortasına kadar tüylenir. 9 Haziran'da yapılan bir gözlem, yumurtlamanın mayıs ortasında başladığını göstermektedir. 25 Haziran'da 4 yavrulu bir yuvada ayrıca bir yumurta daha kaydedilmiştir. **KAD:** 12 Temmuz 1974’te Yoncalık’ta, bazısı yiyecek taşıyan sekiz çift kaydedilmiştir. **DOA:** 31 Temmuz 1986’da Bulanık’ta birkaç aile grubu, 3 Ağustos 1974’te Erzurum’un doğusunda tüylenmiş dört yavrusunu besleyen erişkinler, 4 Ağustos 1992’de Van Bataklıkları’nda yavrusunu besleyen erişkin ve Erzincan yakınlarında sulama kanalının kenarındaki kamışlıklarda yavrusunu besleyen erişkin kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 İncelenen tüm tahnit örnekleri nominat *palustris* alttüründe değerlendirilmiştir [@roselaar1995].
 
-## Saz Kamışçını
+# Saz Kamışçını
 
 *Acrocephalus scirpaceus*, Eurasian Reed Warbler
 
@@ -414,7 +414,7 @@ Göç sırasında bazen yüksek sayılarda kaydedilir. Türkiye genelinde göç 
 
 ![](images/harita_Acrocephalus%20scirpaceus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Temel olarak su içindeki yoğun saz (*Phragmites*), kamışlıklar ile kenarlarında sazlık bulunan göller, nehirler ve kanallarda ürer. Uluabat Gölü'nde yoğun ılgın (*Tamarix*) ve çeltik tarlalarında, Murat Nehri'nde de söğütlüklerde öten kuşlar kaydedilmiştir.\
 **Yuvası:** Yuvası esasen uzun ve yoğun sazlarda, derin silindirik bir yapıda, ağaçlara veya daha çok kamışlara bağlanarak su seviyesinden genellikle 1–2 m yükseğe yapılır. Yuva bitki sapları, lifler ve yapraklarla örülür, iç kısmı ise küçük yapraklar, kamış püskülleri, tüy ve kıllarla astarlanır. 1992’de Yeniçağa Gölü’nde nemli zeminden 1,8–2,3 m yükseklikteki bir söğütte 4 yuva ve Doğu Anadolu’da Murat Nehri’nde bir söğüdün içinde bir yuva kaydedilmiştir. Yuvalarını genelde suyun üzerinde yapar, ancak suyun çekildiği kuru sazlıkların içinde de yuvalar. Örneğin Van Bataklıkları’nda 11 Haziran 2001’de bu şekilde 6 yuva kaydedilmiştir.\
@@ -423,11 +423,11 @@ Göç sırasında bazen yüksek sayılarda kaydedilir. Türkiye genelinde göç 
 
 Temel olarak su içindeki yoğun saz (Phragmites), kamışlıklar ile kenarlarında sazlık bulunan göller, nehirler ve kanallarda ürer. Yuvası derin, silindirik duvarlı bir kaptır ve bir kaç sazın üst kısımları etrafına dolar, çiçek başları ve kamış yapraklarıyla örülmüş, içi ince otlarla kaplanmıştır. 1992'de Yeniçağa Gölü'nde, nemli zeminden 1,8-2,3 m yükseklikteki bir söğütte 4 yuva ve Doğu Anadolu'da Murat Nehri'nde bir söğüdün içinde bir yuva kaydedilmiştir. Yuvasını genelde suyun üzerinde yapar, ancak suyun çekildiği kuru sazlıkların içinde de yuvalar. Örneğin Van Bataklıkları'nda 11 Haziran 2001'de bu şekilde 6 yuva kaydedilmiştir. Türkiye'de gözlenen yumurta sayısı 4 (11 yuvada), 5 (3 yuvada). Yavru sayısı: 4 (2 yuvada). Veriler sınırlı olsa da, kayıtlar üremenin Akdeniz, Güneydoğu ve İç Anadolu'da diğer bölgelerden daha erken başladığını göstermektedir. **AKD:** Göksu Deltası'nda erişkinler 23 Mayıs 1993'te iki yuva inşa etmişler, her biri içinde dörder yumurtayla kuluçkaya yatılan ve hepsinden yavru çıkarılan dört yuva 23 Mayıs-10 Haziran 1993'te içinde yeni çıkan yavrunun olduğu bir yuva 1 Haziran 1993'te ve yeni tüylenmiş bir yavru 15 Haziran 1992'de kaydedilmiştir. Sonuncusu yumurtlama tarihinin mayıs ortası olduğunu göstermektedir. Çukurova'da 1987'de ötüşleri en erken 22 Mart'ta, ancak çoğunlukla nisan ortasından itibaren duyulmuştur (van der Have vd. 1988). **GDA:** Birecik'de 11-12 Mayıs 2004'te altı yuva kaydedilmiş olup bunların üçü boş veya eksik, ikisi 1-2 yumurtalı ve yumurtaları tamamlanmış diğeri dört yumurtalıdır. **İÇA:** Sultansazlığı'nda 2 Mayıs 1982'de yuva yapımı görülmüş (Kasparek 1985). Ereğli Sazlığı'nda 30 Mart 1993'te 5-6 erişkin öten(J. van der Winden) ve Mogan Gölü'nde 15 Ağustos 1969'da bir yavru beslenirken kaydedilmiştir. **DOA:** Erçek Gölü'nde 3 Haziran 2001'de içinde yumurta olan iki yuva, Van Sazlığı'nda 4-5 yumurtaya kuluçkaya yatılan beş yuva ve bu yuvalarda 11 Haziran 2001'de yeni çıkmış yavrular kaydedilmiştir. Malatya'daki Karakaya Barajı'nda Haziran 2005'te içinde yavru olan yuvalar kaydedilmiştir. **EGE:** Bafa Gölü'nde 29 Mayıs 1999'da boş, ancak yumurtlama için hazır bir yuva bulunmuştur. **MAR:** Uluabat Gölü'nde 25 Nisan 2003'de çok sayıda öten birey ve 4 Haziran 2006'da içlerinde dörder yumurta olan iki yuva, Manyas Gölü'nde 28 Haziran 1972'de içeriği görülemeyen bir yuva [@hustings1994]. **KAD.** Kızılırmak Deltası'nda Haziran 1992'nin başında bir kaç yuva [@hustings1994] ve Yeniçağa Gölü'nde içinde dörder yumurta olan dört yuva kaydedilmiştir. Başka alanlarda muhtemelen yılda iki kez kuluçkaya yatar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Yunanistan’da da üreyen scirpaceus alttürünün, Marmara ve Ege’de saf olarak; Türkiye’nin diğer bölgelerinde ise fuscus ile karışık olarak ürediği varsayılmaktadır [@roselaar1995]. Aynı yazar, Türkiye genelindeki scirpaceus kayıtlarının fazlalığını, göç dönemine ait kayıtlara bağlamaktadır. Fuscus alttürünün tanımlanmasına ilişkin en kapsamlı çalışmada [@pearson2002], Türkiye'deki yayılışı da ele alınmış ve [@roselaar1995] ile benzer şekilde, ülkenin orta kesimlerinden itibaren doğuya doğru fuscus alttürünün ürediği sonucuna varılmıştır. İç ve Doğu Anadolu’da üreyen kuşların fuscus olduğu düşünülebilir, ancak daha batıdaki durumu netleştirmek için arazi verileri yetersizdir.
 
-## Basra Kamışçını
+# Basra Kamışçını
 
 *Acrocephalus griseldis*, Basra Reed Warbler
 
@@ -441,15 +441,15 @@ Bir birey 24 Mayıs 2018 tarihinde Iğdır Aras Kuş Halkalama İstasyonu’nda 
 
 ![](images/harita_Acrocephalus%20griseldis.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Yayılış alanı Irak Mezopotamyasıdır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Büyük Kamışçın
+# Büyük Kamışçın
 
 *Acrocephalus arundinaceus*, Great Reed Warbler
 
@@ -465,18 +465,18 @@ Göç döneminde daha geniş bir yayılış gösterir. Özellikle iç kesimler v
 
 ![](images/harita_Acrocephalus%20arundinaceus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Açık sulardaki kamışlar, kıyıları kamışlık olan göller, nehirler ve kanallarda ürer. Uluabat Gölü'nde yoğun ılgın (Tamarix) ve çeltik tarlalarında, Murat Nehri'nde de söğütlüklerde öten kuşlar kaydedilmiştir.\
 **Yuvası:** Yuvası esasen uzun ve yoğun sazlarda, derin silindirik bir yapıda, ağaçlara veya daha çok kamışlara bağlanarak su seviyesinden genellikle 1–2 m yükseğe yapılır. Yuva bitki sapları, lifler ve yapraklarla örülür, iç kısmı ise küçük yapraklar, kamış püskülleri, tüy ve kıllarla astarlanır.\
 **Yumurta sayısı:** Türkiye’de 1 yuvada 3 yumurta, 3 yuvada 4 yumurta ve 2 yuvada 5 yumurta kaydedilmiştir.\
 **Üreme dönemi:** Türkiye genelinde üreme dönemi nisan ortasında başlar ve temmuz sonuna kadar devam eder. İlk yumurtlama genellikle nisan sonunda gerçekleşir ve yavrular temmuz başına kadar tüylü hale gelir. **MAR:** 1993’te Kocaçay Deltası’nda nehir boyunca 750 metrelik kesimde en yüksek yoğunlukta 21 öten erkek kaydedilmiş, en erken öten birey 14 Nisan 1993’te duyulmuştur [@ertan1996]. Uluabat Gölü’nde 2–4 Haziran 2006’da neredeyse tamamlanmış iki yuva görülmüş, 19 Haziran 1973’te Küçükçekmece Gölü’nde ve 24 Haziran 1973’te Meriç Deltası’nda yiyecek taşıyan erişkinler kaydedilmiştir (R.F. Porter). **EGE:** Büyük Menderes Deltası’nda 13 Mayıs 1899’da çok sayıda öten birey kaydedilmiş, ancak henüz üreme başlamamış olabilir [@selous1900]. **AKD:** Hotamış Sazlığı’nda 23 Mayıs 1993’te ve Uyuz Gölü’nde 18 Mayıs 1998’de yuva yapımı gözlenmiştir. Sultansazlığı’nda 23 Mayıs 1979’da ve 29 Mayıs 1998’de içinde yumurta olan yuvalar, 19 Haziran 1992’de Yağlıören’de ve 21 Temmuz 1991’de Uyuz Gölü’nde çok sayıda tüylenmiş yavru kaydedilmiştir [@kasparek1985; @karauzkirac1993]. Mogan Gölü’nde 15 Mayıs 2005’te biri tamamlanmamış olmak üzere toplam 13 yuva gözlenmiştir. **KAD:** Kızılırmak Deltası’nda mayıs ortasında düzenli olarak öten bireyler duyulmuş, 100 hektarlık alanda 10–30 üreme alanı kaydedilmiştir. Bu yoğunluk bazı bölgelerde daha yüksek olabilmektedir [@hustings1994]. **İÇA:** 15 Mayıs 2005’te Mogan Gölü’nde biri tamamlanmamış olmak üzere toplam 13 yuva kaydedilmiştir. **DOA:** Üreme dönemi diğer bölgelere göre daha geç başlar. 1 Haziran 2001’de Van Gölü ve Erçek Gölü yakınlarında yuva yapan erişkinler ve içinde yumurta olan beş yuva gözlenmiştir. 19 Haziran 2004’te biri boş, biri beş yumurtalı ve biri yeni çıkmış üç yavrulu olmak üzere üç yuva kaydedilmiştir. Son kayıttaki yavruların çıkışı, ilk yumurtlamanın 1 Haziran olduğunu göstermektedir. **GDA:** 4 Temmuz 1998’de içinde yavru bulunan bir yuva kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Nominat alttür bulunur.
 
-## Ağaç Kamışçını
+# Ağaç Kamışçını
 
 *Locustella fluviatilis*, River Warbler
 
@@ -492,15 +492,15 @@ Gelen halkalama kayıtları, türün önceki bilgilere göre daha yaygın ve sı
 
 ![](images/harita_Locustella%20fluviatilis.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de henüz yuvaladığı belgelenmemiştir. Yayılış alanı Doğu Avrupa'dır, en yakın Bulgaristan'da ürediği bilinir. Nitekim türün Bulgaristan’daki yayılışının güneye doğru hızla genişlediği bilinmektedir [@nankinov2000]. Bu nedenle, özellikle üreme döneminde başta Trakya olmak üzere Marmara ve diğer batı bölgelerde detaylı aramalar yapılmalıdır. Türün ötüşü genellikle ilkbaharda ve haziran ortasında duyulur [@roselaar1995].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Bataklık Kamışçını
+# Bataklık Kamışçını
 
 *Locustella luscinioides*, Savi's Warbler
 
@@ -516,18 +516,18 @@ Aslında ülke genelindeki tüm bataklık sulakalanlarda ürediği söylenebilir
 
 ![](images/harita_Locustella%20luscinioides.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Geniş, yoğun sazlıkların (Phragmites) bulunduğu sığ sularda ürer. Türkiye’de özellikle alçak ve yoğun sazlık alanların bulunduğu bataklıklar ve göl kenarlarında kaydedilmiştir.\
 **Yuvası:** Türkiye’de henüz yuva yapısı tanımlanmamıştır. Diğer bölgelerde yuvasını alçak sazlık veya kındıralıklarda, su üstünde sık bitki örtüsüne dolanmış şekilde yapar. Yuva, ölü kamış yaprakları, otlar ve su kenarı bitkilerinden oluşan kâse şeklindedir ve daha ince yapraklar ile liflerle astarlanır.\
 **Yumurta sayısı:** Türkiye’de yalnızca bir kayıtta, 19 Mayıs 1953’te Antakya yakınlarında içinde 4 yumurta bulunan bir yuva kaydedilmiştir [@kumerloeve1963a].\
 **Üreme dönemi:** Erişkinler çoğu alanda nisan ortası-temmuz ortası arasında bulunur ve en erken mart sonunda ötmeye başlar. Dolayısıyla muhtemelen yılda iki kez kuluçkaya yatar. **KAD.** Nisan sonu-mayıs başında Kızılırmak Deltası'nda yoğun olarak 100 ha'da öten 20-40 erkek belirlenmiştir [@hustings1994]. **AKD:** Antakya yakınlarında 19 Mayıs 1953'de içinde 4 yumurta olan bir yuva bulunmuştur [@kumerloeve1963a]. 20 Temmuz 1967'de Gavur Gölünde gagasında böcek olan ve uyarı sesi çıkaran bir erişkin kaydedilmiştir [@vielliard1968resultats]. **İÇA:** 20-21 Haziran 1977'de Eşmekaya'da (Konya) uyarı sesi çıkaran ve yavrusunu besleyen erişkinler kaydedilmiştir [@schubert1979].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye’den toplanan bütün tahnit örnekleri değerlendirilmiş [@roselaar1995] ve genellikle üstü daha gri, alt tarafı daha beyaz olan form fusca olarak tanımlanmıştır. Ancak, Meriç Deltası’nın Yunanistan kısmında nominat *luscinoides* alttürünün bulunduğuna dair kanıtlar vardır [@bauer1969a] . Bu durum, *luscinoides* alttürünün en azından Trakya içlerine kadar yayılabileceğini göstermektedir. Öte yandan, Van’da toplanan ve her iki alttür arasında kalan iki erkek birey, zayıf ve büyük ölçüde klinal varyasyonların tanımlanmasındaki zorluklara örnek olarak değerlendirilmektedir [@kumerloeve1969a].
 
-## Çekirge Kamışçını
+# Çekirge Kamışçını
 
 *Locustella naevia*, Common Grasshopper Warbler
 
@@ -543,13 +543,13 @@ Türkiye’de çok nadir ve her yıl rastlanmayan bir geçit kuşu olarak bilini
 
 ![](images/harita_Locustella%20naevia.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Türkiye’de yalnızca bir üreme kaydı Ağrı Dağı ile Taşlıçay arasında, açık dağ yamaçlarında gözlenmiştir [@kumerloeve1967a].\
 **Yuvası:** Türkiye’de yuva yapısına dair bilgi bulunmamaktadır. Yerde veya alçak bitki örtüsü arasında yuva yaptığı tahmin edilmektedir.\
 **Yumurta sayısı:** Türkiye’de yumurta sayısına dair herhangi bir kayıt yoktur.\
 **Üreme dönemi:** Türkiye’deki tek kayıt mayıs sonundandır. Bu tarih, yumurtlama döneminin mayıs ortası ile haziran başı arasında gerçekleştiğini düşündürmektedir. Gürcistan ve Ermenistan’daki kayıtlar da mayıs sonu ve haziran başında öten bireyleri kapsamakta, bu da üreme döneminin benzer şekilde bu zaman diliminde gerçekleştiğini göstermektedir [@roselaar1995; @adamian1999; @ananian2002].
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de toplanmış örneklerin arasında *obscurior* olduğu düşünülen bir örnek mevcuttur [@kumerloeve1967a; @roselaar1995]. Bu alttür nominant *naevia* alttürüne çok benzer.

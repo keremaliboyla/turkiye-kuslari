@@ -2,7 +2,7 @@
 title: "Cılıbıtlar ve benzerleri"
 ---
 
-## Kocagöz
+# Kocagöz
 
 *Burhinus oedicnemus*, Eurasian Stone-curlew
 
@@ -18,16 +18,16 @@ Ağustos ve eylül aylarında daha çok sulakalanlarda küçük göç sürüleri
 
 ![](images/harita_Burhinus%20oedicnemus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Açık bozkırlar, tarım alanları ve kumullardaki genellikle çıplak, sıklıkla taşlı veya kısa bitkili alanlarda ürer. **Yuvası:** Yere hafifçe kazılmış, genellikle az miktarda lif ve bitki döküntüleri kullanılmış ve küçük taş ile iri kumla kenarları çevrelenmiş bir çukurdur. **Yumurta sayısı:** 15 yuvada 2, 11 yuvada 3 yumurta tespit edilmiştir.\
 **Üreme dönemi:** Mart ortasından itibaren yumurtlar, mayıstan itibaren yavrular görülür. **İÇA.** Sultansazlığı'nda 9 Haziran 1982'de bir yuvada 4 yumurta görülmüştür ancak tür tayini hatalı olabilir [@kasparek1985]. **GDA.** Daha erken ürer. 7 Mayıs 1970'te Ceylanpınar'da (Urfa) bir erişkin ve henüz uçamayan yavrusu ile 6 Mayıs 1996'da Cizre'de bir çift büyük yavrularıyla görülmüştür. İkisinde de yumurtlamanın yaklaşık 18 Mart'ta olduğu anlaşılmaktadır. **AKD.** Kayıtlar biraz daha erkendir ve en erken yumurta 25 Nisan'da kaydedilmiştir. Göksu Deltası'nda 5 Mayıs 2004'te bir yuvada bir yumurta görülmüş ve ikinci yumurta 7 Mayıs 2004'te koyulmuştur. Aynı alanda 9 Haziran 2006'da 2 haftalık 2 yavru görülmüştür. Bunların nisan sonunda yumurtladığı anlaşılmaktadır. Marmara'da 10 Mayıs, İç Anadolu'da 11 Mayıs, Ege'de 12 Mayıs ve Karadeniz'de 15 Mayıs ve 8-9 Haziran'da yumurta kaydedilmiştir. 30 Temmuz 1971'de Kızılırmak Deltası'nda oldukça büyümüş ancak henüz uçmaya başlamamış bir yavru görülmüştür [@dijksen1985] ve yumurtlamanın yaklaşık 11 Haziran'da olduğu anlaşılmaktadır (2. kuluçka da muhtemeldir). Başka yerlerde, çift üreme mevcuttur ancak Türkiye'den bununla ilgili veri yoktur.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Ayrıntılı bir çalışma bulunmamakla birlikte, nominat alttürün Türkiye'nin kuzeydoğusunda, *saharae* alttürünün ise diğer bölgelerde görüldüğü belirtilmiştir [@vaurie1963]. Bireysel varyasyonların yüksek olması, coğrafi varyasyonun tanınmasını zorlaştırmaktadır. Özellikle toprak yapısı ve bağıl nem koşulları sırt tonunda çeşitlilik yaratmaktadır. Bu koşullar altında, anakarada bulunan (Kanarya Adaları hariç) alttürlerin geçerliliği sorgulanabilir.
 
-## Uzunbacak
+# Uzunbacak
 
 *Himantopus himantopus*, Black-winged Stilt
 
@@ -45,18 +45,18 @@ Kış kayıtları genelde düşük sayılardadır, ancak arada sırada görülme
 
 ![](images/harita_Himantopus%20himantopus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Kıyılardaki ve iç kesimlerdeki göllerin ve bataklıkların açık alanlarında ürer. Genellikle 10-50 çiftlik koloniler halinde yuva yapar, ancak bazen sayı 500’ü aşabilir. Tek başına üreyen çiftlere de rastlanmıştır. Göllerin kıyılarında, üzerlerindeki adalarda, taşkın bataklıklarında ve çayırlarda, genellikle ilkbaharda su altında kalan ancak mayıs ayında kuruyan alanlarda yuva yapar.\
 **Yuvası:** Sığ su üzerindeki bir ot öbeğinde ya da daha sığ sularda zeminden yükseltilmiş olarak bulunur. Su kenarındaki çamurların üzerine de yuva yapabilir. Derin olmayan bir çukur şeklindedir ve çeşitli materyallerden oluşur. Kuru alanlarda az miktarda dal kullanırken, sulak yerlerde ince bir yastık şeklinde yuva yapar ve su yükseldiğinde materyal ekler.\
 **Yumurta sayısı:** 95 yuvada 4, 5 yuvada 3 yumurta tespit edilmiştir. Daha düşük yumurta sayıları genellikle yumurtlama sürecinin tamamlanmadığını veya kuluçkanın başarısız olduğunu düşündürmektedir.\
 **Üreme dönemi:** Genellikle nisan ortası ile mayıs ortası arasında yumurta koyar, mayıs ortasından itibaren yavrular görülebilir. Türkiye'de üreme sezonu belirgin olarak uzun bir dönemi kapsar ve geç kayıtlar büyük ihtimalle boşalmış yuvaları kullanan çiftlere aittir. **MAR.** Haziran 1966'da Manyas Gölü'nde kuluçkada erişkinler ve 1 Temmuz 1966'da içinde yumurta olan bir yuva görülmüştür. 10 Haziran 1998'de Uluabat Gölü'nde çiftleşen bireyler gözlenmiştir [@welch1998b]. **KAR.** Kızılırmak Deltası'nda 1992'de 250-300 üreyen çift vardı. Bunlar mart ortasında gelmiş, nisanda sayılarını arttırarak 24 Nisan 1992'de alan tutma davranışına girmiş, en azından bazıları 30 Nisan'da çiftleşmiş ve 10 Mayıs'ta içinde yumurta olan ilk yuvalar kayda geçmiştir; ancak çalışmanın sona erdiğini tarih olan 10 Haziran'da halen herhangi bir yavru birey görülmemişti [@hustings1994]. **EGE.** 23 Nisan 2003'de Milet'te kuluçkaya yatmamış ancak alan tutan erişkinler, nisanın son haftasında ilk yumurtalar görülmüş, 2 Mayıs 200'de ise kuluçkadaki bireyler kaydedilmiştir (P. Castell). 29 Mayıs 1999'da Bafa Gölü'nde içinde yumurta bulunan yuvalar ve birkaç yeni çıkmış yavru kaydedilmiştir. Bu durum ilk yumurtlamanın nisan sonunda veyamayıs başında başladığını göstermektedir. 1 Temmuz 1996'da Marmara Gölü'nde yanında 3 küçük yavruyla bir erişkin ve içinde 4 yumurta olan bir yuva kaydedilmiştir. **AKD.** Çukurova'da nisan sonunda kur davranışı [@have_etal1988] ve 8-9 Mayıs 1964'te yanlarında küçük yavrularla birkaç çift görülmüştür [@warncke1964-65beitrag]. Bu tarihler yumurtlamanın 12 Nisan civarında olduğunu göstermektedir. Göksu Deltası'nda 21 Mayıs 1993 ve 15 Haziran 1992'de kuluçkada birkaç erişkin, 17 Haziran 1992'de yaklaşık 2 haftalık bir yavru görülmüştür. Bu durumdan yumurtlamanın mayıs başında olduğu anlaşılmaktadır. Göksu Deltası'ndaki kumullarda 19 Mayıs 1999'da 50'den fazla erişkinin kuluçkada olduğu kaydedilmiştir. 18 Temmuz 1972'de Karamık Gölü'nde ve 27 Haziran 1992'de Acıgöl'de uçmaya başlamamış yavrular kaydedilmiştir [@dijksen1988]. **İÇA.** 27 Nisan 2004'te Bolluk Gölü'ndeki bir adada henüz yuva yapmamış erişkinler görülmüştür. 7 Mayıs 1993'te ise aynı yerde tamamında kuluçka olan çok sayıda yuva görülmüştür. 5 Haziran 1992'de Eşmekaya yakınlarında yumurtadan yeni çıkmış yavrular barındıran bir yuva görülmüştür; bu durumda yumurtlamanın mayıs başında olduğu söylenebilir. Sultansazlığı'nda 21 Mayıs 1979'da yeni kurulmuş bir yuva görülmüştür [@kasparek1985] ki bu yumurtlamanın 23 Nisan dolaylarında gerçekleştiğini işaret etmektedir. Kulu Gölü'nde 22 Mayıs 1992'de içinde yumurta olan yaklaşık 50 yuva bulunmaktaydı. Aynı yerde 6 Haziran 1996'da yavrularıyla birlikte birkaç çift, 13-15 Temmuz 1971'deyse içinde halen yumurta bulunan yuvalar görülmüştür [@kasparek1987a]. Bu son bireyler muhtemelen daha erken yuva yapıp başarısız olanların yerine gelen kuşlardır. Seyfe Gölü'nde 18-22 Haziran 1992'de, bazılarının yanında yavru olan yaklaşık 500 çift ve 14 Haziran 1993'te de içinde yumurta olan çok sayıda yumurta görülmüştür. İç Anadolu'daki diğer alanlarda haziran-temmuz döneminde birkaç yavru kaydı daha vardır. **DOA.** Haziran 2001'de Sodalı Göl'de yumurtlama başlamış ve içinde 1-2 yumurta olan birkaç yuva görülmüştür. 2 Ağustos 1992'de Yoncalı ve 21 Temmuz 1992'de Bendimahi'de yavru rapor edilmiştir. ancak Doğu Anadolu'dan fazla veri yoktur ve muhtemelen üreme kayıtları da tahmin edilenden daha önce başlamaktadır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur.
 
-## Kılıçgaga
+# Kılıçgaga
 
 *Recurvirostra avosetta*, Pied Avocet
 
@@ -74,18 +74,18 @@ Türkiye’nin iklimin daha ılıman olduğu batı kesimlerinde önemli sayılar
 
 ![](images/harita_Recurvirostra%20avosetta.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Açık, tuzlu ve acı göller, tuzlalardaki alçak adalar, küçük kum tepeleri, kuru bataklıklar, seyrek çayırlar ve çamurlu alanlarda ürer. Esasen kolonici bir türdür ancak tek çiftler de görülebilir. Genellikle adalarda üreyen koloniler, kıyılarda da bulunabilir. Küçük adalarda yuvalar yer kısıtlı olduğu için birbirine daha yakın (2-3 metre aralıkla) olabilirken, büyük adalarda kenar bölgelerde bulunur. Yuvalar sıklıkla Uzunbacak yuvaları ile birlikte gözlenirken, İnce Gagalı Martı ve Gülen Sumru gibi daha güçlü kolonici türler adaların merkezinde yuvalar.\
 **Yuvası:** Çıplak zeminde derin olmayan bir oyuktur. Çoğunlukla çevrelenmemiştir veya az miktarda bitkisel materyal içerir.\
 **Yumurta sayısı:** Neredeyse her zaman 4, nadiren 3 yumurta koyar. Bir kayıtta 5 yumurta tespit edilmiştir.\
 **Üreme dönemi:** Nisan ortasından itibaren yumurta koyar, yumurtlama dönemi hazirana kadar devam eder. Mayıs sonu itibariyle yavrular görülür. Üreme mevsimi uzundur ve üremede başarısız olan yuvalar, diğer çiftler tarafından tekrar kullanılabilir. **İÇA.** Bolluk Gölü'nde 23 Nisan 2006'da 12 yuva kaydedilmiş ve bunları 11'i kuluçkayı tamamlayamamış, 1-3 yumurta ve 4 yumurta olanlardan sadece biri kuluçkayı tamamlamıştır. 14-15 Mayıs 2004'te aynı adada 50-100 yuva sayılmıştır ve bunların neredeyse tamamı 4 yumurtalıdır. Bir yuva 3, bir yuva olağandışı olarak 5 yumurta ve bir tanesinde de yumurtadan yeni çıkmış yavru görülmüştür. Buna göre ilk yumurtlama tarihinin 18 Nisan olduğu söylenebilir. Aynı yerde 7 Mayıs 1993'te çoğu yuva 4 yumurtalıdır ve 23/24 Haziran 1992'de çeşitli büyüklüklerde yavrular görülmüş ancak 14 yuvada da yumurta görülmüştür. Kulu Gölü'nde 6 Mayıs 1972'de bir adada 156 yuva ve diğer bir adada da daha fazlası bulunmaktaydı. 6 Mayıs 1974'te içinde yumurta olan 36 yuva ve 20 Mayıs 1974'te yanlarında 10 günlüğün üzerinde yavruları olan birkaç çift kaydedilmiş, en erken yumurtlama tarihinin 14 Nisan olduğu anlaşılmaktadır. Kulu Gölü'nde 5 Haziran 1975'te 105 üreyen çift kaydedilmiştir ve bunların altısında yavru bulunmaktaydı. 14-15 Temmuz 1971'de hem küçük hem de çok büyük yavrular bir arada görülmüştür [@kasparek1987a]. Haziran ortasındaki en geç yumurtlamayı ifade etmektedir. Aynı gölde 22 Mayıs 1992'de yaklaşık 100 yuva kaydedilmiş, ancak yavru görülmemiş ve 19 Haziran 1992'de ise hala birkaç yuvada yumurta bulunmaktaydı. 12 Haziran 1998'de en azından bir çiftin 5 yetişkin yavrusu varken birkaç yuva da halen yumurtalar gözlenmiştir. Seyfe Gölü'nde 22 Mayıs 1983'de yavrulu 16 çift görülmüş, bu tarih en erken yumurtlamanın 24 Nisan'dan sonra olamayacağını göstermektedir. 2 Haziran 1971'de aynı yerde 300 üreyen çiftin henüz yavruları vardı ancak 75 yuvada da halen yumurta bulunmaktaydı [@husband1984]. 28 Mayıs 1993'te çoğu yuvada yumurta, bazılarında ise küçük yavrular vardı ve 14 Haziran 1993'te çoğu yuvada hala yumurta bulunmaktaydı. **AKD.** 16 Mayıs 1951'de Göksu Deltası'nda henüz bir haftalık olmamış bir yavru bulmuştur ve bu durum yumurtlamanın nisan ortasında olduğu anlamına gelmektedir [@hollom1955]. Aynı alanda 6 Mayıs 1973'de her birinde 4 yumurta olan 4 yuva bulunmuştur . 23 Mayıs 1971'de Çukurova'da her birinde 4'er yumurta olan 2 yuva kaydedilmiştir [@hustings1994]. **DOA.** Van Bataklılarında, 10 Haziran 2001'de pek çok erişkinin alarm sesi ve 6/7 Temmuz 1974'te genç bireyler görülmüştür.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Poyrazkuşu
+# Poyrazkuşu
 
 *Haematopus ostralegus*, Eurasian Oystercatcher
 
@@ -101,16 +101,16 @@ Göç döneminde daha sık rastlanır. Özellikle kıyısal alanlarda yaygın ol
 
 ![](images/harita_Haematopus%20ostralegus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Nehir kıyılarındaki açık alanlar, özellikle Doğu Anadolu'daki çakıl adaları, iç göllerdeki alçak adalar ve bitkisiz kıyılar, kumsallar, kumullar, çakıl dilleri, lagünler ve kıyıdan uzak adacıklarda ürer. **Yuvası:** Yerde kurduğu yuva, sınırları belirsiz ufak bitki yığınlarından veya taşların kullanıldığı sığ bir çukurdan ibarettir. **Yumurta sayısı:** 3 (5 yuvada). 7 Mayıs 1993 ve 14 Mayıs 2007'de içinde tek yumurta bulunan ve kuluçka sürecinin tamamlanmadığı düşünülen yuvalar kaydedilmiştir. 2 Yumurta da tek yavru, 4 yuvada iki yavru sayılmıştır.\
 **Üreme dönemi:** Nisan sonu ve mayıs başında yumurta koyar. Haziran itibariyle yavrular görülür. **AKD:** Göksu Deltası'nda 30 Nisan 1970'te kur davranışı gözlenmiş, 27 Mayıs 1973'te denizden 50 ve 100 metre uzaklıkta, içinde üçer yumurta bulunan iki yuva kaydedilmiştir \[\@witt1976beobachtungen\]. **DOA.** 29 Mayıs 1969'da Erçek Gölü'nde bir yuva görülmüştür [@kasparek1983]. 17 Mayıs 1970'te Selim yakınlarında bir yavruyla ebeveynleri görülmüştür ki bu durum yumurtlamanın 20 Nisan'dan sonra gerçekleştiğini göstermektedir. 27 Mayıs 1994'te Murat Nehri'nde bir çiftle ve 2 yavrusu ve 19 Haziran 1984'te aynı yerde başka bir çiftle ve 2 yavrusu kaydedilmiştir. 25 Haziran 2004'te Ağrı yakınlarındaki bir nehirdeki çakıl adasında 3-4 haftalık yavrularıyla bir çift görülmüştür. Bu durum yumurtlamanın mayıs başında olduğunu göstermektedir. **AKD.** Kızılırmak Deltası'nda üreyen çiftler yalnızca nehrin kıyılarında bulunur. Burada 31 Mayıs 1992'de küçük yavrularıyla birlikte erişkinler ve 18 Temmuz 1992'de 2 yavru görülmüştür [@hustings1994]. **İÇA.** 22 Mayıs 1992'de Kulu Gölü'ndeki bir adada kuluçkada bir erişkin ve 7 Mayıs 1993'te Bolluk Gölü'nde kuluçkası tamamlanmamış bir yumurta ve 15 Mayıs 2004'te 3 yumurta görülmüştür. Kulu Gölü'nde 31 Mayıs 1972'de içinde 3 yumurta olan bir yuva ve 14-15 Temmuz 1971'de en az 2 tüylenmiş yavru kaydedilmiştir [@kasparek1987a]. **EGE.** 17 Mayıs 1899'da [@selous1900], İzmir yakınlarındaki bir lagünde içinde 3 yumurta olan bir yuva ve 23 Mayıs 1950'de Aliağa yakınlarındaki kıyıdan uzak bir adada "histerik alarm" veren bir çift görülmüş ve büyük ihtimalle yavrunun mevcut olduğu kaleme alınmıştır [@mcneile1950]. Karina Dalyanı'nda (Büyük Menderes Deltası) 14 Mayıs 2007'de içinde çatlamamış yumurta olan bir yuva görülmüştür.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Del Hoyo vd. (1996) Nominat alttürün bulunduğunu belirtir, longipes'i de hesaba katar [@roselaar1995]. Türkiye'den herhangi bir örnek olmamasına rağmen, longipes'i mevcut bir alttür olarak kabul ediyoruz.
 
-## Gümüş Yağmurcun
+# Gümüş Yağmurcun
 
 *Pluvialis squatarola*, Grey Plover
 
@@ -126,15 +126,15 @@ Güney ve batı kıyılarındaki ilkbahar göçü mart ayında başlar, nisan or
 
 ![](images/harita_Pluvialis%20squatarola.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Altın Yağmurcun
+# Altın Yağmurcun
 
 *Pluvialis apricaria*, European Golden Plover
 
@@ -150,15 +150,15 @@ Türkiye’deki başlıca kışlama alanları, kuzey, batı ve güney kıyılar�
 
 ![](images/harita_Pluvialis%20apricaria.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Amerika Altın Yağmurcunu
+# Amerika Altın Yağmurcunu
 
 *Pluvialis dominica*, American Golden Plover
 
@@ -172,15 +172,15 @@ Monotipik bir türdür.
 
 ![](images/harita_Pluvialis%20dominica.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Daha önce küçük altın yağmurcun ile aynı tür olduğu düşünülmekteydi.
 
-## Küçük Altın Yağmurcun
+# Küçük Altın Yağmurcun
 
 *Pluvialis fulva*, Pacific Golden Plover
 
@@ -198,15 +198,15 @@ Küçük/Amerika altın yağmurcununa ait iki kayıt bulunmaktadır ve bu kayıt
 
 ![](images/harita_Pluvialis%20fulva.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Eskiden Amerika altın yağmurcunu ile tek tür olarak değerlendirilmiştir.
 
-## Dağ Cılıbıtı
+# Dağ Cılıbıtı
 
 *Eudromias morinellus*, Eurasian Dotterel
 
@@ -222,15 +222,15 @@ Genellikle her iki mevsimde de nadir bir göçmen olarak görülür. 1970'lerin 
 
 ![](images/harita_Eudromias%20morinellus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrupa ve Asya'nın kuzey bölgelerinde yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Zaman zaman *Charadrius* cinsi altında değerlendirilir.
 
-## Halkalı Cılıbıt
+# Halkalı Cılıbıt
 
 *Charadrius hiaticula*, Common Ringed Plover
 
@@ -246,15 +246,15 @@ Tür, kıyı alanlarında lokal ancak seyrek olmayan bir kış konuğudur. Başl
 
 ![](images/harita_Charadrius%20hiaticula.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Avrasya'nın kuzey bölgelerinde başta tundra kuşağında yuvalar.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Görünüşe göre bireylerin çoğu *tundrae* alttürünün karakteristik özelliklerini taşımaktadır [@have_etal1988]. Ekim 1945’te Mogan Gölü’nden alınan bir örnek [@wadley1951], bu alttürün Türkiye’de varlığını kanıtlamaktadır. Ancak G. M. Kirwan, bu örneği İngiltere’deki Tring Doğa Tarihi Müzesi’nde bulamamıştır.
 
-## Halkalı Küçük Cılıbıt
+# Halkalı Küçük Cılıbıt
 
 *Thinornis dubius*, Little Ringed Plover
 
@@ -270,7 +270,7 @@ En yaygın olarak üreyen kıyı kuşudur. Karadeniz ve Doğu Anadolu’nun dağ
 
 ![](images/harita_Thinornis%20dubius.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Nehir yataklarında, kıyı düzlüklerinde, kumsallarda, göl kıyılarında, çakıl ocaklarında ve göl ve nehirlerdeki kum düzlüklerinde yuva yapar. Ayrıca düzlenmiş toprak ve çakıl veya kum alanlarında, kum, iri çakıllı ve kuru çamurlu alanlarda da yuvalar görülür. Deniz seviyesinden 2000 metreye kadar çıkabilir.\
 **Yuvası:** Yerde bir miktar kazarak yaptığı yuvasını küçük taşlar, kum ve artıklarla kaplar.\
@@ -278,11 +278,11 @@ En yaygın olarak üreyen kıyı kuşudur. Karadeniz ve Doğu Anadolu’nun dağ
 **Yavru sayısı:** 1-4 (18 yuvada). Predasyon ve benzeri nedenlerle sıklıkla 1-2 defa kuluçkaya yatar.\
 **Üreme dönemi:** Nisan sonu ile temmuz ortası arasında yumurta koyar. Haziran'dan itibaren yavrular görülür. **MAR:** 3 Haziran 2006 ve 24 Haziran 1999’da Kocaçay Deltası’nda yumurtadan yeni çıkmış yavrular kaydedilmiştir. Bu kayıtlar, yumurtlamanın 30 Nisan ve 21 Mayıs civarında başladığını göstermektedir. 3 Mayıs’ta İstanbul yakınlarında kur davranışı, 8 Mayıs 1970’te Gelibolu’da dikkati başka yöne çekme davranışı gözlenmiştir. **EGE:** En erken 14 Mayıs’ta ve haziran başlarında yumurtalı dört yuva bulunmuştur. **AKD:** 20 Nisan’da kur davranışı kaydedilmiş, 11 Mayıs 2003’te Dalyan’da üç yumurtalı bir yuva bulunmuştur. 22 Mayıs 1993’te Göksu Deltası’nda yumurtadan yeni çıkmış yavrulardan oluşan kuluçkalar ve 15 Haziran 1992’de iyice tüylenmiş bir yavru kaydedilmiştir. Bu kayıtlar, yumurtlamanın 21 Nisan civarında başladığını göstermektedir. **KAR:** Kızılırmak Deltası’nda 5 Temmuz 1983’te yumurtalı bir yuva bulunmuş, 14 Haziran 1984’te görünüşe göre yavruları olan üç çift ve 24 Temmuz 1971’de her biri dört yavrulu üç çift kaydedilmiştir [@dijksen1985]. **İÇA:** Mayıs başlarında kur davranışı gözlenmiş, 22 Mayıs 1998’de Ereğli’de yumurtalı bir yuva, 8 Haziran 2006’da Karapınar yakınlarında yumurtalı başka bir yuva bulunmuş ve 26 Temmuz 1971’de Yarma yakınlarında yavrulu üç çift kaydedilmiştir. **DOA:** 13 Mayıs’ta kur davranışı gözlenmiş, 1 Haziran 2001’de yumurtalı bir yuva ve 8 Haziran 2004’te Van’da üç yumurtalı başka bir yuva bulunmuştur. 27 Mayıs 1969’da Erçek Gölü’nde elde edilen en erken yavru kaydı [@kasparek1983], yumurtlamanın nisan sonlarında başladığını göstermektedir. 21 Haziran 2004’te Ağrı’nın 57 km kuzeybatısında, Sarıcan’da bir erişkin, tamamen tüylenmiş ve uçabilen üç yavruyla birlikte havalanmış ve 30 metre ileride diğer erişkinin tek yumurta üzerinde kuluçkada olduğu gözlenmiştir. Üreme sezonu uzundur ve iki kere kuluçkaya yattığını düşündüren başka kayıtlar da bulunmaktadır. **GDA:** Bu bölgede üreme ile ilgili bilgi bulunmamaktadır.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de *curonicus* alttürü bulunur. Geçmişte *Charadrius* türü altında sınıflandırılmıştır.
 
-## Kızkuşu
+# Kızkuşu
 
 *Vanellus vanellus*, Northern Lapwing
 
@@ -298,7 +298,7 @@ Göç döneminde tüm bölgelerde gözlenir ve bu dönemde daha yaygın olarak v
 
 ![](images/harita_Vanellus%20vanellus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Çoğunlukla sulak çayırlarla, sazlıkların, göllerin ve nehirlerin kıyısında ürer.\
 **Yuvası:** Yerdeki sığ bir çukurda yaptığı yuvasını bitkisel malzemeyle kaplar.\
@@ -306,11 +306,11 @@ Göç döneminde tüm bölgelerde gözlenir ve bu dönemde daha yaygın olarak v
 **Üreme dönemi:** Kıyı bölgelerinde nisan sonunda, yüksek alanlarda haziran ayında yumurta koyar, yavrular mayıstan itibaren gözlenir. **MAR:** 13 Nisan 1967’de Manyas Gölü’nde alanların kurulduğu gözlenmiştir. **KAR:** 1992’de Kızılırmak Deltası’nda çoğu çift, görünüşe göre 20 Nisan ile 10 Mayıs arasında yumurtlamış ve ilk yavru 11 Mayıs’ta gözlenmiştir [@hustings1994]. **İÇA:** 11 Nisan 1992’de Çöl Gölü’nde gözlenen iki kuluçkanın yavruları, bölgedeki en erken kayıttır ve yumurtlamanın mart ortasında başladığını göstermektedir. 14 Nisan-9 Haziran arasında bulunan yumurtalı yedi yuva ve mayıs-temmuz arasında kaydedilen 12 kuluçka diğer üreme kayıtlarıdır.\
 **DOA:** 6 ve 28 Haziran’da yumurtalı iki yuva bulunmuş; 30 Mayıs 1969, 30 Mayıs 1986 ve 28 Haziran’da yavrular gözlenmiştir. 9 Mayıs 1986’da Patnos’ta gözlenen iki yavru, yumurtlamanın 10 Nisan civarında başladığını göstermektedir. Zarar gören kuluçkaların telafisi nedeniyle üreme sezonunun uzadığı değerlendirilmektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Mahmuzlu Kızkuşu
+# Mahmuzlu Kızkuşu
 
 *Vanellus spinosus*, Spur-winged Lapwing
 
@@ -326,18 +326,18 @@ Göç sırasında ülke genelinde daha bol ve yaygındır. Akdeniz'de en erken g
 
 ![](images/harita_Vanellus%20spinosus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Su yakınlarındaki açık alanlarda, çamur düzlüklerinde, çıplak arazide ya da seyrek vejetasyonun bulunduğu çayırlık alanlarda ürer. Özellikle göllerin ve sazlıkların çevresinde kuruyan arazilerde yuva yapar. Tek başına üremekle birlikte, birkaç çiftin gevşek bir bağ kurarak bir arada ürediği de gözlenmiştir. Bazı alanlarda birçok çifti bulunur.\
 **Yuvası:** Açık arazide, sığ bir oyuğa yaptığı yuvasını bitkisel malzemeyle kaplar.\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı genellikle 4 (27 yuvada), ara sıra 3 (7 yuvada) ya da 2 (1 yuvada) olarak kaydedilmiştir. İki veya daha az yumurtalı kayıtlar, tamamlanmamış kuluçka olarak değerlendirilmiştir. Bir yuvada görülen beş yumurtayı muhtemelen aynı dişi yumurtlamıştır.\
 **Üreme dönemi:** Nisan başı ile haziran başında yumurta koyar, yavrular haziran başından itibaren görülür. **MAR:** 31 Mayıs 1967’de Manyas Gölü’nde iki yumurtalı bir yuva bulunmuş ve 11 Nisan 1967’de Uluabat Gölü’nde alanların kurulduğu gözlenmiştir. 17-24 Mayıs 1998’de aynı yerde üç çiftin kur davranışı sergilediği kaydedilmiş ancak üreme muhtemelen başarısız olmuştur [@welch1998b]. **EGE:** En erken kayıt, 30 Nisan 1975’te Bafa Gölü’nde bulunan iki yumurtalı tamamlanmamış bir kuluçkadır. Mayıs ayının ikinci yarısında yumurtalı beş yuva kaydedilmiş ve 26 Haziran 1999’da Akköy yakınlarında bulunan beş yumurtalı yuva en geç kayıttır. **AKD:** 3-7 Mayıs 1990’da Silifke ve Karataş yakınlarında dördü tamamlanmış durumda olan yumurtalı sekiz yuva bulunmuştur. Mayıs ayında birçok ve 17 Haziran 1992’de bir yumurta kaydı vardır. Haziran ayında çoğunlukla küçük yavru kaydedilmiş ve 9 Nisan civarında başlayan yumurtlamayı gösterecek şekilde 5 Mayıs'ta bir kayıt bulunmuştur. **İÇA:** En erken tamamlanmış kuluçka kaydı 7 Mayıs 1970’te elde edilmiştir. Mayıs ayında birkaç başka kayıt bulunmakla birlikte, 19 Haziran 1975’te geç bir kayıt olarak Seyfe Gölü’nde hala kuluçkada olan bir erişkin gözlenmiştir [@husband1984]. 5 Haziran 1992’de Eşmekaya’da küçük yavrular kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Geçmişte *Hoplopterus* cinsi altında değerlendirilmiştir.
 
-## Gri Başlı Kızkuşu
+# Gri Başlı Kızkuşu
 
 Vanellus cinereus, Grey-headed Lapwing
 
@@ -351,15 +351,15 @@ Vanellus cinereus, Grey-headed Lapwing
 
 ![](images/harita_Vanellus_cinereus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Üreme alanı Kuzedoğu Çin'dedir. Kışı Güneydoğu Asya'da geçirir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür.
 
-## Büyük Kızkuşu
+# Büyük Kızkuşu
 
 *Vanellus indicus*, Red-wattled Lapwing
 
@@ -373,18 +373,18 @@ Monotipik bir türdür.
 
 ![](images/harita_Vanellus%20indicus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Türkiye'de yuvası betimlenmemiştir. Yeri bir miktar kazarak yaptığı yuvasını hiç kaplamaz ya da bitki sapları ve yakındaki artıklarla seyrek biçimde kaplar.\
 **Yuvası:** Türkiye'deki yuvaların betimlemesi bulunmamaktadır.\
 **Yumurta sayısı:** Türkiye’deki yumurta sayısı bilinmemektedir. Ancak, başka bölgelerde olağan kuluçka büyüklüğü dört yumurtadır.\
 **Üreme dönemi:** Türkiye’deki ilk kayıt, 15 Haziran 1983'te ajite davranış sergileyen erişkinlere aittir. Ardından, 31 Mayıs 1984'te iki yavru, 18 Mayıs 1985'te üç yavrulu bir çift, 6 Mayıs 1986'da kuluçkada bir erişkin ve 7 Haziran 1987'de üç yavru kaydedilmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Ülkede *aigneri* alttürü bulunmaktadır, ancak bu tür içerisindeki varyasyon klinal bir yapı göstermektedir [@delhoyo1996]. Geçmişte *Hoplopterus* cinsi altında sınıflandırılmıştır.
 
-## Sürmeli Kızkuşu
+# Sürmeli Kızkuşu
 
 *Vanellus gregarius*, Sociable Lapwing
 
@@ -404,15 +404,15 @@ Türün eskiden Ukrayna'da üremiş olması, 19. yüzyılda Türkiye'de daha sı
 
 ![](images/harita_Vanellus%20gregarius.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Orta Asya'da yuvalar, kışı Sudan, Pakistan ve Hindistan'da geçirir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Geçmişte *Chettusia* cinsi altında değerlendirilmiştir.
 
-## Ak Kuyruklu Kızkuşu
+# Ak Kuyruklu Kızkuşu
 
 *Vanellus leucurus*, White-tailed Lapwing
 
@@ -438,18 +438,18 @@ Türkiye’deki ilk kayıt, Dalman koleksiyonundaki (Kudüs) bir çifte dayanmak
 
 ![](images/harita_Vanellus%20leucurus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Tatlı ya da tuzlu suların yanındaki açık sazlık alanlarda ve İç Anadolu'da göllerin yakınındaki nemli ve kısmen su basan bozkırlarda yuva yapar.\
 **Yuvası:** Açık alanlarda, sığ bir deliğe yaptığı yuvasını bitkisel malzemeyle kaplar.\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı genellikle 3 (2, ancak tamamlanmış kuluçka olup olmadığı kesin değildir) ve 4 (1 yuvada) olarak kaydedilmiştir. Diğer yerlerde olağan kuluçka büyüklüğü dört yumurtadır.\
 **Üreme dönemi:** Nisan sonundan itibaren üreme başlar. **AKD:** Lehman, Göksu Deltası’nda 27 Mayıs 1971’de üç yumurtalı bir yuva ile 29 Mayıs 1971’de başka bir yuva bulmuş ve 27 Temmuz 1971’de yeni tüylenmiş bir yavru gözlemiştir [@kasparek1992b]. 1997’de 12 Mayıs’tan 11 Haziran’a kadar kur ve territoryum davranışı yapan altı birey kaydedilmiştir. Çukurova’da, 1 Haziran 1971’de Berdan Nehri’nin taşkın alanlarında ürediği düşünülen bir çift ve üç yalnız birey gözlenmiştir [@kasparek1992b]. **İÇA:** Warncke, 3 Haziran 1971'de Yarma yakınlarında biri çiftleşen üç çift gözlemiş; 9 Haziran 1971'de 5-6 çift ve iki ile dört yumurtalı iki yuva bulmuştur. 11 Haziran 1971'de en az dokuz çift kaydetmiş ve yuvalardan birine üçüncü yumurta bırakıldığı gözlenmiştir. 23 Temmuz 1971'de alan kurumuş ve erişkinler dağılmıştır [@kasparek1992b]. 26-27 Ağustos 1974'te Hotamış'ta üç erişkin, 3-4 Haziran 1975'te bir çift ve yalnız bir birey gözlenmiştir. Ayrıca, üremeyi düşündüren huzursuz bir birey gözlenmiştir. Daha sonraki erişkin kayıtları şöyledir: 10 Mayıs 1977'de 1, 21 Mayıs 1984'te 1, 14 Haziran 1985'te 13, 24-25 Haziran 1985'te iki ve 6 Temmuz 1985'te alarm ötüşü yapan üç erişkin kaydedilmiş; bu bireylerin ürediği varsayılmıştır [@kasparek1992b]. 9 Temmuz 1996'da Sultansazlığı’nda muhtemelen üreyen iki erişkin kaydedilmiştir. Tuz Gölü’nün batısında Karatepe’de, 19 Mayıs 2000’de *Carex'*lerin bulunduğu bir alandaki yuvalarında ikisi düzensiz biçimde oturan altı erişkin gözlenmiştir. Ertesi sabah ikisi sürekli kuluçkada olan en az dokuz erişkin gözlenmiş ancak yuvalar incelenmemiştir [@brugiere2002]. **GDA:** 18 Mayıs 1992’de Birecik’te kur davranışı gözlenmiştir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Geçmişte *Chettusia* cinsi altında değerlendirilmiştir.
 
-## Doğu Cılıbıtı
+# Doğu Cılıbıtı
 
 *Anarhynchus asiaticus*, Caspian Plover
 
@@ -465,15 +465,15 @@ Diğer güncel kayıtlar şunlardır: 20 Nisan 2011'de Doğubayazıt Sazlıklar�
 
 ![](images/harita_Anarhynchus%20asiaticus.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz. Yuvalama alanı Orta Asya'dır. Kışı Doğu ve Güney Afrika'da geçirir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Monotipik bir türdür. Geçmişte *Charadrius* türü altında sınıflandırılmıştır.
 
-## Tibet Cılıbıtı
+# Tibet Cılıbıtı
 
 *Anarhynchus atrifrons*, Tibetan Sand-Plover
 
@@ -489,15 +489,15 @@ Türkiye ve Kıbrıs için iddia edilen önceki kayıtlar ayrıntılı bir şeki
 
 ![](images/harita_Anarhynchus%20atrifrons.png)
 
-**Üreme**
+### Üreme
 
 Türkiye'de yuvalamaz.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de görülen kuşun alttür sınıflandırılması yapılamamıştır. Geçmişte *Charadrius* türü altında sınıflandırılmıştır.
 
-## Büyük Cılıbıt
+# Büyük Cılıbıt
 
 *Anarhynchus leschenaultii*, Greater Sand-Plover
 
@@ -515,18 +515,18 @@ Tarımsal faaliyetlere bağlı habitat kaybı nedeniyle son 30 yılda üreyen n�
 
 ![](images/harita_Anarhynchus%20leschenaultii.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** Sudan uzakta geniş açıklık alanlar, çamur düzlükleri, bozkırlar ve sığ su çöküntülerinin bulunduğu ve kuruduğunda tuz tabakası oluşan çamurluklar. Aynı zamanda kısa, seyrek bitkilerin bulunduğu daha kuru çamurluk alanlarda ürer.\
 **Yuvası:** Yerde, açıkta ya da bir vejetasyon kümesinin yanında bir miktar kazarak yaptığı yuvasını çeşitli bitkisel artıkla [@lehmann1969] ya da küçük taşlarla ve birkaç bitki sapıyla kaplar [@ost1975].\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı 3 (36 yuvada), 2 (2 yuvada). Tamamlanmamış kuluçkalar nedeniyle iki yumurtalı yuvalar da kaydedilmiştir. Yavru sayısı: 1 (3 yuvada), 2 (3 yuvada), 3 (5 yuvada).\
 **Üreme dönemi**: Mart sonu ve nisan başı arasında yumurtlar, yavrular nisan sonunda çıkar. **İÇA.** Haziran 1971'de Karapınar Ovası'nda yumurtalı yedi yuva bulmuş [@lehmann1969]., 8 Mayıs 1968'de yavrulu üç kuluçka ve 3 Mayıs 1969'da birçok kuluçka kaydetmiştir; gözlenen yavruların büyüklüğünden ve toplanan yumurtaların kuluçka sürelerinden yumurtlamanın mart sonunda başladığını, ana yumurtlama döneminin de 1-20 Nisan olduğunu, ilk yavrunun yumurtadan çıkışının 20 Nisan civarında olduğunu hesaplamış ve mayıstaki kuluçkaları ikinci deneme olarak değerlendirmiştir. [@mcneile1950], hepsi 14-27 Nisan tarihleri arasında olmak üzere 1970, 1972 ve 1973 yıllarındaki üç ziyaretinde, kuluçka döneminin değişik aşamalarında olan yumurtalı 12 yuva bulmuştur. Bunlara, 16-17 Nisan 1970'te çatlamaya yakın iki ve üç yumurtalı kuluçkalar da dahildir. J. Whitaker, 26-27 Nisan 1988'de yumurtalı iki yuva, 5 Mayıs 1989'da bir yumurtalı bir yuva (8 Mayıs'ta bu yuvada 3 yumurta görülmüştür) ve 10 Mayıs 1990'da yumurtalı bir yuva bulmuştur . 20 Nisan 2004'te yeni yumurtadan çıkmış üç yavrulu bir yuva, 21 Nisan 2004'te iki yumurtalı (tamamlanmamış kuluçka) bir yuva bulunmuş ve aynı tarihte yumurtlamanın martın üçüncü haftasında başladığını gösterecek şekilde yaklaşık 5 günlük yavrular gözlenmiştir. 12-15 Mayıs 2004'te her biri üç yumurtalı üç yuva; 8 Mayıs 2006'da her biri üç yumurtalı üç yuva bulunmuş; 9 Mayıs 2005'te her biri üç yumurtalı dört yuva bulunmuş, iki yumurtalı başka bir yuvada yumurtlama henüz tamamlanmamıştır. İç Anadolu'da başka yerlerde, 4 Nisan 1981'de Bor yakınlarında kur uçuşu yapan dört kuş gözlenmiştir [@parr1981]. Bezirhane'de, 17 Haziran 1987'de üç yumurtalı bir yuva bulunmuştur ki bu en geç yumurtalı yuva kaydıdır, aynı gün üç genç gözlenmiştir. 17 Temmuz 1986'da aynı yerde, en az 13 genç kaydedilmiştir. Tuz Gölü çevresinde, 28 Mayıs 1967, 16 Mayıs 1969 [@lehmann1969] ve 20 Mayıs 1970'te yumurtalı yuvalar bulunmuş ve 21 Mayıs 1969'da bir kuluçkanın yavruları gözlenmiştir; Bolluk Gölü'nde, 26 Mayıs 1993'te üç yumurtalı bir yuva bulunmuş, 8 Mayıs 1993'te yaklaşık 2 haftalık bir yavru ve 26 Mayıs 1993'te tüylenmiş büyük bir yavru gözlenmiştir. Çöl Gölü'nde, 23 Nisan 1988'de, üç yumurtalı bir yuva bulunmuş ve 17 Temmuz 1986'da çoğu genç olan 16 kuş gözlenmiştir [@karauzkirac1993]. 5 Nisan 1971'de Hortu yakınlarında bulunan üç yumurtalı yuva Türkiye'deki en erken yumurtalı yuva kaydıdır. Sultansazlığı'nda, 21 Mayıs 1989'da üç yavrulu iki kuluçka, 26 Mayıs 1982'de iki yavrulu bir kuluçka [@kasparek1985], Haziranda yavrulu üç kuluçka; kuluçkaların ikisi 11 Mayıs 1967'de ve biri 6 Mayıs 1968'de Ayrancı'da gözlenmiştir [@lehmann1969]. 14/20 Mayıs 1970'te Konya'nın kuzeyinde küçük ve 14 günlük iki yavruda oluşan aile grubu ve 1 Haziran 1975'te İncesu yakınlarında iki yavrulu bir aile grubu kaydedilmiştir. 13 Haziran 1975'te Ereğli Sazlığı'nda ve 5 Temmuz 1979'da Hotamış'ta tüylenmiş yavrular gözlenmiştir. **AKD.** 20 Haziran 1989'da Göksu Deltası'nda küçük yavrulu iki çift kaydedilmiştir. **GDA.** 5-7 Haziran 1973'te Birecik'in kuzeyinde gözlenen iki erişkin ve yeni tüylenmiş genç bir birey muhtemelen lokal üremeyi göstermektedir. **DOA.** 7 Haziran 1994'te Iğdır ve Tuzluca arasındaki yüksek, düzlük ve çakıllı bozkırda bir dişinin yuvalıyor gibi davrandığı gözlenmiştir [@kirwan1994d]. Erçek Gölü'nde ürediği bildirilmiştir [@magninyarar1997]. Geç kayıtların ikinci kuluçka mı yoksa daha önceki başarısız deneme üzerine ikinci bir üreme çabası mı olduğu belli değildir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de *columbinus* alttürü görülür. Bu alttür genellikle daha küçük, kısa bacaklı ve küçük ve ince gagalıdır ve sıklıkla Tibet Cılıbıtı ile karıştırılır [@hirschfeld2000]. Geçmişte *Charadrius* türü altında sınıflandırılmıştır.
 
-## Akça Cılıbıt
+# Akça Cılıbıt
 
 *Anarhynchus alexandrinus*, Kentish Plover
 
@@ -536,7 +536,7 @@ Türkiye'de *columbinus* alttürü görülür. Bu alttür genellikle daha küç�
 
 </iframe>
 
-İç Anadolu, Ege ve Akdeniz bölgelerinde daha çok sayıda bulunur. En önemli üreme alanları Yumurtalık Lagünleri, Gediz Deltası, Acıgöl ve Tuz Gölü’dür. Daha az sayılarda ürediği Kızılırmak Deltası, Van Gölü havzası ve Marmara Bölgesi'nde ise daha lokal olarak kaydedilir. Çukurova'da 1987’de üreyen çift sayısının 2.000’den fazla olduğu tahmin edilmiştir [@have1988].Yumurtalık Lagünlerindeki popülasyonun 1.190 çifte kadar ulaştığı tahmin edilmişse de [@szekely1998], son yıllarda bu rakamların daha düşük olduğu düşünülmektedir. Benzer şekilde, 1995-96 yıllarında Gediz Deltası’ndaki üreyen popülasyonun 900-1000 çift arasında olduğu tahmin edilmiştir [@eken1997a], ancak son sayımlarda bu sayı 2006 yılında 214-253 çift olarak tespit edilmiştir[@onmus2011a].
+İç Anadolu, Ege ve Akdeniz bölgelerinde daha çok sayıda bulunur. En önemli üreme alanları Yumurtalık Lagünleri, Gediz Deltası, Acıgöl ve Tuz Gölü’dür. Daha az sayılarda ürediği Kızılırmak Deltası, Van Gölü havzası ve Marmara Bölgesi'nde ise daha lokal olarak kaydedilir. Çukurova'da 1987’de üreyen çift sayısının 2.000’den fazla olduğu tahmin edilmiştir [@have1988]. Yumurtalık Lagünlerindeki popülasyonun 1.190 çifte kadar ulaştığı tahmin edilmişse de [@szekely1998], son yıllarda bu rakamların daha düşük olduğu düşünülmektedir. Benzer şekilde, 1995-96 yıllarında Gediz Deltası’ndaki üreyen popülasyonun 900-1000 çift arasında olduğu tahmin edilmiştir [@eken1997a], ancak son sayımlarda bu sayı 2006 yılında 214-253 çift olarak tespit edilmiştir[@onmus2011a].
 
 Göç dönemlerinde ülke genelinde daha yaygın olarak ve yüksek sayılarda görülür. Ege ve Akdeniz’deki kışlayan popülasyonlar nedeniyle ilkbahar göçünün başlangıcını belirlemek zordur. Diğer bölgelerinde ilk kayıtlar martın ikinci haftasında başlar. Göçün en yoğun dönemi güney kıyılarında mart sonunda, diğer bölgelerde ise nisanın ilk yarısında gerçekleşir. Haziran başına kadar süren ilkbahar göçlerinde en yoğun geçişler bu dönemde gözlenir. Çukurova'da 1990 baharında, mart sonundan mayıs başına kadar akça cılıbıt popülasyonunun %70 oranında azaldığını görülmüştür [@kivit1994]. Bu çalışma kapsamında 27 Mart'ta sayılan toplam 4.745 birey, ülkemizde kayda geçen en büyük sayıyı temsil etmektedir. Sonbahar göçü temmuz ayında başlar, ancak çoğunluğu ağustos sonu ile eylül ortası arasında geçer ve kasım ayında da belirgin şekilde devam eder.
 
@@ -544,13 +544,13 @@ Ege ve Akdeniz bölgelerinde yüksek sayılarda kışlayan popülasyonlar bulunm
 
 ![](images/harita_Anarhynchus%20alexandrinus.png)
 
-**Üreme**
+### Üreme
 
 **Yuvalama alanı:** İç göllerin (özellikle tuzlu ya da acı) kıyılarında, tuzlu bataklıklarda, çamur düzlüklerinde, kumsallarda, iri çakıllık alanlarda ve kıyı bölgelerdeki lagünlerin kıyılarında vejetasyonun az olduğu çamurluk ya da kumluk açık alanlarda yuva yapar. Kocaçay Deltası’nda bir yuvanın saz kümesinin içine gizlendiği gözlenmiştir.\
 **Yuvası:** Yerde sığ bir çukura yapılan yuva, az miktarda bitkisel malzeme ile kaplanır ya da hiç malzeme kullanılmaz.\
 **Yumurta sayısı:** Türkiye’de gözlenen yumurta sayısı 3 (29 yuvada) ve 2 (1 yuvada) olup, 1-2 yumurtalı yuvaların tamamlanmamış kuluçkalar olduğu düşünülmektedir. Dört yumurtalı yuva kaydı bulunmamaktadır.\
 **Üreme dönemi:** Mart sonunda ve nisan başında yumurta bırakır, yavrular nisan sonundan itibaren yumurtadan çıkar ve haziran ayında uçmaya başlar. **MAR:** 26 Haziran 1999’da Kocaçay Deltası’nda çok sayıda yavru gözlenmiştir. 4 Haziran 2006’da aynı bölgede 3 yumurtalı bir yuva bulunmuş, 26 Haziran 1973’te Gülpınar’da 3 yavrulu bir çift kaydedilmiştir. **EGE:** İzmir yakınlarında 6 Mayıs 1899’da gözlenen yeni çıkmış yavru, yumurtlamanın 10 Nisan civarında başladığını göstermektedir [@selous1900]. **AKD:** Çukurova Deltası, Tuzla Gölü’nde mayıs sonu/haziran 2000’de yapılan gözlemlerde yumurtalarını gündüz yuva malzemesi ile örten ve geceleri kaldıran akça cılıbıtların bu davranışının amacı kesin değildir ancak yumurtaları predatörlerden koruma ya da sıcaklığı düzenleme amacı taşıdığı düşünülmektedir [@szentirmai2004]. 1996-97’de Tuzla Gölü’nde hektar başına 2-6 yuva kaydedilmiş ancak üreme başarısı düşüktür; 1997’de 82 yuvadan sadece 11’indeki yavrular yumurtadan çıkabilmiştir [@szekely1998]. 19 Nisan 1973 ve 21 Nisan 1974’te gözlenen yeni çıkmış yavrular, yumurtlamanın 22-24 Mart’ta başladığını göstermektedir. Nisan-mayısta yumurtalı 24 yuva ve mayıs-haziranda 17 yavru kaydedilmiştir. **KAR:** Kızılırmak Deltası’nda 7 Mayıs 1992’de gözlenen yavru, yumurtlamanın 11 Nisan civarında başladığını göstermektedir [@hustings1994]. **İÇA:** Karapınar’da 10 Nisan 1970’teki kayıt en erken, Kulu Gölü’nde 19 Haziran 1992’deki kayıt en geç olmak üzere 17 yuva kaydı bulunmaktadır. 21 Nisan 1967’de gözlenen yavru, yumurtlamanın mart sonunda başladığını göstermektedir. **DOA:** 28 Mayıs 1969’da Van yakınlarında bulunan 3 yumurtalı bir yuva ve üç kuluçka kaydı, yumurtlamanın mayıs başında başladığını göstermektedir. Üreme sezonunun uzun olduğu ve yılda iki kez kuluçkaya yatmanın olası olduğu düşünülmektedir.
 
-**Alttürler ve Sınıflandırma**
+### Alttürler ve Sınıflandırma
 
 Türkiye'de nominat alttürü bulunur. Geçmişte *Charadrius* türü altında sınıflandırılmıştır.
